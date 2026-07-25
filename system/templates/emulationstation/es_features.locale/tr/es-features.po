@@ -182,7 +182,7 @@ msgid "yes"
 msgstr "evet"
 
 msgctxt "game_options"
-msgid "adaptative"
+msgid "adaptive"
 msgstr "uyarlanabilir"
 
 msgctxt "game_options"
@@ -222,7 +222,7 @@ msgid "BLACK FRAMES INSERTION"
 msgstr "SİYAH KARELER EKLE"
 
 msgctxt "game_options"
-msgid "Usefull on some high refresh rate screen to eliminate ghosting."
+msgid "Useful on some high refresh rate screen to eliminate ghosting."
 msgstr "Gölgelenmeyi ortadan kaldırmak için bazı yüksek yenileme hızına sahip ekranlarda kullanılabilir."
 
 msgctxt "game_options"
@@ -806,7 +806,7 @@ msgid "VIDEO"
 msgstr "VİDEO"
 
 msgctxt "game_options"
-msgid "The driver 'vulkan' will generally offer better performance if hardware compatible. Some libretro cores will force the choosen driver."
+msgid "The driver 'vulkan' will generally offer better performance if hardware compatible. Some libretro cores will force the chosen driver."
 msgstr "Sürücü 'vulkan' genellikle donanım uyumluysa daha iyi performans sunacaktır. Bazı libretro çekirdekleri seçilen sürücüye zorlayacaktır."
 
 msgctxt "game_options"
@@ -1110,7 +1110,7 @@ msgid "SIO ACCELERATION"
 msgstr "SIO HIZLANDIRICI"
 
 msgctxt "game_options"
-msgid "Improve data transfert of emulated SIO port."
+msgid "Improve data transfer of emulated SIO port."
 msgstr "Taklit edilmiş SIO portunun veri aktarımını iyileştirin."
 
 msgctxt "game_options"
@@ -2026,7 +2026,7 @@ msgid "SOUNDBLASTER SETTINGS"
 msgstr "SOUNDBLASTER AYARLARI"
 
 msgctxt "game_options"
-msgid "Set the adress, interrupt, low 8 bit and high 16 bit DMA."
+msgid "Set the address, interrupt, low 8 bit and high 16 bit DMA."
 msgstr "Adres, kesme, düşük 8 bit ve yüksek 16 bit DMA ayarlayın."
 
 msgctxt "game_options"
@@ -2330,7 +2330,7 @@ msgid "CORE PERFORMANCE STATISTICS"
 msgstr "ÇEKİRDEK PERFORMANS İSTATİSTİKLERİ"
 
 msgctxt "game_options"
-msgid "Display different levels of informations about statistics of performance."
+msgid "Display different levels of information about statistics of performance."
 msgstr "Performans istatistikleri hakkında farklı seviyelerde bilgi görüntüleyin."
 
 msgctxt "game_options"
@@ -2826,7 +2826,7 @@ msgid "AUTO ROTATE"
 msgstr "OTOMATİK DÖNDÜR"
 
 msgctxt "game_options"
-msgid "Automaticaly rotate display for vertical games."
+msgid "Automatically rotate display for vertical games."
 msgstr "Dikey oyunlar için ekranı otomatik olarak döndürün."
 
 msgctxt "game_options"
@@ -2850,7 +2850,7 @@ msgid "CONTROL TYPE"
 msgstr "KONTROLCÜ TÜRÜ"
 
 msgctxt "game_options"
-msgid "Set default controler mapping."
+msgid "Set default controller mapping."
 msgstr "Varsayılan kontolcü eşlemesini ayarlayın."
 
 msgctxt "game_options"
@@ -2862,7 +2862,7 @@ msgid "PLAYER 1 CONTROLS"
 msgstr "OYUNCU 1 KONTROLCÜ"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 1."
+msgid "Set default controller mapping for player 1."
 msgstr "Oyuncu 1 için varsayılan kontrolcü eşlemesini ayarlayın."
 
 msgctxt "game_options"
@@ -2886,7 +2886,7 @@ msgid "PLAYER 2 CONTROLS"
 msgstr "OYUNCU 2 KONTROLCÜ"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 2."
+msgid "Set default controller mapping for player 2."
 msgstr "Oyuncu 2 için varsayılan kontrolcü eşlemesini ayarlayın."
 
 msgctxt "game_options"
@@ -3302,7 +3302,7 @@ msgid "NTSC US"
 msgstr "NTSC US"
 
 msgctxt "game_options"
-msgid "68K ADRESS ERROR"
+msgid "68K ADDRESS ERROR"
 msgstr "68K ADRES HATASI"
 
 msgctxt "game_options"
@@ -3422,7 +3422,7 @@ msgid "CD ADD-ON"
 msgstr "CD EKLENTİSİ"
 
 msgctxt "game_options"
-msgid "Specifies wich add-on to use for audio CD playback with patched MD games."
+msgid "Specifies which add-on to use for audio CD playback with patched MD games."
 msgstr "Yamalı MD oyunları ile ses CD oynatmak için kullanılacak eklentiyi belirtir."
 
 msgctxt "game_options"
@@ -3722,7 +3722,7 @@ msgid "HIDE CROSSHAIR"
 msgstr "NİŞANGAHI GİZLE"
 
 msgctxt "game_options"
-msgid "Hide in-game crosshair (game dependant)."
+msgid "Hide in-game crosshair (game dependent)."
 msgstr "Oyun içi nişangahı gizle (oyuna bağlı)."
 
 msgctxt "game_options"
@@ -7794,7 +7794,7 @@ msgid "FORCE ORIGINAL RESOLUTION"
 msgstr "ORİJİNAL ÇÖZÜNÜRLÜĞÜ ZORLA"
 
 msgctxt "game_options"
-msgid "Usefull when using resolution higher than the screen. Avoid moiré effect."
+msgid "Useful when using resolution higher than the screen. Avoid moiré effect."
 msgstr "Ekrandan daha yüksek çözünürlük kullanıldığında kullanışlıdır. Moiré efektinden kaçının."
 
 msgctxt "game_options"
@@ -7810,11 +7810,11 @@ msgid "PERSPECTIVE CORRECTION"
 msgstr "PERSPEKTİF DÜZELTMESİ"
 
 msgctxt "game_options"
-msgid "GPU TESSELATION"
+msgid "GPU TESSELLATION"
 msgstr ""
 
 msgctxt "game_options"
-msgid "CPU TESSELATION"
+msgid "CPU TESSELLATION"
 msgstr ""
 
 msgctxt "game_options"
@@ -11970,7 +11970,7 @@ msgid "Disable fog effects."
 msgstr "Sis efektlerini devre dışı bırak."
 
 msgctxt "game_options"
-msgid "Upscale textures with xBRZ algorythm, only on some 2D games and on fast computers."
+msgid "Upscale textures with xBRZ algorithm, only on some 2D games and on fast computers."
 msgstr "Sadece bazı 2D oyunlarda ve hızlı bilgisayarlarda xBRZ algoritmasıyla dokuları yükseltin."
 
 msgctxt "game_options"
@@ -12438,7 +12438,7 @@ msgid "HORIZONTAL BLUR (3px)"
 msgstr ""
 
 msgctxt "game_options"
-msgid "HORIZONTAL BLUR (Snes adaptative)"
+msgid "HORIZONTAL BLUR (Snes adaptive)"
 msgstr ""
 
 msgctxt "game_options"
@@ -14082,7 +14082,7 @@ msgid "Suomi"
 msgstr "Suomi"
 
 msgctxt "game_options"
-msgid "Portugues do Brasil"
+msgid "Portuguese do Brasil"
 msgstr "Brezilya Portekizcesi"
 
 msgctxt "game_options"
@@ -14098,7 +14098,7 @@ msgid "English(UK) (jak1)/ Korean (jak2)"
 msgstr "İngilizce(UK) (jak1)/ Korece (jak2)"
 
 msgctxt "game_options"
-msgid "Portugues (jak1) / English(UK) (jak2)"
+msgid "Portuguese (jak1) / English(UK) (jak2)"
 msgstr "Portekizce (jak1) / İngilizce(UK) (jak2)"
 
 msgctxt "game_options"
@@ -14106,11 +14106,11 @@ msgid "UPSCALE RATIO"
 msgstr "YÜKSELTME ORANI"
 
 msgctxt "game_options"
-msgid "UPSCALE ALGORYTHM"
+msgid "UPSCALE ALGORITHM"
 msgstr "YÜKSELTME ALGORİTMASI"
 
 msgctxt "game_options"
-msgid "Select the algorythm used for upscaling."
+msgid "Select the algorithm used for upscaling."
 msgstr "Yükseltme için kullanılan algoritmayı seçin."
 
 msgctxt "game_options"
@@ -14482,7 +14482,7 @@ msgid "CONTRAST ADAPTATIVE SHARPENING"
 msgstr "UYARLAMALI KESKİNLEŞTİRME KONTRASTI"
 
 msgctxt "game_options"
-msgid "Enable FidelityFX contrast adaptative sharpening."
+msgid "Enable FidelityFX contrast adaptive sharpening."
 msgstr "FidelityFX kontrast uyarlamalı keskinleştirmeyi etkinleştirin."
 
 msgctxt "game_options"
@@ -14530,7 +14530,7 @@ msgid "MANUAL RENDERER FIXES"
 msgstr "SEÇİLEBİLİR İŞLEYİCİ DÜZELTMELERİ"
 
 msgctxt "game_options"
-msgid "Enable manual hacks below, otherwise hacks will be apllied automatically."
+msgid "Enable manual hacks below, otherwise hacks will be applied automatically."
 msgstr "Aşağıdaki geliştirmeleri etkinleştirin, aksi takdirde geliştirmeler otomatik uygulanacaktır."
 
 msgctxt "game_options"
@@ -14574,7 +14574,7 @@ msgid "SPECIAL (TEXTURE)"
 msgstr "ÖZEL (DOKU)"
 
 msgctxt "game_options"
-msgid "SPECIAL (TEXTURE AGRESSIVE)"
+msgid "SPECIAL (TEXTURE AGGRESSIVE)"
 msgstr "ÖZEL (AGRASİF DOKU)"
 
 msgctxt "game_options"
@@ -14670,7 +14670,7 @@ msgid "When selecting 'MANUAL', specify an address in the next setting."
 msgstr ""
 
 msgctxt "game_options"
-msgid "MANUAL ADRESS"
+msgid "MANUAL ADDRESS"
 msgstr ""
 
 msgctxt "game_options"
@@ -15046,7 +15046,7 @@ msgid "Controls the number of Auto-CRC fixes and hacks applied to games."
 msgstr ""
 
 msgctxt "game_options"
-msgid "AGRESSIVE"
+msgid "AGGRESSIVE"
 msgstr "AGRASİF"
 
 msgctxt "game_options"
@@ -15182,7 +15182,7 @@ msgid "ORIGINAL SIZE"
 msgstr "ORJİNAL BOYUT"
 
 msgctxt "game_options"
-msgid "Portugues"
+msgid "Portuguese"
 msgstr "Portekizce"
 
 msgctxt "game_options"
@@ -15486,7 +15486,7 @@ msgid "CD MUSIC VOLUME"
 msgstr "CD MÜZİK SEVİYESİ"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the music track."
+msgid "Adjusts the volume of the music track."
 msgstr "Müzik parçasının ses seviyesini ayarlar."
 
 msgctxt "game_options"
@@ -15498,7 +15498,7 @@ msgid "CD SFX VOLUME"
 msgstr "CD SFX SEVİYESİ"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the sound effects."
+msgid "Adjusts the volume of the sound effects."
 msgstr "Ses efektlerinin ses seviyesini ayarlar."
 
 msgctxt "game_options"

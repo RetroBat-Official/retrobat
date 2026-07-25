@@ -126,7 +126,7 @@ msgid "yes"
 msgstr "sì"
 
 msgctxt "game_options"
-msgid "adaptative"
+msgid "adaptive"
 msgstr "adattivo"
 
 msgctxt "game_options"
@@ -166,7 +166,7 @@ msgid "BLACK FRAMES INSERTION"
 msgstr "INSERIMENTO FOTOGRAMMI NERI"
 
 msgctxt "game_options"
-msgid "Usefull on some high refresh rate screen to eliminate ghosting."
+msgid "Useful on some high refresh rate screen to eliminate ghosting."
 msgstr "Utile in alcuni schermi ad alto refresh rate per eliminare il ghosting."
 
 msgctxt "game_options"
@@ -198,7 +198,7 @@ msgid "HIDE CROSSHAIR"
 msgstr "NASCONDI MIRINO"
 
 msgctxt "game_options"
-msgid "Hide in-game crosshair (game dependant)."
+msgid "Hide in-game crosshair (game dependent)."
 msgstr "Nasconde il mirino del gioco (dipende dal gioco)."
 
 msgctxt "game_options"
@@ -494,7 +494,7 @@ msgid "DRAW STATISTICS"
 msgstr "STATISTICHE DI PERFORMANCE"
 
 msgctxt "game_options"
-msgid "Display different levels of informations about statistics of performance."
+msgid "Display different levels of information about statistics of performance."
 msgstr "Mostra livelli differenti di informaizoni sulle statistiche di performance."
 
 msgctxt "game_options"
@@ -658,7 +658,7 @@ msgid "VIDEO"
 msgstr ""
 
 msgctxt "game_options"
-msgid "The driver 'vulkan' will generally offer better performance if hardware compatible. Some libretro cores will force the choosen driver."
+msgid "The driver 'vulkan' will generally offer better performance if hardware compatible. Some libretro cores will force the chosen driver."
 msgstr "I driver 'vulkan' offrono generalmente prestazioni migliori se compatibili con l'hardware. Alcuni core libretro forzeranno il driver scelto."
 
 msgctxt "game_options"
@@ -774,7 +774,7 @@ msgid "SIO ACCELERATION"
 msgstr "ACCELERAZIONE SIO"
 
 msgctxt "game_options"
-msgid "Improve data transfert of emulated SIO port."
+msgid "Improve data transfer of emulated SIO port."
 msgstr "Migliora il trasferimento dei dati della porta SIO emulata."
 
 msgctxt "game_options"
@@ -886,7 +886,7 @@ msgid "COMPILE SHADERS BEFORE STARTING"
 msgstr "COMPILA GLI SHADER PRIMA DI INIZIARE"
 
 msgctxt "game_options"
-msgid "May reduce stuttering a the cost of longuer delay to start a game."
+msgid "May reduce stuttering a the cost of longer delay to start a game."
 msgstr "Può ridurre lo stuttering al costo di un tempo maggiore per far partire il gioco."
 
 msgctxt "game_options"
@@ -894,7 +894,7 @@ msgid "SHADERS COMPILATION METHOD"
 msgstr "MODALITÀ DI COMPILAZIONE SHADER"
 
 msgctxt "game_options"
-msgid "Reduce stuttering a the cost of much longuer delay to start a game and high GPU usage."
+msgid "Reduce stuttering a the cost of much longer delay to start a game and high GPU usage."
 msgstr "Riduce lo stuttering al costo di un tempo molto maggiore prima di inizare il gioco e un utilizzo più alto della CPU."
 
 msgctxt "game_options"
@@ -1198,7 +1198,7 @@ msgid "SOUNDBLASTER SETTINGS"
 msgstr "IMPOSTAZIONI SOUNDBLASTER"
 
 msgctxt "game_options"
-msgid "Set the adress, interrupt, low 8 bit and high 16 bit DMA."
+msgid "Set the address, interrupt, low 8 bit and high 16 bit DMA."
 msgstr "Imposta l'indirizzo, l'interrupt, il DMA a 8 bit e a 16 bit."
 
 msgctxt "game_options"
@@ -1670,7 +1670,7 @@ msgid "AUTO ROTATE"
 msgstr "ROTAZIONE AUTOMATICA"
 
 msgctxt "game_options"
-msgid "Automaticaly rotate display for vertical games."
+msgid "Automatically rotate display for vertical games."
 msgstr "Ruota automaticamente il display per i giochi verticali."
 
 msgctxt "game_options"
@@ -1710,7 +1710,7 @@ msgid "CONTROLS TYPE"
 msgstr "TIPO DI CONTROLLI"
 
 msgctxt "game_options"
-msgid "Set default controler mapping."
+msgid "Set default controller mapping."
 msgstr "Imposta il mapping di default del controller."
 
 msgctxt "game_options"
@@ -1726,7 +1726,7 @@ msgid "PLAYER 1 CONTROLS"
 msgstr "CONTROLLI GIOCATORE 1"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 1."
+msgid "Set default controller mapping for player 1."
 msgstr "Imposta il mapping di default del controller per il giocatore 1."
 
 msgctxt "game_options"
@@ -1750,7 +1750,7 @@ msgid "PLAYER 2 CONTROLS"
 msgstr "CONTROLLI GIOCATORE 2"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 2."
+msgid "Set default controller mapping for player 2."
 msgstr "Imposta il mapping di default del controller per il giocatore 2."
 
 msgctxt "game_options"
@@ -1950,7 +1950,7 @@ msgid "S-VIDEO"
 msgstr ""
 
 msgctxt "game_options"
-msgid "68K ADRESS ERROR"
+msgid "68K ADDRESS ERROR"
 msgstr "ERRORE DI INDIRIZZO 68K"
 
 msgctxt "game_options"
@@ -2054,7 +2054,7 @@ msgid "CD ADD-ON"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Specifies wich add-on to use for audio CD playback with patched MD games."
+msgid "Specifies which add-on to use for audio CD playback with patched MD games."
 msgstr "Specifica quale componente aggiuntivo utilizzare per la riproduzione di CD audio con giochi MD patchati."
 
 msgctxt "game_options"
@@ -2770,7 +2770,7 @@ msgid "OVERLAY SHOW MOUSE CURSOR"
 msgstr "MOSTRA IN SOVRAIMPRESSIONE IL CURSORE DEL MOUSE"
 
 msgctxt "game_options"
-msgid "PLAYER 1 CONTROLER DEVICE"
+msgid "PLAYER 1 CONTROLLER DEVICE"
 msgstr "DISPOSITIVO DI CONTROLLO GIOCATORE 1"
 
 msgctxt "game_options"
@@ -2778,7 +2778,7 @@ msgid "zapper"
 msgstr ""
 
 msgctxt "game_options"
-msgid "PLAYER 2 CONTROLER DEVICE"
+msgid "PLAYER 2 CONTROLLER DEVICE"
 msgstr "DISPOSITIVO DI CONTROLLO GIOCATORE 2"
 
 msgctxt "game_options"
@@ -3526,7 +3526,7 @@ msgid "FORCE ORIGINAL RESOLUTION"
 msgstr "FORZA RISOLUZIONE ORIGINALE"
 
 msgctxt "game_options"
-msgid "Usefull when using resolution higher than the screen. Avoid moiré effect."
+msgid "Useful when using resolution higher than the screen. Avoid moiré effect."
 msgstr "Utilizzabile quando si utilizza una risoluzione superiore a quella dello schermo. Evita l'effetto moiré."
 
 msgctxt "game_options"
@@ -3538,11 +3538,11 @@ msgid "Select method for applying textures on polygon."
 msgstr "Selezionare il metodo per applicare le texture ai poligoni."
 
 msgctxt "game_options"
-msgid "GPU TESSELATION"
+msgid "GPU TESSELLATION"
 msgstr "TESSELATION DELLA GPU"
 
 msgctxt "game_options"
-msgid "CPU TESSELATION"
+msgid "CPU TESSELLATION"
 msgstr "TESSELATION DELLA CPU"
 
 msgctxt "game_options"
@@ -4578,7 +4578,7 @@ msgid "SHOW FPS"
 msgstr "MOSTRA FPS"
 
 msgctxt "game_options"
-msgid "Shows the number of frames redered per seconds as a measure of emulation speed."
+msgid "Shows the number of frames rendered per seconds as a measure of emulation speed."
 msgstr "Mostra il numero di fotogrammi riprodotti al secondo come misura della velocità dell'emulazione."
 
 msgctxt "game_options"
@@ -4942,7 +4942,7 @@ msgid "Controls the number of Auto-CRC fixes and hacks applied to games."
 msgstr "Controlla il numero di correzioni e hack Auto-CRC applicati ai giochi."
 
 msgctxt "game_options"
-msgid "AGRESSIVE"
+msgid "AGGRESSIVE"
 msgstr "AGGRESSIVO"
 
 msgctxt "game_options"
@@ -4950,7 +4950,7 @@ msgid "MANUAL RENDERER FIXES"
 msgstr "CORREZIONI RENDERER MANUALI"
 
 msgctxt "game_options"
-msgid "Enable manual hacks below, otherwise hacks will be apllied automatically."
+msgid "Enable manual hacks below, otherwise hacks will be applied automatically."
 msgstr "Abilita gli hack manuali qui sotto, in caso contrario gli hack verranno applicati automaticamente."
 
 msgctxt "game_options"
@@ -5010,7 +5010,7 @@ msgid "SPECIAL (TEXTURE)"
 msgstr "SPECIALE (TEXTURE)"
 
 msgctxt "game_options"
-msgid "SPECIAL (TEXTURE AGRESSIVE)"
+msgid "SPECIAL (TEXTURE AGGRESSIVE)"
 msgstr "SPECIALE (TEXTURE AGRESSIVO)"
 
 msgctxt "game_options"
@@ -5442,7 +5442,7 @@ msgid "CD MUSIC VOLUME"
 msgstr "VOLUME MUSICA CD"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the music track."
+msgid "Adjusts the volume of the music track."
 msgstr "Regola il volume del brano musicale."
 
 msgctxt "game_options"
@@ -5454,7 +5454,7 @@ msgid "CD SFX VOLUME"
 msgstr "VOLUME EFFETTI CD"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the sound effects."
+msgid "Adjusts the volume of the sound effects."
 msgstr "Regola il volume degli effetti sonori."
 
 msgctxt "game_options"

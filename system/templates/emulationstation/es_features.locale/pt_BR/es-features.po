@@ -790,7 +790,7 @@ msgid "yes"
 msgstr ""
 
 msgctxt "game_options"
-msgid "adaptative"
+msgid "adaptive"
 msgstr ""
 
 msgctxt "game_options"
@@ -830,7 +830,7 @@ msgid "BLACK FRAMES INSERTION"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Usefull on some high refresh rate screen to eliminate ghosting."
+msgid "Useful on some high refresh rate screen to eliminate ghosting."
 msgstr ""
 
 msgctxt "game_options"
@@ -862,7 +862,7 @@ msgid "HIDE CROSSHAIR"
 msgstr "OCULTAR MIRA"
 
 msgctxt "game_options"
-msgid "Hide in-game crosshair (game dependant)."
+msgid "Hide in-game crosshair (game dependent)."
 msgstr "Ocultar a mira do jogo (depende do jogo)."
 
 msgctxt "game_options"
@@ -1246,7 +1246,7 @@ msgid "EMULATION"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Improve data transfert of emulated SIO port."
+msgid "Improve data transfer of emulated SIO port."
 msgstr ""
 
 msgctxt "game_options"
@@ -1346,7 +1346,7 @@ msgid "COMPILE SHADERS BEFORE STARTING"
 msgstr ""
 
 msgctxt "game_options"
-msgid "May reduce stuttering a the cost of longuer delay to start a game."
+msgid "May reduce stuttering a the cost of longer delay to start a game."
 msgstr ""
 
 msgctxt "game_options"
@@ -1354,7 +1354,7 @@ msgid "SHADERS COMPILATION METHOD"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Reduce stuttering a the cost of much longuer delay to start a game and high GPU usage."
+msgid "Reduce stuttering a the cost of much longer delay to start a game and high GPU usage."
 msgstr ""
 
 msgctxt "game_options"
@@ -1614,7 +1614,7 @@ msgid "SOUNDBLASTER SETTINGS"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Set the adress, interrupt, low 8 bit and high 16 bit DMA."
+msgid "Set the address, interrupt, low 8 bit and high 16 bit DMA."
 msgstr ""
 
 msgctxt "game_options"
@@ -2002,7 +2002,7 @@ msgid "AUTO ROTATE"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Automaticaly rotate display for vertical games."
+msgid "Automatically rotate display for vertical games."
 msgstr ""
 
 msgctxt "game_options"
@@ -2038,7 +2038,7 @@ msgid "CONTROLS TYPE"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Set default controler mapping."
+msgid "Set default controller mapping."
 msgstr ""
 
 msgctxt "game_options"
@@ -2054,7 +2054,7 @@ msgid "PLAYER 1 CONTROLS"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 1."
+msgid "Set default controller mapping for player 1."
 msgstr ""
 
 msgctxt "game_options"
@@ -2078,7 +2078,7 @@ msgid "PLAYER 2 CONTROLS"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 2."
+msgid "Set default controller mapping for player 2."
 msgstr ""
 
 msgctxt "game_options"
@@ -2262,7 +2262,7 @@ msgid "S-VIDEO"
 msgstr ""
 
 msgctxt "game_options"
-msgid "68K ADRESS ERROR"
+msgid "68K ADDRESS ERROR"
 msgstr ""
 
 msgctxt "game_options"
@@ -2350,7 +2350,7 @@ msgid "NUKED (YM3438)"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Specifies wich add-on to use for audio CD playback with patched MD games."
+msgid "Specifies which add-on to use for audio CD playback with patched MD games."
 msgstr ""
 
 msgctxt "game_options"
@@ -2834,7 +2834,7 @@ msgid "OVERLAY SHOW MOUSE CURSOR"
 msgstr ""
 
 msgctxt "game_options"
-msgid "PLAYER 1 CONTROLER DEVICE"
+msgid "PLAYER 1 CONTROLLER DEVICE"
 msgstr ""
 
 msgctxt "game_options"
@@ -2842,7 +2842,7 @@ msgid "zapper"
 msgstr ""
 
 msgctxt "game_options"
-msgid "PLAYER 2 CONTROLER DEVICE"
+msgid "PLAYER 2 CONTROLLER DEVICE"
 msgstr ""
 
 msgctxt "game_options"
@@ -3230,7 +3230,7 @@ msgid "FORCE ORIGINAL RESOLUTION"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Usefull when using resolution higher than the screen. Avoid moiré effect."
+msgid "Useful when using resolution higher than the screen. Avoid moiré effect."
 msgstr ""
 
 msgctxt "game_options"
@@ -3242,11 +3242,11 @@ msgid "Select method for applying textures on polygon."
 msgstr ""
 
 msgctxt "game_options"
-msgid "GPU TESSELATION"
+msgid "GPU TESSELLATION"
 msgstr ""
 
 msgctxt "game_options"
-msgid "CPU TESSELATION"
+msgid "CPU TESSELLATION"
 msgstr ""
 
 msgctxt "game_options"
@@ -3790,7 +3790,7 @@ msgid "CD MUSIC VOLUME"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the music track."
+msgid "Adjusts the volume of the music track."
 msgstr ""
 
 msgctxt "game_options"
@@ -3802,7 +3802,7 @@ msgid "CD SFX VOLUME"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the sound effects."
+msgid "Adjusts the volume of the sound effects."
 msgstr ""
 
 msgctxt "game_options"
@@ -3990,7 +3990,7 @@ msgid "SPECIAL (TEXTURE)"
 msgstr ""
 
 msgctxt "game_options"
-msgid "SPECIAL (TEXTURE AGRESSIVE)"
+msgid "SPECIAL (TEXTURE AGGRESSIVE)"
 msgstr ""
 
 msgctxt "game_options"
@@ -4062,7 +4062,7 @@ msgid "Controls the number of Auto-CRC fixes and hacks applied to games."
 msgstr ""
 
 msgctxt "game_options"
-msgid "AGRESSIVE"
+msgid "AGGRESSIVE"
 msgstr ""
 
 msgctxt "game_options"
@@ -4142,7 +4142,7 @@ msgid "Set the button position convention."
 msgstr ""
 
 msgctxt "game_options"
-msgid "ORGINAL"
+msgid "ORIGINAL"
 msgstr ""
 
 msgctxt "game_options"
@@ -4154,7 +4154,7 @@ msgid "SHOW FPS"
 msgstr ""
 
 msgctxt "game_options"
-msgid "Shows the number of frames redered per seconds as a measure of emulation speed."
+msgid "Shows the number of frames rendered per seconds as a measure of emulation speed."
 msgstr ""
 
 msgctxt "game_options"
