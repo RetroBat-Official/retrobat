@@ -13,7 +13,6 @@
 # - ryujinx (to replace GUID)
 # - simple64 (to replace name)
 # - sudachi (to replace GUID)
-# - suyu (to replace GUID)
 # - teknoparrot (to replace BindName of mouse/keyboards/guns)
 # - yuzu (to replace GUID)
 # --------------------------------------------------------------------------------------
@@ -49,15 +48,11 @@
     guid: 030000005e0400008e02000014017801
   sudachi:
     guid: 030000005e0400008e02000014017801
-  suyu:
-    guid: 030000005e0400008e02000014017801
 03000000c82d00000631000000007200:
   name: 8BitDo Ultimate 2.4Ghz
   citron:
     guid: 03000000c82d00000631000014017801
   sudachi:
-    guid: 03000000c82d00000631000014017801
-  suyu:
     guid: 03000000c82d00000631000014017801
 030000005e040000130b000009057200:
   name: Microsoft Xbox Series X Controller

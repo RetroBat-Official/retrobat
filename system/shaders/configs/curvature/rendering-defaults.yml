@@ -16,7 +16,6 @@ default:
   scummvm: GeomCRT@CRTGeom.fx
   simcoupe: GeomCRT@CRTGeom.fx
   demul: GeomCRT@CRTGeom.fx
-  demul-old: GeomCRT@CRTGeom.fx
   bigpemu: GeomCRT@CRTGeom.fx
   phoenix: GeomCRT@CRTGeom.fx
   solarus: GeomCRT@CRTGeom.fx

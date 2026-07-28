@@ -17,8 +17,6 @@
   <neveroverwrite path="emulators\citron\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\cxbx-reloaded\settings.ini"/>
   <neveroverwrite path="emulators\daphne\config.xml"/>
-  <neveroverwrite path="emulators\demul-old\Demul.ini"/>
-  <neveroverwrite path="emulators\demul-old\gpuDX11old.ini"/>
   <neveroverwrite path="emulators\demul\Demul.ini"/>
   <neveroverwrite path="emulators\demul\gpuDX11.ini"/>
   <neveroverwrite path="emulators\desmume\desmume.ini"/>
