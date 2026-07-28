@@ -19,7 +19,6 @@ default:
   demul: HQ4X@HQ4X.fx
   phoenix: HQ4X@HQ4X.fx
   bigpemu: HQ4X@HQ4X.fx
-  demul: HQ4X@HQ4X.fx
   solarus: HQ4X@HQ4X.fx
   redream: HQ4X@HQ4X.fx
   raine: HQ4X@HQ4X.fx
