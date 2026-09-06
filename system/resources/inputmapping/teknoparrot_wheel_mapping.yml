@@ -508,6 +508,18 @@ harley:
   Analog2: steer # Wheel Axis Right
   Analog6: brake # Brake
 
+hogwild:
+  Test: test  # Test
+  Service1: service  # Service
+  Coin1: coin  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: gas # Accel
+  P1Button2: brake  # Brake
+  P1Button3: gearup  # Gear High
+  P1Button4: geardown  # Gear Low
+  P1Button5: north  # View
+  Analog0: steer  # Wheel Axis Right
+
 hummer:
   Test: test # Test
   Service1: service # Service
@@ -1273,6 +1285,18 @@ showdown:
   Analog0: steer # Wheel Axis Right
   Analog2: gas # Gas
   Analog4: brake # Brake
+  
+thrild2a:
+  Test: test  # Test
+  Service1: service  # Service
+  Coin1: coin  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: gearup  # Shift Up
+  P1Button2: geardown  # Shift Down
+  P1Button3: handbrake  # Handbrake
+  Analog0: steer  # Wheel Axis Right
+  Analog2: gas  # Gas
+  Analog4: brake  # Brake
 
 snocross:
   Test: test # Test
