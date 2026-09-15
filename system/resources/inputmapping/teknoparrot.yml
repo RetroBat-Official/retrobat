@@ -64,6 +64,21 @@ actiondeka:
   P3LightGun:   # P1 Drive Steering Axis
   P4LightGun:   # P2 Drive Steering Axis
 
+aircomb:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickright  # Stick X Right
+  Analog2: leftstickdown  # Stick Y Down
+  Analog4: rightstickright  # Rudder Right
+
 borderbreakscramble:
   Test: l3 # Test
   Service1: r3 # Service
@@ -517,6 +532,313 @@ zoidsinf:
   ExtensionOne3:   # Rockets Trigger
   ExtensionOne4:   # Cannon Ammo Reload
   Service2:   # Service 2
+  
+############### ACTION ATARI VEGAS / VOODOO 2 ###############
+
+gauntdl:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Button 1
+  JvsTwoP1Button2: east  # Player 3 Button 2
+  JvsTwoP1Button3: west  # Player 3 Button 3
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Button 1
+  JvsTwoP2Button2: east  # Player 4 Button 2
+  JvsTwoP2Button3: west  # Player 4 Button 3
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+warfa:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Jump
+  P1Button2: east  # Trigger / Fire
+  P1Button3: west  # Discard Weapon
+  P1Button4: north  # View
+  P1ButtonUp: up  # Move Forward
+  P1ButtonDown: down  # Move Backward
+  P1ButtonLeft: left  # Strafe Left
+  P1ButtonRight: right  # Strafe Right
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+############### ACTION NAMCO SUPER SYSTEM 22 ###############
+
+adillor:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+airco22b:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+alpinerd:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+alpines:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+alpinr2b:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+propcycl:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Pedaling Speed
+
+tokyowar:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: leftstickup  # Gas
+  Analog4: rightstickleft  # Brake
+
+############### ACTION NAMCO SYSTEM 21 ###############
+
+cybsled:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickleft  # Left Stick X Right
+  Analog2: leftstickup  # Left Stick Y Down
+  Analog4: rightstickleft  # Right Stick X Right
+  Analog6: rightstickup  # Right Stick Y Down
+
+############### ACTION NAMCO SYSTEM 22 ###############
+
+cybrcomm:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+############### ACTION NAMCO SYSTEM 246 ###############
+
+qgundam:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Player 1 Button 4
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2Button4: north  # Player 2 Button 4
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### ACTION SEGA MODEL 2 ###############
+
+airwlkrs:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Button 1
+  P1Button2: east  # P1 Button 2
+  P1Button3: west  # P1 Button 3
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Button 1
+  P2Button2: east  # P2 Button 2
+  P2Button3: west  # P2 Button 3
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+  JvsTwoP1ButtonStart: start  # P3 Start
+  JvsTwoP1Button1: south  # P3 Button 1
+  JvsTwoP1Button2: east  # P3 Button 2
+  JvsTwoP1Button3: west  # P3 Button 3
+  JvsTwoP1ButtonUp: up  # P3 Up
+  JvsTwoP1ButtonDown: down  # P3 Down
+  JvsTwoP1ButtonLeft: left  # P3 Left
+  JvsTwoP1ButtonRight: right  # P3 Right
+  JvsTwoP2ButtonStart: start  # P4 Start
+  JvsTwoP2Button1: south  # P4 Button 1
+  JvsTwoP2Button2: east  # P4 Button 2
+  JvsTwoP2Button3: west  # P4 Button 3
+  JvsTwoP2ButtonUp: up  # P4 Up
+  JvsTwoP2ButtonDown: down  # P4 Down
+  JvsTwoP2ButtonLeft: left  # P4 Left
+  JvsTwoP2ButtonRight: right  # P4 Right
+  JvsTwoCoin1: select  # P3 Coin
+  JvsTwoCoin2: select  # P4 Coin
+
+dynamcop:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Punch
+  P1Button2: east  # P1 Kick
+  P1Button3: west  # P1 Jump
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Punch
+  P2Button2: east  # P2 Kick
+  P2Button3: west  # P2 Jump
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+rascot2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Button 1
+  P1Button2: east  # P1 Button 2
+  P1Button3: west  # P1 Button 3
+  P1Button4: north  # P1 Button 4
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Button 1
+  P2Button2: east  # P2 Button 2
+  P2Button3: west  # P2 Button 3
+  P2Button4: north  # P2 Button 4
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
 
 ############### ARCADE ###############
 
@@ -3614,6 +3936,407 @@ yatagarasu:
   ExtensionOne17:   # Insert Card (P1)
   Service2:   # Service 2
 
+############### FIGHTING ATARI SEATTLE ###############
+
+mace:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1Button4: east  # Player 1 Button 4
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2Button4: east  # Player 2 Button 4
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING KONAMI COBRA ###############
+
+bujutsu:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Punch
+  P1Button2: north  # Player 1 Kick
+  P1Button4: east  # Player 1 Guard
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Punch
+  P2Button2: north  # Player 2 Kick
+  P2Button4: east  # Player 2 Guard
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING KONAMI M2 ###############
+
+btltryst:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING MIDWAY V UNIT PLUS ###############
+
+wargods:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 High Kick
+  P1Button2: north  # Player 1 High Punch
+  P1Button3: south  # Player 1 Block
+  P1Button4: east  # Player 1 Low Kick
+  P1Button5: rightshoulder  # Player 1 Low Punch
+  P1Button6: leftshoulder  # Player 1 Run
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 High Kick
+  P2Button2: north  # Player 2 High Punch
+  P2Button3: south  # Player 2 Block
+  P2Button4: east  # Player 2 Low Kick
+  P2Button5: rightshoulder  # Player 2 Low Punch
+  P2Button6: leftshoulder  # Player 2 Run
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING MIDWAY ZEUS ###############
+
+mk4:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 High Kick
+  P1Button2: north  # Player 1 High Punch
+  P1Button3: south  # Player 1 Block
+  P1Button4: east  # Player 1 Low Kick
+  P1Button5: rightshoulder  # Player 1 Low Punch
+  P1Button6: leftshoulder  # Player 1 Run
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 High Kick
+  P2Button2: north  # Player 2 High Punch
+  P2Button3: south  # Player 2 Block
+  P2Button4: east  # Player 2 Low Kick
+  P2Button5: rightshoulder  # Player 2 Low Punch
+  P2Button6: leftshoulder  # Player 2 Run
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING NAMCO SYSTEM 256 ###############
+
+sukuinuf:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1ButtonUp: west  # Player 1 Button 1
+  P1ButtonDown: north  # Player 1 Button 2
+  P1ButtonLeft: south  # Player 1 Button 3
+  P1ButtonRight: east  # Player 1 Button 4
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2ButtonUp: west  # Player 2 Button 1
+  P2ButtonDown: north  # Player 2 Button 2
+  P2ButtonLeft: south  # Player 2 Button 3
+  P2ButtonRight: east  # Player 2 Button 4
+
+yuyuhaku:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### FIGHTING SEGA MODEL 2 ###############
+
+doa:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Hold
+  P1Button2: north  # P1 Punch
+  P1Button3: south  # P1 Kick
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Hold
+  P2Button2: north  # P2 Punch
+  P2Button3: south  # P2 Kick
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+fvipers:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Punch
+  P1Button2: north  # P1 Kick
+  P1Button3: south  # P1 Guard
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Punch
+  P2Button2: north  # P2 Kick
+  P2Button3: south  # P2 Guard
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+hpyagu98:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Punch
+  P1Button2: north  # P1 Kick
+  P1Button3: south  # P1 Guard
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Punch
+  P2Button2: north  # P2 Kick
+  P2Button3: south  # P2 Guard
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+lastbrnx:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Punch
+  P1Button2: north  # P1 Kick
+  P1Button3: south  # P1 Guard
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Punch
+  P2Button2: north  # P2 Kick
+  P2Button3: south  # P2 Guard
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+schamp:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Punch
+  P1Button2: north  # P1 Kick
+  P1Button3: south  # P1 Barrier
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Punch
+  P2Button2: north  # P2 Kick
+  P2Button3: south  # P2 Barrier
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+vf2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: west  # P1 Punch
+  P1Button2: north  # P1 Kick
+  P1Button3: south  # P1 Guard
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: west  # P2 Punch
+  P2Button2: north  # P2 Kick
+  P2Button3: south  # P2 Guard
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+############### FIGHTING SNK HYPER NEO GEO 64 ###############
+
+buriki:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Move Left
+  P1Button2: north  # Player 1 Move Right
+  P1ButtonUp: up  # Player 1 Attack Up
+  P1ButtonDown: down  # Player 1 Attack Down
+  P1ButtonLeft: left  # Player 1 Attack Left
+  P1ButtonRight: right  # Player 1 Attack Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Move Left
+  P2Button2: north  # Player 2 Move Right
+  P2ButtonUp: up  # Player 2 Attack Up
+  P2ButtonDown: down  # Player 2 Attack Down
+  P2ButtonLeft: left  # Player 2 Attack Left
+  P2ButtonRight: right  # Player 2 Attack Right
+
+fatfurwa:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1Button4: east  # Player 1 Button 4
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2Button4: east  # Player 2 Button 4
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+sams64:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1Button4: east  # Player 1 Button 4
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2Button4: east  # Player 2 Button 4
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+sams64_2:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: west  # Player 1 Button 1
+  P1Button2: north  # Player 1 Button 2
+  P1Button3: south  # Player 1 Button 3
+  P1Button4: east  # Player 1 Button 4
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: west  # Player 2 Button 1
+  P2Button2: north  # Player 2 Button 2
+  P2Button3: south  # Player 2 Button 3
+  P2Button4: east  # Player 2 Button 4
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
 
 ############### FLYING ###############
 
@@ -3741,6 +4464,35 @@ starwarstfa:
   Analog2: rightstickup  # Throttle Brake
   Analog4: leftstickleft  # Analog X Right
   Analog6: leftstickup  # Analog Y Down
+  
+############### FLYING KONAMI GTI CLUB ###############
+
+hangplt:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1ButtonLeft: left  # Left
+  P1ButtonRight: right  # Right
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+############### FLYING SEGA MODEL 1 ###############
+
+wingwar:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Gun
+  P1Button2: east  # Missile
+  P1Button3: west  # Smoke
+  P1Button4: up  # View 1
+  P1Button5: left  # View 2
+  P1Button6: right  # View 3
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickup  # Throttle
 
 ############### INTERACTIVEMOVIE ###############
 
@@ -4003,6 +4755,36 @@ vf:
   P1ButtonDown: down  # Down
   P1ButtonLeft: left  # Left
   P1ButtonRight: right  # Right
+  
+############### MOTIONSHOOTER ###############
+
+############### MOTIONSHOOTER KONAMI VIPER ###############
+
+p9112:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Trigger
+  P1Button2: leftttrigger  # Reload
+  P1ButtonUp: up  # Body Up
+  P1ButtonDown: down  # Body Down
+  P1ButtonLeft: left  # Body Left
+  P1ButtonRight: right  # Body Right
+  Analog0: leftstickleft  # Gun X
+  Analog2: leftstickup  # Gun Y
+  
+p9112_gun:
+  Test: kb_0                 # Test
+  Service1: kb_9            # Service
+  Coin1: kb_5               # Coin 1
+  P1ButtonStart: kb_1       # P1 Start
+  mouseleft_1: P1Button1    # P1 Left Trigger
+  mouseright_1: P1Button2   # P1 Right Trigger
+  P1ButtonUp: kb_up  # Body Up
+  P1ButtonDown: kb_down  # Body Down
+  P1ButtonLeft: kb_left  # Body Left
+  P1ButtonRight: kb_right  # Body Right
 
 ############### MULTIPLAYER ###############
 
@@ -6618,6 +7400,42 @@ radikalbikers:
   P2ButtonUp: up # Volume Up
   Analog0: leftstickleft # Handlebar Axis Right
 
+racingj:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Handbrake
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog8: leftshoulder  # Clutch
+
+racingj2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Handbrake
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog8: leftshoulder  # Clutch
+
 revolt:
   Coin1: select # Coin
   P1ButtonStart: start # Abort
@@ -6858,6 +7676,42 @@ swdc:
   Analog3: righttrigger # Gas
   Analog5: lefttrigger # Brake
   ExtensionOne13: leftshoulder # Insert AIME Card
+
+thrilld:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Handbrake
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog8: leftshoulder  # Clutch
+
+thrilldgeu:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Handbrake
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog8: leftshoulder  # Clutch
 
 thrilldrive4:
   Test: l3  # Test
@@ -7113,8 +7967,844 @@ wmmt6rr:
   Wmmt5GearChange6:   # Gear Shift 6
   Wmmt5GearChangeDown:   # Gear Shift Down
   Wmmt5GearChangeUp:   # Gear Shift Up
+  
+############### RACING ATARI DENVER / VOODOO 3 ###############
 
+sf2049:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  P2Button4: north  # Music
+  Analog4: lefttrigger  # Gas
+  Analog6: righttrigger  # Clutch
+  Analog12: lefttrigger  # Brake
+  ExtensionOne1: north  # Gear 4
 
+sf2049se:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  P2Button4: north  # Music
+  Analog4: lefttrigger  # Gas
+  Analog6: righttrigger  # Clutch
+  Analog12: lefttrigger  # Brake
+  ExtensionOne1: north  # Gear 4
+
+sf2049te:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  P2Button4: north  # Music
+  Analog4: lefttrigger  # Gas
+  Analog6: righttrigger  # Clutch
+  Analog12: lefttrigger  # Brake
+  ExtensionOne1: north  # Gear 4
+
+############### RACING ATARI FLAGSTAFF ###############
+
+sfrush:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  P2Button4: north  # Music
+  Analog8: lefttrigger  # Gas
+  Analog10: righttrigger  # Brake
+  Analog12: lefttrigger  # Clutch
+  ExtensionOne1: north  # Gear 4
+
+sfrushrk:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  P2Button4: north  # Music
+  Analog8: lefttrigger  # Gas
+  Analog10: righttrigger  # Brake
+  Analog12: lefttrigger  # Clutch
+  ExtensionOne1: north  # Gear 4
+
+############### RACING ATARI SEATTLE WIDGET ###############
+
+calspeed:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  JvsTwoP1Button4: north  # Radio / Skip POST
+  ExtensionOne1: north  # Gear 4
+
+vaportrx:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1Button4: north  # Left View
+  P1Button5: rightshoulder  # Right View
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Wheel Axis Right
+
+############### RACING ATARI VEGAS / VOODOO 2 ###############
+
+roadburn:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Volume Up / Menu Up
+  P1ButtonDown: down  # Volume Down / Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Gas
+  Analog2: righttrigger  # Wheel Axis Right
+
+############### RACING KONAMI COBRA ###############
+
+racjamdx:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Start / View
+  P1Button6: leftshoulder  # Reverse
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Coin2: select  # Coin 2
+  Analog4: lefttrigger  # Brake
+  Analog6: righttrigger  # Handbrake Axis
+  Analog8: lefttrigger  # Clutch
+  ExtensionOne2: north  # Handbrake Button
+  ExtensionOne3: start  # Clutch Button
+
+############### RACING KONAMI GTI CLUB ###############
+
+gticlub:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Handbrake
+  P1Button2: east  # Shift Up
+  P1Button3: west  # Shift Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING KONAMI VIPER ###############
+
+code1d:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Shift Up / Action
+  P1Button2: east  # Shift Down
+  P1Button3: west  # Handbrake
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+gticlub2:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  P1Button3: west  # Handbrake
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+xtrial:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Shift Up / Action
+  P1Button2: east  # Shift Down
+  P1Button3: west  # Handbrake
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING MIDWAY SEATTLE WIDGET ###############
+
+hyprdriv:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING MIDWAY V UNIT ###############
+
+crusnusa:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2
+  P1Button3: west  # View 3
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  JvsTwoP1Button4: north  # Radio / Skip POST
+  ExtensionOne1: north  # Gear 4
+  ExtensionOne3: start  # Volume Up
+  JvsTwoP1Button6: leftshoulder  # Shift Down
+  JvsTwoP1Button5: rightshoulder  # Shift Up
+
+crusnwld:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2
+  P1Button3: west  # View 3
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  JvsTwoP1Button4: north  # Radio / Skip POST
+  ExtensionOne1: north  # Gear 4
+  ExtensionOne3: start  # Volume Up
+  JvsTwoP1Button6: leftshoulder  # Shift Down
+  JvsTwoP1Button5: rightshoulder  # Shift Up
+
+offroadc:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2
+  P1Button3: west  # View 3
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  JvsTwoP1Button4: north  # Radio / Skip POST
+  ExtensionOne1: north  # Gear 4
+  ExtensionOne3: start  # Volume Up
+  JvsTwoP1Button6: leftshoulder  # Shift Down
+  JvsTwoP1Button5: rightshoulder  # Shift Up
+
+############### RACING MIDWAY VEGAS / VOODOO 3 ###############
+
+cartfury:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start / Abort
+  P1Button1: south  # View 1
+  P1Button2: east  # View 2 / Brake
+  P1Button3: west  # View 3 / Music
+  P1ButtonUp: up  # Volume Up / Menu Up
+  P1ButtonDown: down  # Volume Down / Menu Down
+  P1ButtonLeft: left  # Menu Left
+  P1ButtonRight: right  # Menu Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  P2Button4: north  # Boost
+  P2Button5: rightshoulder  # Shift Up
+  P2Button6: leftshoulder  # Shift Down
+  Analog4: lefttrigger  # Brake
+  ExtensionOne1: north  # Gear 4
+
+############### RACING MIDWAY ZEUS II ###############
+
+crusnexo:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 View 1
+  P1Button2: east  # Player 1 View 2
+  P1Button3: west  # Player 1 View 3
+  P1Button4: north  # Player 1 View 4
+  P1Button5: rightshoulder  # Player 1 Radio
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  ExtensionOne3: start  # Volume Up
+
+############### RACING NAMCO SUPER SYSTEM 22 ###############
+
+aquajet:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Analog Y Down
+
+cybrcycc:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+dirtdash:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING NAMCO SUPER SYSTEM 23 ###############
+
+500gp:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View
+  P1Button2: east  # Tank
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Gas
+  Analog2: righttrigger  # Brake
+  Analog4: lefttrigger  # Wheel Axis Right
+
+raceonj:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View Change
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING NAMCO SYSTEM 21 ###############
+
+driveyes:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Clutch
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+winrun:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+winrun91:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+winrungp:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING NAMCO SYSTEM 22 ###############
+
+acedrive:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+raverace:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+ridgera2j:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+ridgerac:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+ridgeracf:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+victlapj:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Clutch
+  P1ButtonUp: up  # Shift Up
+  P1ButtonDown: down  # Shift Down
+  P1ButtonLeft: left  # Shift Left
+  P1ButtonRight: right  # Shift Right
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING NAMCO SYSTEM 23 ###############
+
+downhillu:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Left Brake
+  P1Button2: east  # Right Brake
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Pedaling Speed
+
+motoxgo:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # View
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog6: righttrigger  # Analog X Right
+
+############### RACING SEGA CHIHIRO ###############
+
+cthr:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Jump 1
+  P1Button2: east  # Jump 2
+  P1ButtonUp: up  # Drive Gear
+  P1ButtonDown: down  # Reverse Gear
+  Analog0: leftstickleft  # Gas
+  Analog2: righttrigger  # Wheel Axis Right
+  Analog6: righttrigger  # Brake
+
+wmmt1j:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  ExtensionOne1: north  # View Change
+  ExtensionOne2: north  # Intrude Change
+
+############### RACING SEGA MODEL 1 ###############
+
+vformula:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # VR 1
+  P1Button2: east  # VR 2
+  P1Button3: west  # VR 3
+  P1Button4: north  # VR 4
+  P1Button5: rightshoulder  # Shift Down
+  P1Button6: leftshoulder  # Shift Up
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+vr:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # VR 1
+  P1Button2: east  # VR 2
+  P1Button3: west  # VR 3
+  P1Button4: north  # VR 4
+  P1Button5: rightshoulder  # Shift Down
+  P1Button6: leftshoulder  # Shift Up
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+############### RACING SEGA MODEL 2 ###############
+
+daytona:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # VR 1
+  P1Button2: east  # VR 2
+  P1Button3: west  # VR 3
+  P1Button4: north  # VR 4
+  P1Button5: rightshoulder  # Shift Down
+  P1Button6: leftshoulder  # Shift Up
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+indy500:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  P1Button3: west  # View 1
+  P1Button4: north  # View 2
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+manxtt:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+motoraid:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Punch
+  P1Button2: east  # Kick
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+overrevb:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  P1Button3: west  # View 1
+  P1Button4: north  # View 2
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+sgt24h:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  P1Button3: west  # View 1
+  P1Button4: north  # View 2
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+srallyc:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # View
+  P1Button2: east  # Handbrake
+  P1Button5: rightshoulder  # Shift Down
+  P1Button6: leftshoulder  # Shift Up
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog6: righttrigger  # Handbrake Axis
+
+stcc:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Shift Up
+  P1Button2: east  # Shift Down
+  P1Button3: west  # View 1
+  P1Button4: north  # View 2
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+
+waverunr:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # View
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  Analog6: righttrigger  # Analog X Right
+  Analog8: lefttrigger  # Analog Y Down
+
+############### RACING SNK HYPER NEO GEO 64 ###############
+
+roadedge:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Shift Down
+  P1Button2: east  # Shift Up
+  P1Button3: west  # BGM 1
+  P1Button4: north  # BGM 2
+  P1Button5: rightshoulder  # BGM 3
+  P1Button6: leftshoulder  # BGM 4
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  ExtensionOne1: north  # View 1
+  ExtensionOne2: north  # View 2
+
+xrally:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Shift Down
+  P1Button2: east  # Shift Up
+  P1Button3: west  # BGM 1
+  P1Button4: north  # BGM 2
+  P1Button5: rightshoulder  # BGM 3
+  P1Button6: leftshoulder  # BGM 4
+  Analog0: leftstickleft  # Wheel Axis Right
+  Analog2: righttrigger  # Gas
+  Analog4: lefttrigger  # Brake
+  ExtensionOne1: north  # View 1
+  ExtensionOne2: north  # View 2
+ 
 ############### RHYTHM ###############
 
 crossbeatsrev:
@@ -7412,6 +9102,192 @@ wadaikomaster:
   ExtensionOne21: north  # Player 2 Drum Right Side
   P1Button3: south # Player 2 Drum Left Center
   P1Button6: east # Player 2 Drum Right Center
+  
+############### RHYTHM KONAMI PC-BASED ###############
+
+dancedancerevolution2013:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Arrow Up
+  P1Button2: east  # P1 Arrow Down
+  P1Button3: west  # P1 Arrow Left
+  P1Button4: north  # P1 Arrow Right
+  P1Button5: rightshoulder  # P1 Menu Up
+  P1Button6: leftshoulder  # P1 Menu Down
+  P2Button1: south  # P1 Menu Left
+  P2Button2: east  # P1 Menu Right
+  P2Button3: west  # P2 Arrow Up
+  P2Button4: north  # P2 Arrow Down
+  P2Button5: rightshoulder  # P2 Arrow Left
+  P2Button6: leftshoulder  # P2 Arrow Right
+  JvsTwoP1Button1: south  # P2 Menu Up
+  JvsTwoP1Button2: east  # P2 Menu Down
+  JvsTwoP1Button3: west  # P2 Menu Left
+  JvsTwoP1Button4: north  # P2 Menu Right
+  JvsTwoP1Button5: rightshoulder  # P2 Start
+
+hellopopnmusic:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Red Button
+  P1Button2: east  # P1 Blue Button
+  P1Button3: west  # P1 Yellow Button
+  P1Button4: north  # P1 Green Button
+  P1Button5: rightshoulder  # P2 Start
+  P1Button6: leftshoulder  # P2 Red Button
+  P2Button1: south  # P2 Blue Button
+  P2Button2: east  # P2 Yellow Button
+  P2Button3: west  # P2 Green Button
+
+############### RHYTHM NAMCO SYSTEM 246 ###############
+
+technicb:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### RHYTHM NAMCO SYSTEM 256 ###############
+
+taiko10:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko11:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko12:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko13:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko14:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko7:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko8:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
+
+taiko9:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Select Up
+  P1ButtonDown: down  # Select Down
+  Analog0: leftstickleft  # Player 1 Left Center
+  Analog2: leftstickup  # Player 2 Left Side
+  Coin2: select  # Coin 2
+  Analog4: rightstickleft  # Player 2 Left Center
+  Analog6: rightstickup  # Player 1 Right Center
+  Analog8: rightstickleft  # Player 1 Right Side
+  Analog10: rightstickup  # Player 1 Left Side
 
 ############### SHOOTEMUP ###############
 
@@ -8182,6 +10058,20 @@ umifresh:
   P1ButtonLeft: left # Left
   P1ButtonRight: right # Right
   P1ButtonUp: up # Up
+  
+############### SHOOTEMUP SEGA MODEL 1 ###############
+
+swa:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Trigger 1
+  P1Button2: east  # Trigger 2
+  P1Button3: west  # Action
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Throttle Brake
 
 ############### SHOOTER ###############
 
@@ -8207,7 +10097,6 @@ umifresh:
   P1ButtonRight: kb_right # Pedal Right
   Coin2: kb_6 # Coin 1
   mouseleft_1: P1Button1 # P1 Left Trigger
-  mousemiddle_1: P1Button3 # P1 Grenades
   mouseright_1: P1Button2 # P1 Right Trigger
 
   # Unmapped inputs:
@@ -8239,8 +10128,35 @@ umifresh:
   P1ButtonRight: kb_right # Pedal Right
   Coin2: kb_6 # Coin 1
   mouseleft_1: P1Button1 # P1 Left Trigger
-  mousemiddle_1: P1Button3 # P1 Grenades
   mouseright_1: P1Button2 # P1 Right Trigger
+
+a51site4:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+a51site4_gun:
+  Test: kb_0                # Test
+  Service1: kb_9            # Service
+  Coin1: kb_5               # Coin 1
+  P1ButtonStart: kb_1       # P1 Start
+  mouseleft_1: P1Button1    # P1 Left Trigger
+  Coin2: kb_6               # Coin 2
+  P2ButtonStart: kb_2       # P2 Start
+  mouseleft_2: P2Button1    # P2 Left Trigger
+
+  # Unmapped inputs:
+  P1LightGun:   # Player 1 Light Gun
+  P2LightGun:   # Player 2 Light Gun
 
 aaa:
   Coin1: select # Coin
@@ -11309,6 +13225,52 @@ spacewarp66_gun:
   mouseright_1: P1Button2   # P1 Right Trigger
   mousemiddle_1: P1Button3  # P1 Grenades
 
+sscope:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Button 1
+  P1Button2: lefttrigger  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+
+sscope_gun:
+  Test: kb_0                # Test
+  Service1: kb_9            # Service
+  Coin1: kb_5               # Coin 1
+  P1ButtonStart: kb_1       # P1 Start
+  mouseleft_1: P1Button1    # P1 Left Trigger
+  mouseright_1: P1Button2   # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+  # Unmapped inputs:
+  P1LightGun:   # Player 1 Light Gun
+
+sscope2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Button 1
+  P1Button2: lefttrigger  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+
+sscope2_gun:
+  Test: kb_0                # Test
+  Service1: kb_9            # Service
+  Coin1: kb_5               # Coin 1
+  P1ButtonStart: kb_1       # P1 Start
+  mouseleft_1: P1Button1    # P1 Left Trigger
+  mouseright_1: P1Button2   # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+  # Unmapped inputs:
+  P1LightGun:   # Player 1 Light Gun
+
 startrekvoyager:
   Coin1: select # Coin Chute 1
   P1Button1: righttrigger # Player 1 Shoot
@@ -11523,20 +13485,56 @@ tc5_gun:
   P1RelativeRight:   # Player 1 Gun X Right
   P1RelativeUp:   # Player 1 Gun Y Up
 
+terabrst:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Button 1
+  P1Button2: lefttrigger  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Button 1
+  P2Button2: lefttrigger  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+terabrst_gun:
+  Test: kb_0                # Test
+  Service1: kb_9            # Service
+  Coin1: kb_5               # Coin 1
+  P1ButtonStart: kb_1       # P1 Start
+  mouseleft_1: P1Button1    # P1 Left Trigger
+  mouseright_1: P1Button2   # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6               # Coin 2
+  P2ButtonStart: kb_2       # P2 Start
+  mouseleft_2: P2Button1    # P2 Left Trigger
+  mouseright_2: P2Button2   # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+  # Unmapped inputs:
+  P1LightGun:   # Player 1 Light Gun
+  P2LightGun:   # Player 2 Light Gun
+
 terminator:
   Test: l3 # Test
   Service1: r3 # Service
   Coin1: select # Coin
   P1ButtonStart: start # Start Button P1
   P1Button1: righttrigger # Trigger P1
-  P1Button2: east # Grenades P1
-  P1Button3: west # Reload P1
+  P1Button2: west # Grenades P1
+  P1Button3: lefttrigger # Reload P1
   P1ButtonDown: down # Volume Down
   P1ButtonUp: up # Volume Up
   P2ButtonStart: start # Start Button P2
   P2Button1: righttrigger # Trigger P2
-  P2Button2: east # Grenades P2
-  P2Button3: west # Reload P2
+  P2Button2: west # Grenades P2
+  P2Button3: lefttrigger # Reload P2
   Analog0: rightstickleft # P1 Gun X
   Analog2: rightstickup # P1 Gun Y
   Analog4: rightstickleft # P2 Gun X
@@ -11888,6 +13886,1084 @@ wildwestshootout_gun:
   P2RelativeLeft:   # P2 Gun Left
   P2RelativeRight:   # P2 Gun Right
   P2RelativeUp:   # P2 Gun Up
+  
+############### SHOOTER AIRFRAME LINUX PC-BASED ###############
+
+skycurser_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+  Coin3: kb_7  # Coin 3
+  P3ButtonStart: kb_3  # P3 Start
+  mouseleft_3: P3Button1  # P3 Left Trigger
+  mouseright_3: P3Button2  # P3 Right Trigger
+  mousemiddle_3: P3Button3  # P3 Grenades
+  Coin4: kb_8  # Coin 4
+  P4ButtonStart: kb_4  # P4 Start
+  mouseleft_4: P4Button1  # P4 Left Trigger
+  mouseright_4: P4Button2  # P4 Right Trigger
+  mousemiddle_4: P4Button3  # P4 Grenades
+
+############### SHOOTER KONAMI GTI CLUB ###############
+
+slrassltj:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Fire
+  P1Button2: east  # Bomb / Missile
+  P1Button3: west  # Power / Action 3
+  P1ButtonUp: up  # Up
+  P1ButtonDown: down  # Down
+  P1ButtonLeft: left  # Left
+  P1ButtonRight: right  # Right
+  Analog0: rightstickleft  # Analog X Right
+  Analog2: rightstickup  # Analog Y Down
+
+slrassltj_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+thunderh:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Fire
+  P1Button2: east  # Bomb / Missile
+  P1Button3: west  # Power / Action 3
+  P1ButtonUp: up  # Up
+  P1ButtonDown: down  # Down
+  P1ButtonLeft: left  # Left
+  P1ButtonRight: right  # Right
+  Analog0: rightstickleft  # Aim X
+  Analog2: rightstickup  # Aim Y
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Start 2
+  P2Button1: south  # Fire 2
+  P2Button2: east  # Bomb 2
+  P2Button3: west  # Action 3 Player 2
+  P2ButtonUp: up  # Up 2
+  P2ButtonDown: down  # Down 2
+  P2ButtonLeft: left  # Left 2
+  P2ButtonRight: right  # Right 2
+  Analog4: rightstickleft  # Aim X Player 2
+  Analog6: rightstickup  # Aim Y Player 2
+
+thunderh_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER KONAMI HORNET ###############
+
+gradius4u:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+gradius4u_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER KONAMI M2 ###############
+
+evilngt:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: righttrigger  # Player 3 Trigger
+  JvsTwoP1Button2: lefttrigger  # Player 3 Reload
+  Analog8: leftstickleft  # Player 3 Gun X
+  Analog10: leftstickup  # Player 3 Gun Y
+  JvsTwoCoin1: select  # Player 3 Coin
+
+evilngt_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+  Coin3: kb_7  # Coin 3
+  P3ButtonStart: kb_3  # P3 Start
+  mouseleft_3: P3Button1  # P3 Left Trigger
+  mouseright_3: P3Button2  # P3 Right Trigger
+  mousemiddle_3: P3Button3  # P3 Grenades
+
+hellngt:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: righttrigger  # Player 3 Trigger
+  JvsTwoP1Button2: lefttrigger  # Player 3 Reload
+  Analog8: leftstickleft  # Player 3 Gun X
+  Analog10: leftstickup  # Player 3 Gun Y
+  JvsTwoCoin1: select  # Player 3 Coin
+
+hellngt_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+  Coin3: kb_7  # Coin 3
+  P3ButtonStart: kb_3  # P3 Start
+  mouseleft_3: P3Button1  # P3 Left Trigger
+  mouseright_3: P3Button2  # P3 Right Trigger
+  mousemiddle_3: P3Button3  # P3 Grenades
+
+polystar:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+polystar_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+totlvica:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+totlvica_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+totlvice:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+totlvice_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+totlvicj:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+totlvicj_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+totlvicu:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+totlvicu_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER KONAMI PC-BASED ###############
+
+steelchronicle_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER KONAMI VIPER ###############
+
+wcombatu:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  P1Button3: west  # Player 1 Escape
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  P2Button3: west  # Player 2 Escape
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+wcombatu_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER MIDWAY SEATTLE / CARNEVIL ###############
+
+carnevil:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button2: lefttrigger  # Player 1 Trigger
+  P1Button3: west  # Player 1 Pump / Reload
+  P1ButtonUp: up  # Volume Up
+  P1ButtonDown: down  # Volume Down
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button2: lefttrigger  # Player 2 Trigger
+  P2Button3: west  # Player 2 Pump / Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+carnevil_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER MIDWAY ZEUS ###############
+
+invasnab:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: lefttrigger  # Player 1 Reload
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: lefttrigger  # Player 2 Reload
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+
+invasnab_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER MIDWAY ZEUS II ###############
+
+thegrid:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Action / Jump
+  P1Button2: east  # Player 1 Steal / Suck
+  P1Button3: west  # Player 1 Fire
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: rightstickleft  # Analog X Right
+  Analog2: rightstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+thegrid_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER NAMCO SUPER SYSTEM 22 ###############
+
+timecris:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Trigger
+  P1Button2: east  # Pedal
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  Analog0: rightstickleft  # Gun X
+  Analog2: rightstickup  # Gun Y
+
+timecris_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+############### SHOOTER NAMCO SUPER SYSTEM 23 ###############
+
+gunwars:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Gun Trigger
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: rightstickleft  # Analog X Right
+  Analog2: rightstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+
+gunwars_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+timecrs2v5a:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Trigger
+  P1Button2: east  # Pedal
+  P1Button3: west  # Service Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: rightstickleft  # Gun X
+  Analog2: rightstickup  # Gun Y
+
+timecrs2v5a_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+############### SHOOTER NAMCO SYSTEM 21 ###############
+
+solvalou:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: rightstickleft  # Aim X Right
+  Analog2: rightstickup  # Aim Y Down
+
+solvalou_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+starblad:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Button 1
+  P1Button2: east  # Button 2
+  P1Button3: west  # Button 3
+  P1Button4: north  # Button 4
+  P1Button5: rightshoulder  # Button 5
+  P1Button6: leftshoulder  # Button 6
+  Analog0: rightstickleft  # Aim X Right
+  Analog2: rightstickup  # Aim Y Down
+
+starblad_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+############### SHOOTER NAMCO SYSTEM 23 EVOLUTION 2 ###############
+
+crszone:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Trigger
+  P1Button2: east  # Pedal
+  P1Button3: west  # Service Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: rightstickleft  # Gun X
+  Analog2: rightstickup  # Gun Y
+
+crszone_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+############### SHOOTER SEGA LINDBERGH YELLOW ###############
+
+lgjself2_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER SEGA MODEL 2 ###############
+
+bel:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  P1Button2: east  # P1 Missile
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  P2Button2: east  # P2 Missile
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+bel_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+desert:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Machine Gun
+  P1Button2: east  # Cannon
+  P1Button3: west  # Shift Toggle
+  P1Button4: north  # VR 1
+  P1Button5: rightshoulder  # VR 2
+  P1Button6: leftshoulder  # VR 3
+  Analog0: rightstickleft  # Wheel Axis Right
+  Analog2: rightstickup  # Gas
+  Analog4: rightstickleft  # Brake
+
+desert_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+gunblade:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+gunblade_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+hotd:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  P1Button2: lefttrigger  # P1 Reload
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  P2Button2: lefttrigger  # P2 Reload
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+hotd_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+pltkids:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Fire
+  P1Button2: east  # P1 Lock On
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Fire
+  P2Button2: east  # P2 Lock On
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+pltkids_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+rchase2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+rchase2_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+skytargt:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Machine Gun
+  P1Button2: east  # Missile
+  P1Button3: west  # View
+  Analog0: rightstickleft  # Analog X Right
+  Analog2: rightstickup  # Analog Y Down
+
+skytargt_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+
+vcop:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  P1Button2: lefttrigger  # P1 Reload
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  P2Button2: lefttrigger  # P2 Reload
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+vcop_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+vcop2:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: righttrigger  # P1 Trigger
+  P1Button2: lefttrigger  # P1 Reload
+  Analog0: rightstickleft  # P1 Gun X
+  Analog2: rightstickup  # P1 Gun Y
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: righttrigger  # P2 Trigger
+  P2Button2: lefttrigger  # P2 Reload
+  Analog4: rightstickleft  # P2 Gun X
+  Analog6: rightstickup  # P2 Gun Y
+
+vcop2_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+vonu:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Left Shot
+  P1Button2: east  # Left Dash
+  P1ButtonUp: up  # Left Stick Up
+  P1ButtonDown: down  # Left Stick Down
+  P1ButtonLeft: left  # Left Stick Left
+  P1ButtonRight: right  # Left Stick Right
+  P2Button1: south  # Right Shot
+  P2Button2: east  # Right Dash
+  P2ButtonUp: up  # Right Stick Up
+  P2ButtonDown: down  # Right Stick Down
+  P2ButtonLeft: left  # Right Stick Left
+  P2ButtonRight: right  # Right Stick Right
+
+vonu_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+zerogun:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Fire
+  P1Button2: east  # P1 Special
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Fire
+  P2Button2: east  # P2 Special
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+zerogun_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+
+############### SHOOTER SNK HYPER NEO GEO 64 ###############
+
+bbust2:
+  Test: l3  # Test Menu
+  Service1: r3  # Player 1 Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: righttrigger  # Player 1 Trigger
+  P1Button2: east  # Player 1 Pump
+  P1Button3: leftshoulder  # Player 1 Bomb
+  Analog0: rightstickleft  # Player 1 Gun X
+  Analog2: rightstickup  # Player 1 Gun Y
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: righttrigger  # Player 2 Trigger
+  P2Button2: east  # Player 2 Pump
+  P2Button3: leftshoulder  # Player 2 Bomb
+  Analog4: rightstickleft  # Player 2 Gun X
+  Analog6: rightstickup  # Player 2 Gun Y
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: righttrigger  # Player 3 Trigger
+  JvsTwoP1Button2: east  # Player 3 Pump
+  JvsTwoP1Button3: leftshoulder  # Player 3 Bomb
+  Analog8: leftstickleft  # Player 3 Gun X
+  Analog10: leftstickup  # Player 3 Gun Y
+  JvsTwoCoin1: select  # Player 3 Coin
+
+bbust2_gun:
+  Test: kb_0  # Test
+  Service1: kb_9  # Service
+  Coin1: kb_5  # Coin 1
+  P1ButtonStart: kb_1  # P1 Start
+  mouseleft_1: P1Button1  # P1 Left Trigger
+  mouseright_1: P1Button2  # P1 Right Trigger
+  mousemiddle_1: P1Button3  # P1 Grenades
+  Coin2: kb_6  # Coin 2
+  P2ButtonStart: kb_2  # P2 Start
+  mouseleft_2: P2Button1  # P2 Left Trigger
+  mouseright_2: P2Button2  # P2 Right Trigger
+  mousemiddle_2: P2Button3  # P2 Grenades
+  Coin3: kb_7  # Coin 3
+  P3ButtonStart: kb_3  # P3 Start
+  mouseleft_3: P3Button1  # P3 Left Trigger
+  mouseright_3: P3Button2  # P3 Right Trigger
+  mousemiddle_3: P3Button3  # P3 Grenades
+
+############### SIMULATION ###############
+
+ainferno:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: righttrigger  # Fire
+  P1Button2: east  # Left Pedal
+  P1Button3: west  # Right Pedal
+  Analog0: leftsticklright  # Analog X Right
+  Analog2: leftstickdown  # Analog Y Down
+  Analog4: rightstickup  # Throttle
+
+topland:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button4: north  # Cabinet Door (Deluxe)
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickup  # Throttle
 
 ############### SPORTS ###############
 
@@ -12602,6 +15678,590 @@ winningeleven08:
   P3RelativeRight:   # TOUCH SCREEN Axis X Right
   P3RelativeUp:   # TOUCH SCREEN Axis Y Up
   Service2:   # PS3PAD Button SELECT
+  
+############### SPORTS IT NIGHTHAWK ###############
+
+goldenteelive2019:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # FlyBy
+  P1Button2: east  # Spin
+  P1Button3: west  # Option
+  P1Button4: north  # Help
+  P1Button5: rightshoulder  # Money Bill In
+  P1Button6: leftshoulder  # Switch Club Left
+  P1ButtonUp: up  # Volume Up
+  P1ButtonDown: down  # Volume Down
+  Coin2: select  # Coin2
+  P2ButtonStart: start  # Switch Club Right
+  P2Button1: south  # Left
+  P2Button2: east  # Right
+  P2Button3: west  # Save Current Outfit to TPUI
+
+############### SPORTS KONAMI HORNET ###############
+
+nbaatw:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Button 1
+  JvsTwoP1Button2: east  # Player 3 Button 2
+  JvsTwoP1Button3: west  # Player 3 Button 3
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Button 1
+  JvsTwoP2Button2: east  # Player 4 Button 2
+  JvsTwoP2Button3: west  # Player 4 Button 3
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+nbapbp:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Button 1
+  JvsTwoP1Button2: east  # Player 3 Button 2
+  JvsTwoP1Button3: west  # Player 3 Button 3
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Button 1
+  JvsTwoP2Button2: east  # Player 4 Button 2
+  JvsTwoP2Button3: west  # Player 4 Button 3
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+############### SPORTS KONAMI M2 ###############
+
+heatof11:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### SPORTS MIDWAY ATLANTIS ###############
+
+mwskinst:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Aim Right
+  P1Button2: east  # Player 1 Club Up
+  P1Button3: west  # Player 1 Swing
+  P1Button4: north  # Player 1 Aim Left
+  P1Button5: rightshoulder  # Player 1 Club Down
+  P1Button6: leftshoulder  # Player 1 Second Side Action
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+############### SPORTS MIDWAY SEATTLE ###############
+
+blitz2k:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Button 1
+  JvsTwoP1Button2: east  # Player 3 Button 2
+  JvsTwoP1Button3: west  # Player 3 Button 3
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Button 1
+  JvsTwoP2Button2: east  # Player 4 Button 2
+  JvsTwoP2Button3: west  # Player 4 Button 3
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+############### SPORTS MIDWAY VEGAS / BANSHEE ###############
+
+nbashowt:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Turbo
+  P1Button2: east  # Player 1 A / Shoot
+  P1Button3: west  # Player 1 B / Pass
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Turbo
+  P2Button2: east  # Player 2 A / Shoot
+  P2Button3: west  # Player 2 B / Pass
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Turbo
+  JvsTwoP1Button2: east  # Player 3 A / Shoot
+  JvsTwoP1Button3: west  # Player 3 B / Pass
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Turbo
+  JvsTwoP2Button2: east  # Player 4 A / Shoot
+  JvsTwoP2Button3: west  # Player 4 B / Pass
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+############### SPORTS MIDWAY VEGAS / VOODOO 3 ###############
+
+nbagold:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Turbo
+  P1Button2: east  # Player 1 A / Shoot
+  P1Button3: west  # Player 1 B / Pass
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Turbo
+  P2Button2: east  # Player 2 A / Shoot
+  P2Button3: west  # Player 2 B / Pass
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Turbo
+  JvsTwoP1Button2: east  # Player 3 A / Shoot
+  JvsTwoP1Button3: west  # Player 3 B / Pass
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Turbo
+  JvsTwoP2Button2: east  # Player 4 A / Shoot
+  JvsTwoP2Button3: west  # Player 4 B / Pass
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+nbanfl:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # Player 1 Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Turbo
+  P1Button2: east  # Player 1 A / Shoot
+  P1Button3: west  # Player 1 B / Pass
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Turbo
+  P2Button2: east  # Player 2 A / Shoot
+  P2Button3: west  # Player 2 B / Pass
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+  JvsTwoP1ButtonStart: start  # Player 3 Start
+  JvsTwoP1Button1: south  # Player 3 Turbo
+  JvsTwoP1Button2: east  # Player 3 A / Shoot
+  JvsTwoP1Button3: west  # Player 3 B / Pass
+  JvsTwoP1ButtonUp: up  # Player 3 Up
+  JvsTwoP1ButtonDown: down  # Player 3 Down
+  JvsTwoP1ButtonLeft: left  # Player 3 Left
+  JvsTwoP1ButtonRight: right  # Player 3 Right
+  JvsTwoP2ButtonStart: start  # Player 4 Start
+  JvsTwoP2Button1: south  # Player 4 Turbo
+  JvsTwoP2Button2: east  # Player 4 A / Shoot
+  JvsTwoP2Button3: west  # Player 4 B / Pass
+  JvsTwoP2ButtonUp: up  # Player 4 Up
+  JvsTwoP2ButtonDown: down  # Player 4 Down
+  JvsTwoP2ButtonLeft: left  # Player 4 Left
+  JvsTwoP2ButtonRight: right  # Player 4 Right
+  JvsTwoCoin1: select  # Player 3 Coin
+  JvsTwoCoin2: select  # Player 4 Coin
+
+############### SPORTS NAMCO SUPER SYSTEM 23 ###############
+
+aking:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+  Analog4: rightstickleft  # Analog Z Right
+  Analog6: rightstickup  # Analog R Down
+
+finfurl2:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Left Whip
+  P1Button2: east  # Right Whip
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+############### SPORTS NAMCO SYSTEM 22.5 ###############
+
+finfurl:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Left Whip
+  P1Button2: east  # Right Whip
+  P1Button3: west  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+rapidrvr:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Service Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+############### SPORTS NAMCO SYSTEM 23 ###############
+
+panicprkj:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Start
+  P1Button1: south  # Enter
+  P1ButtonUp: up  # Menu Up
+  P1ButtonDown: down  # Menu Down
+  Analog0: leftstickleft  # Player 1 Joystick X Right
+  Analog2: leftstickup  # Player 2 Joystick X Right
+  Coin2: select  # Player 2 Coin
+  P2ButtonStart: start  # Player 2 Start
+
+############### SPORTS NAMCO SYSTEM 246 ###############
+
+netchu:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1Button3: west  # Player 1 Button 3
+  P1Button4: north  # Player 1 Button 4
+  P1Button5: rightshoulder  # Player 1 Button 5
+  P1Button6: leftshoulder  # Player 1 Button 6
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2Button3: west  # Player 2 Button 3
+  P2Button4: north  # Player 2 Button 4
+  P2Button5: rightshoulder  # Player 2 Button 5
+  P2Button6: leftshoulder  # Player 2 Button 6
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+scpt:
+  Test: l3  # Test
+  Service1: r3  # Service 1
+  Coin1: select  # Coin 1
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Player 1 Button 1
+  P1Button2: east  # Player 1 Button 2
+  P1ButtonUp: up  # Player 1 Up
+  P1ButtonDown: down  # Player 1 Down
+  P1ButtonLeft: left  # Player 1 Left
+  P1ButtonRight: right  # Player 1 Right
+  Coin2: select  # Coin 2
+  P2ButtonStart: start  # Player 2 Start
+  P2Button1: south  # Player 2 Button 1
+  P2Button2: east  # Player 2 Button 2
+  P2ButtonUp: up  # Player 2 Up
+  P2ButtonDown: down  # Player 2 Down
+  P2ButtonLeft: left  # Player 2 Left
+  P2ButtonRight: right  # Player 2 Right
+
+############### SPORTS SEGA CHIHIRO ###############
+
+ollieking:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Player 1 Start
+  P1Button1: south  # Board Left
+  P1Button2: east  # Board Right
+  P1ButtonUp: up  # Board Front
+  P1ButtonDown: down  # Board Rear
+  Analog0: leftstickleft  # Board Swing Right
+
+sgc05:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Player 1 Start
+  Analog0: leftstickleft  # Golf Swing Right
+
+sgc06:
+  Test: l3  # Test
+  Service1: r3  # Service
+  Coin1: select  # Coin
+  P1ButtonStart: start  # Player 1 Start
+  Analog0: leftstickleft  # Golf Swing Right
+
+############### SPORTS SEGA MODEL 2 ###############
+
+dynabb:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Button 1
+  P1Button2: east  # P1 Button 2
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Analog0: leftstickleft  # P1 Bat Swing
+  Analog2: leftstickup  # P2 Bat Swing
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Button 1
+  P2Button2: east  # P2 Button 2
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+dynabb97:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Button 1
+  P1Button2: east  # P1 Button 2
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Analog0: leftstickleft  # P1 Bat Swing
+  Analog2: leftstickup  # P2 Bat Swing
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Button 1
+  P2Button2: east  # P2 Button 2
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
+
+powsled:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Entry
+  P1Button2: east  # P1 Call
+  P1Button3: west  # Cancel Network Check
+  P1Button4: north  # Cancel Error
+  Analog0: leftstickleft  # P1 Right
+  Analog2: leftstickup  # P1 Left
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Entry
+  P2Button2: east  # P2 Call
+  Analog4: rightstickleft  # P2 Right
+  Analog6: rightstickup  # P2 Left
+
+segawski:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Pitch Left
+  P1Button2: east  # Pitch Right
+  P1Button3: west  # Select Up
+  P1Button4: north  # Set
+  P1Button5: rightshoulder  # Select Down
+  Analog0: leftstickleft  # Analog X Right
+
+skisuprg:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Select 1
+  P1Button2: east  # Select 2
+  P1Button3: west  # Select 3
+  P1Button4: north  # Zoom Out
+  P1Button5: rightshoulder  # Zoom In
+  P1ButtonLeft: left  # Left Foot Sensor
+  P1ButtonRight: right  # Right Foot Sensor
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+topskatr:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # Jump Front
+  P1Button2: east  # Jump Tail
+  P1Button3: west  # Select Left
+  P1Button4: north  # Select Right
+  Analog0: leftstickleft  # Analog X Right
+  Analog2: leftstickup  # Analog Y Down
+
+vstriker:
+  Test: l3  # Test Menu
+  Service1: r3  # Service
+  Coin1: select  # P1 Coin
+  P1ButtonStart: start  # P1 Start
+  P1Button1: south  # P1 Long Pass
+  P1Button2: east  # P1 Shoot
+  P1Button3: west  # P1 Short Pass
+  P1ButtonUp: up  # P1 Up
+  P1ButtonDown: down  # P1 Down
+  P1ButtonLeft: left  # P1 Left
+  P1ButtonRight: right  # P1 Right
+  Coin2: select  # P2 Coin
+  P2ButtonStart: start  # P2 Start
+  P2Button1: south  # P2 Long Pass
+  P2Button2: east  # P2 Shoot
+  P2Button3: west  # P2 Short Pass
+  P2ButtonUp: up  # P2 Up
+  P2ButtonDown: down  # P2 Down
+  P2ButtonLeft: left  # P2 Left
+  P2ButtonRight: right  # P2 Right
 
 ############### STRATEGY ###############
 
