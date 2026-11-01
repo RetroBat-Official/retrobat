@@ -7827,6 +7827,10 @@ msgid "HIDE TEKNOPARROT ON STARTUP"
 msgstr "MASQUER TEKNOPARROT AU DÉMARRAGE DU JEU"
 
 msgctxt "game_options"
+msgid "SHOW CONSOLE"
+msgstr "AFFICHER LA CONSOLE"
+
+msgctxt "game_options"
 msgid "Hidden by default, for few games can cause problem."
 msgstr "La fenêtre Teknoparrot est masquée par défaut, à désactiver si cela pose problème."
 
