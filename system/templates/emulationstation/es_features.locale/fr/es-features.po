@@ -28033,3 +28033,31 @@ msgstr "BITMAP"
 msgctxt "game_options"
 msgid "Width of the white border drawn when a Sinden gun is connected. 16 pixels by default."
 msgstr "Largeur de la bordure blanche affichée quand un pistolet Sinden est connecté. 16 pixels par défaut."
+
+msgctxt "game_options"
+msgid "PLAYER/DEVICE LAYOUT"
+msgstr "RÉPARTITION DES JOUEURS/MANETTES"
+
+msgctxt "game_options"
+msgid "Configures how controllers are requested from the host or client. Essential for local multi-player connection."
+msgstr "Configure la demande d'allocation des contrôleurs pour l'hôte ou le client. Nécessaire pour les connexions locales multi-joueurs."
+
+msgctxt "game_options"
+msgid "1 LOCAL PLAYER (host 1 / guest 2)"
+msgstr "1 JOUEUR LOCAL (hôte 1 / invité 2)"
+
+msgctxt "game_options"
+msgid "2 LOCAL PLAYERS FOLLOWED (host 1_2 / guest 3_4)"
+msgstr "2 JOUEURS LOCAUX CONSÉCUTIFS (hôte 1_2 / invité 3_4)"
+
+msgctxt "game_options"
+msgid "2 LOCAL PLAYERS FOLLOWED (host 1_2 / guest 3_4)"
+msgstr "2 JOUEURS LOCAUX ALTERNÉS (hôte 1_3 / invité 2_4)"
+
+msgctxt "game_options"
+msgid "3 LOCAL PLAYERS (host 1-3 / guest 4-6)"
+msgstr "3 JOUEURS LOCAUX (hôte 1-3 / invité 4-6)"
+
+msgctxt "game_options"
+msgid "4 LOCAL PLAYERS (host 1-4 / guest 5-8)"
+msgstr "4 JOUEURS LOCAUX (hôte 1-4 / invité 5-8)"
