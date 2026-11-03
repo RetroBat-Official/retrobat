@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="gbbchmp" rom="gbbchmp">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":IN2" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN2" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN2" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN2" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON3" tag=":IN2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P3_BUTTON1" tag=":IN2" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P3_BUTTON3" tag=":IN2" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P3_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P3_BUTTON2" tag=":IN2" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P3_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":IN2" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN2" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN2" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN2" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":IN2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P3_BUTTON1" tag=":IN2" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P3_BUTTON3" tag=":IN2" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P3_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P3_BUTTON2" tag=":IN2" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P3_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":IN2" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN2" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN2" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN2" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON3" tag=":IN2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P3_BUTTON1" tag=":IN2" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P3_BUTTON3" tag=":IN2" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P3_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P3_BUTTON2" tag=":IN2" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P3_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":IN2" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN2" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN2" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN2" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":IN2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P3_BUTTON1" tag=":IN2" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P3_BUTTON3" tag=":IN2" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P3_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P3_BUTTON2" tag=":IN2" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P3_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+  </layouts>
+</game>

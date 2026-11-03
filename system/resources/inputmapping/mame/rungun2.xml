@@ -193,7 +193,7 @@
         <mapping type="standard" name="JOY_east" />
       </button>
       <button type="P4_BUTTON3" tag=":INPUTS" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P4_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P3_JOYSTICK_LEFT" tag=":INPUTS" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P3_JOYSTICK_LEFT">
         <mapping type="standard" name="JOY_left OR JOY_lsleft" />
@@ -214,7 +214,7 @@
         <mapping type="standard" name="JOY_east" />
       </button>
       <button type="P3_BUTTON3" tag=":INPUTS" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P3_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P2_JOYSTICK_LEFT" tag=":INPUTS" mask="65536" defvalue="65536" x="30" y="60" color="Blue" function="P2_JOYSTICK_LEFT">
         <mapping type="standard" name="JOY_left OR JOY_lsleft" />
@@ -235,7 +235,7 @@
         <mapping type="standard" name="JOY_east" />
       </button>
       <button type="P2_BUTTON3" tag=":INPUTS" mask="4194304" defvalue="4194304" x="30" y="60" color="Blue" function="P2_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P1_JOYSTICK_LEFT" tag=":INPUTS" mask="16777216" defvalue="16777216" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
         <mapping type="standard" name="JOY_left OR JOY_lsleft" />
@@ -256,7 +256,7 @@
         <mapping type="standard" name="JOY_east" />
       </button>
       <button type="P1_BUTTON3" tag=":INPUTS" mask="1073741824" defvalue="1073741824" x="30" y="60" color="Blue" function="P1_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
     </layout>
     <layout type="6alternative" joystickcolor="Black">

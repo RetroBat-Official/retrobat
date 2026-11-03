@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="lastkm" rom="lastkm">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south OR JOY_r1" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_east OR JOY_l1" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+    </layout>
+  </layouts>
+</game>

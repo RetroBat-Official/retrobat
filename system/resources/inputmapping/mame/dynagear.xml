@@ -91,7 +91,7 @@
     </layout>
     <layout type="8alternative" joystickcolor="Black">
       <button type="P1_BUTTON3" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P1_BUTTON2" tag=":P1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON2">
         <mapping type="standard" name="JOY_east" />
@@ -112,7 +112,7 @@
         <mapping type="standard" name="JOY_up OR JOY_lsup" />
       </button>
       <button type="P2_BUTTON3" tag=":P2" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P2_BUTTON2" tag=":P2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_BUTTON2">
         <mapping type="standard" name="JOY_east" />

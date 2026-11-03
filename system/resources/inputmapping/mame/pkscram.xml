@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="pkscram" rom="pkscram">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":INPUTS" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON4" tag=":INPUTS" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":INPUTS" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON4" tag=":INPUTS" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON3" tag=":INPUTS" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON4" tag=":INPUTS" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON3" tag=":INPUTS" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON4" tag=":INPUTS" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+    </layout>
+  </layouts>
+</game>

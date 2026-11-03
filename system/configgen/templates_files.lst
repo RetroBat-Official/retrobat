@@ -49,6 +49,7 @@
 \system\templates\eden\user\config\qt-config.ini|\emulators\eden\user\config\qt-config.ini
 \system\templates\eka2l1\config.yml|\emulators\eka2l1\config.yml
 \system\templates\emulationstation\about.info|\emulationstation\about.info
+\system\templates\emulationstation\arcaderoms.xml|\emulationstation\resources\arcaderoms.xml
 \system\templates\emulationstation\batocera-store.cfg|\emulationstation\batocera-store.cfg
 \system\templates\emulationstation\emulatorLauncher.cfg|\emulationstation\emulatorLauncher.cfg
 \system\templates\emulationstation\kbhotkeysdics.json|\emulationstation\resources\kbhotkeysdics.json
