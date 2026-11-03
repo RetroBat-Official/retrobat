@@ -28061,3 +28061,15 @@ msgstr "3 JOUEURS LOCAUX (hôte 1-3 / invité 4-6)"
 msgctxt "game_options"
 msgid "4 LOCAL PLAYERS (host 1-4 / guest 5-8)"
 msgstr "4 JOUEURS LOCAUX (hôte 1-4 / invité 5-8)"
+
+msgctxt "game_options"
+msgid "SPECIFIC SLOT (CHOOSE BELOW)"
+msgstr "SLOT SPÉCIFIQUE (CHOIX CI-DESSOUS)"
+
+msgctxt "game_options"
+msgid "REQUEST SPECIFIC SLOT(S)"
+msgstr "DEMANDE DE SLOT(S) SPÉCIFIQUES"
+
+msgctxt "game_options"
+msgid "Request specific slot(s), choose SPECIFIC SLOT option above."
+msgstr "Détail des slots à demander, choisir SLOT SPÉCIFIQUE ci-dessus."
