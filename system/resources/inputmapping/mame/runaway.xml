@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="runaway" rom="runaway">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":3000D6" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON1" tag=":3000D6" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON3" tag=":7000" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":3000D6" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":3000D6" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON3" tag=":7000" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":3000D6" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON1" tag=":3000D6" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":7000" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":3000D6" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":3000D6" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON3" tag=":7000" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+    </layout>
+  </layouts>
+</game>

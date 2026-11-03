@@ -89,7 +89,7 @@
         <mapping type="standard" name="JOY_south" />
       </button>
       <button type="P1_BUTTON3" tag=":260000" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P1_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P2_BUTTON2" tag=":260010" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P2_BUTTON2">
         <mapping type="standard" name="JOY_east" />
@@ -98,7 +98,7 @@
         <mapping type="standard" name="JOY_south" />
       </button>
       <button type="P2_BUTTON3" tag=":260010" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P2_BUTTON3">
-        <mapping type="standard" name="JOY_r2trigger" />
+        <mapping type="standard" name="JOY_r1" />
       </button>
       <button type="P1_AD_STICK_Y" tag=":ADC0" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
         <mapping type="standard" name="JOY_leftsticky" />

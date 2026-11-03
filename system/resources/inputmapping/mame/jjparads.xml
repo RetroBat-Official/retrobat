@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="jjparads" rom="jjparads">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_JOYSTICK_UP" tag=":400000" mask="16777216" defvalue="16777216" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":400000" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":400000" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":400000" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":400000" mask="268435456" defvalue="268435456" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":400000" mask="536870912" defvalue="536870912" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_JOYSTICK_UP" tag=":400000" mask="16777216" defvalue="16777216" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":400000" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":400000" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":400000" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":400000" mask="268435456" defvalue="268435456" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":400000" mask="536870912" defvalue="536870912" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_JOYSTICK_UP" tag=":400000" mask="16777216" defvalue="16777216" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":400000" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":400000" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":400000" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":400000" mask="268435456" defvalue="268435456" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON2" tag=":400000" mask="536870912" defvalue="536870912" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_JOYSTICK_UP" tag=":400000" mask="16777216" defvalue="16777216" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":400000" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":400000" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":400000" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":400000" mask="268435456" defvalue="268435456" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":400000" mask="536870912" defvalue="536870912" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+  </layouts>
+</game>

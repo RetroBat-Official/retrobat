@@ -101,7 +101,7 @@
         <mapping type="standard" name="JOY_l1" />
       </button>
     </layout>
-    <layout type="8variation" joystickcolor="Black">
+    <layout type="8alternative" joystickcolor="Black">
       <button type="P1_JOYSTICK_UP" tag=":edge:joy:JOY1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
         <mapping type="standard" name="JOY_up OR JOY_lsup" />
       </button>
@@ -151,7 +151,7 @@
         <mapping type="standard" name="JOY_l1" />
       </button>
     </layout>
-    <layout type="6variation" joystickcolor="Black">
+    <layout type="6alternative" joystickcolor="Black">
       <button type="P1_JOYSTICK_UP" tag=":edge:joy:JOY1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
         <mapping type="standard" name="JOY_up OR JOY_lsup" />
       </button>

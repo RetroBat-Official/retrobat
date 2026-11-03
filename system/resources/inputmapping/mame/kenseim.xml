@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="kenseim" rom="kenseim">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":MOLEA" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MOLEA" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MOLEA" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MOLEA" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON5" tag=":MOLEA" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON6" tag=":MOLEA" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MOLEB" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":MOLEB" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON3" tag=":MOLEB" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON4" tag=":MOLEB" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON5" tag=":MOLEB" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P2_BUTTON6" tag=":MOLEB" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+    </layout>
+    <layout type="modern8" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":MOLEA" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MOLEA" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MOLEA" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MOLEA" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":MOLEA" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON6" tag=":MOLEA" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MOLEB" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":MOLEB" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":MOLEB" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON4" tag=":MOLEB" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON5" tag=":MOLEB" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON6" tag=":MOLEB" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON6">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+    </layout>
+    <layout type="8alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":MOLEA" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MOLEA" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MOLEA" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MOLEA" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":MOLEA" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON6" tag=":MOLEA" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MOLEB" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":MOLEB" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":MOLEB" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P2_BUTTON4" tag=":MOLEB" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON5" tag=":MOLEB" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON6" tag=":MOLEB" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+    </layout>
+    <layout type="6alternative" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":MOLEA" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MOLEA" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MOLEA" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MOLEA" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":MOLEA" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON6" tag=":MOLEA" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MOLEB" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":MOLEB" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":MOLEB" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P2_BUTTON4" tag=":MOLEB" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON5" tag=":MOLEB" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON6" tag=":MOLEB" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+    </layout>
+  </layouts>
+</game>
