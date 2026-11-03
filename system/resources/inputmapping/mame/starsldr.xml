@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="starsldr" rom="starsldr">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON4" tag=":P1" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON3" tag=":P1" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":P1" mask="256" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":P1" mask="512" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":P1" mask="1024" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":P1" mask="2048" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16384" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="32768" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":P1_ANALOG_X" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":P1_ANALOG_Y" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_BUTTON4" tag=":P2" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON3" tag=":P2" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_JOYSTICK_RIGHT" tag=":P2" mask="256" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_right OR JOY_lsright" />
+      </button>
+      <button type="P2_JOYSTICK_LEFT" tag=":P2" mask="512" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_left OR JOY_lsleft" />
+      </button>
+      <button type="P2_JOYSTICK_DOWN" tag=":P2" mask="1024" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P2_JOYSTICK_UP" tag=":P2" mask="2048" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P2_BUTTON2" tag=":P2" mask="16384" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":P2" mask="32768" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":P2_ANALOG_X" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":P2_ANALOG_Y" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

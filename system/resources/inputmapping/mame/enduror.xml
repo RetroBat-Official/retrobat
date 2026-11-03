@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="enduror" rom="enduror">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PEDAL" tag=":ADC0" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":ADC1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":ADC2" mask="255" defvalue="32" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":ADC3" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

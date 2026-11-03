@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="aceattac" rom="aceattac">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_POSITIONAL" tag=":DIAL1" mask="15" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_r1" />
+        <mapping type="decrement" name="JOY_l1" />
+      </button>
+      <button type="P2_POSITIONAL" tag=":DIAL2" mask="15" defvalue="0" x="30" y="60" color="Blue" function="P2_POSITIONAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_r1" />
+        <mapping type="decrement" name="JOY_l1" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":HANDX1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P4_AD_STICK_X" tag=":HANDX2" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P4_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL2" tag=":HANDY1" mask="7" defvalue="4" x="30" y="60" color="Blue" function="P2_PEDAL2">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P4_PEDAL2" tag=":HANDY2" mask="7" defvalue="4" x="30" y="60" color="Blue" function="P4_PEDAL2">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":SERVICE" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":SERVICE" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_TRACKBALL_X" tag=":TRACKX1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_TRACKBALL_X" tag=":TRACKX2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P3_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":TRACKY1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_TRACKBALL_Y" tag=":TRACKY2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P3_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

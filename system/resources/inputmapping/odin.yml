@@ -21,7 +21,7 @@
 # test (enters the Test menu) and service (moves in it) are on R3 and L3, as on the other arcade systems.
 #
 # Always mapped, not configurable here :
-#   keyboard : starts 1-2, coins 5-6, Test 9, Service 0 and the Odin keys of each game (OPTIONS)
+#   keyboard : starts 1-2, coins 5-6, Test 0, Service 9 and the Odin keys of each game (OPTIONS)
 #
 # The defaults below are the Odin gamepad defaults, with Test and Service on R3 and L3.
 #

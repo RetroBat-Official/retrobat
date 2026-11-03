@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="gticlub" rom="gticlub">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":AN0" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":AN1" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":AN2" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL3" tag=":AN3" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL3">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_south" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON5" tag=":IN0" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_left" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":IN0" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_east OR JOY_l1" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN0" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_west OR JOY_r1" />
+      </button>
+      <button type="P1_START" tag=":IN0" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_START">
+        <mapping type="standard" name="JOY_start" />
+      </button>
+    </layout>
+  </layouts>
+</game>

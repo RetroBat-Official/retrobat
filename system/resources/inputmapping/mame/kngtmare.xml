@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="kngtmare" rom="kngtmare">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_JOYSTICKLEFT_RIGHT" tag=":IN4" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_LEFT" tag=":IN4" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_LEFT">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_LEFT" tag=":IN4" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_RIGHT" tag=":IN4" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_RIGHT">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN4" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN4" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

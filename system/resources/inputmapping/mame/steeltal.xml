@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="steeltal" rom="steeltal">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":mainpcb:12BADC.0" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":mainpcb:12BADC.1" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":mainpcb:12BADC.2" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":mainpcb:12BADC.3" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+      </button>
+      <button type="P1_BUTTON1" tag=":mainpcb:a80000" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r1 OR JOY_south" />
+      </button>
+      <button type="P1_BUTTON2" tag=":mainpcb:a80000" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON3" tag=":mainpcb:a80000" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON4" tag=":mainpcb:a80000" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="dirtfoxj" rom="dirtfoxj">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":AN5" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":AN6" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":AN7" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MCUB" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_south OR JOY_l1" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MCUB" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west OR JOY_r1" />
+      </button>
+    </layout>
+  </layouts>
+</game>

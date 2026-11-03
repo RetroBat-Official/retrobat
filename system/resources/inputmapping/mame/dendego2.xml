@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="dendego2" rom="dendego2">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":AN.0" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_rsright" />
+        <mapping type="decrement" name="JOY_rsleft" />
+      </button>
+      <button type="P1_POSITIONAL_V" tag=":BUTTONS" mask="119" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL_V">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsup" />
+        <mapping type="decrement" name="JOY_lsdown" />
+      </button>
+      <button type="P1_BUTTON1" tag=":UNUSED" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

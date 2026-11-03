@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="metlhawk" rom="metlhawk">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_Y" tag=":AN5" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":AN6" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":AN7" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":MCUH" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MCUH" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south OR JOY_l2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

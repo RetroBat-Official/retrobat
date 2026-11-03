@@ -28237,3 +28237,33 @@ msgstr "PÉRIPHÉRIQUE DE POINTAGE"
 msgctxt "game_options"
 msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + B switches during the game."
 msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + B bascule pendant le jeu."
+
+msgid "Disable the in-game menu opened with HOTKEY + EAST or CTRL + F12. HOTKEY + EAST can then be used for other hotkeys."
+msgstr "Désactive le menu en jeu ouvert avec HOTKEY + EST ou CTRL + F12. HOTKEY + EST peut alors être utilisé pour d'autres raccourcis."
+
+msgid "DIRECT3D 11"
+msgstr "DIRECT3D 11"
+
+msgid "DIRECT3D 7 (ENHANCED)"
+msgstr "DIRECT3D 7 (AMÉLIORÉ)"
+
+msgid "WASAPI"
+msgstr "WASAPI"
+
+msgid "VECTOR RESOLUTION"
+msgstr "RÉSOLUTION VECTORIELLE"
+
+msgid "Rendering resolution for vector games."
+msgstr "Résolution de rendu des jeux vectoriels."
+
+msgid "SELECT + L + R"
+msgstr "SELECT + L + R"
+
+msgid "ANALOG SPEED"
+msgstr "VITESSE ANALOGIQUE"
+
+msgid "Reduce analog controls speed, some games require low values to be playable."
+msgstr "Réduit la vitesse des contrôles analogiques, certains jeux nécessitent des valeurs basses pour être jouables."
+
+msgid "Automatic uses XInput when all controllers are XInput devices, DirectInput otherwise."
+msgstr "Automatique utilise XInput si toutes les manettes sont XInput, DirectInput sinon."

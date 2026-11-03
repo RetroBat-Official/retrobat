@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="bwidow" rom="bwidow">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_JOYSTICKLEFT_RIGHT" tag=":IN3" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_LEFT" tag=":IN3" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_DOWN" tag=":IN3" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_UP" tag=":IN3" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_RIGHT" tag=":IN4" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_RIGHT">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_LEFT" tag=":IN4" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_LEFT">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_DOWN" tag=":IN4" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_UP" tag=":IN4" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+    </layout>
+  </layouts>
+</game>

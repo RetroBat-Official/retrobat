@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="sarge" rom="sarge">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_JOYSTICKLEFT_UP" tag=":MONO.IP1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_DOWN" tag=":MONO.IP1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_UP" tag=":MONO.IP1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_DOWN" tag=":MONO.IP1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P1_BUTTON1" tag=":MONO.IP1" mask="48" defvalue="48" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MONO.IP1" mask="192" defvalue="192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_UP" tag=":MONO.IP2" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_DOWN" tag=":MONO.IP2" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_UP" tag=":MONO.IP2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_DOWN" tag=":MONO.IP2" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MONO.IP2" mask="48" defvalue="48" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P2_BUTTON2" tag=":MONO.IP2" mask="192" defvalue="192" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

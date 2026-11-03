@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="sprint8" rom="sprint8">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":DIAL1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_DIAL" tag=":DIAL2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_DIAL" tag=":DIAL3" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P3_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P4_DIAL" tag=":DIAL4" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P4_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P5_DIAL" tag=":DIAL5" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P5_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P6_DIAL" tag=":DIAL6" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P6_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P7_DIAL" tag=":DIAL7" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P7_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P8_DIAL" tag=":DIAL8" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P8_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_right" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":P2" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P2_BUTTON2" tag=":P2" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P3_BUTTON1" tag=":P3" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P3_BUTTON2" tag=":P3" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P3_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P4_BUTTON1" tag=":P4" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P4_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P4_BUTTON2" tag=":P4" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P4_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P5_BUTTON1" tag=":P5" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P5_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P5_BUTTON2" tag=":P5" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P5_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P6_BUTTON1" tag=":P6" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P6_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P6_BUTTON2" tag=":P6" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P6_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P7_BUTTON1" tag=":P7" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P7_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P7_BUTTON2" tag=":P7" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P7_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P8_BUTTON1" tag=":P8" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P8_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P8_BUTTON2" tag=":P8" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P8_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

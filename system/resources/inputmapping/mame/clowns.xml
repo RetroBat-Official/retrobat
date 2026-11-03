@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="clowns" rom="clowns">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":CONTP1" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+      <button type="P2_PADDLE" tag=":CONTP2" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P2_PADDLE">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="drivedge" rom="drivedge">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PEDAL3" tag=":80000" mask="16711680" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL3">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_l1" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":82000" mask="16711680" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+      </button>
+      <button type="P1_BUTTON7" tag=":8c000" mask="262144" defvalue="262144" x="30" y="60" color="Blue" function="P1_BUTTON7">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P1_BUTTON8" tag=":8c000" mask="524288" defvalue="524288" x="30" y="60" color="Blue" function="P1_BUTTON8">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P1_BUTTON9" tag=":8c000" mask="1048576" defvalue="1048576" x="30" y="60" color="Blue" function="P1_BUTTON9">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P1_BUTTON10" tag=":8c000" mask="2097152" defvalue="2097152" x="30" y="60" color="Blue" function="P1_BUTTON10">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P1_BUTTON3" tag=":8e000" mask="65536" defvalue="65536" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON4" tag=":8e000" mask="131072" defvalue="131072" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON5" tag=":8e000" mask="262144" defvalue="262144" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON2" tag=":8e000" mask="524288" defvalue="524288" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON6" tag=":8e000" mask="1048576" defvalue="1048576" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":GAS" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PADDLE" tag=":STEER" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

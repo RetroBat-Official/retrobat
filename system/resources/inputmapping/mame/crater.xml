@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="crater" rom="crater">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":ssio:IP0" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_DIAL" tag=":ssio:IP1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":ssio:IP2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":ssio:IP2" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON3" tag=":ssio:IP2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON2" tag=":ssio:IP2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="pkladies" rom="pkladies">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":KEY0" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_POKER_HOLD5" tag=":KEY0" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_POKER_HOLD5">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_POKER_HOLD1" tag=":KEY0" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_POKER_HOLD1">
+        <mapping type="standard" name="JOY_left" />
+      </button>
+      <button type="P1_BUTTON2" tag=":KEY1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_POKER_HOLD2" tag=":KEY1" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_POKER_HOLD2">
+        <mapping type="standard" name="JOY_down" />
+      </button>
+      <button type="P1_BUTTON3" tag=":KEY2" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_POKER_HOLD3" tag=":KEY2" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_POKER_HOLD3">
+        <mapping type="standard" name="JOY_right" />
+      </button>
+      <button type="P1_POKER_HOLD4" tag=":KEY3" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_POKER_HOLD4">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+    </layout>
+  </layouts>
+</game>

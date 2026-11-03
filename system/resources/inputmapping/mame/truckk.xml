@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="truckk" rom="truckk">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PEDAL2" tag=":BRAKE" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="KEYCODE_DEL" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":GAS" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="KEYCODE_DEL" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":IN0" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_l1 OR JOY_west" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN0" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_r1 OR JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN0" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON4" tag=":IN0" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN0" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_right" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN0" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_left" />
+      </button>
+      <button type="P1_PADDLE" tag=":STEER" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

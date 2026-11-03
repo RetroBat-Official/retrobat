@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="burgkids" rom="burgkids">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_SLOT_STOP1" tag=":IN1" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_SLOT_STOP1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_SLOT_STOP2" tag=":IN1" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_SLOT_STOP2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_SLOT_STOP3" tag=":IN1" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_SLOT_STOP3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_SLOT_STOP4" tag=":IN2" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_SLOT_STOP4">
+        <mapping type="standard" name="JOY_down" />
+      </button>
+    </layout>
+  </layouts>
+</game>

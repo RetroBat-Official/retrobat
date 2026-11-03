@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="thrilld" rom="thrilld">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":ANALOG1" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":ANALOG2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":ANALOG3" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL3" tag=":ANALOG4" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL3">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_south" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":IN0" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_east OR JOY_l1" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN0" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_west OR JOY_r1" />
+      </button>
+    </layout>
+  </layouts>
+</game>

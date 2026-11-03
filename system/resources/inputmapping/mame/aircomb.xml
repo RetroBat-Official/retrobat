@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="aircomb" rom="aircomb">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":AN1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":AN2" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":AN3" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_r2trigger" />
+        <mapping type="decrement" name="JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON4" tag=":MCUH" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MCUH" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON6" tag=":MCUH" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MCUH" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":MCUH" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":MCUH" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+    </layout>
+  </layouts>
+</game>

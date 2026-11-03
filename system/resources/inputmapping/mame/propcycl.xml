@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="propcycl" rom="propcycl">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":ADC.0" mask="1023" defvalue="511" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":ADC.1" mask="1023" defvalue="511" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":OPT.0" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="JOY_l2trigger" />
+        <mapping type="decrement" name="JOY_r2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

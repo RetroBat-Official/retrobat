@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="lastsurv" rom="lastsurv">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_JOYSTICK_LEFT" tag=":mainpcb:MUX0" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P2_JOYSTICK_RIGHT" tag=":mainpcb:MUX0" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P2_JOYSTICK_UP" tag=":mainpcb:MUX0" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P2_JOYSTICK_DOWN" tag=":mainpcb:MUX0" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P2_POSITIONAL" tag=":mainpcb:MUX0" mask="240" defvalue="176" x="30" y="60" color="Blue" function="P2_POSITIONAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_rsright OR JOY_r1" />
+        <mapping type="decrement" name="JOY_rsleft OR JOY_l1" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":mainpcb:MUX1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":mainpcb:MUX1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":mainpcb:MUX1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":mainpcb:MUX1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_POSITIONAL" tag=":mainpcb:MUX1" mask="240" defvalue="176" x="30" y="60" color="Blue" function="P1_POSITIONAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_rsright OR JOY_r1" />
+        <mapping type="decrement" name="JOY_rsleft OR JOY_l1" />
+      </button>
+      <button type="P2_BUTTON1" tag=":mainpcb:MUX2" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south OR JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON1" tag=":mainpcb:MUX2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south OR JOY_r2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

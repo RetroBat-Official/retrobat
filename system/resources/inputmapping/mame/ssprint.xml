@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="ssprint" rom="ssprint">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PEDAL" tag=":ADC0" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL" tag=":ADC1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_PEDAL" tag=":ADC2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P3_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":LETA0" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_DIAL" tag=":LETA1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_DIAL" tag=":LETA2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P3_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

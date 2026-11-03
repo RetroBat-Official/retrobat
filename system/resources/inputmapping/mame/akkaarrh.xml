@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="akkaarrh" rom="akkaarrh">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":7080" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west OR JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON1" tag=":7080" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south OR JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":7080" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_TRACKBALL_X" tag=":7082" mask="15" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":7083" mask="15" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

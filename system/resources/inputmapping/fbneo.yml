@@ -32817,7 +32817,7 @@ apb:
   Button 1: x
   Button 2: a
   Wheel: leftx_axis
-  Pedal: righttrigger
+  Pedal: righttrigger_axis
   Service: rightstick
 atarisy1:
   players: 1
@@ -32864,7 +32864,7 @@ csprint:
   Coin: back
   Start: start
   Wheel: leftx_axis
-  Pedal: righttrigger
+  Pedal: righttrigger_axis
 gaunt2:
   players: 4
   Coin: back
@@ -33049,7 +33049,7 @@ roadblst:
   Lasers: x
   Special Weapon: a
   P1 Wheel: leftx_axis
-  P1 Accelerator: righttrigger
+  P1 Accelerator: righttrigger_axis
 roadrunn:
   players: 1
   noplayer: 1
@@ -33063,7 +33063,7 @@ ssprint:
   Coin: back
   Start: start
   Wheel: leftx_axis
-  Pedal: righttrigger
+  Pedal: righttrigger_axis
 # CAPCOM (generated from FBNeo drivers)
 block:
   players: 2
@@ -54368,8 +54368,8 @@ buggyboy:
   Steering: leftx_axis
   Left: dpleft
   Right: dpright
-  Accelerator: righttrigger
-  Brake: lefttrigger
+  Accelerator: righttrigger_axis
+  Brake: lefttrigger_axis
   Gear Change: x
   Service: rightstick
 bullfgtr:
@@ -55924,7 +55924,7 @@ cybertnk:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Accel: righttrigger
+  Accel: righttrigger_axis
   Button 1: x
   Button 2: a
   Service: rightstick
@@ -62972,7 +62972,7 @@ maxrpm:
   Coin: back
   Start: start
   Wheel: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Shift Up: dpup
   Shift Down: dpdown
   Service: rightstick
@@ -68928,7 +68928,7 @@ spyhunt2:
   Coin: back
   Start: start
   Wheel: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   R Trigger: x
   R Button: a
   L Trigger: b
@@ -70354,7 +70354,7 @@ tceptor:
   Coin: back
   X Axis: leftx_axis
   Y Axis: lefty_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Button 1: x
   Button 2: a
   Button 3: b
@@ -71466,8 +71466,8 @@ tx1:
   Steering: leftx_axis
   Left: dpleft
   Right: dpright
-  Accelerator: righttrigger
-  Brake: lefttrigger
+  Accelerator: righttrigger_axis
+  Brake: lefttrigger_axis
   Gear Change: x
 tylz:
   players: 1
@@ -75303,7 +75303,7 @@ bigrun:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Brake: lefttrigger
   Gear Shift: x
   Horn: a
@@ -77856,8 +77856,8 @@ dirtfoxj:
   noplayer: 1
   Coin: back
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   Gear Up: x
   Gear Down: a
   Service: rightstick
@@ -79021,7 +79021,7 @@ f1gpstar:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Gear Shift: x
   Brake: lefttrigger
   Service: rightstick
@@ -79030,7 +79030,7 @@ f1gpstr2:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Gear Shift: x
   Brake: lefttrigger
   Service: rightstick
@@ -79175,8 +79175,8 @@ finalap2:
   noplayer: 1
   P1 Coin: back
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 finalap3:
@@ -79184,8 +79184,8 @@ finalap3:
   noplayer: 1
   P1 Coin: back
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 finalgdr:
@@ -79241,8 +79241,8 @@ finallap:
   noplayer: 1
   P1 Coin: back
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 finalttr:
@@ -79519,8 +79519,8 @@ fourtrax:
   P1 Coin: back
   P1 Start: start
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 fstarfrc:
@@ -92527,8 +92527,8 @@ suzuk8h2:
   P1 Coin: back
   P1 Start: start
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 suzuka8h:
@@ -92537,8 +92537,8 @@ suzuka8h:
   P1 Coin: back
   P1 Start: start
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   P1 Gear: x
   Service: rightstick
 swatpolc:
@@ -96248,7 +96248,7 @@ abcop:
   Coin 1: back
   Start 1: start
   Left/Right: leftx_axis
-  Accelerate: righttrigger
+  Accelerate: righttrigger_axis
   Jump: x
   Service: rightstick
 aburner:
@@ -96258,7 +96258,7 @@ aburner:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Vulcan: x
   Missile: a
   Service: rightstick
@@ -96269,7 +96269,7 @@ aburner2:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Vulcan: x
   Missile: a
   Service: rightstick
@@ -96585,7 +96585,7 @@ arescue:
   Button 2: a
   Left / Right: leftx_axis
   Up / Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Service: rightstick
 astorm:
   players: 2
@@ -97910,8 +97910,8 @@ enduror:
   Start 1: start
   Steering: leftx_axis
   Bank Up/Down: lefty_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service: rightstick
 eswat:
   players: 2
@@ -97968,8 +97968,8 @@ f1en:
   Shift Up: x
   Shift Down: a
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 f1lap:
   players: 1
@@ -97979,8 +97979,8 @@ f1lap:
   Shift Down: a
   Overtake: b
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 fantzn2:
   players: 2
@@ -98301,8 +98301,8 @@ gforce2:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Shoot: x
   Missile: a
   Service: rightstick
@@ -98353,7 +98353,7 @@ gloc:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Fire 1: x
   Fire 2: a
   Fire 3: b
@@ -98412,8 +98412,8 @@ gprider:
   Coin 1: back
   Start 1: start
   Left/Right: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Shift Down: x
   Shift Up: a
   Service: rightstick
@@ -98471,15 +98471,15 @@ hangon:
   Coin 1: back
   Start 1: start
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service: rightstick
 hangonjr:
   players: 1
   Coin: back
   Start: start
   Steering: leftx_axis
-  Accelerate: righttrigger
+  Accelerate: righttrigger_axis
   Service: rightstick
 harddunk:
   players: 1
@@ -98623,7 +98623,7 @@ hotrod:
   players: 3
   Coin: back
   Wheel: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Service 1: rightstick
 hvymetal:
   players: 2
@@ -99418,8 +99418,8 @@ orunners:
   Music -: y
   Music +: leftshoulder
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 outrun:
   players: 1
@@ -99427,8 +99427,8 @@ outrun:
   Coin 1: back
   Start 1: start
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Gear: y
   Service: rightstick
 passsht:
@@ -99489,8 +99489,8 @@ pdrift:
   Coin 1: back
   Start 1: start
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Gear: x
   Service: rightstick
 pignewt:
@@ -99833,8 +99833,8 @@ rachero:
   Coin 1: back
   Start 1: start
   Left/Right: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Move to centre: x
   Suicide: a
   Service: rightstick
@@ -99845,8 +99845,8 @@ radm:
   Headlights: x
   Wipers: a
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 radr:
   players: 1
@@ -99854,8 +99854,8 @@ radr:
   Start: start
   Shift: x
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 raflesia:
   players: 2
@@ -99908,7 +99908,7 @@ rascot:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Vulcan: x
   Missile: a
   Service: rightstick
@@ -100147,7 +100147,7 @@ scross:
   Wheelie: a
   Brake: lefttrigger
   Steering: leftx_axis
-  Accelerate: righttrigger
+  Accelerate: righttrigger_axis
   Service 1: rightstick
 seganinj:
   players: 2
@@ -100255,8 +100255,8 @@ shangon:
   Coin 1: back
   Start 1: start
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Super Charger: x
   Service: rightstick
 sharrier:
@@ -100490,8 +100490,8 @@ slipstrm:
   Start: start
   Shift: x
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Service 1: rightstick
 smgp:
   players: 1
@@ -100499,8 +100499,8 @@ smgp:
   Coin 1: back
   Start 1: start
   Left/Right: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Shift Down: x
   Shift Up: a
   Service: rightstick
@@ -101036,7 +101036,7 @@ strkfgtr:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Fire 1: x
   Fire 2: a
   Fire 3: b
@@ -101474,7 +101474,7 @@ thndrbld:
   Start 1: start
   Left/Right: leftx_axis
   Up/Down: lefty_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Cannon: x
   Missile: a
   Service: rightstick
@@ -101605,8 +101605,8 @@ toutrun:
   Coin 1: back
   Start 1: start
   Steering: leftx_axis
-  Accelerate: righttrigger
-  Brake: lefttrigger
+  Accelerate: righttrigger_axis
+  Brake: lefttrigger_axis
   Gear: x
   Nitro: a
   Service: rightstick
@@ -102789,7 +102789,7 @@ buggychl:
   P1 Start: start
   P1 Gear Shift: x
   Left/Right: leftx_axis
-  Throttle: righttrigger
+  Throttle: righttrigger_axis
   Service: rightstick
 bygone:
   players: 2
@@ -103206,8 +103206,8 @@ contcirc:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Brake: lefttrigger
-  Accelerator: righttrigger
+  Brake: lefttrigger_axis
+  Accelerator: righttrigger_axis
   Gear Shift: x
   Service: rightstick
 crbaloon:
@@ -104793,7 +104793,7 @@ groundfx:
   Shift Lo: x
   Shift Hi: a
   Steering: leftx_axis
-  Accelerator: righttrigger
+  Accelerator: righttrigger_axis
   Service: rightstick
 growl:
   players: 4
@@ -109087,8 +109087,8 @@ topspeed:
   Coin: back
   Start: start
   Steering: leftx_axis
-  Fire 1 (Accelerator): righttrigger
-  Fire 2 (Brake): lefttrigger
+  Fire 1 (Accelerator): righttrigger_axis
+  Fire 2 (Brake): lefttrigger_axis
   Fire 3 (Nitro): x
   Fire 4 (Gear): a
   Service: rightstick

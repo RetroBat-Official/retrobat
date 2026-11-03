@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="scrossa" rom="scrossa">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":mainpcb:ANALOG1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":mainpcb:ANALOG2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PADDLE" tag=":mainpcb:ANALOG3" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL" tag=":mainpcb:ANALOG4" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":mainpcb:P1_A" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":mainpcb:P1_A" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON3" tag=":mainpcb:P1_A" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P2_BUTTON1" tag=":mainpcb:P1_B" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":mainpcb:P1_B" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON3" tag=":mainpcb:P1_B" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P2_JOYSTICK_DOWN" tag=":mainpcb:P2_A" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_JOYSTICK_DOWN">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_UP" tag=":mainpcb:P2_A" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_JOYSTICK_UP">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_RIGHT" tag=":mainpcb:P2_A" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_JOYSTICK_RIGHT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_LEFT" tag=":mainpcb:P2_A" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P2_JOYSTICK_LEFT">
+        <mapping type="standard" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

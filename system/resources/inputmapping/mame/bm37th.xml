@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="bm37th" rom="bm37th">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":EFFECT1" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT2" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT3" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT4" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT5" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT6" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_DIAL" tag=":EFFECT7" mask="31" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON6" tag=":IN0" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON6" tag=":IN0" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON6">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IO1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IO1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_down" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IO1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON4" tag=":IO1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":IO1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IO3" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IO3" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_down" />
+      </button>
+      <button type="P2_BUTTON3" tag=":IO3" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON4" tag=":IO3" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON5" tag=":IO3" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_TRACKBALL_X" tag=":TURNTABLE_P1" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_X" tag=":TURNTABLE_P2" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

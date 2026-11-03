@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="soniccar" rom="soniccar">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":P1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON4" tag=":P1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_RIGHT" tag=":P1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_LEFT" tag=":P1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_RIGHT" tag=":P1" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_LEFT" tag=":P1" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_BUTTON3" tag=":SERVICE" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>
