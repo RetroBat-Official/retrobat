@@ -18,11 +18,12 @@
 #   coin and service are given to the player of the controller (coin1 / coin2, 1p_service / 2p_service)
 #   Brave Firefighters : the 1p_ controls are also used for player 2 (2p_)
 #
+# test (enters the Test menu) and service (moves in it) are on R3 and L3, as on the other arcade systems.
+#
 # Always mapped, not configurable here :
 #   keyboard : starts 1-2, coins 5-6, Test 9, Service 0 and the Odin keys of each game (OPTIONS)
-#   gamepad : Test = hotkey (Select) + R3, or Guide + R3
 #
-# The defaults below are the Odin gamepad defaults.
+# The defaults below are the Odin gamepad defaults, with Test and Service on R3 and L3.
 #
 default:
   select: coin
@@ -31,6 +32,8 @@ default:
 # Air Trix : the left stick turns (yaw), the right stick rolls the board
 airtrix:
   select: coin
+  l3: service
+  r3: test
   start: start
   left: left
   right: right
@@ -42,6 +45,8 @@ airtrix:
 # Brave Firefighters : the left stick aims the nozzle (a light gun or the mouse aims too)
 braveff:
   select: coin
+  l3: service
+  r3: test
   start: 1p_start
   r2: 1p_water
   l2: 1p_fog
@@ -51,6 +56,8 @@ braveff:
 # Planet Harriers : flight stick on the left stick
 pharrier:
   select: coin
+  l3: service
+  r3: test
   start: start
   r2: bullet
   l2: missile
@@ -63,6 +70,8 @@ pharrier:
 # Star Wars Racer Arcade : one lever on each stick
 swracer:
   select: coin
+  l3: service
+  r3: test
   start: start
   south: boost
   r2: brake
@@ -74,6 +83,8 @@ swracer:
 # NASCAR Arcade : a wheel is set by the wheel options
 sgnascar:
   select: coin
+  l3: service
+  r3: test
   start: start
   leftx: steering_wheel
   r2: gas_pedal
@@ -85,6 +96,8 @@ sgnascar:
 # Cyber Troopers Virtual-On Force : twin sticks, one lever on each stick
 von4:
   select: coin
+  l3: service
+  r3: test
   start: start
   lefty-up: left_lever_up
   lefty-down: left_lever_down
