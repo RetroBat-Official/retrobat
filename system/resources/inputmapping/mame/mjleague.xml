@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="mjleague" rom="mjleague">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_TRACKBALL_X" tag=":ANALOGX1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_X" tag=":ANALOGX2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":ANALOGY1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_Y" tag=":ANALOGY2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":ANALOGZ1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Z" tag=":ANALOGZ2" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":BUTTONS1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P1_BUTTON3" tag=":BUTTONS1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON4" tag=":BUTTONS1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON5" tag=":BUTTONS1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON1" tag=":BUTTONS1" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON2" tag=":BUTTONS2" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_r1" />
+      </button>
+      <button type="P2_BUTTON3" tag=":BUTTONS2" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON4" tag=":BUTTONS2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P2_BUTTON5" tag=":BUTTONS2" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON1" tag=":BUTTONS2" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

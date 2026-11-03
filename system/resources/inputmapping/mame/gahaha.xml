@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="gahaha" rom="gahaha">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":EXIO_ANALOG1" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":EXIO_ANALOG2" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":EXIO_ANALOG3" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":EXIO_ANALOG4" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":EXIO_ANALOG5" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":EXIO_ANALOG6" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":EXIO_ANALOG7" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":EXIO_ANALOG8" mask="1023" defvalue="0" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south OR JOY_r3" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_l3" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":IN1" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up" />
+      </button>
+      <button type="P1_BUTTON5" tag=":IN1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN1" mask="256" defvalue="256" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south OR JOY_r3" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN1" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_l3" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="airco22b" rom="airco22b">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":ADC.0" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":ADC.1" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":ADC.2" mask="1023" defvalue="512" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="JOY_l2trigger" />
+        <mapping type="decrement" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_l1 OR JOY_west" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="archrivl" rom="archrivl">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":49WAYX1" mask="255" defvalue="56" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":49WAYX2" mask="255" defvalue="56" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":49WAYY1" mask="255" defvalue="56" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":49WAYY2" mask="255" defvalue="56" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN0" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN0" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN0" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN0" mask="32768" defvalue="32768" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="maxrpm" rom="maxrpm">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_PEDAL" tag=":MONO.IP1" mask="255" defvalue="48" x="30" y="60" color="Blue" function="P2_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":MONO.IP1.ALT1" mask="255" defvalue="48" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PADDLE" tag=":MONO.IP1.ALT2" mask="255" defvalue="116" x="30" y="60" color="Blue" function="P2_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PADDLE" tag=":MONO.IP1.ALT3" mask="255" defvalue="116" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":SHIFT" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_r1 OR JOY_west" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":SHIFT" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_l1 OR JOY_east" />
+      </button>
+      <button type="P2_JOYSTICK_UP" tag=":SHIFT" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_r1 OR JOY_west" />
+      </button>
+      <button type="P2_JOYSTICK_DOWN" tag=":SHIFT" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P2_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_l1 OR JOY_east" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="motofren" rom="motofren">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_X" tag=":A2D1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":A2D2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON4" tag=":P1_P2" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON3" tag=":P1_P2" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1_P2" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+    </layout>
+  </layouts>
+</game>

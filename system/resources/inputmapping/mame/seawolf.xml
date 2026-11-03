@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="seawolf" rom="seawolf">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_POSITIONAL" tag=":IN0" mask="31" defvalue="15" x="30" y="60" color="Blue" function="P1_POSITIONAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN0" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

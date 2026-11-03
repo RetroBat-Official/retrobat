@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="ridgera2" rom="ridgera2">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":ADC.0" mask="4095" defvalue="2048" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":ADC.1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":ADC.2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":INPUTS" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_l1 OR JOY_east" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":INPUTS" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_r1 OR JOY_west" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":INPUTS" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":INPUTS" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":INPUTS" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="cischeat" rom="cischeat">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":IN2" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN2" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON4" tag=":IN2" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_PADDLE" tag=":IN6" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

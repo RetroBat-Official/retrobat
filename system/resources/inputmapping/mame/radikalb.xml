@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="radikalb" rom="radikalb">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":ANALOG0" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN0" mask="524288" defvalue="524288" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN0" mask="1048576" defvalue="1048576" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN0" mask="2097152" defvalue="2097152" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south OR JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN0" mask="4194304" defvalue="4194304" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_r2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

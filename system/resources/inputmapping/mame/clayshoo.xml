@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="clayshoo" rom="clayshoo">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_AD_STICK_Y" tag=":AN1" mask="15" defvalue="8" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":AN2" mask="15" defvalue="8" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_BUTTON2" tag=":FAKE" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_BUTTON3" tag=":FAKE" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_BUTTON4" tag=":FAKE" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P2_BUTTON4">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":FAKE" mask="8" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":FAKE" mask="16" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON4" tag=":FAKE" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN2" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN2" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="tmek" rom="tmek">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_AD_STICK_X" tag=":AN1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":AN2" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":AN3" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":AN4" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_BUTTON1" tag=":P1_P2" mask="512" defvalue="512" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P2_BUTTON2" tag=":P1_P2" mask="1024" defvalue="1024" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON3" tag=":P1_P2" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_RIGHT" tag=":P1_P2" mask="4096" defvalue="4096" x="30" y="60" color="Blue" function="P2_JOYSTICK_RIGHT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_LEFT" tag=":P1_P2" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P2_JOYSTICK_LEFT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_DOWN" tag=":P1_P2" mask="16384" defvalue="16384" x="30" y="60" color="Blue" function="P2_JOYSTICK_DOWN">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICK_UP" tag=":P1_P2" mask="32768" defvalue="32768" x="30" y="60" color="Blue" function="P2_JOYSTICK_UP">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":P1_P2" mask="33554432" defvalue="33554432" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1_P2" mask="67108864" defvalue="67108864" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON3" tag=":P1_P2" mask="134217728" defvalue="134217728" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_RIGHT" tag=":P1_P2" mask="268435456" defvalue="268435456" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_LEFT" tag=":P1_P2" mask="536870912" defvalue="536870912" x="30" y="60" color="Blue" function="P1_JOYSTICK_LEFT">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":P1_P2" mask="1073741824" defvalue="1073741824" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="NONE" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":P1_P2" mask="2147483648" defvalue="2147483648" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

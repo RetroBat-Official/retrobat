@@ -16,7 +16,7 @@
 #
 # Always mapped unless changed here : d-pad (and left stick) = directions, select = Coin, start = Start, L1 = GearDown, R1 = GearUp
 # Steering, pedals and gun aiming are analog : left stick, right trigger (accelerator), left trigger (brake)
-# Test / Service : Guide + R3 / Guide + L3 (sm2-emu shortcut), or keys 9 / 0
+# Test / Service : R3 / L3 (sent as keys by RetroBat), Guide + R3 / Guide + L3 (sm2-emu shortcut), or keys 0 / 9
 #
 # sm2-emu limits (not configurable) :
 # - the VR / view buttons of the driving games are always south, east, west, north (VR1 to VR4)

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="otwalls" rom="otwalls">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":AN2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_DIAL" tag=":AN3" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_DIAL">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_LEFT" tag=":IN0" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_RIGHT" tag=":IN0" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_LEFT" tag=":IN0" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_RIGHT" tag=":IN0" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+    </layout>
+  </layouts>
+</game>

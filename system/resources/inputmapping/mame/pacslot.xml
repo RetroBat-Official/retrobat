@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="pacslot" rom="pacslot">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_GAMBLE_PAYOUT" tag=":IN0" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_GAMBLE_PAYOUT">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN0" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

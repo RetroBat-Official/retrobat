@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="dogpatch" rom="dogpatch">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_POSITIONAL_V" tag=":IN0" mask="112" defvalue="48" x="30" y="60" color="Blue" function="P2_POSITIONAL_V">
+        <mapping type="standard" name="JOY_leftsticky_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN0" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_POSITIONAL_V" tag=":IN1" mask="112" defvalue="48" x="30" y="60" color="Blue" function="P1_POSITIONAL_V">
+        <mapping type="standard" name="JOY_leftsticky_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN1" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

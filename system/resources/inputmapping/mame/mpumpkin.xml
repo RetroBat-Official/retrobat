@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="mpumpkin" rom="mpumpkin">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_POSITIONAL" tag=":IN1" mask="3" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN1" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN1" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="piratesh" rom="piratesh">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":HELM" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":IN0" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_JOYSTICK_DOWN" tag=":IN0" mask="1024" defvalue="1024" x="30" y="60" color="Blue" function="P1_JOYSTICK_DOWN">
+        <mapping type="standard" name="JOY_down OR JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICK_UP" tag=":IN0" mask="2048" defvalue="2048" x="30" y="60" color="Blue" function="P1_JOYSTICK_UP">
+        <mapping type="standard" name="JOY_up OR JOY_lsup" />
+      </button>
+      <button type="P1_START" tag=":IN0" mask="8192" defvalue="8192" x="30" y="60" color="Blue" function="P1_START">
+        <mapping type="standard" name="JOY_start" />
+      </button>
+    </layout>
+  </layouts>
+</game>

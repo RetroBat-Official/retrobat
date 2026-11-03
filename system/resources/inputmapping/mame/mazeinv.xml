@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="mazeinv" rom="mazeinv">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":IN2" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":IN3" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN3" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":STICK0" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsdown" />
+        <mapping type="decrement" name="JOY_lsup" />
+      </button>
+      <button type="P2_AD_STICK_Y" tag=":STICK1" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsdown" />
+        <mapping type="decrement" name="JOY_lsup" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":STICK2" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":STICK3" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+    </layout>
+  </layouts>
+</game>

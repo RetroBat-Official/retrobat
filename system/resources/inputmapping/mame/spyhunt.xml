@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="spyhunt" rom="spyhunt">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":ssio:IP0" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON4" tag=":ssio:IP1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON4">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON3" tag=":ssio:IP1" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_BUTTON5" tag=":ssio:IP1" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON5">
+        <mapping type="standard" name="JOY_l1" />
+      </button>
+      <button type="P1_BUTTON6" tag=":ssio:IP1" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON6">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_PEDAL" tag=":ssio:IP2" mask="255" defvalue="48" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+      </button>
+      <button type="P1_PADDLE" tag=":ssio:IP2.ALT" mask="255" defvalue="116" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

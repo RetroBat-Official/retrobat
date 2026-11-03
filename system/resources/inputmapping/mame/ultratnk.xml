@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="ultratnk" rom="ultratnk">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":ANALOG" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P2_BUTTON1" tag=":ANALOG" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_DOWN" tag=":JOY-W" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_UP" tag=":JOY-W" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_DOWN" tag=":JOY-X" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_UP" tag=":JOY-X" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_DOWN" tag=":JOY-Y" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_UP" tag=":JOY-Y" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_DOWN" tag=":JOY-Z" mask="1" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_UP" tag=":JOY-Z" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+    </layout>
+  </layouts>
+</game>

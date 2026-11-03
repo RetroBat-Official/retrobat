@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="exctleag" rom="exctleag">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_TRACKBALL_X" tag=":ANALOGX1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_X" tag=":ANALOGX2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":ANALOGY1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_Y" tag=":ANALOGY2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_POSITIONAL_V" tag=":P1" mask="7" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL_V">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_POSITIONAL_V" tag=":P1" mask="24" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL_V">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_POSITIONAL_V" tag=":P1" mask="224" defvalue="0" x="30" y="60" color="Blue" function="P1_POSITIONAL_V">
+        <mapping type="standard" name="JOY_leftsticky_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_POSITIONAL_V" tag=":P2" mask="7" defvalue="0" x="30" y="60" color="Blue" function="P2_POSITIONAL_V">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_POSITIONAL_V" tag=":P2" mask="24" defvalue="0" x="30" y="60" color="Blue" function="P2_POSITIONAL_V">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_POSITIONAL_V" tag=":P2" mask="224" defvalue="0" x="30" y="60" color="Blue" function="P2_POSITIONAL_V">
+        <mapping type="standard" name="JOY_leftsticky_reverse" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":UNUSED" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P1_BUTTON1" tag=":UNUSED" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON2" tag=":UNUSED" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON3" tag=":UNUSED" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON3">
+        <mapping type="standard" name="JOY_east" />
+      </button>
+      <button type="P2_BUTTON1" tag=":UNUSED" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P2_BUTTON2" tag=":UNUSED" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+    </layout>
+  </layouts>
+</game>

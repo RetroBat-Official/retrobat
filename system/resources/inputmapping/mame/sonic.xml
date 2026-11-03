@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="sonic" rom="sonic">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":mainpcb:P1_A" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P3_BUTTON1" tag=":mainpcb:P1_A" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P3_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":mainpcb:P2_A" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_TRACKBALL_X" tag=":mainpcb:TRACKX1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_X" tag=":mainpcb:TRACKX2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_TRACKBALL_X" tag=":mainpcb:TRACKX3" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P3_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":mainpcb:TRACKY1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_Y" tag=":mainpcb:TRACKY2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_TRACKBALL_Y" tag=":mainpcb:TRACKY3" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P3_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

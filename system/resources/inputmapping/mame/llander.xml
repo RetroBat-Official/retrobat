@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="llander" rom="llander">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON3" tag=":IN1" mask="32" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON2" tag=":IN1" mask="64" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN1" mask="128" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_PEDAL" tag=":THRUST" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

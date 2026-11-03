@@ -169,6 +169,16 @@ default_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+11beat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 1941:
   analog_dpad_mode: 0
   btn_a: 1
@@ -689,6 +699,16 @@ default_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+280zzzap:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 3countb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1213,6 +1233,16 @@ default_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+720:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 88games:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1373,6 +1403,66 @@ default_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+aafb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+aafbd2p:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+abaseb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+abcop:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+aburner:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
+aburner2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
 acchi:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1453,6 +1543,26 @@ ace_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+aceattac:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+acedrive:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 acrobatm:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1613,6 +1723,16 @@ ad2083_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+adillor:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 aerofgt:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1733,6 +1853,16 @@ afighter_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+afighterf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 agallet:
   analog_dpad_mode: 0
   btn_a: 1
@@ -1933,6 +2063,26 @@ airbustr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+airco22b:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 0
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+aircomb:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 airduel:
   analog_dpad_mode: 0
   btn_a: 1
@@ -2133,6 +2283,16 @@ akazukin_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+akkaarrh:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 0
 alcon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -2253,6 +2413,16 @@ alibaba_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+alien3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 aliencha:
   analog_dpad_mode: 0
   btn_a: 10
@@ -2493,6 +2663,16 @@ alinvade_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+alleymas:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 alpha1v:
   analog_dpad_mode: 0
   btn_a: 1
@@ -2651,6 +2831,36 @@ alpine_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+alpinerd:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+alpines:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+alpinr2b:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
   btn_l2: -1
   btn_r2: -1
 altair:
@@ -2813,6 +3023,16 @@ ambush_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+amerdart:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 amidar:
   analog_dpad_mode: 0
   btn_a: 1
@@ -2849,6 +3069,16 @@ amidar_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+amspdwy:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -2969,6 +3199,16 @@ andromed_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+angelkds:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -3333,6 +3573,36 @@ aoh_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+apache3:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 1
+apb:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+aplarail:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 appoooh:
   analog_dpad_mode: 0
   btn_a: 1
@@ -3373,6 +3643,26 @@ appoooh_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+aquajack:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 9
+aquajet:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 aquarium:
   analog_dpad_mode: 0
   btn_a: 1
@@ -4173,6 +4463,16 @@ arabian_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+arabianm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 arbalest:
   analog_dpad_mode: 0
   btn_a: 1
@@ -4253,6 +4553,16 @@ arcadian_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+archrivl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 archrivlb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -4293,6 +4603,26 @@ archrivlb_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+arescue:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+arescueu:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 argus:
   analog_dpad_mode: 0
   btn_a: 1
@@ -4333,6 +4663,16 @@ argus_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+arkanoid:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 arkarea:
   analog_dpad_mode: 0
   btn_a: 1
@@ -4368,6 +4708,36 @@ arkarea_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+arkatour:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+arknoid2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+arkretrn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -4653,6 +5023,26 @@ aso_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+assault:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+assaultp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 astdelux:
   analog_dpad_mode: 0
   btn_a: 11
@@ -5229,6 +5619,26 @@ asylum_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+atarifb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ataxx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 atetris:
   analog_dpad_mode: 0
   btn_a: 1
@@ -5509,6 +5919,16 @@ aurail_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+avalnche:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 avengers:
   analog_dpad_mode: 0
   btn_a: 1
@@ -5669,6 +6089,16 @@ avspirit_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+aztarac:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 azurian:
   analog_dpad_mode: 0
   btn_a: 1
@@ -5749,6 +6179,26 @@ b2b_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+backfire:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+backfirea:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 backfirt:
   analog_dpad_mode: 0
   btn_a: 1
@@ -5829,6 +6279,16 @@ baddudes_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+badlands:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 bagman:
   analog_dpad_mode: 0
   btn_a: 1
@@ -6223,6 +6683,26 @@ banbam_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bandido:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+bandit:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -7069,6 +7549,16 @@ bbredux_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bbust2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: 1
+  btn_l2: 8
+  btn_r2: 0
 bchopper:
   analog_dpad_mode: 0
   btn_a: 1
@@ -7189,6 +7679,16 @@ bcstry_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+beaminv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 beastrzr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -7226,6 +7726,16 @@ beastrzr_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+beezer:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -7349,6 +7859,16 @@ berlwall_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bermudat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 berzerk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -7509,6 +8029,16 @@ bgaregga_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bigevglf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bigfight:
   analog_dpad_mode: 0
   btn_a: 1
@@ -7629,6 +8159,16 @@ bigprowr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bigrun:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: 9
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 13
 bigstrik:
   analog_dpad_mode: 0
   btn_a: 1
@@ -7949,6 +8489,16 @@ birdiy_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+birdtry:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bishi:
   analog_dpad_mode: 0
   btn_a: 1
@@ -8065,6 +8615,36 @@ bjtwin_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bking:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bking2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bking3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -8309,6 +8889,16 @@ blasted_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+blaster:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 blasto:
   analog_dpad_mode: 0
   btn_a: 1
@@ -8546,6 +9136,36 @@ bldyror2_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blitz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blitz2k:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blitz99:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -8949,6 +9569,16 @@ blocken_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+blockgal:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 blockhl:
   analog_dpad_mode: 0
   btn_a: 1
@@ -9149,6 +9779,16 @@ bloxeed_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+blstroid:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: 9
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 blswhstl:
   analog_dpad_mode: 0
   btn_a: 1
@@ -9269,6 +9909,16 @@ blueprnt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+blueshrk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 blzntrnd:
   analog_dpad_mode: 0
   btn_a: 1
@@ -9307,6 +9957,141 @@ blzntrnd_6alternative:
   btn_y: 8
   btn_l: 9
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bm1stmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm2ndmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm3:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 0
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bm36th:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 0
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bm37th:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 0
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bm3core:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 0
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bm3final:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 0
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bm3rdeaa:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm3rdmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm4thmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm5thmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm6thmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bm7thmix:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
   btn_l2: -1
   btn_r2: -1
 bmaster:
@@ -9349,6 +10134,164 @@ bmaster_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bmclubmx:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmcmxaac:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmcompm2:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmcompmx:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmcorerm:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmdct:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmfinal:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+bmiidx2:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx3:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx4:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx5:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx6:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx7:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidx8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
+bmiidxs:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 11
+  btn_y: 1
+  btn_l: 0
+  btn_r: 14
+  btn_l2: -1
+  btn_r2: -1
+  btn_down: 8
 bmxstunts:
   analog_dpad_mode: 0
   btn_a: 1
@@ -9585,6 +10528,16 @@ boggy84_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bombbee:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -9909,6 +10862,16 @@ boomrang_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+boothill:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 borench:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10023,6 +10986,26 @@ botanic_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+botss:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+botss11:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -10189,6 +11172,26 @@ bowl3d_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bowler:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: 8
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bowlrama:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bowmen:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10226,6 +11229,16 @@ bowmen_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+boxingb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -10269,6 +11282,19 @@ boxyboy_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bradley:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 14
+  btn_y: -1
+  btn_l: -1
+  btn_r: 15
+  btn_l2: -1
+  btn_r2: 0
+  btn_down: 8
+  btn_left: 9
+  btn_up: 11
 brain:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10429,6 +11455,16 @@ breakers_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+breakout:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 breakrev:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10466,6 +11502,16 @@ breakrev_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+brickzn:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -10749,6 +11795,26 @@ brvblade_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bshark:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 14
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bsktball:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bssoccer:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10941,6 +12007,16 @@ btoads_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bubblem:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bubl2000:
   analog_dpad_mode: 0
   btn_a: 1
@@ -10976,6 +12052,16 @@ bubl2000_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bublbob2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -11056,6 +12142,16 @@ bublcave_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bubsymphu:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -11181,6 +12277,26 @@ bucky_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+buggyboy:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+buggychl:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 bujutsu:
   analog_dpad_mode: 0
   btn_a: 9
@@ -11218,6 +12334,16 @@ bujutsu_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bullet:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -11298,6 +12424,26 @@ bullfgtr_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+bullsdrt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+burgkids:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -11501,6 +12647,16 @@ buttobi_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bwidow:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 bwings:
   analog_dpad_mode: 0
   btn_a: 1
@@ -11581,6 +12737,16 @@ bygone_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+bzone:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 cabal:
   analog_dpad_mode: 0
   btn_a: 1
@@ -11781,6 +12947,16 @@ calcune_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+calibr50:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 calipso:
   analog_dpad_mode: 0
   btn_a: 1
@@ -11857,6 +13033,28 @@ calorie_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+calspeed:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 9
+  btn_x: 1
+  btn_y: 10
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 14
+  btn_up: 15
+cameltry:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -12061,6 +13259,16 @@ canyon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+capbowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 captaven:
   analog_dpad_mode: 0
   btn_a: 1
@@ -12136,6 +13344,16 @@ captcomm_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+captflag:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -12301,6 +13519,16 @@ carrera_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cartfury:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 casanova:
   analog_dpad_mode: 0
   btn_a: 1
@@ -12621,6 +13849,16 @@ cbasebal_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cbombers:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 cbuster:
   analog_dpad_mode: 0
   btn_a: 1
@@ -12658,6 +13896,16 @@ cbuster_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ccastles:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -12741,6 +13989,46 @@ ccclass_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cchasm:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
+cclimber:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cclimbr2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cclownz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 cdracula:
   analog_dpad_mode: 0
   btn_a: 1
@@ -12776,6 +14064,26 @@ cdracula_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+centiped:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cerberus:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -13101,6 +14409,16 @@ champbb2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+champbwl:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 champwr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13141,6 +14459,26 @@ champwr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+chanbara:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+changela:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 chaoshea:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13221,6 +14559,16 @@ charlien_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+chasehq:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 chboxing:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13741,6 +15089,16 @@ chopper_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+chqflag:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
 chukatai:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13821,6 +15179,16 @@ chwrestl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+circus:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 circusc:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13861,6 +15229,26 @@ circusc_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cischeat:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: 9
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+citybomb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 citycon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -13977,6 +15365,66 @@ ckongpt2_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+clayshoo:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+clbowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cleopatr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cloak:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cloud9:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+clowns:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -14501,6 +15949,16 @@ commando_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+commandw:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 commsega:
   analog_dpad_mode: 0
   btn_a: 1
@@ -14581,6 +16039,16 @@ compgolf_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+complexx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
 congo:
   analog_dpad_mode: 0
   btn_a: 1
@@ -14621,6 +16089,26 @@ congo_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+conquest:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
+contcirc:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 contra:
   analog_dpad_mode: 0
   btn_a: 1
@@ -14821,6 +16309,18 @@ coolmini_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+coolridr:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 10
+  btn_x: -1
+  btn_y: 1
+  btn_l: 9
+  btn_r: 1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 0
+  btn_right: 8
 cop01:
   analog_dpad_mode: 0
   btn_a: 1
@@ -14861,6 +16361,16 @@ cop01_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+copsnrob:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 cosmccop:
   analog_dpad_mode: 0
   btn_a: 1
@@ -15221,6 +16731,26 @@ cottonbm_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+countrun:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+countrunb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 crash:
   analog_dpad_mode: 0
   btn_a: 1
@@ -15261,6 +16791,16 @@ crash_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+crater:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 crazyfgt:
   analog_dpad_mode: 0
   btn_a: 11
@@ -15391,6 +16931,26 @@ crbaloon_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+crgolf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 11
+  btn_y: 0
+  btn_l: 10
+  btn_r: 9
+  btn_l2: -1
+  btn_r2: -1
+crgolfhi:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 11
+  btn_y: 0
+  btn_l: 10
+  btn_r: 9
   btn_l2: -1
   btn_r2: -1
 crimec:
@@ -15793,6 +17353,44 @@ crusherm_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+crusnexo:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: 11
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_down: 15
+  btn_up: 14
+crusnusa:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: 0
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 1
+  btn_right: 9
+  btn_up: 8
+crusnwld:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: 0
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 1
+  btn_right: 9
+  btn_up: 8
 crysking:
   analog_dpad_mode: 0
   btn_a: 1
@@ -16033,6 +17631,16 @@ csilver_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+csprint:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 cstlevna:
   analog_dpad_mode: 0
   btn_a: 1
@@ -16153,6 +17761,16 @@ ctribe_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cubeqst:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 cubybop:
   analog_dpad_mode: 0
   btn_a: 1
@@ -16230,6 +17848,16 @@ cuebrick_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+cupfinal:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -16353,6 +17981,16 @@ cutefght_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cutieq:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 cybattlr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -16473,6 +18111,16 @@ cyberlip_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cybertnk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 cybots:
   analog_dpad_mode: 0
   btn_a: 1
@@ -16513,6 +18161,36 @@ cybots_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+cybrcomm:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
+cybrcycc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+cybsled:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 cybstorm:
   analog_dpad_mode: 0
   btn_a: 10
@@ -16551,6 +18229,16 @@ cybstorm_6alternative:
   btn_y: 0
   btn_l: 1
   btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+cyclemb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
   btn_l2: -1
   btn_r2: -1
 cyclwarr:
@@ -17073,6 +18761,16 @@ dangerex_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dangerz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 dangseed:
   analog_dpad_mode: 0
   btn_a: 1
@@ -17111,6 +18809,16 @@ dangseed_6alternative:
   btn_y: 0
   btn_l: 1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dankuga:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 0
+  btn_l: 1
+  btn_r: 11
   btn_l2: -1
   btn_r2: -1
 daraku:
@@ -17233,6 +18941,26 @@ darius2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dariusg:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dariusgx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 darkhleg:
   analog_dpad_mode: 0
   btn_a: 9
@@ -17308,6 +19036,16 @@ darkmist_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+darkplnt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -17606,6 +19344,16 @@ dazzler_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dblaxle:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 1
+  btn_x: 10
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 dbldynj:
   analog_dpad_mode: 0
   btn_a: 1
@@ -17886,6 +19634,16 @@ dbzvrvs_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dcclub:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 dcon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -17922,6 +19680,16 @@ dcon_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dday:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -18846,6 +20614,16 @@ deadconx_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+deadeye:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 deathsml:
   analog_dpad_mode: 0
   btn_a: 1
@@ -18926,6 +20704,16 @@ decathlt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+defense:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
 deluxe5:
   analog_dpad_mode: 0
   btn_a: 1
@@ -18961,6 +20749,26 @@ deluxe5_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+demndrgn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+demoderb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -19083,6 +20891,36 @@ demonwld_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dendego:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dendego2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dendegox:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -19282,6 +21120,16 @@ desertdn_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+destroyr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -20082,6 +21930,36 @@ dinorex_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dirtdash:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+dirtdasha:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+dirtfoxj:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 9
+  btn_r: 1
+  btn_l2: 12
+  btn_r2: 13
 disco:
   analog_dpad_mode: 0
   btn_a: 1
@@ -20802,6 +22680,16 @@ dogosokb_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dogpatch:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 dogyuun:
   analog_dpad_mode: 0
   btn_a: 1
@@ -20956,6 +22844,26 @@ domino_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dominob:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dominobv2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -21282,6 +23190,16 @@ dotrikun_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dotron:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: 8
 doubledr:
   analog_dpad_mode: 0
   btn_a: 9
@@ -21362,6 +23280,26 @@ dowild_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+downtown:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+downtownj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 dplay:
   analog_dpad_mode: 0
   btn_a: 10
@@ -21399,6 +23337,16 @@ dplay_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+draco:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -21482,6 +23430,16 @@ dragoona_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+dragrace:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: 0
 drakton:
   analog_dpad_mode: 0
   btn_a: 1
@@ -21882,6 +23840,16 @@ drgw3_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dribling:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
 drifto94:
   analog_dpad_mode: 0
   btn_a: 1
@@ -21922,6 +23890,36 @@ drifto94_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+driftout:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+drivedge:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 8
+  btn_x: 9
+  btn_y: 1
+  btn_l: 10
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+driveyes:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 drivfrcp:
   analog_dpad_mode: 0
   btn_a: 9
@@ -22402,6 +24400,16 @@ dtfamily_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dungeonm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 dunkmnia:
   analog_dpad_mode: 0
   btn_a: 1
@@ -22439,6 +24447,16 @@ dunkmnia_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+dunkshot:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -22842,6 +24860,16 @@ dynduke_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+dynobop:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 dynwar:
   analog_dpad_mode: 0
   btn_a: 1
@@ -22962,6 +24990,26 @@ earthjkr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ebases:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ecofghtr:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: 8
+  btn_l2: 0
+  btn_r2: 1
 edf:
   analog_dpad_mode: 0
   btn_a: 1
@@ -23642,6 +25690,16 @@ elvactr_6alternative:
   btn_r: 9
   btn_l2: -1
   btn_r2: -1
+embargo:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 emeralda:
   analog_dpad_mode: 0
   btn_a: 1
@@ -23722,6 +25780,16 @@ empcity_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+enduror:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 enforce:
   analog_dpad_mode: 0
   btn_a: 1
@@ -23758,6 +25826,16 @@ enforce_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+enforceja:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -23917,6 +25995,16 @@ ertictac_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+esb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -24442,6 +26530,16 @@ excitebk_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+exctleag:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 exctscc2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -24722,6 +26820,16 @@ extdwnhl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+exterm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 extrmatn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -24882,6 +26990,16 @@ eyes_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+f15se:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 f1dream:
   analog_dpad_mode: 0
   btn_a: 1
@@ -24917,6 +27035,96 @@ f1dream_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+f1en:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+f1enu:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+f1gp:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+f1gp2:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+f1gpstar:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 13
+f1gpstr2:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 13
+f1lap:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+f1superb:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
+faceoff:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -25522,6 +27730,36 @@ fatfury3_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+fbait2bc:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fbaitbc:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fbaitmc:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 15
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 fball:
   analog_dpad_mode: 0
   btn_a: 1
@@ -25558,6 +27796,16 @@ fball_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fbcrazy:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -25842,6 +28090,16 @@ fghthist_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+fgoal:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 fgtlayer:
   analog_dpad_mode: 0
   btn_a: 10
@@ -26122,6 +28380,36 @@ filetto_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+finalap2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+finalap3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+finalapr:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 finalb:
   analog_dpad_mode: 0
   btn_a: 11
@@ -26202,6 +28490,16 @@ finalizr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+finallap:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 finalttr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -26362,6 +28660,26 @@ firebatl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+firebeas:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fireone:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 fireshrk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -26402,6 +28720,26 @@ fireshrk_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+firetrap:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+firetrk:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 fitegolf:
   analog_dpad_mode: 0
   btn_a: 1
@@ -26438,6 +28776,16 @@ fitegolf_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fiveside:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -26842,6 +29190,16 @@ flstory_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+flyball:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 flyboy:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27082,6 +29440,16 @@ fnkyfish_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+foodf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 foolrace:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27116,6 +29484,16 @@ foolrace_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+footbpow:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -27162,6 +29540,16 @@ footchmp_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+forgottn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 formatz:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27282,6 +29670,16 @@ fourplay_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+fourtrax:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 fpoint:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27356,6 +29754,16 @@ franticf_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+freekick:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -27522,6 +29930,16 @@ frogs_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+frontlin:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 fround:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27602,6 +30020,16 @@ fshark_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+fsoccer:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 fsoccerb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -27962,6 +30390,16 @@ futaribl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+futflash:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 futspy:
   analog_dpad_mode: 0
   btn_a: 1
@@ -28082,6 +30520,18 @@ ga2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gahaha:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_l3: 0
+  btn_r3: 8
 gaia:
   analog_dpad_mode: 0
   btn_a: 1
@@ -28322,6 +30772,16 @@ galaga88_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+galastrm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 galaxian:
   analog_dpad_mode: 0
   btn_a: 1
@@ -28439,6 +30899,36 @@ galgame_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+galgame2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+galgame3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+galgame4:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -29322,6 +31812,26 @@ gaunt2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gauntdl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gauntleg:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 gauntlet:
   analog_dpad_mode: 0
   btn_a: 1
@@ -29482,6 +31992,16 @@ gberet_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gblchmp:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 0
+  btn_l: 1
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
 gbusters:
   analog_dpad_mode: 0
   btn_a: 1
@@ -29518,6 +32038,16 @@ gbusters_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gchgchmp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -29599,6 +32129,26 @@ gdarius2_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+geebee:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gekiridn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -29762,6 +32312,16 @@ genpeitd_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+getaway:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 gfire2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -29797,6 +32357,26 @@ gfire2_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gforce2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gghost:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -30002,6 +32582,26 @@ ghouls_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ghox:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ghoxj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 gigandes:
   analog_dpad_mode: 0
   btn_a: 1
@@ -30037,6 +32637,26 @@ gigandes_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gigas:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gigasm2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -30119,6 +32739,16 @@ gijoe_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gimeabrk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -30322,6 +32952,26 @@ glass_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+glfgreat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+gloc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
 glpracr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -30602,6 +33252,16 @@ goalx3_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gobyrc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 godzilla:
   analog_dpad_mode: 0
   btn_a: 1
@@ -30676,6 +33336,16 @@ gogomile_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+goindol:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -30842,6 +33512,16 @@ gomoku_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gondo:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 goonies:
   analog_dpad_mode: 0
   btn_a: 1
@@ -31202,6 +33882,26 @@ gpilots_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gprider:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+gpriders:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 gradius3:
   analog_dpad_mode: 0
   btn_a: 0
@@ -31442,6 +34142,16 @@ gravitar_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+grchamp:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 grdforce:
   analog_dpad_mode: 0
   btn_a: 10
@@ -31638,6 +34348,26 @@ greenber_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gridiron:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gridlee:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -31842,6 +34572,16 @@ groovef_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+groundfx:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 1
+  btn_l: 8
+  btn_r: 1
+  btn_l2: 0
+  btn_r2: 13
 growl:
   analog_dpad_mode: 0
   btn_a: 1
@@ -31879,6 +34619,26 @@ growl_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+grudge:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+gseeker:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -32122,6 +34882,150 @@ gsword_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gt2k:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt2kt500:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt3d:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt3dt231:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt97:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt97t243:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt98:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt98t303:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt99:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gt99t400:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gtclassc:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gtdiamond:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
 gtg:
   analog_dpad_mode: 0
   btn_a: 1
@@ -32162,6 +35066,18 @@ gtg_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gtg2:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
 gtg2j:
   analog_dpad_mode: 0
   btn_a: 1
@@ -32202,6 +35118,17 @@ gtg2j_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gticlub:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 10
 gtmr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -32242,6 +35169,83 @@ gtmr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gtmr2:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
+gtmr2u:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
+gtrfrk2m:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 14
+  btn_up: 0
+gtrfrk2ma:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 14
+  btn_up: 0
+gtrfrks:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 14
+  btn_up: 0
+gtroyal:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
+gtsupreme:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 0
+  btn_right: 8
 gulfstrm:
   analog_dpad_mode: 0
   btn_a: 1
@@ -32562,6 +35566,16 @@ gundl94_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gunfight:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 gunforc2:
   analog_dpad_mode: 0
   btn_a: 9
@@ -32677,6 +35691,16 @@ gunfront_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gunlock:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -32882,6 +35906,16 @@ gururin_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+guts:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 gutsn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -33002,6 +36036,26 @@ guzzler_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+gwar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+gwarb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
 gwarrior:
   analog_dpad_mode: 0
   btn_a: 1
@@ -33039,6 +36093,16 @@ gwarrior_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gypsyjug:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -33402,6 +36466,36 @@ hanagumi_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hangon:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+hangonjr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+hangplt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 hangzo:
   analog_dpad_mode: 0
   btn_a: 1
@@ -33482,6 +36576,16 @@ hapytour_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+harddriv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 harddunk:
   analog_dpad_mode: 0
   btn_a: 0
@@ -33802,6 +36906,16 @@ hattrick_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hbarrel:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 hcastle:
   analog_dpad_mode: 0
   btn_a: 1
@@ -33842,6 +36956,16 @@ hcastle_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hcrash:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
 headon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -35162,6 +38286,16 @@ horizon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+horshoes:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 hotblock:
   analog_dpad_mode: 0
   btn_a: 1
@@ -35242,6 +38376,16 @@ hotbody_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hotchase:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
 hotdogst:
   analog_dpad_mode: 0
   btn_a: 1
@@ -35362,6 +38506,26 @@ hotpinbl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hotrod:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+hotrodj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 hotshock:
   analog_dpad_mode: 0
   btn_a: 1
@@ -35398,6 +38562,16 @@ hotshock_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+hotsmash:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -35597,6 +38771,36 @@ htchctch_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+hthero93u:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+hthero94:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+hthero95u:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -35922,6 +39126,16 @@ hvyunit_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hwchamp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 hwrace:
   analog_dpad_mode: 0
   btn_a: 1
@@ -35962,6 +39176,16 @@ hwrace_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hydra:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 1
+  btn_x: 9
+  btn_y: 10
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 hyperath:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36122,6 +39346,19 @@ hyperspt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+hyprdriv:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 14
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 9
+  btn_right: 10
+  btn_up: 1
 hyprduel:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36362,6 +39599,16 @@ ichir_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+idsoccer:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 igmo:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36402,6 +39649,36 @@ igmo_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ikari:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+ikari3:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ikari3w:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 ikarijpb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36562,6 +39839,16 @@ imgfight_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+imolagp:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 imsorry:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36682,6 +39969,16 @@ indianbt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+indyheat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 indytemp:
   analog_dpad_mode: 0
   btn_a: 1
@@ -36720,6 +40017,16 @@ indytemp_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+inferno:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
   btn_l2: -1
   btn_r2: -1
 insector:
@@ -36797,6 +40104,16 @@ insectx_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+intcup94:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -37322,6 +40639,16 @@ iqblock_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+irobot:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 ironclad:
   analog_dpad_mode: 0
   btn_a: 1
@@ -37442,6 +40769,16 @@ ironhors_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+irrmaze:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 istreb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -37522,6 +40859,16 @@ itaten_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ixion:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 jack:
   analog_dpad_mode: 0
   btn_a: 1
@@ -37602,6 +40949,16 @@ jackal_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+jackalr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 jackrabt:
   analog_dpad_mode: 0
   btn_a: 1
@@ -37882,6 +41239,26 @@ jdreddp_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+jedi:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+jetwave:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 15
+  btn_x: -1
+  btn_y: -1
+  btn_l: 14
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: 13
 jitsupro:
   analog_dpad_mode: 0
   btn_a: 1
@@ -38322,6 +41699,26 @@ jojobane_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+jongbou:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+jongbou2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 josvolly:
   analog_dpad_mode: 0
   btn_a: 1
@@ -38482,6 +41879,16 @@ joust2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+joyfulr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 joyjoy:
   analog_dpad_mode: 0
   btn_a: 1
@@ -38519,6 +41926,16 @@ joyjoy_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+jpark:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -39162,6 +42579,16 @@ kageki_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+kaiserkn:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 0
+  btn_l: 1
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
 kaitei:
   analog_dpad_mode: 0
   btn_a: 1
@@ -39762,6 +43189,16 @@ kbash2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+kchamp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 kdynastg:
   analog_dpad_mode: 0
   btn_a: 1
@@ -39919,6 +43356,16 @@ ket_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+kick:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -40923,6 +44370,16 @@ kncljoe_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+kngtmare:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 knights:
   analog_dpad_mode: 0
   btn_a: 1
@@ -41523,6 +44980,16 @@ konam80s_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+konamigt:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 konotako:
   analog_dpad_mode: 0
   btn_a: 1
@@ -41680,6 +45147,16 @@ koshien_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+kotbinsp:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -42243,6 +45720,36 @@ kram_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+kroozr:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+krull:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+krzybowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 ksayakyu:
   analog_dpad_mode: 0
   btn_a: 1
@@ -42763,6 +46270,16 @@ ladymstr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+lagunar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 landbrk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -42799,6 +46316,36 @@ landbrk_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+landgear:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: 8
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+landmakr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+laserbas:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -43323,6 +46870,16 @@ lastmisn_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+lastsurv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: 0
 lazercmd:
   analog_dpad_mode: 0
   btn_a: 1
@@ -43363,6 +46920,16 @@ lazercmd_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+lbeach:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 lbgrande:
   analog_dpad_mode: 0
   btn_a: 1
@@ -43843,6 +47410,16 @@ legionna_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+lemmings:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 lethalth:
   analog_dpad_mode: 0
   btn_a: 1
@@ -44002,6 +47579,36 @@ liberate_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+liberatr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+liblrabl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+lightbr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -44207,6 +47814,16 @@ lkage_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+llander:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 lnc:
   analog_dpad_mode: 0
   btn_a: 1
@@ -44243,6 +47860,16 @@ lnc_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+lockon:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 9
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -44567,6 +48194,16 @@ looping_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+losttomb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 lotlot:
   analog_dpad_mode: 0
   btn_a: 1
@@ -45083,6 +48720,16 @@ m660_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+m79amb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -46447,6 +50094,16 @@ mainevt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+mainsnk:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: 0
+  btn_l2: 1
+  btn_r2: 9
 majtitl2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -46807,6 +50464,16 @@ mappy_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+marble:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 marblmd2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -46883,6 +50550,16 @@ marineb_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+marinedt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -47083,6 +50760,16 @@ markham_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mars:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -47527,6 +51214,16 @@ mausuke_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+maxrpm:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: 13
 maya:
   analog_dpad_mode: 0
   btn_a: 1
@@ -47604,6 +51301,36 @@ mayhem_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mayjin3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 14
+  btn_r2: 15
+mazeinv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mazerbla:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -48127,6 +51854,16 @@ megazone_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+megrescu:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 mercs:
   analog_dpad_mode: 0
   btn_a: 1
@@ -48407,6 +52144,16 @@ metlfrzr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+metlhawk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 metlsavr:
   analog_dpad_mode: 0
   btn_a: 0
@@ -48807,6 +52554,16 @@ mgcrystl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+mhavoc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 mia:
   analog_dpad_mode: 0
   btn_a: 8
@@ -48847,6 +52604,57 @@ mia_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+micon2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+micrombc:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+midnrun:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 10
+midres:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+midresbj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 miexchng:
   analog_dpad_mode: 0
   btn_a: 1
@@ -48967,6 +52775,16 @@ mikie_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+milliped:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 mimonkey:
   analog_dpad_mode: 0
   btn_a: 1
@@ -49007,6 +52825,16 @@ mimonkey_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+minefld:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 minferno:
   analog_dpad_mode: 0
   btn_a: 1
@@ -49043,6 +52871,16 @@ minferno_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+minigolf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -49247,6 +53085,16 @@ missb2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+missile:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 missw02:
   analog_dpad_mode: 0
   btn_a: 1
@@ -49325,6 +53173,16 @@ missw96_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mjleague:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
   btn_l2: -1
   btn_r2: -1
 mk:
@@ -49485,6 +53343,26 @@ mk4_6alternative:
   btn_y: 8
   btn_l: 0
   btn_r: 9
+  btn_l2: -1
+  btn_r2: -1
+mlanding:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mmagic:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
   btn_l2: -1
   btn_r2: -1
 mmatrix:
@@ -49687,6 +53565,16 @@ mmpork_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+mnchmobl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 mnight:
   analog_dpad_mode: 0
   btn_a: 1
@@ -49927,6 +53815,17 @@ monsterz_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+montecar:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+  btn_right: 11
 monymony:
   analog_dpad_mode: 0
   btn_a: 1
@@ -50167,6 +54066,16 @@ moonqsr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+moonwar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 moremore:
   analog_dpad_mode: 0
   btn_a: 1
@@ -50367,6 +54276,16 @@ mosaicf2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+motofren:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 10
+  btn_x: 1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 motos:
   analog_dpad_mode: 0
   btn_a: 1
@@ -51002,6 +54921,26 @@ mpatrol_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mplanets:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+mpumpkin:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -53607,6 +57546,16 @@ navarone_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+nbagold:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 nbahangt:
   analog_dpad_mode: 0
   btn_a: 0
@@ -53804,6 +57753,16 @@ nbapbp_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+nbashowt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -54607,6 +58566,16 @@ nightmare_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+nightstr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 ninclown:
   analog_dpad_mode: 0
   btn_a: 1
@@ -54887,6 +58856,19 @@ nitd_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+nitedrvr:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 11
+  btn_x: 10
+  btn_y: 14
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+  btn_left: 8
+  btn_right: 9
+  btn_up: 1
 nitrobal:
   analog_dpad_mode: 0
   btn_a: 1
@@ -55927,6 +59909,49 @@ officeye_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+offroad:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+offroadc:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: 0
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 1
+  btn_right: 9
+  btn_up: 8
+offroadt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+offtwall:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 ohmygod:
   analog_dpad_mode: 0
   btn_a: 1
@@ -56087,6 +60112,16 @@ oldsplus_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+omega:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 omegaf:
   analog_dpad_mode: 0
   btn_a: 1
@@ -56123,6 +60158,16 @@ omegaf_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+omegrace:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -56607,6 +60652,30 @@ orlegend_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+orunners:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 9
+  btn_right: 10
+orunnersu:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 9
+  btn_right: 10
 oscar:
   analog_dpad_mode: 0
   btn_a: 1
@@ -56727,6 +60796,26 @@ othldrby_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+othunder:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+otwalls:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 outfxies:
   analog_dpad_mode: 0
   btn_a: 1
@@ -56834,6 +60923,16 @@ outzone_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+overdriv:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 overtop:
   analog_dpad_mode: 0
   btn_a: 1
@@ -57114,6 +61213,26 @@ pacappsp_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+paccarn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: 10
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+paceight:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 10
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 packbang:
   analog_dpad_mode: 0
   btn_a: 1
@@ -57279,6 +61398,16 @@ pacnpal_6alternative:
   btn_x: -1
   btn_y: 0
   btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pacslot:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: 10
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -57882,6 +62011,16 @@ panikuru_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+paperboy:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 paprazzi:
   analog_dpad_mode: 0
   btn_a: 1
@@ -58282,6 +62421,26 @@ pastelis_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+patapata:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+patocar:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 pbaction:
   analog_dpad_mode: 0
   btn_a: 1
@@ -58402,6 +62561,16 @@ pbancho_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+pbillian:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 pbillrd:
   analog_dpad_mode: 0
   btn_a: 1
@@ -58559,6 +62728,56 @@ pbobble_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pbobble2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pbobble2u:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pbobble2x:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pbobble3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pbobble4:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -60762,6 +64981,38 @@ pclubys_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+pdrift:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+pdriftl:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+peekaboo:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+  btn_left: 8
+  btn_right: 1
 penbros:
   analog_dpad_mode: 0
   btn_a: 1
@@ -61562,6 +65813,16 @@ pigout_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+pigskin:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 pikkaric:
   analog_dpad_mode: 0
   btn_a: 1
@@ -61922,6 +66183,16 @@ pirates_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+piratesh:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 pisces:
   analog_dpad_mode: 0
   btn_a: 1
@@ -62160,6 +66431,36 @@ pitnrun_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pkgnsh:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pkgnshdx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pkladies:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 1
   btn_l2: -1
   btn_r2: -1
 pkscram:
@@ -62522,6 +66823,16 @@ plsmaswd_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+plumppop:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 plusalph:
   analog_dpad_mode: 0
   btn_a: 1
@@ -62562,6 +66873,16 @@ plusalph_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+plygonet:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 pnickj:
   analog_dpad_mode: 0
   btn_a: 1
@@ -62642,6 +66963,16 @@ pnyaa_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+pocketrc:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: 8
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 poitto:
   analog_dpad_mode: 0
   btn_a: 1
@@ -62842,6 +67173,26 @@ polaris_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+polepos:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+polepos2:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 pollux:
   analog_dpad_mode: 0
   btn_a: 1
@@ -63082,6 +67433,16 @@ ponpoko_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+poolshrk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 poosho:
   analog_dpad_mode: 0
   btn_a: 1
@@ -63202,6 +67563,16 @@ popbingo_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+popbounc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 popeye:
   analog_dpad_mode: 0
   btn_a: 1
@@ -63277,6 +67648,16 @@ popflame_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+popnpop:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -63516,6 +67897,16 @@ potopoto_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+poundfor:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -64202,6 +68593,16 @@ prmrsocr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+prmtmfgt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 profpac:
   analog_dpad_mode: 0
   btn_a: 1
@@ -64322,6 +68723,16 @@ progolf_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+propcycl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 prosoccr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -64839,6 +69250,16 @@ pturn_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+puchicar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -65602,6 +70023,16 @@ puzzli2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+puzzloop:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 puzzlove:
   analog_dpad_mode: 0
   btn_a: 1
@@ -65762,6 +70193,16 @@ pwrflip_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+pwrgoal:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 pwrinst2:
   analog_dpad_mode: 0
   btn_a: 9
@@ -65799,6 +70240,16 @@ pwrinst2_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+pwrkick:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -65962,6 +70413,16 @@ pzletime_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+pzloop2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 qad:
   analog_dpad_mode: 0
   btn_a: 1
@@ -65999,6 +70460,16 @@ qad_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+qb3:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -66122,6 +70593,16 @@ qos_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+quantum:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 quartet:
   analog_dpad_mode: 0
   btn_a: 1
@@ -66238,6 +70719,16 @@ quasar_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quester:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -66522,6 +71013,36 @@ raccoon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+racedriv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+rachero:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+racinfrc:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 racingb:
   analog_dpad_mode: 0
   btn_a: 10
@@ -66562,6 +71083,26 @@ racingb_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+racingj:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+racingj2:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 rackemup:
   analog_dpad_mode: 0
   btn_a: 1
@@ -66722,6 +71263,36 @@ radarzon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+radikalb:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: 1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+radm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+radr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 radrad:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67162,6 +71733,16 @@ rallyx_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+rambo3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 rampage:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67197,6 +71778,16 @@ rampage_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+rampart:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -67242,6 +71833,16 @@ rastan_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+raverace:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: 9
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 raycris:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67282,6 +71883,16 @@ raycris_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+rayforce:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 raystorm:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67319,6 +71930,16 @@ raystorm_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+razmataz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -67642,6 +72263,16 @@ rdft2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+reactor:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 realbrk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67677,6 +72308,26 @@ realbrk_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+rebound:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+recalh:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -67764,6 +72415,16 @@ redalert_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+redbaron:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 redclash:
   analog_dpad_mode: 0
   btn_a: 1
@@ -67844,6 +72505,16 @@ redearth_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+redlin2p:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 redrobin:
   analog_dpad_mode: 0
   btn_a: 1
@@ -68084,6 +72755,16 @@ repulse_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+rescraid:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 retofinv:
   analog_dpad_mode: 0
   btn_a: 1
@@ -68164,6 +72845,16 @@ revngr84_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+revx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 rezon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -68244,6 +72935,26 @@ rfjet_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ridgera2:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+ridgerac:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 ridhero:
   analog_dpad_mode: 0
   btn_a: 1
@@ -68284,6 +72995,26 @@ ridhero_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ridingf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ridleofp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 rimrockn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -68319,6 +73050,16 @@ rimrockn_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ringrage:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -68401,6 +73142,16 @@ riotcity_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ripcord:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -68644,6 +73395,40 @@ rmpgwt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+roadblst:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+roadburn:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
+roadedge:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: -1
+  btn_x: 10
+  btn_y: -1
+  btn_l: 14
+  btn_r: 15
+  btn_l2: 12
+  btn_r2: 13
+  btn_down: 8
+  btn_left: 1
+  btn_right: 9
+  btn_up: 0
 roadf:
   analog_dpad_mode: 0
   btn_a: 9
@@ -68679,6 +73464,26 @@ roadf_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+roadriot:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+roadrunn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -68953,6 +73758,16 @@ robowres_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+rockclim:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -69396,6 +74211,16 @@ rohga_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+roishtar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 rolcrush:
   analog_dpad_mode: 0
   btn_a: 1
@@ -69756,6 +74581,16 @@ rotr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+roughrac:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 rougien:
   analog_dpad_mode: 0
   btn_a: 1
@@ -69836,6 +74671,16 @@ roundup_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+roundup5:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 route16:
   analog_dpad_mode: 0
   btn_a: 1
@@ -71676,6 +76521,16 @@ sandscrp_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sarge:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 sasissu:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72236,6 +77091,26 @@ sbomber_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sbowling:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sbrkout:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 scessjoe:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72271,6 +77146,16 @@ scessjoe_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+scfinals:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -72396,6 +77281,26 @@ schmeisr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sci:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 10
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+scin:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 10
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 scion:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72676,6 +77581,46 @@ scregg_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+screwloo:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+scross:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 13
+scrossa:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 1
+  btn_r2: 13
+scudhamm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 scyclone:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72796,6 +77741,26 @@ sdgndmps_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sdi:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+sdib:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
 sdodgeb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72876,6 +77841,16 @@ sdtennis_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sdungeon:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 seabass:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72916,6 +77891,26 @@ seabass_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+seabattl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+searchar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 searchey:
   analog_dpad_mode: 0
   btn_a: 1
@@ -72992,6 +77987,26 @@ searchp2_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+seawolf:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+seawolf2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -74183,6 +79198,36 @@ sfiii3_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+sfkick:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sflush:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sfootbal:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 sfposeid:
   analog_dpad_mode: 0
   btn_a: 1
@@ -74223,6 +79268,28 @@ sfposeid_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sfrush:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 15
+sfrushrk:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: -1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 15
 sftm:
   analog_dpad_mode: 0
   btn_a: 10
@@ -74463,6 +79530,18 @@ sgladiat_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sgmast:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+  btn_left: 1
+  btn_right: 9
 shackled:
   analog_dpad_mode: 0
   btn_a: 1
@@ -74783,6 +79862,26 @@ shangkid_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+shangon:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+shangonle:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 shangtou:
   analog_dpad_mode: 0
   btn_a: 1
@@ -74903,6 +80002,16 @@ sharkatt_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sharrier:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 shdancer:
   analog_dpad_mode: 0
   btn_a: 1
@@ -74943,6 +80052,16 @@ shdancer_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sheriff:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 shienryu:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75343,6 +80462,16 @@ shollow_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+shootbul:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 shootout:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75423,6 +80552,16 @@ shpeng_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+shrike:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 shtrider:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75458,6 +80597,26 @@ shtrider_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shuffle:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 0
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shufshot:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -75543,6 +80702,16 @@ shuttlei_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+shuuz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 sidearms:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75583,6 +80752,46 @@ sidearms_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sidebs:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 0
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+sidebs2:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 0
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+sidebs2j:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 0
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+sidebs2ja:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 0
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 sidepckt:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75823,6 +81032,16 @@ silvmil_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+simpbowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 simpsons:
   analog_dpad_mode: 0
   btn_a: 1
@@ -75897,6 +81116,26 @@ sindbadm_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sinistar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+skimaxx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -76179,6 +81418,16 @@ skybump_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+skychal:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -76499,6 +81748,16 @@ skylove_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+skyraid:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -76863,6 +82122,26 @@ slimekun_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+slipstrm:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+slither:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 sliver:
   analog_dpad_mode: 0
   btn_a: 1
@@ -76900,6 +82179,16 @@ sliver_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+slrasslt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -77023,6 +82312,16 @@ sltpstep_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+smashtv:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 smgolf:
   analog_dpad_mode: 0
   btn_a: 1
@@ -77063,6 +82362,16 @@ smgolf_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+smgp:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 8
+  btn_l2: 12
+  btn_r2: 13
 smissw:
   analog_dpad_mode: 0
   btn_a: 1
@@ -77140,6 +82449,26 @@ smleague_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+snakepit:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+snakjack:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -77420,6 +82749,16 @@ socbrawl_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+soccer:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -77783,6 +83122,16 @@ solomon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sonic:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 sonicbom:
   analog_dpad_mode: 0
   btn_a: 1
@@ -77823,6 +83172,16 @@ sonicbom_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+soniccar:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 1
 sonicfgt:
   analog_dpad_mode: 0
   btn_a: 1
@@ -78543,6 +83902,16 @@ spaceg_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spacegun:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 1
 spaceint:
   analog_dpad_mode: 0
   btn_a: 1
@@ -78839,6 +84208,16 @@ spacfury_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spacwalk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 spang:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79119,6 +84498,16 @@ spceking_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spcenctr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 spcewarl:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79279,6 +84668,16 @@ spcfrcii_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spcinv95:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 spcking2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79359,6 +84758,16 @@ spclforc_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spclords:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: 10
+  btn_l2: 9
+  btn_r2: 1
 spcpokan:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79439,6 +84848,26 @@ spcpostn_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spdball:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+spdheat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 spdodgeb:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79639,6 +85068,36 @@ speedbal_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+speedfrk:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+speedrcr:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 1
+  btn_x: 11
+  btn_y: 10
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+speedrs:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 speedspn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79679,6 +85138,16 @@ speedspn_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+speedup:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 11
+  btn_x: 1
+  btn_y: 8
+  btn_l: -1
+  btn_r: 10
+  btn_l2: 0
+  btn_r2: 13
 speglsht:
   analog_dpad_mode: 0
   btn_a: 1
@@ -79999,6 +85468,16 @@ spidman_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spiker:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 spinlbrk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -80115,6 +85594,16 @@ splash_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+splat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -80359,6 +85848,47 @@ springer_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sprint1:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+sprint2:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+  btn_right: 11
+sprint4:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+sprint8:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 spuzbobl:
   analog_dpad_mode: 0
   btn_a: 1
@@ -80439,6 +85969,26 @@ spy_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+spyhunt:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: 8
+  btn_y: 11
+  btn_l: 10
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+spyhunt2:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 11
+  btn_x: -1
+  btn_y: 10
+  btn_l: 8
+  btn_r: 9
+  btn_l2: 1
+  btn_r2: 0
 sqix:
   analog_dpad_mode: 0
   btn_a: 1
@@ -80475,6 +86025,16 @@ sqix_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+squaitsa:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -81359,6 +86919,16 @@ sspaceat_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sspeedr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 sspirits:
   analog_dpad_mode: 0
   btn_a: 1
@@ -81399,6 +86969,16 @@ sspirits_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ssprint:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 ssriders:
   analog_dpad_mode: 0
   btn_a: 1
@@ -81479,6 +87059,16 @@ ssridersabd_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ssrj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 sss:
   analog_dpad_mode: 0
   btn_a: 1
@@ -81799,6 +87389,16 @@ stakwin2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+starblad:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 starcas:
   analog_dpad_mode: 0
   btn_a: 1
@@ -81915,6 +87515,26 @@ starfigh_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+starfir2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+starfire:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -82039,6 +87659,16 @@ starglad_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+stargrds:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 starhawk:
   analog_dpad_mode: 0
   btn_a: 1
@@ -82159,6 +87789,26 @@ starlstr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+starshp1:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 1
+starsldr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 starswep:
   analog_dpad_mode: 0
   btn_a: 1
@@ -82199,6 +87849,16 @@ starswep_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+startrek:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: 9
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 startrgn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -82234,6 +87894,16 @@ startrgn_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+starwars:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -82319,6 +87989,16 @@ stealsee_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+steeltal:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 0
+  btn_x: 9
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: 1
+  btn_r2: 8
 steelwkr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -82599,6 +88279,16 @@ stmblade_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+stocker:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 stoffy:
   analog_dpad_mode: 0
   btn_a: 1
@@ -82759,6 +88449,16 @@ strahl_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+stratab:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 stratgyx:
   analog_dpad_mode: 0
   btn_a: 10
@@ -82879,6 +88579,16 @@ streetsm_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+strgchmp:
+  analog_dpad_mode: 0
+  btn_a: 15
+  btn_b: 14
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 strhoop:
   analog_dpad_mode: 0
   btn_a: 1
@@ -83039,6 +88749,16 @@ striv_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+strkfgtr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 0
+  btn_r2: 8
 strnskil:
   analog_dpad_mode: 0
   btn_a: 1
@@ -83073,6 +88793,26 @@ strnskil_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+strtheat:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+stunrun:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
   btn_x: 8
   btn_y: 0
   btn_l: -1
@@ -83195,6 +88935,16 @@ subroc3d_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+subs:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -83439,6 +89189,27 @@ superbon_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+superbug:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+  btn_right: 11
+superchs:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
 superman:
   analog_dpad_mode: 0
   btn_a: 1
@@ -83679,6 +89450,16 @@ superx_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+supgoal:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 suplup:
   analog_dpad_mode: 0
   btn_a: 1
@@ -83839,6 +89620,26 @@ suprglob_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+suprgolf:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+suprleag:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 suprloco:
   analog_dpad_mode: 0
   btn_a: 1
@@ -83874,6 +89675,16 @@ suprloco_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+suprmatk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -84159,6 +89970,16 @@ suratk_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+surfplnt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 survarts:
   analog_dpad_mode: 0
   btn_a: 10
@@ -84239,6 +90060,26 @@ survival_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+suzuk8h2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+suzuka8h:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 svc:
   analog_dpad_mode: 0
   btn_a: 9
@@ -84399,6 +90240,16 @@ svolley_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+swa:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: 1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 swat:
   analog_dpad_mode: 0
   btn_a: 1
@@ -84879,6 +90730,46 @@ sxevious_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+sxyreac2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sxyreact:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+syvalion:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+syvalionu:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 szaxxon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -84913,6 +90804,16 @@ szaxxon_6alternative:
   analog_dpad_mode: 0
   btn_a: 10
   btn_b: 9
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tacscan:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
   btn_x: -1
   btn_y: 0
   btn_l: -1
@@ -84994,6 +90895,16 @@ tail2nos_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tailg:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -85399,6 +91310,16 @@ targ_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tattack:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 tattass:
   analog_dpad_mode: 0
   btn_a: 1
@@ -85639,6 +91560,56 @@ tbyahhoo_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tceptor:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+tceptor2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
+tcobra2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tdfever:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
+tdfever2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 tdragon:
   analog_dpad_mode: 0
   btn_a: 1
@@ -85759,6 +91730,26 @@ teamht_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+techbowl:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+technodr:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 techromn:
   analog_dpad_mode: 0
   btn_a: 1
@@ -85835,6 +91826,36 @@ teddybb_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+teedoff:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+teetert:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tehkanwc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -85999,6 +92020,26 @@ tekken3_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+tekkenbs:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 10
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tekkencw:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: 0
+  btn_y: -1
+  btn_l: 10
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 tektagt:
   analog_dpad_mode: 0
   btn_a: 10
@@ -86074,6 +92115,16 @@ teljan_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tempest:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -86199,6 +92250,16 @@ tenspot_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+term2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 terracre:
   analog_dpad_mode: 0
   btn_a: 1
@@ -86799,6 +92860,16 @@ theglad_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+thegrid:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 1
 thehand:
   analog_dpad_mode: 0
   btn_a: 8
@@ -86919,6 +92990,16 @@ theroes_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+thndrbld:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 thndrx2:
   analog_dpad_mode: 0
   btn_a: 1
@@ -87079,6 +93160,16 @@ thoop2_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+thrilld:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 thunderh:
   analog_dpad_mode: 0
   btn_a: 1
@@ -87519,6 +93610,16 @@ timescan_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+timesold:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 timetrv:
   analog_dpad_mode: 0
   btn_a: 1
@@ -87639,6 +93740,16 @@ tinklpit_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tinstar:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 tinv2650:
   analog_dpad_mode: 0
   btn_a: 1
@@ -87677,6 +93788,36 @@ tinv2650_6alternative:
   btn_y: 0
   btn_l: -1
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+titlef:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+titlefu:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+tjumpman:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: 10
+  btn_r: 8
   btn_l2: -1
   btn_r2: -1
 tkdensho:
@@ -87799,6 +93940,16 @@ tkoboxng_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tmek:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 tmht22pe:
   analog_dpad_mode: 0
   btn_a: 1
@@ -88039,6 +94190,16 @@ tnextspc_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tnk3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: 0
+  btn_r: 8
+  btn_l2: 12
+  btn_r2: 13
 tnk3b:
   analog_dpad_mode: 0
   btn_a: 1
@@ -88399,6 +94560,16 @@ tokkae_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tokyowar:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 11
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 9
+  btn_r2: 10
 tomagic:
   analog_dpad_mode: 0
   btn_a: 1
@@ -88639,6 +94810,16 @@ topgun_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+topgunbl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 tophuntr:
   analog_dpad_mode: 0
   btn_a: 1
@@ -88676,6 +94857,16 @@ tophuntr_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+topland:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -88759,6 +94950,26 @@ toprollr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+topsecex:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 14
+  btn_x: 15
+  btn_y: 9
+  btn_l: 11
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: 8
+topspeed:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 toride2g:
   analog_dpad_mode: 0
   btn_a: 1
@@ -88916,6 +95127,16 @@ toryumon_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+totcarn:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -89079,6 +95300,16 @@ toukon3_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+toutrun:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 toyland:
   analog_dpad_mode: 0
   btn_a: 1
@@ -89639,6 +95870,76 @@ triplep_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+triplhnt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+trisport:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+triviabb:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+triviag1:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+triviag2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+triviasp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+triviayp:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 troangel:
   analog_dpad_mode: 0
   btn_a: 1
@@ -89759,6 +96060,38 @@ trojan_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tron:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+trstar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+truckk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 8
+  btn_right: 0
 truxton:
   analog_dpad_mode: 0
   btn_a: 1
@@ -90076,6 +96409,16 @@ tshingen_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tshoot:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -90399,6 +96742,26 @@ tumblep_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tunhunt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+turbo:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 turbofrc:
   analog_dpad_mode: 0
   btn_a: 1
@@ -90477,6 +96840,16 @@ turfmast_6alternative:
   btn_y: 8
   btn_l: 9
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+turrett:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 8
+  btn_x: 10
+  btn_y: 0
+  btn_l: 1
+  btn_r: 9
   btn_l2: -1
   btn_r2: -1
 turtles:
@@ -90559,6 +96932,16 @@ turtship_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tutankhm:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 twcup90:
   analog_dpad_mode: 0
   btn_a: 1
@@ -91159,6 +97542,16 @@ twinkle_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+twinqix:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 twinspri:
   analog_dpad_mode: 0
   btn_a: 1
@@ -91199,6 +97592,26 @@ twinspri_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+twinsqua:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+twotiger:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 1
 twrshaft:
   analog_dpad_mode: 0
   btn_a: 1
@@ -91279,6 +97692,16 @@ twsoc96_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+tx1:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
 tylz:
   analog_dpad_mode: 0
   btn_a: 1
@@ -91639,6 +98062,16 @@ ultraman_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+ultratnk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 ultrax:
   analog_dpad_mode: 0
   btn_a: 1
@@ -91955,6 +98388,16 @@ upndown_6alternative:
   btn_b: 9
   btn_x: -1
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+upscope:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -92359,6 +98802,18 @@ vaportra_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+vaportrx:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: 8
+  btn_x: -1
+  btn_y: 9
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+  btn_left: 10
+  btn_right: 11
 varth:
   analog_dpad_mode: 0
   btn_a: 1
@@ -92554,6 +99009,26 @@ vball_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vblokbrk:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vbowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -92879,6 +99354,26 @@ vhunt2_6alternative:
   btn_r: 11
   btn_l2: -1
   btn_r2: -1
+victlap:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: 1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+victory:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 victoryc:
   analog_dpad_mode: 0
   btn_a: 1
@@ -92919,6 +99414,16 @@ victoryc_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+victroad:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 videight:
   analog_dpad_mode: 0
   btn_a: 1
@@ -93119,6 +99624,26 @@ vimana_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+vindctr2:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: 9
+  btn_l2: 0
+  btn_r2: 1
+vindictr:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: -1
+  btn_y: -1
+  btn_l: 8
+  btn_r: 9
+  btn_l2: 0
+  btn_r2: 1
 viofight:
   analog_dpad_mode: 0
   btn_a: 1
@@ -93199,6 +99724,16 @@ viostorm_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+viper:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 viprp1:
   analog_dpad_mode: 0
   btn_a: 1
@@ -93239,6 +99774,16 @@ viprp1_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+vivdolls:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 14
+  btn_r2: 15
 vmetal:
   analog_dpad_mode: 0
   btn_a: 1
@@ -93359,6 +99904,20 @@ vortex_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+vr:
+  analog_dpad_mode: 0
+  btn_a: 14
+  btn_b: -1
+  btn_x: -1
+  btn_y: 15
+  btn_l: 14
+  btn_r: 15
+  btn_l2: 12
+  btn_r2: 13
+  btn_down: 9
+  btn_left: 10
+  btn_right: 11
+  btn_up: 1
 vsav:
   analog_dpad_mode: 0
   btn_a: 10
@@ -93474,6 +100033,16 @@ vsbball_6alternative:
   btn_a: 10
   btn_b: 9
   btn_x: 8
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vscaptfl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
   btn_y: 0
   btn_l: -1
   btn_r: -1
@@ -93999,6 +100568,16 @@ vulgus_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wacko:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 wakuwak7:
   analog_dpad_mode: 0
   btn_a: 9
@@ -94036,6 +100615,16 @@ wakuwak7_6alternative:
   btn_x: 1
   btn_y: 8
   btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wallc:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -94199,6 +100788,16 @@ wardner_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+warfa:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: 9
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 wargods:
   analog_dpad_mode: 0
   btn_a: 0
@@ -94237,6 +100836,16 @@ wargods_6alternative:
   btn_y: 0
   btn_l: 1
   btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+warlords:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
   btn_l2: -1
   btn_r2: -1
 warofbug:
@@ -94519,6 +101128,16 @@ watrball_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+waveshrk:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 15
+  btn_x: -1
+  btn_y: -1
+  btn_l: 14
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: 13
 wb3:
   analog_dpad_mode: 0
   btn_a: 1
@@ -94719,6 +101338,36 @@ wboy_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wcbowl:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wcbowl140:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wcbowldx:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 wcvol95:
   analog_dpad_mode: 0
   btn_a: 1
@@ -94759,6 +101408,16 @@ wcvol95_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wecleman:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 13
 welltris:
   analog_dpad_mode: 0
   btn_a: 1
@@ -94795,6 +101454,26 @@ welltris_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+westgun2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+wfortune:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -94959,6 +101638,26 @@ wh2j_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wheelfir:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 12
+  btn_r2: 13
+wheelrun:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 whp:
   analog_dpad_mode: 0
   btn_a: 9
@@ -95079,6 +101778,16 @@ wildfang_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wildplt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 willow:
   analog_dpad_mode: 0
   btn_a: 1
@@ -95159,6 +101868,17 @@ wilytowr_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+windheat:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 14
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+  btn_left: 10
 wingforc:
   analog_dpad_mode: 0
   btn_a: 1
@@ -95199,6 +101919,50 @@ wingforc_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wingwar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+  btn_down: 10
+  btn_left: 11
+  btn_right: 14
+  btn_up: 9
+winrun:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+winrun91:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
+winrungp:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: 12
+  btn_r2: 13
 winspike:
   analog_dpad_mode: 0
   btn_a: 1
@@ -95479,6 +102243,16 @@ wizdfire_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wizwarz:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
 wjammers:
   analog_dpad_mode: 0
   btn_a: 1
@@ -95556,6 +102330,16 @@ wldcourt_6alternative:
   btn_x: 8
   btn_y: 0
   btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wmatch:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
@@ -95675,6 +102459,16 @@ wof_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wolfpack:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -95799,6 +102593,16 @@ worldadv_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+worldwar:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: 8
+  btn_r: 0
+  btn_l2: 12
+  btn_r2: 13
 wotw:
   analog_dpad_mode: 0
   btn_a: 1
@@ -95919,6 +102723,16 @@ wownfant_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wpksocv2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 13
 wrally:
   analog_dpad_mode: 0
   btn_a: 9
@@ -95959,6 +102773,26 @@ wrally_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wrally2:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
+wrally2a:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 0
 wrecking:
   analog_dpad_mode: 0
   btn_a: 1
@@ -96199,6 +103033,26 @@ wulybuly_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wwallyj:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wwallyja3p:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
 wwanpanm:
   analog_dpad_mode: 0
   btn_a: 1
@@ -96239,6 +103093,16 @@ wwanpanm_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+wwestern:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
 wwfsstar:
   analog_dpad_mode: 0
   btn_a: 1
@@ -96919,6 +103783,20 @@ xorworld_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+xrally:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: -1
+  btn_x: 10
+  btn_y: -1
+  btn_l: 14
+  btn_r: 15
+  btn_l2: 12
+  btn_r2: 13
+  btn_down: 8
+  btn_left: 1
+  btn_right: 9
+  btn_up: 0
 xsleena:
   analog_dpad_mode: 0
   btn_a: 1
@@ -96955,6 +103833,16 @@ xsleena_6alternative:
   btn_b: 9
   btn_x: 8
   btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+xtheball:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
   btn_l: -1
   btn_r: -1
   btn_l2: -1
@@ -97559,6 +104447,16 @@ zedblade_6alternative:
   btn_r: -1
   btn_l2: -1
   btn_r2: -1
+zektor:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
 zerohour:
   analog_dpad_mode: 0
   btn_a: 1
@@ -98117,6 +105015,16 @@ zupapa_6alternative:
   btn_y: 8
   btn_l: 9
   btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+zwackery:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: -1
+  btn_y: 1
+  btn_l: 8
+  btn_r: 0
   btn_l2: -1
   btn_r2: -1
 zzyzzyxx:

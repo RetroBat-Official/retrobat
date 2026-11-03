@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="hotrodj" rom="hotrodj">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":DIAL1" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="JOY_right" />
+        <mapping type="decrement" name="JOY_left" />
+      </button>
+      <button type="P2_DIAL" tag=":DIAL2" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P2_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="JOY_right" />
+        <mapping type="decrement" name="JOY_left" />
+      </button>
+      <button type="P3_DIAL" tag=":DIAL3" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P3_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="JOY_right" />
+        <mapping type="decrement" name="JOY_left" />
+      </button>
+      <button type="P4_DIAL" tag=":DIAL4" mask="4095" defvalue="0" x="30" y="60" color="Blue" function="P4_DIAL">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="JOY_right" />
+        <mapping type="decrement" name="JOY_left" />
+      </button>
+      <button type="P1_PEDAL" tag=":PEDAL1" mask="255" defvalue="1" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL" tag=":PEDAL2" mask="255" defvalue="1" x="30" y="60" color="Blue" function="P2_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P3_PEDAL" tag=":PEDAL3" mask="255" defvalue="1" x="30" y="60" color="Blue" function="P3_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P4_PEDAL" tag=":PEDAL4" mask="255" defvalue="1" x="30" y="60" color="Blue" function="P4_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

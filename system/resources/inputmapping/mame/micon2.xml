@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="micon2" rom="micon2">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":IN.0" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P2_BUTTON1" tag=":IN.1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_PADDLE" tag=":IN.2" mask="127" defvalue="56" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+      <button type="P2_PADDLE" tag=":IN.3" mask="127" defvalue="56" x="30" y="60" color="Blue" function="P2_PADDLE">
+        <mapping type="standard" name="NONE" />
+        <mapping type="increment" name="JOY_lsright" />
+        <mapping type="decrement" name="JOY_lsleft" />
+      </button>
+    </layout>
+  </layouts>
+</game>

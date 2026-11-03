@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="aztarac" rom="aztarac">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_DIAL" tag=":DIAL" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_DIAL">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON2" tag=":INPUTS" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+      <button type="P1_BUTTON1" tag=":INPUTS" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":STICKY" mask="31" defvalue="15" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Z" tag=":STICKZ" mask="31" defvalue="15" x="30" y="60" color="Blue" function="P1_AD_STICK_Z">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

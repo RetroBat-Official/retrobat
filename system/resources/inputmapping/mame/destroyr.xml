@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="destroyr" rom="destroyr">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON2" tag=":IN1" mask="2" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_west" />
+      </button>
+      <button type="P1_BUTTON1" tag=":IN1" mask="4" defvalue="0" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_south" />
+      </button>
+      <button type="P1_PADDLE_V" tag=":PADDLE" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PADDLE_V">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

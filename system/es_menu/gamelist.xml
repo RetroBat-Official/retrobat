@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./3dsen.menu</path>
+		<name>3DSen (NES 3D)</name>
+		<desc>Run 3DSen (nes 3D). This software is not provided by RetroBat. You can purshase it here: https://geod.itch.io/3dsenpc/</desc>
+		<image>./media/3dsen-logo.png</image>
+		<marquee>./media/3dsen-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Geod Studio</developer>
+		<publisher>Geod Studio</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./altirra.menu</path>
 		<name>Altirra (Atari 8-bits)</name>
 		<desc>Run Altirra Emulator (Atari 8-bits).</desc>
@@ -222,6 +239,40 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./chihiro.menu</path>
+		<name>Chihiro (CxBx Reloaded - old)</name>
+		<desc>Run Chihiro Emulator.</desc>
+		<image>./media/chihiro.png</image>
+		<marquee>./media/chihiro.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./chihiro-gun.menu</path>
+		<name>Chihiro-ds (CxBx Reloaded - gun games)</name>
+		<desc>Run Chihiro Emulator (gun version).</desc>
+		<image>./media/chihiro-gun.png</image>
+		<marquee>./media/chihiro-gun.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./citra.menu</path>
 		<name>Citra (3DS)</name>
 		<desc>Run Citra Emulator (Nintendo 3DS).</desc>
@@ -265,6 +316,57 @@
 		<releasedate />
 		<developer>Zephyron</developer>
 		<publisher />
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./cxbx-reloaded.menu</path>
+		<name>CxBx Reloaded (XBOX, Chihiro)</name>
+		<desc>Run CxBx Reloaded Emulator (Xbox, Chihiro).</desc>
+		<image>./media/cxbxr-logo.png</image>
+		<marquee>./media/cxbxr-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>CXBX Team</developer>
+		<publisher>CXBX Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./daphne.menu</path>
+		<name>Daphne Loader (Laserdisc)</name>
+		<desc>Run Daphne Loader (Laserdisc).</desc>
+		<image>./media/daphne-logo.png</image>
+		<marquee>./media/daphne-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Unknown</developer>
+		<publisher>Unknown</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./demul.menu</path>
+		<name>Demul (Dreamcast, Naomi 1 &amp; 2, Atomiswave, Hikaru)</name>
+		<desc>Run Demul (Dreamcast, Naomi 1 &amp; 2, Atomiswave, Hikaru).</desc>
+		<image>./media/demul-logo.png</image>
+		<marquee>./media/demul-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Demul Team</developer>
+		<publisher>Demul Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -392,6 +494,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./duckstation.menu</path>
+		<name>Duckstation (PlayStation)</name>
+		<desc>Run Duckstation Emulator (PlayStation).</desc>
+		<image>./media/duckstation-logo.png</image>
+		<marquee>./media/duckstation-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Duckstation Team</developer>
+		<publisher>Duckstation Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./dusklight.menu</path>
 		<name>Dusklight (Twilight Princess decompilation)</name>
 		<desc>Run Dusklight</desc>
@@ -477,6 +596,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./fpinball.menu</path>
+		<name>Future Pinball</name>
+		<desc>Run Future Pinball.</desc>
+		<image>./media/fpinball-logo.png</image>
+		<marquee>./media/fpinball-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Unknown</developer>
+		<publisher>Unknown</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./gopher64.menu</path>
 		<name>Gopher64 (Nintendo 64)</name>
 		<desc>Run Gopher64.</desc>
@@ -537,6 +673,23 @@
 		<releasedate />
 		<developer>TuxFamily</developer>
 		<publisher>TuxFamily</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./hbmame.menu</path>
+		<name>HBMAME (HomeBrew Arcade Games)</name>
+		<desc>Run HBMAME (HomeBrew Arcade Games).</desc>
+		<image>./media/hbmame-logo.png</image>
+		<marquee>./media/hbmame-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>HBMAME Team</developer>
+		<publisher>HBMAME Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -643,6 +796,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./mame.menu</path>
+		<name>MAME (Multiple Arcade Machine Emulator)</name>
+		<desc>Run MAME (Multiple Arcade Machine Emulator).</desc>
+		<image>./media/mame-logo.png</image>
+		<marquee>./media/mame-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>MAME Team</developer>
+		<publisher>MAME Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./mandarine.menu</path>
 		<name>Mandarine (3DS)</name>
 		<desc>Run Mandarine Emulator (Nintendo 3DS).</desc>
@@ -741,6 +911,74 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./mupen64.menu</path>
+		<name>Mupen64 Plus</name>
+		<desc>Run Rosalie's Mupen GUI.</desc>
+		<image>./media/rmg-logo.png</image>
+		<marquee>./media/rmg-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Rosalie Wanders</developer>
+		<publisher>Rosalie Wanders</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./nosgba.menu</path>
+		<name>No$GBA (GameBoy Advance 2 Players)</name>
+		<desc>Run No$GBA (GameBoy Advance 2 Players).</desc>
+		<image>./media/nosgba-logo.png</image>
+		<marquee>./media/nosgba-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>NoGBA Team</developer>
+		<publisher>NoGBA Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./odin.menu</path>
+		<name>Odin (Hikaru)</name>
+		<desc>Run Odin (Sega Hikaru).</desc>
+		<image>./media/odin-logo.png</image>
+		<marquee>./media/odin-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Réda Chérif-Touil, Stefano Teso</developer>
+		<publisher>Tovarichtch</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./opencdi.menu</path>
+		<name>OpenCDi (CD-i)</name>
+		<desc>Run OpenCDi (CD-i).</desc>
+		<image>./media/opencdi-logo.png</image>
+		<marquee>./media/opencdi-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>sigsantilio</developer>
+		<publisher>OpenCDi</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./openmsx.menu</path>
 		<name>OpenMSX (MSX)</name>
 		<desc>Run OpenMSX (MSX).</desc>
@@ -808,7 +1046,41 @@
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
-		<game>
+	<game>
+		<path>./phoenix.menu</path>
+		<name>Phoenix (3DO &amp; jaguar emulator)</name>
+		<desc>Run Phoenix  (3DO &amp; jaguar Emulator).</desc>
+		<image>./media/phoenix.png</image>
+		<marquee>./media/phoenix.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Altmer</developer>
+		<publisher>Altmer</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./pico8.menu</path>
+		<name>PICO-8</name>
+		<desc>Run PICO-8 (Fantasy Console). This software is not provided by RetroBat. You can purchase it there: https://lexaloffle.itch.io/pico-8/</desc>
+		<image>./media/pico8-logo.png</image>
+		<marquee>./media/pico8-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Lexaloffle</developer>
+		<publisher>Lexaloffle</publisher>
+		<genre>Fantasy Console</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./play.menu</path>
 		<name>PLAY (PlayStation 2)</name>
 		<desc>Run PLAY Emulator (PlayStation 2).</desc>
@@ -877,6 +1149,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./psxmame.menu</path>
+		<name>PSXMAME (Playstation-based Arcade)</name>
+		<desc>Run PSXMAME (Playstation-based Arcade).</desc>
+		<image>./media/psxmame-logo.png</image>
+		<marquee>./media/psxmame-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>MAME Team</developer>
+		<publisher>MAME Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./quiverlauncher.menu</path>
 		<name>Quiver Launcher (Recompiled and Decompiled Ports)</name>
 		<desc>Run Quiver Launcher to install and update recompiled and decompiled game ports.</desc>
@@ -928,15 +1217,15 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./ruffle.menu</path>
-		<name>Ruffle (flash games)</name>
-		<desc>Run Ruffle (flash games).</desc>
-		<image>./media/ruffle-logo.png</image>
-		<marquee>./media/ruffle-logo.png</marquee>
+		<path>./retroarch.menu</path>
+		<name>RetroArch (Multi Cores Emulator)</name>
+		<desc>Run RetroArch (Multi Cores Emulator).</desc>
+		<image>./media/retroarch-logo.png</image>
+		<marquee>./media/retroarch-logo.png</marquee>
 		<rating>0</rating>
-		<releasedate />
-		<developer>Ruffle Team</developer>
-		<publisher>Ruffle Team</publisher>
+		<releasedate></releasedate>
+		<developer>Libretro Team</developer>
+		<publisher>Libretro Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -954,6 +1243,40 @@
 		<releasedate />
 		<developer>RPCS3 Team</developer>
 		<publisher>RPCS3 Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./ruffle.menu</path>
+		<name>Ruffle (flash games)</name>
+		<desc>Run Ruffle (flash games).</desc>
+		<image>./media/ruffle-logo.png</image>
+		<marquee>./media/ruffle-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Ruffle Team</developer>
+		<publisher>Ruffle Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./ryujinx.menu</path>
+		<name>Ryujinx (Switch)</name>
+		<desc>Run Ryujinx (Switch). This software is not provided by RetroBat. You can download it here: https://ryujinx.org/download</desc>
+		<image>./media/ryujinx-logo.png</image>
+		<marquee>./media/ryujinx-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Ryujinx Team</developer>
+		<publisher>Ryujinx Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -1030,271 +1353,16 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./ssf.menu</path>
-		<name>SSF (Saturn emulator)</name>
-		<desc>Run SSF (Saturn).</desc>
-		<image>./media/ssf-logo.png</image>
-		<marquee>./media/ssf-logo.png</marquee>
+		<path>./sm2emu.menu</path>
+		<name>SM2-emu (MODEL 2)</name>
+		<desc>Run sm2-emu emulator (MODEL 2).</desc>
+		<image>./media/sm2emu-logo.png</image>
+		<marquee>./media/sm2emu-logo.png</marquee>
 		<rating>0</rating>
-		<releasedate />
-		<developer>Shima</developer>
-		<publisher>Shima</publisher>
+		<developer>Dmanlfc</developer>
+		<publisher>Dmanflc</publisher>
 		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./TheForceEngine.menu</path>
-		<name>The Force Engine (Dark Forces port)</name>
-		<desc>Run The Force Engine (Dark Forces port).</desc>
-		<image>./media/forceengine-logo.png</image>
-		<marquee>./media/forceengine-logo.png</marquee>
-		<rating>0</rating>
 		<releasedate />
-		<developer>Lucius DXL</developer>
-		<publisher />
-		<genre>Game Engine</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./xenia_canary.menu</path>
-		<name>Xenia Canary (XBOX 360)</name>
-		<desc>Run Xenia Canary (Xbox 360).</desc>
-		<image>./media/xenia-canary-logo.png</image>
-		<marquee>./media/xenia-canary-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Xenia Team</developer>
-		<publisher>Xenia Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./xenia_edge.menu</path>
-		<name>Xenia Edge (XBOX 360)</name>
-		<desc>Run Xenia Edge (Xbox 360).</desc>
-		<image>./media/xenia-edge-logo.png</image>
-		<marquee>./media/xenia-edge-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Xenia Team</developer>
-		<publisher>Xenia Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./xenia.menu</path>
-		<name>Xenia (XBOX 360)</name>
-		<desc>Run Xenia (Xbox 360).</desc>
-		<image>./media/xenia-logo.png</image>
-		<marquee>./media/xenia-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Xenia Team</developer>
-		<publisher>Xenia Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./xenia-manager.menu</path>
-		<name>Xenia Manager (XBOX 360)</name>
-		<desc>Run Xenia Manager (Xbox 360).</desc>
-		<image>./media/xenia-manager-logo.png</image>
-		<marquee>./media/xenia-manager-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Shazzaam</developer>
-		<publisher />
-		<genre>Tool</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./daphne.menu</path>
-		<name>Daphne Loader (Laserdisc)</name>
-		<desc>Run Daphne Loader (Laserdisc).</desc>
-		<image>./media/daphne-logo.png</image>
-		<marquee>./media/daphne-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Unknown</developer>
-		<publisher>Unknown</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./fpinball.menu</path>
-		<name>Future Pinball</name>
-		<desc>Run Future Pinball.</desc>
-		<image>./media/fpinball-logo.png</image>
-		<marquee>./media/fpinball-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Unknown</developer>
-		<publisher>Unknown</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./vpinball.menu</path>
-		<name>Visual Pinball</name>
-		<desc>Run Visual Pinball.</desc>
-		<image>./media/vpinball-logo.png</image>
-		<marquee>./media/vpinball-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Unknown</developer>
-		<publisher>Unknown</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./demul.menu</path>
-		<name>Demul (Dreamcast, Naomi 1 &amp; 2, Atomiswave, Hikaru)</name>
-		<desc>Run Demul (Dreamcast, Naomi 1 &amp; 2, Atomiswave, Hikaru).</desc>
-		<image>./media/demul-logo.png</image>
-		<marquee>./media/demul-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Demul Team</developer>
-		<publisher>Demul Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-    <game>
-		<path>./phoenix.menu</path>
-		<name>Phoenix (3DO &amp; jaguar emulator)</name>
-		<desc>Run Phoenix  (3DO &amp; jaguar Emulator).</desc>
-		<image>./media/phoenix.png</image>
-		<marquee>./media/phoenix.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Altmer</developer>
-		<publisher>Altmer</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./cxbx-reloaded.menu</path>
-		<name>CxBx Reloaded (XBOX, Chihiro)</name>
-		<desc>Run CxBx Reloaded Emulator (Xbox, Chihiro).</desc>
-		<image>./media/cxbxr-logo.png</image>
-		<marquee>./media/cxbxr-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>CXBX Team</developer>
-		<publisher>CXBX Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./chihiro.menu</path>
-		<name>Chihiro (CxBx Reloaded - old)</name>
-		<desc>Run Chihiro Emulator.</desc>
-		<image>./media/chihiro.png</image>
-		<marquee>./media/chihiro.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>CXBX Team</developer>
-		<publisher>CXBX Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./chihiro-gun.menu</path>
-		<name>Chihiro-ds (CxBx Reloaded - gun games)</name>
-		<desc>Run Chihiro Emulator (gun version).</desc>
-		<image>./media/chihiro-gun.png</image>
-		<marquee>./media/chihiro-gun.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>CXBX Team</developer>
-		<publisher>CXBX Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./winuae.menu</path>
-		<name>WinUAE (Amiga)</name>
-		<desc>Run WinUAE (Amiga).</desc>
-		<image>./media/winuae-logo.png</image>
-		<marquee>./media/winuae-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>WinUAE Team</developer>
-		<publisher>WinUAE Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./pico8.menu</path>
-		<name>PICO-8</name>
-		<desc>Run PICO-8 (Fantasy Console). This software is not provided by RetroBat. You can purchase it there: https://lexaloffle.itch.io/pico-8/</desc>
-		<image>./media/pico8-logo.png</image>
-		<marquee>./media/pico8-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Lexaloffle</developer>
-		<publisher>Lexaloffle</publisher>
-		<genre>Fantasy Console</genre>
 		<playcount />
 		<lastplayed />
 		<gametime />
@@ -1319,101 +1387,16 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./duckstation.menu</path>
-		<name>Duckstation (PlayStation)</name>
-		<desc>Run Duckstation Emulator (PlayStation).</desc>
-		<image>./media/duckstation-logo.png</image>
-		<marquee>./media/duckstation-logo.png</marquee>
+		<path>./ssf.menu</path>
+		<name>SSF (Saturn emulator)</name>
+		<desc>Run SSF (Saturn).</desc>
+		<image>./media/ssf-logo.png</image>
+		<marquee>./media/ssf-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>Duckstation Team</developer>
-		<publisher>Duckstation Team</publisher>
+		<developer>Shima</developer>
+		<publisher>Shima</publisher>
 		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./mame.menu</path>
-		<name>MAME (Multiple Arcade Machine Emulator)</name>
-		<desc>Run MAME (Multiple Arcade Machine Emulator).</desc>
-		<image>./media/mame-logo.png</image>
-		<marquee>./media/mame-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>MAME Team</developer>
-		<publisher>MAME Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./psxmame.menu</path>
-		<name>PSXMAME (Playstation-based Arcade)</name>
-		<desc>Run PSXMAME (Playstation-based Arcade).</desc>
-		<image>./media/psxmame-logo.png</image>
-		<marquee>./media/psxmame-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>MAME Team</developer>
-		<publisher>MAME Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./hbmame.menu</path>
-		<name>HBMAME (HomeBrew Arcade Games)</name>
-		<desc>Run HBMAME (HomeBrew Arcade Games).</desc>
-		<image>./media/hbmame-logo.png</image>
-		<marquee>./media/hbmame-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>HBMAME Team</developer>
-		<publisher>HBMAME Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./ryujinx.menu</path>
-		<name>Ryujinx (Switch)</name>
-		<desc>Run Ryujinx (Switch). This software is not provided by RetroBat. You can download it here: https://ryujinx.org/download</desc>
-		<image>./media/ryujinx-logo.png</image>
-		<marquee>./media/ryujinx-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Ryujinx Team</developer>
-		<publisher>Ryujinx Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./sm2emu.menu</path>
-		<name>SM2-emu (MODEL 2)</name>
-		<desc>Run sm2-emu emulator (MODEL 2).</desc>
-		<image>./media/sm2emu-logo.png</image>
-		<marquee>./media/sm2emu-logo.png</marquee>
-		<rating>0</rating>
-		<developer>Dmanlfc</developer>
-		<publisher>Dmanflc</publisher>
-		<genre>Emulator</genre>
-		<releasedate />
 		<playcount />
 		<lastplayed />
 		<gametime />
@@ -1489,6 +1472,107 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./teknoparrot.menu</path>
+		<name>TeknoParrot (Arcade)</name>
+		<desc>Run TeknoParrot (Arcade). This software is not provided by RetroBat. You can download it here: https://teknoparrot.com/Home/Download</desc>
+		<image>./media/teknoparrot-logo.png</image>
+		<marquee>./media/teknoparrot-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>TeknoGods</developer>
+		<publisher>TeknoGods</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./TheForceEngine.menu</path>
+		<name>The Force Engine (Dark Forces port)</name>
+		<desc>Run The Force Engine (Dark Forces port).</desc>
+		<image>./media/forceengine-logo.png</image>
+		<marquee>./media/forceengine-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Lucius DXL</developer>
+		<publisher />
+		<genre>Game Engine</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./tsugaru.menu</path>
+		<name>Tsugaru (FM Towns)</name>
+		<desc>Run Tsugaru (FM Towns).</desc>
+		<image>./media/tsugaru-logo.png</image>
+		<marquee>./media/tsugaru-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Captain Ys</developer>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./vita3k.menu</path>
+		<name>Vita 3K (PS Vita)</name>
+		<desc>Run Vita 3K Emulator (PS Vita).</desc>
+		<image>./media/vita3k-logo.png</image>
+		<marquee>./media/vita3k-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Vita3K Team</developer>
+		<publisher>Vita3K Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./vpinball.menu</path>
+		<name>Visual Pinball</name>
+		<desc>Run Visual Pinball.</desc>
+		<image>./media/vpinball-logo.png</image>
+		<marquee>./media/vpinball-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Unknown</developer>
+		<publisher>Unknown</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./winuae.menu</path>
+		<name>WinUAE (Amiga)</name>
+		<desc>Run WinUAE (Amiga).</desc>
+		<image>./media/winuae-logo.png</image>
+		<marquee>./media/winuae-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>WinUAE Team</developer>
+		<publisher>WinUAE Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./xemu.menu</path>
 		<name>Xemu (Xbox)</name>
 		<desc>Run Xemu (Xbox).</desc>
@@ -1523,32 +1607,15 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./yuzu.menu</path>
-		<name>Yuzu (Switch)</name>
-		<desc>Run Yuzu (Switch). This software is not provided by RetroBat.</desc>
-		<image>./media/yuzu-logo.png</image>
-		<marquee>./media/yuzu-logo.png</marquee>
+		<path>./xenia_canary.menu</path>
+		<name>Xenia Canary (XBOX 360)</name>
+		<desc>Run Xenia Canary (Xbox 360).</desc>
+		<image>./media/xenia-canary-logo.png</image>
+		<marquee>./media/xenia-canary-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>Yuzu Team</developer>
-		<publisher>Yuzu Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<!--<game>
-		<path>./yuzu-early-access.menu</path>
-		<name>Yuzu Early Access (Switch)</name>
-		<desc>Run Yuzu Early Access (Switch). This software is not provided by RetroBat.</desc>
-		<image>./media/yuzuEA-logo.png</image>
-		<marquee>./media/yuzuEA-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Yuzu Team</developer>
-		<publisher>Yuzu Team</publisher>
+		<developer>Xenia Team</developer>
+		<publisher>Xenia Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -1557,32 +1624,15 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./zsnes-dos.menu</path>
-		<name>ZSNES</name>
-		<desc>A Super NES emulator pioneer running in DOSBox (for nostalgia and preservation).</desc>
-		<image>./media/zsnes-logo.png</image>
-		<marquee>./media/zsnes-logo.png</marquee>
+		<path>./xenia_edge.menu</path>
+		<name>Xenia Edge (XBOX 360)</name>
+		<desc>Run Xenia Edge (Xbox 360).</desc>
+		<image>./media/xenia-edge-logo.png</image>
+		<marquee>./media/xenia-edge-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>ZSNES Team</developer>
-		<publisher>ZSNES Team</publisher>
-		<genre>Emulator</genre>
-		<playcount>1</playcount>
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>-->
-	<game>
-		<path>./retroarch.menu</path>
-		<name>RetroArch (Multi Cores Emulator)</name>
-		<desc>Run RetroArch (Multi Cores Emulator).</desc>
-		<image>./media/retroarch-logo.png</image>
-		<marquee>./media/retroarch-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate></releasedate>
-		<developer>Libretro Team</developer>
-		<publisher>Libretro Team</publisher>
+		<developer>Xenia Team</developer>
+		<publisher>Xenia Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -1591,14 +1641,15 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./tsugaru.menu</path>
-		<name>Tsugaru (FM Towns)</name>
-		<desc>Run Tsugaru (FM Towns).</desc>
-		<image>./media/tsugaru-logo.png</image>
-		<marquee>./media/tsugaru-logo.png</marquee>
+		<path>./xenia.menu</path>
+		<name>Xenia (XBOX 360)</name>
+		<desc>Run Xenia (Xbox 360).</desc>
+		<image>./media/xenia-logo.png</image>
+		<marquee>./media/xenia-logo.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
-		<developer>Captain Ys</developer>
+		<releasedate />
+		<developer>Xenia Team</developer>
+		<publisher>Xenia Team</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -1607,67 +1658,16 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./nosgba.menu</path>
-		<name>No$GBA (GameBoy Advance 2 Players)</name>
-		<desc>Run No$GBA (GameBoy Advance 2 Players).</desc>
-		<image>./media/nosgba-logo.png</image>
-		<marquee>./media/nosgba-logo.png</marquee>
+		<path>./xenia-manager.menu</path>
+		<name>Xenia Manager (XBOX 360)</name>
+		<desc>Run Xenia Manager (Xbox 360).</desc>
+		<image>./media/xenia-manager-logo.png</image>
+		<marquee>./media/xenia-manager-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>NoGBA Team</developer>
-		<publisher>NoGBA Team</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./3dsen.menu</path>
-		<name>3DSen (NES 3D)</name>
-		<desc>Run 3DSen (nes 3D). This software is not provided by RetroBat. You can purshase it here: https://geod.itch.io/3dsenpc/</desc>
-		<image>./media/3dsen-logo.png</image>
-		<marquee>./media/3dsen-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Geod Studio</developer>
-		<publisher>Geod Studio</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./teknoparrot.menu</path>
-		<name>TeknoParrot (Arcade)</name>
-		<desc>Run TeknoParrot (Arcade). This software is not provided by RetroBat. You can download it here: https://teknoparrot.com/Home/Download</desc>
-		<image>./media/teknoparrot-logo.png</image>
-		<marquee>./media/teknoparrot-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>TeknoGods</developer>
-		<publisher>TeknoGods</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./vita3k.menu</path>
-		<name>Vita 3K (PS Vita)</name>
-		<desc>Run Vita 3K Emulator (PS Vita).</desc>
-		<image>./media/vita3k-logo.png</image>
-		<marquee>./media/vita3k-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Vita3K Team</developer>
-		<publisher>Vita3K Team</publisher>
-		<genre>Emulator</genre>
+		<developer>Shazzaam</developer>
+		<publisher />
+		<genre>Tool</genre>
 		<playcount />
 		<lastplayed />
 		<gametime />
@@ -1726,15 +1726,49 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./zinc.menu</path>
-		<name>Zinc</name>
-		<desc>Run Zinc FE.</desc>
-		<image>./media/zinc-logo.png</image>
-		<marquee>./media/zinc-logo.png</marquee>
+		<path>./yuzu.menu</path>
+		<name>Yuzu (Switch)</name>
+		<desc>Run Yuzu (Switch). This software is not provided by RetroBat.</desc>
+		<image>./media/yuzu-logo.png</image>
+		<marquee>./media/yuzu-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>Duddie/Tratax</developer>
-		<publisher>Duddie/Tratax</publisher>
+		<developer>Yuzu Team</developer>
+		<publisher>Yuzu Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<!--<game>
+		<path>./yuzu-early-access.menu</path>
+		<name>Yuzu Early Access (Switch)</name>
+		<desc>Run Yuzu Early Access (Switch). This software is not provided by RetroBat.</desc>
+		<image>./media/yuzuEA-logo.png</image>
+		<marquee>./media/yuzuEA-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Yuzu Team</developer>
+		<publisher>Yuzu Team</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>-->
+	<game>
+		<path>./zesarux.menu</path>
+		<name>ZEsarUX (ZX Spectrum)</name>
+		<desc>Run ZEsarUX GUI.</desc>
+		<image>./media/zesarux-logo.png</image>
+		<marquee>./media/zesarux-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>chernandezba</developer>
+		<publisher />
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />
@@ -1760,32 +1794,15 @@
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./mupen64.menu</path>
-		<name>Mupen64 Plus</name>
-		<desc>Run Rosalie's Mupen GUI.</desc>
-		<image>./media/rmg-logo.png</image>
-		<marquee>./media/rmg-logo.png</marquee>
+		<path>./zinc.menu</path>
+		<name>Zinc</name>
+		<desc>Run Zinc FE.</desc>
+		<image>./media/zinc-logo.png</image>
+		<marquee>./media/zinc-logo.png</marquee>
 		<rating>0</rating>
 		<releasedate />
-		<developer>Rosalie Wanders</developer>
-		<publisher>Rosalie Wanders</publisher>
-		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./zesarux.menu</path>
-		<name>ZEsarUX (ZX Spectrum)</name>
-		<desc>Run ZEsarUX GUI.</desc>
-		<image>./media/zesarux-logo.png</image>
-		<marquee>./media/zesarux-logo.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>chernandezba</developer>
-		<publisher />
+		<developer>Duddie/Tratax</developer>
+		<publisher>Duddie/Tratax</publisher>
 		<genre>Emulator</genre>
 		<playcount />
 		<lastplayed />

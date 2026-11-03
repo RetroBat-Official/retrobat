@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="f1en" rom="f1en">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_PADDLE" tag=":mainpcb:ANALOG1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P1_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL" tag=":mainpcb:ANALOG2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_PEDAL2" tag=":mainpcb:ANALOG3" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON1" tag=":mainpcb:P1_A" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_r1" />
+      </button>
+      <button type="P1_BUTTON2" tag=":mainpcb:P1_A" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_east OR JOY_l1" />
+      </button>
+      <button type="P2_PADDLE" tag=":slavepcb:ANALOG1" mask="255" defvalue="128" x="30" y="60" color="Blue" function="P2_PADDLE">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL" tag=":slavepcb:ANALOG2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_PEDAL">
+        <mapping type="standard" name="JOY_r2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_PEDAL2" tag=":slavepcb:ANALOG3" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_PEDAL2">
+        <mapping type="standard" name="JOY_l2" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_BUTTON1" tag=":slavepcb:P1_A" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_west OR JOY_r1" />
+      </button>
+      <button type="P2_BUTTON2" tag=":slavepcb:P1_A" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_east OR JOY_l1" />
+      </button>
+    </layout>
+  </layouts>
+</game>

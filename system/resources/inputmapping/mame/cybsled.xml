@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="cybsled" rom="cybsled">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_AD_STICK_Y" tag=":AN0" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P2_AD_STICK_Y">
+        <mapping type="standard" name="JOY_rightsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_Y" tag=":AN1" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P1_AD_STICK_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_AD_STICK_X" tag=":AN2" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P2_AD_STICK_X">
+        <mapping type="standard" name="JOY_rightstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_AD_STICK_X" tag=":AN3" mask="255" defvalue="127" x="30" y="60" color="Blue" function="P1_AD_STICK_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_BUTTON3" tag=":MCUH" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_BUTTON3">
+        <mapping type="standard" name="JOY_north" />
+      </button>
+      <button type="P1_BUTTON1" tag=":MCUH" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON2" tag=":MCUH" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_l2trigger" />
+      </button>
+    </layout>
+  </layouts>
+</game>

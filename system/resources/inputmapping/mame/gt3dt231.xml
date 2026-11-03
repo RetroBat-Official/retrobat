@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="gt3dt231" rom="gt3dt231">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P1_BUTTON1" tag=":P1" mask="262144" defvalue="262144" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_left" />
+      </button>
+      <button type="P1_BUTTON2" tag=":P1" mask="524288" defvalue="524288" x="30" y="60" color="Blue" function="P1_BUTTON2">
+        <mapping type="standard" name="JOY_right" />
+      </button>
+      <button type="P2_BUTTON1" tag=":P2" mask="262144" defvalue="262144" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_left" />
+      </button>
+      <button type="P2_BUTTON2" tag=":P2" mask="524288" defvalue="524288" x="30" y="60" color="Blue" function="P2_BUTTON2">
+        <mapping type="standard" name="JOY_right" />
+      </button>
+      <button type="P1_TRACKBALL_X" tag=":TRACKX1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_X" tag=":TRACKX2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_X">
+        <mapping type="standard" name="JOY_leftstickx" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P1_TRACKBALL_Y" tag=":TRACKY1" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P1_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+      <button type="P2_TRACKBALL_Y" tag=":TRACKY2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="P2_TRACKBALL_Y">
+        <mapping type="standard" name="JOY_leftsticky" />
+        <mapping type="increment" name="NONE" />
+        <mapping type="decrement" name="NONE" />
+      </button>
+    </layout>
+  </layouts>
+</game>

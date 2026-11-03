@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="assault" rom="assault">
+  <layouts>
+    <layout type="default" joystickcolor="Black">
+      <button type="P2_JOYSTICKLEFT_LEFT" tag=":MCUB" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_LEFT" tag=":MCUB" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_LEFT">
+        <mapping type="standard" name="JOY_lsleft" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_DOWN" tag=":MCUB" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_DOWN" tag=":MCUB" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_DOWN">
+        <mapping type="standard" name="JOY_lsdown" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_UP" tag=":MCUB" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_UP" tag=":MCUB" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_UP">
+        <mapping type="standard" name="JOY_lsup" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_RIGHT" tag=":MCUDI0" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_RIGHT">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_RIGHT" tag=":MCUDI0" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_RIGHT">
+        <mapping type="standard" name="JOY_rsright" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_LEFT" tag=":MCUDI0" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_LEFT">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_LEFT" tag=":MCUDI0" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_LEFT">
+        <mapping type="standard" name="JOY_rsleft" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_DOWN" tag=":MCUH" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_DOWN" tag=":MCUH" mask="2" defvalue="2" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_DOWN">
+        <mapping type="standard" name="JOY_rsdown" />
+      </button>
+      <button type="P2_JOYSTICKRIGHT_UP" tag=":MCUH" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P2_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P1_JOYSTICKRIGHT_UP" tag=":MCUH" mask="8" defvalue="8" x="30" y="60" color="Blue" function="P1_JOYSTICKRIGHT_UP">
+        <mapping type="standard" name="JOY_rsup" />
+      </button>
+      <button type="P2_BUTTON1" tag=":MCUH" mask="16" defvalue="16" x="30" y="60" color="Blue" function="P2_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P1_BUTTON1" tag=":MCUH" mask="32" defvalue="32" x="30" y="60" color="Blue" function="P1_BUTTON1">
+        <mapping type="standard" name="JOY_r2trigger" />
+      </button>
+      <button type="P2_JOYSTICKLEFT_RIGHT" tag=":MCUH" mask="64" defvalue="64" x="30" y="60" color="Blue" function="P2_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+      <button type="P1_JOYSTICKLEFT_RIGHT" tag=":MCUH" mask="128" defvalue="128" x="30" y="60" color="Blue" function="P1_JOYSTICKLEFT_RIGHT">
+        <mapping type="standard" name="JOY_lsright" />
+      </button>
+    </layout>
+  </layouts>
+</game>
