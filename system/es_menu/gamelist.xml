@@ -962,6 +962,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./opencdi.menu</path>
+		<name>OpenCDi (CD-i)</name>
+		<desc>Run OpenCDi (CD-i).</desc>
+		<image>./media/opencdi-logo.png</image>
+		<marquee>./media/opencdi-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>sigsantilio</developer>
+		<publisher>OpenCDi</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./openmsx.menu</path>
 		<name>OpenMSX (MSX)</name>
 		<desc>Run OpenMSX (MSX).</desc>

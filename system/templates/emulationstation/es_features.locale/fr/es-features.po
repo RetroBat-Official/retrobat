@@ -28213,3 +28213,27 @@ msgstr "Envoie les lampes, la vibration des pistolets et la carte de pilotage du
 msgctxt "game_options"
 msgid "Width of the white border drawn when a Sinden gun is connected. 2 pixels by default."
 msgstr "Largeur de la bordure blanche affichée quand un pistolet Sinden est connecté. 2 pixels par défaut."
+
+msgctxt "game_options"
+msgid "DIGITAL VIDEO CARTRIDGE"
+msgstr "CARTOUCHE VIDÉO NUMÉRIQUE (DVC)"
+
+msgctxt "game_options"
+msgid "Fit the Digital Video Cartridge (vmpega.rom in bios\cdi), required by FMV games and Video CDs."
+msgstr "Insère la cartouche vidéo numérique (vmpega.rom dans bios\cdi), nécessaire aux jeux FMV et aux Vidéo CD."
+
+msgctxt "game_options"
+msgid "CONSOLE MEMORY (NVRAM)"
+msgstr "MÉMOIRE DE LA CONSOLE (NVRAM)"
+
+msgctxt "game_options"
+msgid "Per game: each game has its own 8 KB console memory, so it can never be full. Shared: one memory for all the games, as on a real player."
+msgstr "Par jeu : chaque jeu a sa propre mémoire console de 8 Ko, qui ne peut donc jamais être pleine. Partagée : une seule mémoire pour tous les jeux, comme sur un vrai lecteur."
+
+msgctxt "game_options"
+msgid "POINTING DEVICE"
+msgstr "PÉRIPHÉRIQUE DE POINTAGE"
+
+msgctxt "game_options"
+msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + B switches during the game."
+msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + B bascule pendant le jeu."
