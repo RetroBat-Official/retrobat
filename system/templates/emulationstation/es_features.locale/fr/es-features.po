@@ -28073,3 +28073,143 @@ msgstr "DEMANDE DE SLOT(S) SPÉCIFIQUES"
 msgctxt "game_options"
 msgid "Request specific slot(s), choose SPECIFIC SLOT option above."
 msgstr "Détail des slots à demander, choisir SLOT SPÉCIFIQUE ci-dessus."
+
+msgctxt "game_options"
+msgid "USE EMULATOR BEZELS"
+msgstr "UTILISER LES BEZELS DE L'ÉMULATEUR"
+
+msgctxt "game_options"
+msgid "Use the bezels of the Odin artwork pack (artwork folder of the emulator) instead of the RetroBat decorations."
+msgstr "Utilise les bezels du pack d'illustrations d'Odin (dossier artwork de l'émulateur) à la place des décorations RetroBat."
+
+msgctxt "game_options"
+msgid "3D rendering resolution."
+msgstr "Résolution du rendu 3D."
+
+msgctxt "game_options"
+msgid "2X (1280x960)"
+msgstr "2X (1280x960)"
+
+msgctxt "game_options"
+msgid "3X (1920x1440)"
+msgstr "3X (1920x1440)"
+
+msgctxt "game_options"
+msgid "4X (2560x1920)"
+msgstr "4X (2560x1920)"
+
+msgctxt "game_options"
+msgid "5X (3200x2400)"
+msgstr "5X (3200x2400)"
+
+msgctxt "game_options"
+msgid "6X (3840x2880)"
+msgstr "6X (3840x2880)"
+
+msgctxt "game_options"
+msgid "Off by default. Adaptive does not wait for the display when a frame is late."
+msgstr "Désactivée par défaut. Adaptative n'attend pas l'écran quand une image est en retard."
+
+msgctxt "game_options"
+msgid "Use this option if Odin is not displayed on the correct monitor."
+msgstr "Utiliser cette option si Odin ne s'affiche pas sur le bon écran."
+
+msgctxt "game_options"
+msgid "Anisotropic filtering of 3D textures, the arcade board has none."
+msgstr "Filtrage anisotrope des textures 3D, absent de la carte arcade."
+
+msgctxt "game_options"
+msgid "16X"
+msgstr "16X"
+
+msgctxt "game_options"
+msgid "How the flat 2D parts (HUD, text) are drawn above the native resolution. Smooth by default."
+msgstr "Rendu des éléments 2D (HUD, textes) au-delà de la résolution native. Lisse par défaut."
+
+msgctxt "game_options"
+msgid "SNAP TO BOARD PIXELS"
+msgstr "ALIGNÉ SUR LES PIXELS DE LA CARTE"
+
+msgctxt "game_options"
+msgid "SEGA MONITOR (29 INCH)"
+msgstr "MONITEUR SEGA (29 POUCES)"
+
+msgctxt "game_options"
+msgid "SEGA PROJECTOR (50 INCH)"
+msgstr "PROJECTEUR SEGA (50 POUCES)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR"
+msgstr "MONITEUR VGA"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (FLAT)"
+msgstr "MONITEUR VGA (PLAT)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (GOOD)"
+msgstr "MONITEUR VGA (BON)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (GOOD, FLAT)"
+msgstr "MONITEUR VGA (BON, PLAT)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (PREMIUM)"
+msgstr "MONITEUR VGA (PREMIUM)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (PREMIUM, FLAT)"
+msgstr "MONITEUR VGA (PREMIUM, PLAT)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (PREMIUM PLUS)"
+msgstr "MONITEUR VGA (PREMIUM PLUS)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (PREMIUM PLUS, FLAT)"
+msgstr "MONITEUR VGA (PREMIUM PLUS, PLAT)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (EXTREME)"
+msgstr "MONITEUR VGA (EXTRÊME)"
+
+msgctxt "game_options"
+msgid "VGA MONITOR (EXTREME, FLAT)"
+msgstr "MONITEUR VGA (EXTRÊME, PLAT)"
+
+msgctxt "game_options"
+msgid "SOUND BOARDS"
+msgstr "CARTES SON"
+
+msgctxt "game_options"
+msgid "Games with an optional sound board (Planet Harriers, NASCAR Arcade, Star Wars Racer Arcade). Mix by default, main board only for Star Wars Racer Arcade."
+msgstr "Jeux avec une carte son optionnelle (Planet Harriers, NASCAR Arcade, Star Wars Racer Arcade). Mixage par défaut, carte principale seule pour Star Wars Racer Arcade."
+
+msgctxt "game_options"
+msgid "MAIN BOARD ONLY"
+msgstr "CARTE PRINCIPALE SEULE"
+
+msgctxt "game_options"
+msgid "MIX"
+msgstr "MIXAGE"
+
+msgctxt "game_options"
+msgid "4 CHANNELS"
+msgstr "4 CANAUX"
+
+msgctxt "game_options"
+msgid "OpenGL by default."
+msgstr "OpenGL par défaut."
+
+msgctxt "game_options"
+msgid "Shakes the gamepad like the cabinet (Brave Firefighters, Star Wars Racer Arcade, NASCAR Arcade). On by default."
+msgstr "Fait vibrer la manette comme la borne (Brave Firefighters, Star Wars Racer Arcade, NASCAR Arcade). Activé par défaut."
+
+msgctxt "game_options"
+msgid "Send lamps, gun vibration and drive board outputs to external tools (Hook Of The Reaper, QMamehook...) with the MAME network protocol."
+msgstr "Envoie les lampes, la vibration des pistolets et la carte de pilotage du volant aux outils externes (Hook Of The Reaper, QMamehook...) avec le protocole réseau de MAME."
+
+msgctxt "game_options"
+msgid "Width of the white border drawn when a Sinden gun is connected. 2 pixels by default."
+msgstr "Largeur de la bordure blanche affichée quand un pistolet Sinden est connecté. 2 pixels par défaut."

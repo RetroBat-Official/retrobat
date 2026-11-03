@@ -1,0 +1,101 @@
+# ODIN CONTROLS MAPPING
+#
+# This file is provided with RetroBat
+# Copy it to retrobat\user\inputmapping\odin.yml to customize it (the user file has priority)
+#
+# It maps the controller to the Hikaru cabinet controls in the Odin emulator ([controls.<game>] of odin.ini).
+# Containers are searched in this order (the first one found is used) :
+#   <set>_<layout>, <set>, <parent set>_<layout>, <parent set>, default_<layout>, default
+#   <layout> is the CONTROLLER LAYOUT option (modern8, 8alternative, 6alternative - classic8 uses 6alternative)
+#   Parent sets : airtrixo uses airtrix, sgnascaro uses sgnascar
+#
+# The key represents the controller position :
+#   buttons : south, east, west, north, l1, r1, l2, r2, l3, r3, select, start, up, down, left, right
+#   (south / east / west / north are positions : south = A on Xbox, Cross on PlayStation)
+#   whole stick axes : leftx, lefty, rightx, righty (analog controls : yaw, levers, sight, steering)
+#   half stick axes : leftx-left, leftx-right, lefty-up, lefty-down, rightx-left, rightx-right, righty-up, righty-down
+# The value represents the Odin controls of player 1 (OPTIONS, [controls.<game>]), several controls can be separated with a comma.
+#   coin and service are given to the player of the controller (coin1 / coin2, 1p_service / 2p_service)
+#   Brave Firefighters : the 1p_ controls are also used for player 2 (2p_)
+#
+# Always mapped, not configurable here :
+#   keyboard : starts 1-2, coins 5-6, Test 9, Service 0 and the Odin keys of each game (OPTIONS)
+#   gamepad : Test = hotkey (Select) + R3, or Guide + R3
+#
+# The defaults below are the Odin gamepad defaults.
+#
+default:
+  select: coin
+  start: start
+
+# Air Trix : the left stick turns (yaw), the right stick rolls the board
+airtrix:
+  select: coin
+  start: start
+  left: left
+  right: right
+  l1: up
+  r1: down
+  leftx: yaw
+  rightx: roll
+
+# Brave Firefighters : the left stick aims the nozzle (a light gun or the mouse aims too)
+braveff:
+  select: coin
+  start: 1p_start
+  r2: 1p_water
+  l2: 1p_fog
+  leftx: 1p_sight_x
+  lefty: 1p_sight_y
+
+# Planet Harriers : flight stick on the left stick
+pharrier:
+  select: coin
+  start: start
+  r2: bullet
+  l2: missile
+  south: bomb
+  l1: vr_l
+  r1: vr_r
+  leftx: stick_h
+  lefty: stick_v
+
+# Star Wars Racer Arcade : one lever on each stick
+swracer:
+  select: coin
+  start: start
+  south: boost
+  r2: brake
+  left: left_button
+  right: right_button
+  lefty: left_lever
+  righty: right_lever
+
+# NASCAR Arcade : a wheel is set by the wheel options
+sgnascar:
+  select: coin
+  start: start
+  leftx: steering_wheel
+  r2: gas_pedal
+  l2: brake_pedal
+  l1: gear_down
+  r1: gear_up
+  north: view_change
+
+# Cyber Troopers Virtual-On Force : twin sticks, one lever on each stick
+von4:
+  select: coin
+  start: start
+  lefty-up: left_lever_up
+  lefty-down: left_lever_down
+  leftx-left: left_lever_left
+  leftx-right: left_lever_right
+  l2: left_trigger
+  l1: left_turbo
+  righty-up: right_lever_up
+  righty-down: right_lever_down
+  rightx-left: right_lever_left
+  rightx-right: right_lever_right
+  r2: right_trigger
+  r1: right_turbo
+  north: pib
