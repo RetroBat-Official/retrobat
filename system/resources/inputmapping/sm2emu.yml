@@ -3,7 +3,7 @@
 # This file is provided with RetroBat
 # Copy it to retrobat\user\inputmapping\sm2emu.yml to customize it (the user file has priority)
 #
-# It maps the controller buttons to the Model 2 cabinet controls in the sm2-emu standalone emulator.
+# It maps the controller buttons to the Model 1 and Model 2 cabinet controls in the sm2-emu standalone emulator.
 # Containers are searched in this order (the first one found is used) :
 #   with the CONTROLLER LAYOUT option : <set>_<layout>, <family>_<layout>, default_<layout>
 #   then : <set>, <family>, default
@@ -58,7 +58,7 @@ default_6alternative:
   l1: Button3
   south: Button4
 
-# Fighting games (vf2, lastbrnx, schamp use the default layout)
+# Fighting games (vf, vf2, lastbrnx, schamp use the default layout)
 doa:
   east: Button1
   west: Button2
@@ -165,3 +165,14 @@ motoraid:
   east: Button2
   west: Button3
   north: Button4
+
+# Model 1 flight games : left stick = flight stick, right stick pulled back or left trigger = slow down, d-pad = views (Wing War)
+# Star Wars Arcade : laser also on the left trigger, torpedo also on the right trigger, the gunner is player 2
+swa:
+  west: Button1
+  east: Button2
+  south: Button3
+wingwar:
+  west: Button1
+  east: Button2
+  south: Button3

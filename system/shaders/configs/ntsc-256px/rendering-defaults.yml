@@ -4,7 +4,9 @@ default:
   shader: ntsc/ntsc-256px-composite
   # ares
   ares: ntsc/ntsc-256px-composite
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

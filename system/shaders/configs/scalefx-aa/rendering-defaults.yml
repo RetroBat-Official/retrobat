@@ -2,7 +2,9 @@ default:
   shaderGL: presets/scalefx-aa
   shader: presets/scalefx-plus-smoothing/scalefx-aa
   ares: presets/scalefx-aa
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

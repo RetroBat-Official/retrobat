@@ -1,7 +1,9 @@
 default:
   shader: presets/tvout+interlacing/tvout+interlacing
   ares: presets/tvout+interlacing/tvout+interlacing
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

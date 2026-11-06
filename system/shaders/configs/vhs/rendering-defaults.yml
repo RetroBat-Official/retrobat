@@ -2,7 +2,9 @@ default:
   shaderdx12: vhs/gristleVHS
   shader: vhs/vhs
   ares: vhs/vhs
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

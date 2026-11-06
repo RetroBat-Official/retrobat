@@ -6,7 +6,9 @@ default:
   ares: blurs/kawase_glow
   # scanline affect fba2x
   scanline: true
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

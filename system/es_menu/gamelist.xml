@@ -946,8 +946,8 @@
 	</game>
 	<game>
 		<path>./odin.menu</path>
-		<name>Odin (Hikaru)</name>
-		<desc>Run Odin (Sega Hikaru).</desc>
+		<name>Odin (Hikaru and Gaelco)</name>
+		<desc>Run Odin (Sega Hikaru and Gaelco).</desc>
 		<image>./media/odin-logo.png</image>
 		<marquee>./media/odin-logo.png</marquee>
 		<rating>0</rating>
@@ -1354,13 +1354,13 @@
 	</game>
 	<game>
 		<path>./sm2emu.menu</path>
-		<name>SM2-emu (MODEL 2)</name>
-		<desc>Run sm2-emu emulator (MODEL 2).</desc>
+		<name>SM2-emu (SEGA MODEL 1 AND 2)</name>
+		<desc>Run sm2-emu emulator (Sega Model 1 and 2).</desc>
 		<image>./media/sm2emu-logo.png</image>
 		<marquee>./media/sm2emu-logo.png</marquee>
 		<rating>0</rating>
 		<developer>Dmanlfc</developer>
-		<publisher>Dmanflc</publisher>
+		<publisher>Dmanlfc</publisher>
 		<genre>Emulator</genre>
 		<releasedate />
 		<playcount />
@@ -1439,8 +1439,8 @@
 	</game>
 	<game>
 		<path>./supermodel.menu</path>
-		<name>Supermodel (MODEL 3)</name>
-		<desc>Run Supermodel (Model 3).</desc>
+		<name>Supermodel (SEGA MODEL 1, 2 AND 3)</name>
+		<desc>Run Supermodel (Sega Model 1, 2 and 3).</desc>
 		<image>./media/supermodel-logo.png</image>
 		<marquee>./media/supermodel-logo.png</marquee>
 		<rating>0</rating>

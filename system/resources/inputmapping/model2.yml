@@ -1,0 +1,178 @@
+# This file is provided with RetroBat
+# It can be used to automatically generate specific game input mappings in Model2 emulator (controllers only)
+# RetroBat writes the mapping into the game .input file in the CFG folder of the emulator
+# A user version of this file can be placed in retrobat\user\inputmapping\model2.yml, it will be used instead of this one
+#
+# Only fighting and standard games are supported for now (doa, dynamcop, fvipers, lastbrnx, pltkids, schamp, vf2, vstriker, zerogun)
+# Wheels are handled in the wheels\model2_wheels.yml file, lightguns are handled by RetroBat
+#
+# --------------- CONTAINER ---------------------
+# Each container must be named as the parent rom, clones automatically use their parent mapping
+# The controller layout (controller_layout option) can be added as a suffix: <rom>_modern8, <rom>_8alternative, <rom>_6alternative (classic8 uses 6alternative)
+# Search order: <rom>_<layout>, then <rom>
+# If the game is not found, RetroBat default mapping is used
+#
+# --------------- KEY ---------------------------
+# The key represents the game action, available actions are listed for each game below
+# Directions, Start, Coin, Service and Test are handled by RetroBat and must not be listed
+# An action that is not listed is left unmapped
+#
+# -------------- VALUE ----------------------------------
+# The value represents the dinput button name:
+# a (SOUTH face button)
+# b (EAST face button)
+# x (WEST face button)
+# y (NORTH face button)
+# leftshoulder
+# rightshoulder
+# leftstick (left stick click)
+# rightstick (right stick click)
+# back (select)
+# start
+#
+# DEAD OR ALIVE (actions: Hold, Punch, Kick)
+doa:
+  Hold: b
+  Punch: x
+  Kick: a
+doa_modern8:
+  Hold: x
+  Punch: y
+  Kick: rightshoulder
+doa_8alternative:
+  Hold: a
+  Punch: b
+  Kick: rightshoulder
+doa_6alternative:
+  Hold: x
+  Punch: y
+  Kick: leftshoulder
+# DYNAMITE COP (actions: Punch, Kick, Jump)
+dynamcop:
+  Punch: x
+  Kick: y
+  Jump: a
+dynamcop_modern8:
+  Punch: x
+  Kick: y
+  Jump: rightshoulder
+dynamcop_8alternative:
+  Punch: a
+  Kick: b
+  Jump: rightshoulder
+dynamcop_6alternative:
+  Punch: x
+  Kick: y
+  Jump: leftshoulder
+# FIGHTING VIPERS (actions: Punch, Kick, Guard, Guard 2)
+fvipers:
+  Guard: a
+  Guard 2: b
+  Punch: x
+  Kick: y
+fvipers_modern8:
+  Guard: x
+  Punch: y
+  Kick: rightshoulder
+fvipers_8alternative:
+  Guard: a
+  Punch: b
+  Kick: rightshoulder
+fvipers_6alternative:
+  Guard: x
+  Punch: y
+  Kick: leftshoulder
+# LAST BRONX (actions: Punch, Kick, Guard)
+lastbrnx:
+  Guard: a
+  Punch: x
+  Kick: y
+lastbrnx_modern8:
+  Guard: x
+  Punch: y
+  Kick: rightshoulder
+lastbrnx_8alternative:
+  Guard: a
+  Punch: b
+  Kick: rightshoulder
+lastbrnx_6alternative:
+  Guard: x
+  Punch: y
+  Kick: leftshoulder
+# PILOT KIDS (actions: Shot, Bomb)
+pltkids:
+  Shot: x
+  Bomb: a
+pltkids_modern8:
+  Shot: x
+  Bomb: y
+pltkids_8alternative:
+  Shot: a
+  Bomb: b
+pltkids_6alternative:
+  Shot: x
+  Bomb: y
+# SONIC CHAMPIONSHIP / SONIC THE FIGHTERS (actions: Punch, Kick, Barrier)
+schamp:
+  Barrier: a
+  Punch: x
+  Kick: y
+schamp_modern8:
+  Barrier: x
+  Punch: y
+  Kick: rightshoulder
+schamp_8alternative:
+  Barrier: a
+  Punch: b
+  Kick: rightshoulder
+schamp_6alternative:
+  Barrier: x
+  Punch: y
+  Kick: leftshoulder
+# VIRTUA FIGHTER 2 (actions: Punch, Kick, Guard)
+vf2:
+  Guard: a
+  Punch: x
+  Kick: y
+vf2_modern8:
+  Guard: x
+  Punch: y
+  Kick: rightshoulder
+vf2_8alternative:
+  Guard: a
+  Punch: b
+  Kick: rightshoulder
+vf2_6alternative:
+  Guard: x
+  Punch: y
+  Kick: leftshoulder
+# VIRTUA STRIKER (actions: Short Pass, Long Pass, Shoot)
+vstriker:
+  Short Pass: x
+  Long Pass: a
+  Shoot: b
+vstriker_modern8:
+  Short Pass: x
+  Long Pass: y
+  Shoot: rightshoulder
+vstriker_8alternative:
+  Short Pass: a
+  Long Pass: b
+  Shoot: rightshoulder
+vstriker_6alternative:
+  Short Pass: x
+  Long Pass: y
+  Shoot: leftshoulder
+# ZERO GUNNER (actions: Shot, Bomb)
+zerogun:
+  Shot: x
+  Bomb: a
+zerogun_modern8:
+  Shot: x
+  Bomb: y
+zerogun_8alternative:
+  Shot: a
+  Bomb: b
+zerogun_6alternative:
+  Shot: x
+  Bomb: y

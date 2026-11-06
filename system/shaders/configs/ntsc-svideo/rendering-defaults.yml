@@ -3,7 +3,9 @@ default:
   shaderGL: ntsc/ntsc-svideo
   shader: ntsc/ntsc-256px-svideo
   ares: ntsc/ntsc-256px-svideo
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

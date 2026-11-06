@@ -8,7 +8,9 @@ default:
   ares: pixel-art-scaling/sharp-bilinear-simple
   # scanline affect fba2x
   scanline: true
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:

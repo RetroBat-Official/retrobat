@@ -3,7 +3,9 @@ default:
   shaderGL: scalefx/scalefx-hybrid
   shader: edge-smoothing/scalefx/scalefx-hybrid
   ares: edge-smoothing/scalefx/scalefx-hybrid
-# Reshader  
+# Reshader
+model1:
+  shader: disabled
 model2:
   shader: disabled
 model3:
