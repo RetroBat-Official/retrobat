@@ -65,9 +65,8 @@
 \system\templates\gopher64\portable_data\config\config.json|\emulators\gopher64\portable_data\config\config.json
 \system\templates\gzdoom\gzdoom_portable.ini|\emulators\gzdoom\gzdoom_portable.ini
 \system\templates\hatari\hatari.cfg|\emulators\hatari\hatari.cfg
-\system\templates\hbmame\ctrlr\ds4_ds5.cfg|\saves\hbmame\ctrlr\ds4_ds5.cfg
-\system\templates\hbmame\ctrlr\switch_pro.cfg|\saves\hbmame\ctrlr\switch_pro.cfg
-\system\templates\hbmame\ctrlr\xinput.cfg|\saves\hbmame\ctrlr\xinput.cfg
+\system\templates\hbmame\ctrlr\X-Arcade.cfg\saves\hbmame\ctrlr\X-Arcade.cfg
+\system\templates\hbmame\ctrlr\ipac2.cfg|\saves\hbmame\ctrlr\ipac2.cfg
 \system\templates\hypseus\hypinput.ini|\emulators\hypseus\hypinput.ini
 \system\templates\infos\portable.txt|\emulators\azahar\portable.txt
 \system\templates\infos\portable.txt|\emulators\cemu\portable.txt
@@ -172,9 +171,9 @@
 \system\templates\supermodel\NVRAM\NVRAM.zip|\emulators\supermodel\NVRAM
 \system\templates\user\tattoos\README.md|\user\tattoos\README.md
 \system\templates\user\inputmapping\README.txt|\user\inputmapping\README.txt
+\system\templates\user\padtokey\README.txt|\user\padtokey\README.txt
 \system\templates\user\inputmapping\mame\README.txt|\user\inputmapping\mame\README.txt
 \system\templates\uzdoom\uzdoom_portable.ini|\emulators\uzdoom\uzdoom_portable.ini
-\system\templates\vita3k\ux0\user\00\user.xml|\saves\psvita\vita3k\ux0\user\00\user.xml
 \system\templates\winuae\winuae.ini|\emulators\winuae\winuae.ini
 \system\templates\xemu\xemu.toml|\emulators\xemu\xemu.toml
 \system\templates\xemu-chihiro\xemu.toml|\emulators\xemu-chihiro\xemu.toml

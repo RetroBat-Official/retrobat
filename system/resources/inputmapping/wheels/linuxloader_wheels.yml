@@ -1,0 +1,589 @@
+# LINUXLOADER WHEELS MAPPING
+#
+# This file is provided with RetroBat
+# Copy it to retrobat\user\inputmapping\linuxloader_wheels.yml to customize it (the user file has priority)
+#
+# It maps the wheel to the [Driving] controls of linuxloader (ENABLE WHEEL option).
+# Each container must be named with the wheel type internal to RetroBat (see our wiki for the list), the default container is used otherwise.
+# Wheels seen by SDL as gamepads (XInput wheels) are not concerned : they use the controller mapping (linuxloader.yml).
+#
+# The key represents the linuxloader control :
+#   P1_Steer, P1_Gas, P1_Brake (axes), GearUp, GearDown, Boost, BoostRight, ViewChange, MusicChange, Up, Down, Left, Right, CardInsert
+#   Start, Coin, Test, Service (Test and Service are only written with the TEST MODE option)
+# The value represents the DirectInput input of the wheel :
+#   axes : XAXIS, YAXIS, ZAXIS, RXAXIS, RYAXIS, RZAXIS, SLIDER1, SLIDER2 followed by _NEG or _POS
+#     P1_Steer : side of the axis where the wheel turns left, pedals : side of the axis where the pedal is pressed
+#   buttons : BUTTON1, BUTTON2... (first button = BUTTON1), POV : POV1_UP, POV1_DOWN, POV1_LEFT, POV1_RIGHT
+#   several inputs can be separated with a comma
+# The wheel buttons are added to the keyboard and controller mapping, the keyboard keys stay available.
+#
+
+LogitechG29:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+LogitechG920:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+LogitechG923PS:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+LogitechG923X:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+LogitechGPro:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterT150:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterTMX:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+ThrustmasterT300RSPS4:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterT300RSPS3:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterT300RSPS3ADV:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterT500RS:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterTX:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+ThrustmasterT248:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON10
+  Coin: BUTTON9
+  Test: BUTTON12
+  Service: BUTTON11
+
+ThrustmasterTSXW:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+FanatecCSLElite:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+FanatecClubSportWheelBaseV2:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+FanatecPodiumDD1:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+FanatecPodiumDD2:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+MozaR5:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+MozaR9:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+MozaR12:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+MozaR16:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+SimagicM10:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+Simucube2Sport:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+Simucube2Pro:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+Simucube2Ultimate:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+AsetekInvicta:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+CammusC5:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+PXNV9:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: ZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
+
+default:
+  P1_Steer: XAXIS_NEG
+  P1_Gas: YAXIS_NEG
+  P1_Brake: RZAXIS_NEG
+  GearUp: BUTTON5
+  GearDown: BUTTON6
+  Boost: BUTTON1
+  BoostRight: BUTTON2
+  ViewChange: BUTTON4
+  MusicChange: BUTTON3
+  Up: POV1_UP
+  Down: POV1_DOWN
+  Left: POV1_LEFT
+  Right: POV1_RIGHT
+  Start: BUTTON8
+  Coin: BUTTON7
+  Test: BUTTON9
+  Service: BUTTON10
