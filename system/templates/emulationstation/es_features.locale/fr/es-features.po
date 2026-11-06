@@ -28235,3 +28235,15 @@ msgstr "FILTRAGE DES TEXTURES DES SPRITES"
 msgctxt "game_options"
 msgid "Filtering applied to sprites and 2D elements."
 msgstr "Filtrage appliqué aux sprites et éléments 2D."
+
+msgctxt "game_options"
+msgid "Required by BASIC programs. Needs ATARIBAS.ROM."
+msgstr "Requis par les programmes BASIC. Nécessite ATARIBAS.ROM."
+
+msgctxt "game_options"
+msgid "INTERNAL BASIC"
+msgstr "BASIC INTERNE"
+
+msgctxt "game_options"
+msgid "ATTACH XEGS KEYBOARD"
+msgstr "BRANCHER LE CLAVIER XEGS"
