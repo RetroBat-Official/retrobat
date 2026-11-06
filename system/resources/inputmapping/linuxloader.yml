@@ -1,0 +1,238 @@
+# LINUXLOADER CONTROLS MAPPING
+#
+# This file is provided with RetroBat
+# Copy it to retrobat\user\inputmapping\linuxloader.yml to customize it (the user file has priority)
+#
+# It maps the controller to the Lindbergh controls in linuxloader (controls.ini).
+# Linuxloader reads one section per game type : each container is the section of the same name.
+# Containers are searched in this order (the first one found is used) :
+#   <section>_<layout>, <section>
+#   <section> : digital, driving, flying
+#   <layout> is the CONTROLLER LAYOUT option (modern8, classic8, 8alternative, 6alternative)
+#
+# The key represents the controller position :
+#   buttons : south, east, west, north, l1, r1, l2, r2, l3, r3, select, start, guide, up, down, left, right
+#   (south / east / west / north are positions : south = A on Xbox, Cross on PlayStation)
+#   whole stick axes : leftx, lefty, rightx, righty (analog controls : P1_Steer, Flying_X, Flying_Y, Throttle)
+#   triggers l2 / r2 are whole axes for analog controls (P1_Gas, P1_Brake), buttons otherwise
+#   half stick axes : leftx-left, leftx-right, lefty-up, lefty-down, rightx-left, rightx-right, righty-up, righty-down
+# The value represents the controls.ini controls of player 1, several controls can be separated with a comma.
+#   An axis mode can follow a whole axis control : Throttle:inverted, Throttle:positive_half, Throttle:negative_half
+#   digital : the same mapping is used for player 2 (P1_ becomes P2_, Card1Insert becomes Card2Insert)
+#   driving and flying games are single player
+#
+# Always mapped, not configurable here :
+#   keyboard : starts 1-2, coins 5-6, Test 0, Service 9 and the keys of each control
+#   controller : select = coin, start = start, start + select = exit, R3 / L3 = test / service (TEST MODE option)
+#   shooting games : mouse / lightgun (GUNS options), mahjong games : keyboard
+#
+digital:
+  up: P1_Up
+  down: P1_Down
+  left: P1_Left
+  right: P1_Right
+  lefty-up: P1_Up
+  lefty-down: P1_Down
+  leftx-left: P1_Left
+  leftx-right: P1_Right
+  south: P1_Button1
+  east: P1_Button2
+  west: P1_Button3
+  guide: P1_Card1Insert
+
+# 3 buttons on the top row
+digital_modern8:
+  up: P1_Up
+  down: P1_Down
+  left: P1_Left
+  right: P1_Right
+  lefty-up: P1_Up
+  lefty-down: P1_Down
+  leftx-left: P1_Left
+  leftx-right: P1_Right
+  west: P1_Button1
+  north: P1_Button2
+  r1: P1_Button3
+  guide: P1_Card1Insert
+
+digital_classic8:
+  up: P1_Up
+  down: P1_Down
+  left: P1_Left
+  right: P1_Right
+  lefty-up: P1_Up
+  lefty-down: P1_Down
+  leftx-left: P1_Left
+  leftx-right: P1_Right
+  west: P1_Button1
+  north: P1_Button2
+  l1: P1_Button3
+  guide: P1_Card1Insert
+
+# 3 buttons on the bottom row
+digital_8alternative:
+  up: P1_Up
+  down: P1_Down
+  left: P1_Left
+  right: P1_Right
+  lefty-up: P1_Up
+  lefty-down: P1_Down
+  leftx-left: P1_Left
+  leftx-right: P1_Right
+  south: P1_Button1
+  east: P1_Button2
+  r1: P1_Button3
+  guide: P1_Card1Insert
+
+digital_6alternative:
+  up: P1_Up
+  down: P1_Down
+  left: P1_Left
+  right: P1_Right
+  lefty-up: P1_Up
+  lefty-down: P1_Down
+  leftx-left: P1_Left
+  leftx-right: P1_Right
+  west: P1_Button1
+  north: P1_Button2
+  l1: P1_Button3
+  guide: P1_Card1Insert
+
+# Gamepad : left stick steers, triggers are the pedals
+driving:
+  leftx: P1_Steer
+  r2: P1_Gas
+  l2: P1_Brake
+  north: ViewChange
+  south: Boost
+  east: BoostRight
+  r1: GearUp
+  l1: GearDown
+  west: MusicChange
+  up: Up
+  down: Down
+  left: Left
+  right: Right
+  guide: CardInsert
+
+# Arcade panels : digital steering and pedals
+driving_modern8:
+  left: P1_Steer_Left, Left
+  right: P1_Steer_Right, Right
+  up: Up
+  down: Down
+  east: P1_Gas_Digital
+  south: P1_Brake_Digital
+  l1: ViewChange
+  r2: Boost
+  r1: BoostRight
+  north: GearUp
+  west: GearDown
+  l2: MusicChange
+  guide: CardInsert
+
+driving_classic8:
+  left: P1_Steer_Left, Left
+  right: P1_Steer_Right, Right
+  up: Up
+  down: Down
+  east: P1_Gas_Digital
+  south: P1_Brake_Digital
+  l2: ViewChange
+  r1: Boost
+  l1: BoostRight
+  north: GearUp
+  west: GearDown
+  r2: MusicChange
+  guide: CardInsert
+
+driving_8alternative:
+  left: P1_Steer_Left, Left
+  right: P1_Steer_Right, Right
+  up: Up
+  down: Down
+  l1: P1_Gas_Digital
+  r1: P1_Brake_Digital
+  r2: ViewChange
+  east: Boost
+  north: BoostRight
+  west: GearUp
+  south: GearDown
+  l2: MusicChange
+  guide: CardInsert
+
+# 6 buttons : view and music on the stick
+driving_6alternative:
+  left: P1_Steer_Left, Left
+  right: P1_Steer_Right, Right
+  up: ViewChange, Up
+  down: MusicChange, Down
+  east: P1_Gas_Digital
+  south: P1_Brake_Digital
+  r1: Boost
+  l1: BoostRight
+  north: GearUp
+  west: GearDown
+  guide: CardInsert
+
+# Gamepad : left stick flies, right stick or triggers set the throttle
+flying:
+  left: Flying_Left
+  right: Flying_Right
+  up: Flying_Up
+  down: Flying_Down
+  leftx: Flying_X
+  lefty: Flying_Y
+  righty: Throttle:inverted
+  r2: Throttle:positive_half
+  l2: Throttle:negative_half
+  r1: Throttle_Accelerate
+  l1: Throttle_Slowdown
+  south: GunTrigger
+  east: MissileTrigger
+  north: ClimaxSwitch
+
+# Arcade panels : digital stick and throttle
+flying_modern8:
+  left: Flying_Left
+  right: Flying_Right
+  up: Flying_Up
+  down: Flying_Down
+  east: Throttle_Accelerate
+  south: Throttle_Slowdown
+  west: GunTrigger
+  north: MissileTrigger
+  r2: ClimaxSwitch
+
+flying_classic8:
+  left: Flying_Left
+  right: Flying_Right
+  up: Flying_Up
+  down: Flying_Down
+  east: Throttle_Accelerate
+  south: Throttle_Slowdown
+  west: GunTrigger
+  north: MissileTrigger
+  r1: ClimaxSwitch
+
+flying_8alternative:
+  left: Flying_Left
+  right: Flying_Right
+  up: Flying_Up
+  down: Flying_Down
+  l1: Throttle_Accelerate
+  r1: Throttle_Slowdown
+  south: GunTrigger
+  west: MissileTrigger
+  east: ClimaxSwitch
+
+flying_6alternative:
+  left: Flying_Left
+  right: Flying_Right
+  up: Flying_Up
+  down: Flying_Down
+  east: Throttle_Accelerate
+  south: Throttle_Slowdown
+  west: GunTrigger
+  north: MissileTrigger
+  r1: ClimaxSwitch
