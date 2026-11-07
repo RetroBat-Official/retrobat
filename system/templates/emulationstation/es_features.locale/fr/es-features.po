@@ -28267,3 +28267,35 @@ msgstr "PLUGIN GLIDEN64"
 msgctxt "game_options"
 msgid "BIO SENSOR"
 msgstr "CAPTEUR BIO"
+
+msgctxt "game_options"
+msgid "GD-ROM FAST LOADING"
+msgstr "CHARGEMENT RAPIDE DU GD-ROM"
+
+msgctxt "game_options"
+msgid "Speed up GD-ROM loading, may break some games."
+msgstr "Accélère le chargement du GD-ROM, peut perturber certains jeux."
+
+msgctxt "game_options"
+msgid "VMU SOUNDS"
+msgstr "SONS DU VMU"
+
+msgctxt "game_options"
+msgid "Play the VMU beeps."
+msgstr "Joue les bips du VMU."
+
+msgctxt "game_options"
+msgid "SHOW VMU SCREEN"
+msgstr "AFFICHER L'ÉCRAN DU VMU"
+
+msgctxt "game_options"
+msgid "Display the screen of the player 1 VMU over the game."
+msgstr "Affiche l'écran du VMU du joueur 1 par-dessus le jeu."
+
+msgctxt "game_options"
+msgid "NATIVE DEPTH INTERPOLATION"
+msgstr "INTERPOLATION NATIVE DE LA PROFONDEUR"
+
+msgctxt "game_options"
+msgid "Fix texture corruption and depth issues on AMD and some Intel GPUs."
+msgstr "Corrige les textures corrompues et les problèmes de profondeur sur les GPU AMD et certains Intel."
