@@ -28247,3 +28247,15 @@ msgstr "BASIC INTERNE"
 msgctxt "game_options"
 msgid "ATTACH XEGS KEYBOARD"
 msgstr "BRANCHER LE CLAVIER XEGS"
+
+msgctxt "game_options"
+msgid "VIDEO CD CARD"
+msgstr "CARTE VIDEO CD"
+
+msgctxt "game_options"
+msgid "Emulate the Video CD Card, requires mpeg_card.bin in the bios folder."
+msgstr "Émule la carte Video CD, nécessite mpeg_card.bin dans le dossier bios."
+
+msgctxt "game_options"
+msgid "MOTION ADAPTIVE"
+msgstr "ADAPTATIF AU MOUVEMENT"
