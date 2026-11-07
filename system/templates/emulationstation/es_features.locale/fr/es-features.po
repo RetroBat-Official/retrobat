@@ -17064,12 +17064,12 @@ msgid "SLOT EXTENSION"
 msgstr "EXTENSION DE SLOT"
 
 msgctxt "game_options"
-msgid "Enable Sunrise Video9000"
-msgstr "Activer Sunrise Video9000"
+msgid "ENABLE SUNRISE VIDEO9000"
+msgstr "ACTIVER SUNRISE VIDEO9000"
 
 msgctxt "game_options"
-msgid "Enable Sunrise MoonSound"
-msgstr "Activer Sunrise MoonSound"
+msgid "ENABLE SUNRISE MOONSOUND"
+msgstr "ACTIVER SUNRISE MOONSOUND"
 
 msgctxt "game_options"
 msgid "USE USER JOYSTICK SCRIPT"
@@ -18088,12 +18088,12 @@ msgid "Choose a MSX extension to be added to the second cartridge slot."
 msgstr "Choisir une extension MSX à ajouter dans le second slot de cartouche."
 
 msgctxt "game_options"
-msgid "Insert Video9000 extension in I\O slot."
-msgstr "Insère l'extension Video9000 dans le slot I\O."
+msgid "Insert Video9000 extension in I/O slot."
+msgstr "Insère l'extension Video9000 dans le slot I/O."
 
 msgctxt "game_options"
-msgid "Insert MoonSound extension in I\O slot."
-msgstr "Insère l'extension MoonSound dans le slot I\O."
+msgid "Insert MoonSound extension in I/O slot."
+msgstr "Insère l'extension MoonSound dans le slot I/O."
 
 msgctxt "game_options"
 msgid "Override RetroBat gamepad mapping with user own mapping placed in emulator script folder."
@@ -28259,3 +28259,11 @@ msgstr "Émule la carte Video CD, nécessite mpeg_card.bin dans le dossier bios.
 msgctxt "game_options"
 msgid "MOTION ADAPTIVE"
 msgstr "ADAPTATIF AU MOUVEMENT"
+
+msgctxt "game_options"
+msgid "GLIDEN64 PLUGIN"
+msgstr "PLUGIN GLIDEN64"
+
+msgctxt "game_options"
+msgid "BIO SENSOR"
+msgstr "CAPTEUR BIO"
