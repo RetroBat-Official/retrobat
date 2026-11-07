@@ -17,9 +17,10 @@
 # The value represents the Odin controls of player 1 (OPTIONS, [controls.<game>]), several controls can be separated with a comma.
 #   coin and service are given to the player of the controller (coin1 / coin2, 1p_service / 2p_service)
 #   Brave Firefighters and Gaelco Football : the 1p_ controls are also used for player 2 (2p_)
-#   Gaelco games have no service button
+#   Gaelco games have one coin entry and one service button (coin2 and 2p_service are not used)
 #
 # test (enters the Test menu) and service (moves in it) are on R3 and L3, as on the other arcade systems.
+# Gaelco Football : R3 is not mapped (the right stick kicks), Test stays on the keyboard (0).
 #
 # Always mapped, not configurable here :
 #   keyboard : starts 1-2, coins 5-6, Test 0, Service 9 and the Odin keys of each game (OPTIONS)
@@ -117,6 +118,7 @@ von4:
 # ATV Track (Gaelco) : handlebar on the left stick, throttle on the right trigger
 atvtrack:
   select: coin
+  l3: service
   r3: test
   start: start
   leftx: handlebar
@@ -127,6 +129,7 @@ atvtrack:
 # Gaelco Football : the right stick kicks (pull it back first to lift the ball), Test stays on the keyboard (0)
 gfootbal:
   select: coin
+  l3: service
   start: 1p_start
   up: 1p_up
   down: 1p_down
@@ -145,6 +148,7 @@ gfootbal:
 # Smashing Drive (Gaelco) : steering on the left stick, gas on the right trigger, brake on the left trigger
 smashdrv:
   select: coin
+  l3: service
   r3: test
   start: horn
   leftx: wheel
