@@ -1,5 +1,113 @@
 # Changelog
 
+## RetroBat 8.4.0
+<details>
+
+### Emulators\cores:
+- Bump ArcadeDuck to 0.6.5-dev (with support of ZN-2 games)
+- Bump Ares to nightly from november (do not use stable 148)
+- Bump bstone to 1.3.4
+- Bump cdogs to 2.5.0
+- Bump CGenius to 3.6.4
+- Bump devilutionx to 1.5.5 and add features
+- Bump dhewm3 to 1.5.5
+- Bump eduke32 and add controller configuration
+- Bump fbneo and libretro-fbneo to nov.3,2026 build
+- Bump gemrb to 0.9.5
+- Bump hatari to 2.6.1, add libretro-hatari2014, bump libretro-hatarib and remove libretro-hatari
+- Bump hypseus to 3.0.2
+- Bump Openjazz to 20260301
+- Bump pdark to build from 13/08/2026
+- Bump Raze to 1.11.0
+- Bump scummvm to 2026.4.1 (libretro also)
+- Bump vita3k to release from november 6th
+- Bump vkquake to 1.37.0
+- Bump vkquake2 to 1.5.10
+- Bump Xemu 0.137
+- Bump libretro-atari800
+- Bump libretro-flycast
+- Bump libretro-geargrafx and add it for pcengine/pcenginecd/laseractive (NEC only)
+- Bump libretro-gearsystem
+- Bump libretro-geolith (and add for negeocd)
+- Bump libretro-jollycv
+- Bump libretro-mednafen_saturn and add sega-stv
+- Bump libretro-melondsds
+- Bump libretro-nestopia
+- Bump libretro-parallel_n64
+- Bump libretro-virtualjaguar
+- Add Azahar-plus for 3ds
+- Add fbneo (standalone) to cave,cps1,cps2,cps3 and neogeo
+- Add model3-vulkan for model3
+- Add odin emulator for hikaru and gaelco
+- Add openCDI as alternative emulator for Philips CDI
+- Add pom2 for appleII
+- Add raze as an emulator for eduke32 system
+- Add sm2emu and libretro-sm2 for model2 (and model1 for the standalone)
+- Add libretro-anybor for openbor
+- Add libretro-gearboy to sgb, gbc2players, gbc and gb/gb2players
+- Add libretro-gearlynx for atari Lynx
+- Add libretro-geartowns for fmtowns (new bios required) as main emulator
+- Add libretro-mgba_splitscreen for gba2players
+- Add libretro-zcdi for cdi
+- Renamed "zinc" system to "psxarcade"
+- Add model1 system (sm2-emu, supermodel, mame)
+- Add supermodel as model2 emulator
+- Add libretro-atari800 for XEGS
+- recomp: add .m3u, .bat, .game and .decomp extensions
+- Add .decomp extensions to model1, nds, 3ds, ps4, psvita, psp, wiiu
+- Add .m3u extension to Philips cdi system
+- Bump demulshooter to 17.10 (you can update from download store)
+
+### Fixes:
+- AMIBERRY: fix devices mapping in ports 1 and 2, especially when mouse is set
+- EMULATIONSTATION: Fix screen placement when exiting games (was causing issues with Teknoparrot)
+- HBMAME: fix path for savestates and nvram to not be mixed with MAME
+- MESEN: fix assignment to superscope to port 2
+- RAINE: fix automatic controller configuration for some cases
+- SNES9X and MEDNAFEN: fix gun option
+- TEKNOPARROT: Keep default window mode from Teknoparrot default profile instead of forcing fullscreen
+
+### Features:
+- ARES: add controlleyr layouts for the systems that manage it
+- AZAHAR: add async shader compilation option
+- DUCKSTATION: add SPRITE TEXTURE FILTERING option
+- FBNEO: add to list of emulators with configurable hotkeys (padtokey)
+- FBNEO: use xinput when only xinput controllers are connected
+- HYPSEUS: add search engine to select the best bezel
+- LINUXLOADER: add controls mapping with yml file and wheels
+- MAME, GROOVYMAME and HBMAME: add -nowindow command line when running fullscreen
+- MODEL2: add yml mapping possibility
+- MUPEN64 (RMG and libretro): add crop overscan presets
+- QUIVERLAUNCHER: a link pointing to another executable will be treated as a standard windows game, same for new extensions
+- QUIVERLAUNCHER: a link to a port installed through quiverlauncher will launch the port even if quiverlauncher is not installed
+- QUIVERLAUNCHER: RetroBat will also pass the arguments of the link if any
+- QUIVERLAUNCHER: MonitorIndex enabled for QuiverLauncher (to test)
+- QUIVERLAUNCHER: HOTKEY+START will now close ports
+- QUIVERLAUNCHER: Close to tray forced to false, else QuiverLauncher will never exit
+- RETROARCH: add feature for netplay "request device"
+- RPCS3: Add .psn as an accepted extension (the .psn file must contain the gameID)
+- TEKNOPARROT: add feature to show Teknoparrot console
+- VPINBALL: add option to rotate desktop when running a table
+- VPINBALL: add option to manage screens for playfield, backglass and DMD
+
+### Other stuff:
+- APPLE2: harmonize way of emulators to manage saves (disk copy protection alignment)
+- ARCADE: try and align test and service buttons as much as possible
+- FEATURES: start of alignment of features names and descriptions between all emulators
+- GUNS: deprioritize known "non-guns" devices such as integrated touchpads, 8BitDo Receivers...
+- HOTKEYS: when disabling Game Control Center, the hotkey+EAST combination is available for custom configuration again
+- MAME: finalized mapping per game for mame and libretro-mame
+- MEDNAFEN & GSPLUS: use standard bezel display instead of reshade
+- PADTOKEY: Try to fix padtokey not working after a while in game
+- RETROBAT: Improve logging for the update mechanism (log failure to reach FTP)
+- RETROBAT: Try to sanitize STEAM environment by avoiding Steam SDL overrides
+- EMULATORLAUNCHER: Bump SDL3 to 3.4 and fix GUID on some emulators
+- EMULATORLAUNCHER: Add option to follow ES screen for opening emulators
+- EMULATORLAUNCHER: Add option to move arcade sticks after gamepads for each emulator (the detection of arcadesticks is based on a .txt file in \system\tools folder)
+- WIKI: general review of the EN and FR wiki pages (ongoing)
+
+</details>
+
 ## RetroBat 8.3.1
 <details>
 
