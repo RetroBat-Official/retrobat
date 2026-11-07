@@ -28299,3 +28299,231 @@ msgstr "INTERPOLATION NATIVE DE LA PROFONDEUR"
 msgctxt "game_options"
 msgid "Fix texture corruption and depth issues on AMD and some Intel GPUs."
 msgstr "Corrige les textures corrompues et les problèmes de profondeur sur les GPU AMD et certains Intel."
+
+msgctxt "game_options"
+msgid "Planet Harriers: push the stick up to climb (the cabinet climbs with the stick pulled back)."
+msgstr "Planet Harriers : pousser le manche vers le haut pour monter (sur la borne, on monte en tirant le manche)."
+
+msgctxt "game_options"
+msgid "Force the console region. By default the region is detected from the game."
+msgstr "Force la région de la console. Par défaut, la région est détectée à partir du jeu."
+
+msgctxt "game_options"
+msgid "Approximates the analog output stage of the console: removes the DC offset and softens high frequencies."
+msgstr "Reproduit l'étage de sortie analogique de la console : supprime la composante continue et adoucit les aigus."
+
+msgctxt "game_options"
+msgid "Reduces clicks caused by large writes to the DMC channel. Inaccurate, can soften some sampled sounds."
+msgstr "Réduit les clics causés par les fortes écritures sur le canal DMC. Peu fidèle, peut atténuer certains sons échantillonnés."
+
+msgctxt "game_options"
+msgid "Render gouraud shading at full precision to reduce color banding in 3D games."
+msgstr "Calcule les dégradés à pleine précision pour réduire les bandes de couleur dans les jeux 3D."
+
+msgctxt "game_options"
+msgid "Boot with the real Jaguar BIOS and its startup animation. Required by some games."
+msgstr "Démarre avec le vrai BIOS Jaguar et son animation de démarrage. Requis par certains jeux."
+
+msgctxt "game_options"
+msgid "GPU OVERCLOCK"
+msgstr "OVERCLOCKING GPU"
+
+msgctxt "game_options"
+msgid "Run the GPU and DSP faster. Can raise the framerate of 3D games, but may cause glitches."
+msgstr "Accélère le GPU et le DSP. Peut augmenter la fluidité des jeux 3D, mais peut provoquer des bugs."
+
+msgctxt "game_options"
+msgid "INSTANT"
+msgstr "INSTANTANÉ"
+
+msgctxt "game_options"
+msgid "TEAM TAP"
+msgstr "TEAM TAP"
+
+msgctxt "game_options"
+msgid "ROTARY (MOUSE)"
+msgstr "ROTATIF (SOURIS)"
+
+msgctxt "game_options"
+msgid "Team Tap: 3-4 players in White Men Can't Jump and NBA Jam T.E. Rotary: Tempest 2000, controlled with the mouse."
+msgstr "Team Tap : 3-4 joueurs dans White Men Can't Jump et NBA Jam T.E. Rotatif : Tempest 2000, contrôlé à la souris."
+
+msgctxt "game_options"
+msgid "Mouse: games such as Elansar or Defender of the Crown. Analog stick: BattleSphere, also select it in the game options."
+msgstr "Souris : jeux comme Elansar ou Defender of the Crown. Stick analogique : BattleSphere, à sélectionner aussi dans les options du jeu."
+
+msgctxt "game_options"
+msgid "Use a predefined color palette instead of the one computed by the emulator."
+msgstr "Utilise une palette de couleurs prédéfinie au lieu de celle calculée par l'émulateur."
+
+msgctxt "game_options"
+msgid "GRAY"
+msgstr "GRIS"
+
+msgctxt "game_options"
+msgid "PADDLE SPEED"
+msgstr "VITESSE DU PADDLE"
+
+msgctxt "game_options"
+msgid "How fast the paddle moves."
+msgstr "Vitesse de déplacement du paddle."
+
+msgctxt "game_options"
+msgid "ATTACH XEGS KEYBOARD"
+msgstr "CLAVIER XEGS BRANCHÉ"
+
+msgctxt "game_options"
+msgid "Dual Stick: Robotron 2084 and Space Dungeon on the right stick. Swap Ports: Wizard of Wor, Apple Panic. Joy 2B+: multi-button joysticks."
+msgstr "Dual Stick : Robotron 2084 et Space Dungeon sur le stick droit. Inverser les ports : Wizard of Wor, Apple Panic. Joy 2B+ : joysticks multi-boutons."
+
+msgctxt "game_options"
+msgid "DOT CLOCK PAR"
+msgstr "PAR DOT CLOCK"
+
+msgctxt "game_options"
+msgid "Show the horizontal borders. AUTO crops them to the area used by the game, best with DOT CLOCK PAR."
+msgstr "Affiche les bordures horizontales. AUTO les recadre sur la zone utilisée par le jeu, idéal avec PAR DOT CLOCK."
+
+msgctxt "game_options"
+msgid "SHOW"
+msgstr "AFFICHER"
+
+msgctxt "game_options"
+msgid "Run at maximum speed while a CD-ROM game loads on a still, silent screen."
+msgstr "Tourne à vitesse maximale pendant qu'un jeu CD-ROM charge sur un écran fixe et silencieux."
+
+msgctxt "game_options"
+msgid "LASERACTIVE ASPECT RATIO"
+msgstr "RAPPORT D'ASPECT LASERACTIVE"
+
+msgctxt "game_options"
+msgid "Display aspect of the LaserActive picture, 4:3 by default."
+msgstr "Format d'affichage de l'image LaserActive, 4:3 par défaut."
+
+msgctxt "game_options"
+msgid "LASERACTIVE REGION"
+msgstr "RÉGION LASERACTIVE"
+
+msgctxt "game_options"
+msgid "Region of the NEC PAC firmware. Japan: pac-n1.bin or pce-lp1.bin. US: pac-n10.bin."
+msgstr "Région du firmware NEC PAC. Japon : pac-n1.bin ou pce-lp1.bin. US : pac-n10.bin."
+
+msgctxt "game_options"
+msgid "2 PLAYERS (LINK CABLE)"
+msgstr "2 JOUEURS (CÂBLE LINK)"
+
+msgctxt "game_options"
+msgid "Run two linked Game Gears side by side. Players 1 and 2 control screens 1 and 2."
+msgstr "Émule deux Game Gear reliées côte à côte. Les joueurs 1 et 2 contrôlent les écrans 1 et 2."
+
+msgctxt "game_options"
+msgid "3D GLASSES"
+msgstr "LUNETTES 3D"
+
+msgctxt "game_options"
+msgid "For SegaScope 3-D games, show one eye only instead of the flickering pair."
+msgstr "Pour les jeux SegaScope 3-D, n'affiche qu'un oeil au lieu des deux images qui clignotent."
+
+msgctxt "game_options"
+msgid "LEFT EYE"
+msgstr "OEIL GAUCHE"
+
+msgctxt "game_options"
+msgid "RIGHT EYE"
+msgstr "OEIL DROIT"
+
+msgctxt "game_options"
+msgid "CDZ (UNIVERSE BIOS)"
+msgstr "CDZ (UNIVERSE BIOS)"
+
+msgctxt "game_options"
+msgid "COMPUTE SHADER RENDERER"
+msgstr "RENDU PAR COMPUTE SHADERS"
+
+msgctxt "game_options"
+msgid "Use the compute shader renderer instead of the classic OpenGL one. Faster at high internal resolutions, needs OpenGL 4.3."
+msgstr "Utilise le rendu par compute shaders au lieu du rendu OpenGL classique. Plus rapide en haute résolution interne, nécessite OpenGL 4.3."
+
+msgctxt "game_options"
+msgid "AUTO switches to DSi only for DSi-exclusive games. Force DSI for DSiWare."
+msgstr "AUTO passe en DSi uniquement pour les jeux exclusifs DSi. Forcer DSI pour les DSiWare."
+
+msgctxt "game_options"
+msgid "NTSC uses cdi200.rom, PAL uses cdi220b.rom."
+msgstr "NTSC utilise cdi200.rom, PAL utilise cdi220b.rom."
+
+msgctxt "game_options"
+msgid "AUTO PLAY"
+msgstr "LECTURE AUTOMATIQUE"
+
+msgctxt "game_options"
+msgid "Start the disc directly instead of waiting on the PLAY CD-I menu. On by default."
+msgstr "Lance directement le disque au lieu d'attendre sur le menu PLAY CD-I. Activé par défaut."
+
+msgctxt "game_options"
+msgid "By default a second gamepad is used when a second controller is connected."
+msgstr "Par défaut, une deuxième manette est utilisée quand une deuxième manette est branchée."
+
+msgctxt "game_options"
+msgid "Color palette for original Game Boy games."
+msgstr "Palette de couleurs pour les jeux Game Boy originaux."
+
+msgctxt "game_options"
+msgid "B/W"
+msgstr "NOIR/BLANC"
+
+msgctxt "game_options"
+msgid "AUTUMN"
+msgstr "AUTOMNE"
+
+msgctxt "game_options"
+msgid "SOFT"
+msgstr "DOUX"
+
+msgctxt "game_options"
+msgid "SLIME"
+msgstr "SLIME"
+
+msgctxt "game_options"
+msgid "Simulate the colors of the Game Boy Color LCD screen."
+msgstr "Simule les couleurs de l'écran LCD de la Game Boy Color."
+
+msgctxt "game_options"
+msgid "SUPER GAME BOY BORDER"
+msgstr "BORDURE SUPER GAME BOY"
+
+msgctxt "game_options"
+msgid "Show the Super Game Boy border around the game screen."
+msgstr "Affiche la bordure Super Game Boy autour de l'écran de jeu."
+
+msgctxt "game_options"
+msgid "TILT CONTROL"
+msgstr "CONTRÔLE D'INCLINAISON"
+
+msgctxt "game_options"
+msgid "Tilt input for Kirby Tilt 'n' Tumble and other MBC7 games. Analog stick by default."
+msgstr "Contrôle d'inclinaison pour Kirby Tilt 'n' Tumble et les autres jeux MBC7. Stick analogique par défaut."
+
+msgctxt "game_options"
+msgid "NO"
+msgstr "NON"
+
+msgctxt "game_options"
+msgid "NUMBER OF PLAYERS (COMLYNX)"
+msgstr "NOMBRE DE JOUEURS (COMLYNX)"
+
+msgctxt "game_options"
+msgid "Link 2 to 4 Lynx with the ComLynx cable on one screen, one controller each. Disables save states and achievements."
+msgstr "Relie 2 à 4 Lynx avec le câble ComLynx sur un seul écran, une manette chacune. Désactive les sauvegardes instantanées et les succès."
+
+msgctxt "game_options"
+msgid "Method used for interlaced video modes (not applied to Nintendo 64)."
+msgstr "Méthode utilisée pour les modes vidéo entrelacés (hors Nintendo 64)."
+
+msgctxt "game_options"
+msgid "PHOSPHOR"
+msgstr "PHOSPHORE"
+
+msgctxt "game_options"
+msgid "OPENGL 4.6"
+msgstr "OPENGL 4.6"
