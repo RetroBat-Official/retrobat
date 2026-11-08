@@ -2,6 +2,12 @@
 <upgradeinfo>
   <neveroverwrite path="emulationstation\.emulationstation\es_settings.cfg"/>
   <neveroverwrite path="emulationstation\.emulationstation\es_input.cfg"/>
+  <neveroverwrite path="bios\groovymame\ini\mame.ini"/>
+  <neveroverwrite path="bios\groovymame\ini\ui.ini"/>
+  <neveroverwrite path="bios\hbmame\ini\hbmame.ini"/>
+  <neveroverwrite path="bios\hbmame\ini\ui.ini"/>
+  <neveroverwrite path="bios\mame\ini\mame.ini"/>
+  <neveroverwrite path="bios\mame\ini\ui.ini"/>
   <neveroverwrite path="emulators\2ship\2ship2harkinian.json"/>
   <neveroverwrite path="emulators\altirra\Altirra.ini"/>
   <neveroverwrite path="emulators\amiberry\amiberry.conf"/>
@@ -9,16 +15,22 @@
   <neveroverwrite path="emulators\arcadeduck\settings.ini"/>
   <neveroverwrite path="emulators\ares\settings.bml"/>
   <neveroverwrite path="emulators\azahar\user\config\qt-config.ini"/>
+  <neveroverwrite path="emulators\azahar-plus\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\bigpemu\userdata\BigPEmuConfig.bigpcfg"/>
   <neveroverwrite path="emulators\bizhawk\config.ini"/>
   <neveroverwrite path="emulators\blastem\blastem.cfg"/>
+  <neveroverwrite path="emulators\bstone\bstone_config.txt"/>
   <neveroverwrite path="emulators\capriceforever\Caprice.ini"/>
   <neveroverwrite path="emulators\capriceforever\Device.ini"/>
+  <neveroverwrite path="emulators\cdogs\C-Dogs SDL\options.cnf"/>
   <neveroverwrite path="emulators\cemu\portable\settings.xml"/>
   <neveroverwrite path="emulators\cgenius\cgenius.cfg"/>
   <neveroverwrite path="emulators\chihiro\settings.ini"/>
+  <neveroverwrite path="emulators\chihiro-ds\settings.ini"/>
   <neveroverwrite path="emulators\citra\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\citron\user\config\qt-config.ini"/>
+  <neveroverwrite path="emulators\corsixth\config.txt"/>
+  <neveroverwrite path="emulators\corsixth\hotkeys.txt"/>
   <neveroverwrite path="emulators\cxbx-reloaded\settings.ini"/>
   <neveroverwrite path="emulators\daphne\config.xml"/>
   <neveroverwrite path="emulators\demul-old\Demul.ini"/>
@@ -33,14 +45,25 @@
   <neveroverwrite path="emulators\dolphin-triforce\User\Config\GFX.ini"/>
   <neveroverwrite path="emulators\dolphin-emu\User\Config\Dolphin.ini"/>
   <neveroverwrite path="emulators\dolphin-emu\User\Config\GCPadNew.ini"/>
+  <neveroverwrite path="emulators\dolphin-emu\User\Config\GFX.ini"/>
   <neveroverwrite path="emulators\dolphin-emu\User\Config\Hotkeys.ini"/>
+  <neveroverwrite path="emulators\dolphin-emu\User\Config\WiimoteNew.ini"/>
+  <neveroverwrite path="emulators\dosbox\dosbox.conf"/>
+  <neveroverwrite path="emulators\dosbox-pure\DOSBoxPure.cfg"/>
+  <neveroverwrite path="emulators\dosbox-staging\dosbox-staging.conf"/>
   <neveroverwrite path="emulators\duckstation\settings.ini"/>
+  <neveroverwrite path="emulators\dusklight\data_location.json"/>
   <neveroverwrite path="emulators\eden\user\config\qt-config.ini"/>
+  <neveroverwrite path="emulators\eduke32\eduke32.cfg"/>
+  <neveroverwrite path="emulators\eduke32\settings.cfg"/>
   <neveroverwrite path="emulators\eka2l1\config.yml"/>
   <neveroverwrite path="emulators\fbneo\config\fbneo64.ini"/>
   <neveroverwrite path="emulators\flycast\emu.cfg"/>
+  <neveroverwrite path="emulators\fpinball\DmdDevice.ini"/>
   <neveroverwrite path="emulators\gemrb\GemRB.cfg"/>
+  <neveroverwrite path="emulators\ghostship\ghostship.cfg.json"/>
   <neveroverwrite path="emulators\gopher64\portable_data\config\config.json"/>
+  <neveroverwrite path="emulators\gsplus\config.txt"/>
   <neveroverwrite path="emulators\gzdoom\gzdoom_portable.ini"/>
   <neveroverwrite path="emulators\hatari\hatari.cfg"/>
   <neveroverwrite path="emulators\hypseus\hypinput.ini"/>
@@ -52,13 +75,20 @@
   <neveroverwrite path="emulators\linuxloader\controls.ini"/>
   <neveroverwrite path="emulators\linuxloader\linuxloader.ini"/>
   <neveroverwrite path="emulators\m2emulator\Emulator.ini"/>
+  <neveroverwrite path="emulators\magicengine\pce.cfg"/>
+  <neveroverwrite path="emulators\magicengine\pce.ini"/>
   <neveroverwrite path="emulators\mame\ini\fmtownsux.ini"/>
   <neveroverwrite path="emulators\mandarine\user\config\qt-config.ini"/>
+  <neveroverwrite path="emulators\mednafen\mednafen.cfg"/>
+  <neveroverwrite path="emulators\melonds\melonDS.toml"/>
   <neveroverwrite path="emulators\mesen\settings.json"/>
+  <neveroverwrite path="emulators\mesen-s\settings.xml"/>
   <neveroverwrite path="emulators\mgba\config.ini"/>
+  <neveroverwrite path="emulators\model3-vulkan\Data\Config\Model3-Vulkan.ini"/>
   <neveroverwrite path="emulators\mupen64\Config\GLideN64.ini"/>
   <neveroverwrite path="emulators\mupen64\Config\mupen64plus.cfg"/>
   <neveroverwrite path="emulators\nosgba\NO$GBA.INI"/>
+  <neveroverwrite path="emulators\odin\odin.ini"/>
   <neveroverwrite path="emulators\opengoal\config\OpenGOAL\jak1\misc\debug-settings.json"/>
   <neveroverwrite path="emulators\opengoal\config\OpenGOAL\jak1\settings\display-settings.json"/>
   <neveroverwrite path="emulators\opengoal\config\OpenGOAL\jak1\settings\pc-settings.gc"/>
@@ -66,6 +96,7 @@
   <neveroverwrite path="emulators\opengoal\config\OpenGOAL\jak2\settings\display-settings.json"/>
   <neveroverwrite path="emulators\opengoal\config\OpenGOAL\jak2\settings\pc-settings.gc"/>
   <neveroverwrite path="emulators\openjazz\openjazz.cfg"/>
+  <neveroverwrite path="emulators\openmsx\share\settings.xml"/>
   <neveroverwrite path="emulators\oricutron\oricutron.cfg"/>
   <neveroverwrite path="emulators\pcsx2-16\inis\Dev9null.ini"/>
   <neveroverwrite path="emulators\pcsx2-16\inis\FWnull.ini"/>
@@ -80,11 +111,15 @@
   <neveroverwrite path="emulators\pdark\pd.ini"/>
   <neveroverwrite path="emulators\phoenix\phoenix.config.xml"/>
   <neveroverwrite path="emulators\play\Play Data Files\config.xml"/>
+  <neveroverwrite path="emulators\pom2\POM2\state.cfg"/>
+  <neveroverwrite path="saves\psp\SYSTEM\controls.ini"/>
   <neveroverwrite path="saves\psp\SYSTEM\ppsspp.ini"/>
   <neveroverwrite path="emulators\project64\Config\Project64.cfg"/>
   <neveroverwrite path="emulators\psxmame\mame.ini"/>
+  <neveroverwrite path="emulators\psxmame\ui.ini"/>
   <neveroverwrite path="emulators\quiverlauncher\settings.json"/>
   <neveroverwrite path="emulators\raine\config\raine32_sdl.cfg"/>
+  <neveroverwrite path="emulators\raze\raze_portable.ini"/>
   <neveroverwrite path="emulators\redream\redream.cfg"/>
   <neveroverwrite path="emulators\retroarch\retroarch-core-options.cfg"/>
   <neveroverwrite path="emulators\retroarch\retroarch.cfg"/>
@@ -100,6 +135,8 @@
   <neveroverwrite path="emulators\simple64\input-settings.ini"/>
   <neveroverwrite path="emulators\simple64\mupen64plus.cfg"/>
   <neveroverwrite path="emulators\simple64\simple64-gui.ini"/>
+  <neveroverwrite path="emulators\singe2\Singe\controls.cfg"/>
+  <neveroverwrite path="emulators\sm2-emu\sm2-emu.ini"/>
   <neveroverwrite path="emulators\snes9x\snes9x.conf"/>
   <neveroverwrite path="emulators\soh\shipofharkinian.json"/>
   <neveroverwrite path="emulators\sonic3air\savedata\settings.json"/>
@@ -109,45 +146,39 @@
   <neveroverwrite path="roms\sonicretro\sonic2\settings.ini"/>
   <neveroverwrite path="roms\sonicretro\soniccd\settings.ini"/>
   <neveroverwrite path="roms\rtcw\Main\realrtcwconfig.cfg"/>
+  <neveroverwrite path="emulators\ssf\Setting.ini"/>
   <neveroverwrite path="emulators\ssf\SSF.ini"/>
+  <neveroverwrite path="emulators\starship\starship.cfg.json"/>
   <neveroverwrite path="emulators\stella\stella.sqlite3"/>
   <neveroverwrite path="emulators\sudachi\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\supermodel\Config\Supermodel.ini"/>
   <neveroverwrite path="emulators\suyu\user\config\qt-config.ini"/>
+  <neveroverwrite path="emulators\theforceengine\settings.ini"/>
   <neveroverwrite path="emulators\uzdoom\uzdoom_portable.ini"/>
   <neveroverwrite path="emulators\vita3k\config.yml"/>
   <neveroverwrite path="saves\psvita\vita3k\ux0\user\00\user.xml"/>
+  <neveroverwrite path="emulators\vpinball\VPinballX.ini"/>
+  <neveroverwrite path="emulators\vpinball\VPinMAME\DmdDevice.ini"/>
+  <neveroverwrite path="emulators\winarcadia\Configs\WinArcadia.ini"/>
   <neveroverwrite path="emulators\winuae\winuae.ini"/>
   <neveroverwrite path="emulators\xemu\xemu.toml"/>
+  <neveroverwrite path="emulators\xemu-chihiro\xemu.toml"/>
   <neveroverwrite path="emulators\xenia-canary\xenia-canary.config.toml"/>
   <neveroverwrite path="emulators\xenia-edge\xenia-edge.config.toml"/>
   <neveroverwrite path="emulators\xenia\xenia.config.toml"/>
   <neveroverwrite path="emulators\xm6pro\XM6.ini"/>
   <neveroverwrite path="emulators\xroar\xroar.conf"/>
+  <neveroverwrite path="emulators\yabasanshiro\yabause.ini"/>
   <neveroverwrite path="emulators\ymir\Ymir.toml"/>
   <neveroverwrite path="emulators\yuzu\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\zinc\renderer.cfg"/>
   <neveroverwrite path="emulators\zinc\zinc.cfg"/>
+  <neveroverwrite path="emulators\zquestclassic\controls.cfg"/>
+  <neveroverwrite path="emulators\zquestclassic\zc.cfg"/>
   <neveroverwrite path="retrobat.ini"/>
   <actions>
-    <move path="roms\doom" to="roms\doom.backup"/>
-    <move path="roms\gzdoom" to="roms\doom"/>
-    <move path="emulators\azahar\user\config\qt-config.ini" to="emulators\azahar\user\config\qt-config.ini.backup"/>
-    <move path="emulators\linuxloader\linuxloader.ini" to="emulators\linuxloader\linuxloader.ini.backup"/>
-    <move path="emulators\pcsx2x6\inis\PCSX2.ini" to="emulators\pcsx2x6\inis\PCSX2.ini.backup"/>
-    <move path="saves\psp\SYSTEM\ppsspp.ini" to="saves\psp\SYSTEM\ppsspp.ini.backup"/>
-    <move path="emulators\shadps4\user\config.json" to="emulators\shadps4\user\config.json.backup"/>
-    <move path="emulators\shadps4\launcher\qt_ui.ini" to="emulators\shadps4\launcher\qt_ui.ini.backup"/>
-    <move path="emulators\winuae\winuae.ini" to="emulators\winuae\winuae.ini.backup"/>
-  </actions>
-  <actions version="8.3.0">
-    <move path="roms\prboom\gamelist.xml" to="roms\prboom\gamelist.xml.prboom.backup"/>
-    <merge path="roms\prboom" to="roms\doom"/>
-    <delete path="system\es_menu\n64recomplauncher.menu"/>
-    <delete path="system\es_menu\media\n64recomplauncher-logo.png"/>
-    <delete path="system\es_menu\media\lime3ds-logo.svg"/>
-    <delete path="system\es_menu\media\mandarine-logo.svg"/>
-    <delete path="system\es_menu\media\demulold-logo.png"/>
-    <delete path="system\templates\n64recomplauncher"/>
+    <merge path="roms\zinc" to="roms\psxarcade"/>
+    <merge path="saves\zinc" to="saves\psxarcade"/>
+    <delete path="system\padtokey\zinc.keys"/>
   </actions>
 </upgradeinfo>
