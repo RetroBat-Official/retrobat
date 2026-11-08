@@ -1,0 +1,19 @@
+# Files and folders removed from the build after all copy/extract steps
+# Template zips already extracted by templates_files.lst
+system\templates\mame\nvram.zip
+system\templates\roms\singe\FrameworkKimmy.zip
+system\templates\roms\ports\images.zip
+system\templates\roms\ports\xrick.zip
+system\templates\cemu\portable\GraphicPacks.zip
+system\templates\emulationstation\mountsquashfs.exe
+system\templates\emulationstation\arcaderoms.xml
+# ES resources already copied to emulationstation\.emulationstation
+system\resources\emulationstation\music
+system\resources\emulationstation\video
+system\resources\emulationstation\notice.pdf
+system\resources\emulationstation\notice_french.pdf
+# Bezel packs distributed through the store
+system\decorations\default_curve
+system\decorations\default_curve_night
+system\decorations\default_nocurve
+system\decorations\default_nocurve_night
