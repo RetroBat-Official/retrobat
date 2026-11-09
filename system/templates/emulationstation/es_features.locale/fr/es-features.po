@@ -1658,18 +1658,6 @@ msgid "NO SPRITE LIMIT"
 msgstr "DÉSACTIVER LA LIMITE DE SPRITES"
 
 msgctxt "game_options"
-msgid "Remove the 4 sprites per line limit which can reduce or remove sprite flicker in some games."
-msgstr "Supprime la limite de 4 sprites par ligne. Permet de réduire ou supprimer le 'flickering' dans certains jeux."
-
-msgctxt "game_options"
-msgid "Remove the sprites per line limit which can reduce or remove sprite flicker in some games."
-msgstr "Supprime la limite de sprites par ligne. Permet de réduire ou supprimer le 'flickering' dans certains jeux."
-
-msgctxt "game_options"
-msgid "Remove the 8 sprites per line limit which can reduce or remove sprite flicker in some games."
-msgstr "Supprime la limite de 8 sprites par ligne. Permet de réduire ou supprimer le 'flickering' dans certains jeux."
-
-msgctxt "game_options"
 msgid "LCD GHOSTING FILTER"
 msgstr "FILTRE D'ECRAN LCD"
 
@@ -1952,10 +1940,6 @@ msgstr "Rémanence (85%)"
 msgctxt "game_options"
 msgid "Ghosting (95%)"
 msgstr "Rémanence (95%)"
-
-msgctxt "game_options"
-msgid "Soften the hash sound effect from some games."
-msgstr "Adoucir l'effet sonore de hachage de certains jeux."
 
 msgctxt "game_options"
 msgid "AUDIO FILTER"
@@ -2376,10 +2360,6 @@ msgstr "POSITIONNEMENT DES ÉCRANS"
 msgctxt "game_options"
 msgid "Choose the disposition of the emulated screens."
 msgstr "Définir la disposition des écrans."
-
-msgctxt "game_options"
-msgid "Choose the disposition of the emulated screens for multiplayer games."
-msgstr "Définir la disposition des écrans pour les jeux multi-joueurs."
 
 msgctxt "game_options"
 msgid "TOP-BOTTOM SCREEN"
@@ -5907,10 +5887,6 @@ msgid "VIDEO FILTER (CORE)"
 msgstr "FILTRE VIDÉO (CORE)"
 
 msgctxt "game_options"
-msgid "Removes 8-sprites-per-scanline hardware limit"
-msgstr "Supprimer la limite matérielle de 8 sprites par ligne."
-
-msgctxt "game_options"
 msgid "CORE SOUND QUALITY"
 msgstr "QUALITÉ DU SON"
 
@@ -6185,10 +6161,6 @@ msgstr "Définir la palette de couleurs à utiliser."
 msgctxt "game_options"
 msgid "Famicom"
 msgstr "Famicom"
-
-msgctxt "game_options"
-msgid "Minimize ingame slowdowns of some games (Contra Force)"
-msgstr "Réduit les ralentissements dans certains jeux."
 
 msgctxt "game_options"
 msgid "LIGHTGUN CROSSHAIRS"
@@ -6617,10 +6589,6 @@ msgstr "BLITTER RAPIDE"
 msgctxt "game_options"
 msgid "Use the older and less compatible faster blitter"
 msgstr "Activer le 'fast blitter', certains jeux risquent de ne pas fonctionner (plus vieux et moins compatible)."
-
-msgctxt "game_options"
-msgid "Show animation when starting (Breaks some games)"
-msgstr "Afficher l'animation du bios au démarrage (incompatible avec certains jeux)."
 
 msgctxt "game_options"
 msgid "FIX DOOM RESOLUTION"
@@ -8228,10 +8196,10 @@ msgstr "UTILISER LE BIOS EXTERNE"
 
 msgctxt "game_options"
 msgid "USE OWN GAME SETTING FILE"
-msgstr "UTILISER LE BIOS EXTERNE"
+msgstr "UTILISER MON PROPRE FICHIER DE RÉGLAGES"
 
 msgctxt "game_options"
-msgid "By default RetroBat will generate it's own config file, enable this option to use your own game setting file located in 'emulators\ssf\Setting' folder."
+msgid "By default RetroBat will generate its own config file, enable this option to use your own game setting file located in 'emulators\ssf\Setting' folder."
 msgstr "RetroBat génère un fichier de configuration automatiquement, cette option permet de forcer l'utilisation d'un fichier personnel depuis le dossier 'emulators\ssf\Setting'."
 
 msgctxt "game_options"
@@ -10793,10 +10761,6 @@ msgstr "DISQUE DE DÉMARRAGE M3U"
 msgctxt "game_options"
 msgid "USE BOTH FLOPPY DRIVES"
 msgstr "UTILISER LES DEUX LECTEURS DE DISQUETTES"
-
-msgctxt "game_options"
-msgid "ROBOTRON JOYSTICK HACK"
-msgstr "HACK JOYSTICK ROBOTRON"
 
 msgctxt "game_options"
 msgid "CONTROLLER HACKS"
@@ -17836,10 +17800,6 @@ msgid "Force X key to close VPinball and set select+start to send X."
 msgstr "Force la touche X pour fermer VPinball et associe select+start à l'envoi de X."
 
 msgctxt "game_options"
-msgid "Let Visual Pinball switch to the selected video mode itself instead of changing the desktop resolution."
-msgstr "Laisse Visual Pinball passer lui-même dans le mode vidéo choisi au lieu de changer la résolution du bureau."
-
-msgctxt "game_options"
 msgid "Override table default lighting."
 msgstr "Remplace l'éclairage par défaut de la table."
 
@@ -18804,10 +18764,6 @@ msgid "Specifies how the emulation of the real-time clock in certain games shoul
 msgstr "Définit le fonctionnement de l'émulation de l'horloge temps réel dans certains jeux."
 
 msgctxt "game_options"
-msgid "Choose the disposition of the emulated screens for 2 players games."
-msgstr "Choisir la disposition des écrans émulés pour les jeux à 2 joueurs."
-
-msgctxt "game_options"
 msgid "Apply core-specific filter to mimic old signal specific rendering."
 msgstr "Applique un filtre propre au core pour imiter le rendu des anciens signaux vidéo."
 
@@ -19064,10 +19020,6 @@ msgid "Display the border regions of the screen. Has no effect on F18A output."
 msgstr "Affiche les zones de bordure de l'écran. Sans effet sur la sortie F18A."
 
 msgctxt "game_options"
-msgid "Remove the original sprites-per-scanline hardware limit. Reduces flickering but may cause glitches in some games."
-msgstr "Supprime la limite matérielle de sprites par ligne. Réduit le scintillement mais peut provoquer des bugs dans certains jeux."
-
-msgctxt "game_options"
 msgid "Allow pressing left and right, or up and down, at the same time. May cause movement glitches in some games."
 msgstr "Autorise l'appui simultané sur gauche et droite, ou haut et bas. Peut provoquer des bugs de déplacement dans certains jeux."
 
@@ -19306,10 +19258,6 @@ msgstr "ASCII associe le clavier aux caractères qu'il affiche. Original reprodu
 msgctxt "game_options"
 msgid "How fast the paddles move when the mouse is used as the game port device."
 msgstr "Vitesse de déplacement des paddles quand la souris est utilisée comme périphérique du port de jeu."
-
-msgctxt "game_options"
-msgid "Enable joystick hack for Robotron game."
-msgstr "Active le hack joystick pour le jeu Robotron."
 
 msgctxt "game_options"
 msgid "STRETCH TO DISPLAY"
@@ -26493,10 +26441,6 @@ msgid "Shared CMOS for all content by default, or one per game (better for netpl
 msgstr "Par défaut, une CMOS partagée pour tous les jeux, ou une CMOS par jeu (préférable pour le netplay)."
 
 msgctxt "game_options"
-msgid "CD-ROM READ SPEED"
-msgstr "VITESSE DE LECTURE CD-ROM"
-
-msgctxt "game_options"
 msgid "Faster sector reads. Some software may not expect it."
 msgstr "Lecture plus rapide des secteurs. Certains logiciels peuvent ne pas le supporter."
 
@@ -27437,8 +27381,8 @@ msgid "Removes the white flash shown when the games disable 3D rendering."
 msgstr "Supprime le flash blanc affiché quand les jeux coupent le rendu 3D."
 
 msgctxt "game_options"
-msgid "Loads the replacement textures of Data\\Assets\\HDTextures\\<rom> in the emulator folder."
-msgstr "Charge les textures de remplacement de Data\\Assets\\HDTextures\\<rom> dans le dossier de l'émulateur."
+msgid "Loads the replacement textures of Data\Assets\HDTextures\<rom> in the emulator folder."
+msgstr "Charge les textures de remplacement de Data\Assets\HDTextures\<rom> dans le dossier de l'émulateur."
 
 msgctxt "game_options"
 msgid "SDL gamepad by default, it reads gamepads with the standard layout and the other devices (wheels, shifters, arcade encoders) with their raw buttons. SDL reads every device raw."
@@ -27481,7 +27425,7 @@ msgid "2 LOCAL PLAYERS FOLLOWED (host 1_2 / guest 3_4)"
 msgstr "2 JOUEURS LOCAUX CONSÉCUTIFS (hôte 1_2 / invité 3_4)"
 
 msgctxt "game_options"
-msgid "2 LOCAL PLAYERS FOLLOWED (host 1_2 / guest 3_4)"
+msgid "2 LOCAL PLAYERS ALTERNATE (host 1_3 / guest 2_4)"
 msgstr "2 JOUEURS LOCAUX ALTERNÉS (hôte 1_3 / invité 2_4)"
 
 msgctxt "game_options"
@@ -27597,8 +27541,8 @@ msgid "DIGITAL VIDEO CARTRIDGE"
 msgstr "CARTOUCHE VIDÉO NUMÉRIQUE (DVC)"
 
 msgctxt "game_options"
-msgid "Fit the Digital Video Cartridge (vmpega.rom in bios\cdi), required by FMV games and Video CDs."
-msgstr "Insère la cartouche vidéo numérique (vmpega.rom dans bios\cdi), nécessaire aux jeux FMV et aux Vidéo CD."
+msgid "Fit the Digital Video Cartridge (vmpega.rom in the bios folder), required by FMV games and Video CDs."
+msgstr "Insère la cartouche vidéo numérique (vmpega.rom dans le dossier bios), nécessaire aux jeux FMV et aux Vidéo CD."
 
 msgctxt "game_options"
 msgid "CONSOLE MEMORY (NVRAM)"
@@ -27613,8 +27557,8 @@ msgid "POINTING DEVICE"
 msgstr "PÉRIPHÉRIQUE DE POINTAGE"
 
 msgctxt "game_options"
-msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + B switches during the game."
-msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + B bascule pendant le jeu."
+msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + L3 switches during the game."
+msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + L3 bascule pendant le jeu."
 
 msgctxt "game_options"
 msgid "Disable the in-game menu opened with HOTKEY + EAST or CTRL + F12. HOTKEY + EAST can then be used for other hotkeys."
@@ -27869,10 +27813,6 @@ msgid "Emulate the Game Boy Player to enable rumble in compatible games."
 msgstr "Émule le Game Boy Player pour activer les vibrations dans les jeux compatibles."
 
 msgctxt "game_options"
-msgid "'Templates' option copies files located in 'emulators\\m2emulator\\templatescfg' folder instead of performing dynamic autoconfiguration."
-msgstr "L'option 'Templates' copie les fichiers du dossier 'emulators\\m2emulator\\templatescfg' au lieu de faire une configuration automatique dynamique."
-
-msgctxt "game_options"
 msgid "24 bits removes the color banding in dark areas and gradients. HDR requires an HDR display with HDR enabled in RetroArch, otherwise the core falls back to 24 bits."
 msgstr "Le 24 bits supprime les bandes de couleur dans les zones sombres et les dégradés. Le HDR nécessite un écran HDR avec le HDR activé dans RetroArch, sinon le core repasse en 24 bits."
 
@@ -27923,14 +27863,6 @@ msgstr "PORT MANETTE 4"
 msgctxt "game_options"
 msgid "CPU"
 msgstr "CPU"
-
-msgctxt "game_options"
-msgid "Change path for decompressed games (default is '\\roms\\.uncompressed')."
-msgstr "Change le dossier des jeux décompressés (par défaut '\\roms\\.uncompressed')."
-
-msgctxt "game_options"
-msgid "Cheats must be placed in the \\bios\\pcsx2\\cheats folder."
-msgstr "Les codes de triche doivent être placés dans le dossier \\bios\\pcsx2\\cheats."
 
 msgctxt "game_options"
 msgid "DISK SLOT"
@@ -28041,10 +27973,6 @@ msgid "LEFT TRIGGER"
 msgstr "GÂCHETTE GAUCHE"
 
 msgctxt "game_options"
-msgid "Leave on AUTO to let the emulator pick the first valid BIOS found in '\\bios\\pcsx2\\bios'."
-msgstr "Laisser sur AUTO pour que l'émulateur choisisse le premier BIOS valide trouvé dans '\\bios\\pcsx2\\bios'."
-
-msgctxt "game_options"
 msgid "Lower values reduce audio delay, higher values reduce crackling."
 msgstr "Une valeur basse réduit le retard du son, une valeur haute réduit les craquements."
 
@@ -28079,10 +28007,6 @@ msgstr "GÂCHETTE DROITE"
 msgctxt "game_options"
 msgid "Recompiler is much faster, interpreter is only useful for debugging. Requires a restart."
 msgstr "Le recompilateur est bien plus rapide, l'interpréteur ne sert qu'au débogage. Nécessite un redémarrage."
-
-msgctxt "game_options"
-msgid "Replace original textures with custom textures pack in 'bios\\dc\\textures'."
-msgstr "Remplace les textures d'origine par le pack de textures personnalisées de 'bios\\dc\\textures'."
 
 msgctxt "game_options"
 msgid "Reuse the shader cache built for the game. Auto lets the emulator decide."
@@ -28163,10 +28087,6 @@ msgstr "QUANTUM DES THREADS"
 msgctxt "game_options"
 msgid "TOS"
 msgstr "TOS"
-
-msgctxt "game_options"
-msgid "Use one shared memory card for all games instead of one card per game. Cards are stored in '\\bios\\pcsx2\\memcards'."
-msgstr "Utilise une seule carte mémoire partagée pour tous les jeux au lieu d'une carte par jeu. Les cartes sont stockées dans '\\bios\\pcsx2\\memcards'."
 
 msgctxt "game_options"
 msgid "VIEW LAYOUT"
@@ -28369,10 +28289,6 @@ msgid "How fast the paddle moves."
 msgstr "Vitesse de déplacement du paddle."
 
 msgctxt "game_options"
-msgid "ATTACH XEGS KEYBOARD"
-msgstr "CLAVIER XEGS BRANCHÉ"
-
-msgctxt "game_options"
 msgid "Dual Stick: Robotron 2084 and Space Dungeon on the right stick. Swap Ports: Wizard of Wor, Apple Panic. Joy 2B+: multi-button joysticks."
 msgstr "Dual Stick : Robotron 2084 et Space Dungeon sur le stick droit. Inverser les ports : Wizard of Wor, Apple Panic. Joy 2B+ : joysticks multi-boutons."
 
@@ -28489,14 +28405,6 @@ msgid "Simulate the colors of the Game Boy Color LCD screen."
 msgstr "Simule les couleurs de l'écran LCD de la Game Boy Color."
 
 msgctxt "game_options"
-msgid "SUPER GAME BOY BORDER"
-msgstr "BORDURE SUPER GAME BOY"
-
-msgctxt "game_options"
-msgid "Show the Super Game Boy border around the game screen."
-msgstr "Affiche la bordure Super Game Boy autour de l'écran de jeu."
-
-msgctxt "game_options"
 msgid "TILT CONTROL"
 msgstr "CONTRÔLE D'INCLINAISON"
 
@@ -28527,3 +28435,31 @@ msgstr "PHOSPHORE"
 msgctxt "game_options"
 msgid "OPENGL 4.6"
 msgstr "OPENGL 4.6"
+
+msgctxt "game_options"
+msgid "VIDEO LEVELS"
+msgstr "NIVEAUX VIDÉO"
+
+msgctxt "game_options"
+msgid "Studio: TV levels of a real player, black looks dark grey on a PC screen. Full range: deep black."
+msgstr "Studio : niveaux TV d'un vrai lecteur, le noir paraît gris foncé sur un écran de PC. Plage complète : noir profond."
+
+msgctxt "game_options"
+msgid "STUDIO (AUTHENTIC)"
+msgstr "STUDIO (AUTHENTIQUE)"
+
+msgctxt "game_options"
+msgid "A500 (v1.3, 0.5M Chip)"
+msgstr "A500 (v1.3, 0.5M Chip)"
+
+msgctxt "game_options"
+msgid "A500 (v1.3, 1.0M Chip)"
+msgstr "A500 (v1.3, 1.0M Chip)"
+
+msgctxt "game_options"
+msgid "A600 (v3.1, 2M Chip)"
+msgstr "A600 (v3.1, 2M Chip)"
+
+msgctxt "game_options"
+msgid "A2000 (v1.3, 0.5M Chip + 0.5M Slow)"
+msgstr "A2000 (v1.3, 0.5M Chip + 0.5M Lent)"
