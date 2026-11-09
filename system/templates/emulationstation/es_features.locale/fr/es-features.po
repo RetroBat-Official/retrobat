@@ -27597,8 +27597,8 @@ msgid "DIGITAL VIDEO CARTRIDGE"
 msgstr "CARTOUCHE VIDÉO NUMÉRIQUE (DVC)"
 
 msgctxt "game_options"
-msgid "Fit the Digital Video Cartridge (vmpega.rom in bios\cdi), required by FMV games and Video CDs."
-msgstr "Insère la cartouche vidéo numérique (vmpega.rom dans bios\cdi), nécessaire aux jeux FMV et aux Vidéo CD."
+msgid "Fit the Digital Video Cartridge (vmpega.rom in the bios folder), required by FMV games and Video CDs."
+msgstr "Insère la cartouche vidéo numérique (vmpega.rom dans le dossier bios), nécessaire aux jeux FMV et aux Vidéo CD."
 
 msgctxt "game_options"
 msgid "CONSOLE MEMORY (NVRAM)"
@@ -27613,8 +27613,8 @@ msgid "POINTING DEVICE"
 msgstr "PÉRIPHÉRIQUE DE POINTAGE"
 
 msgctxt "game_options"
-msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + B switches during the game."
-msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + B bascule pendant le jeu."
+msgid "Gamepad: the pad and the keyboard move the CD-i pointer. Mouse: the PC mouse moves the pointer (point and click and gun games), the pad only keeps its buttons. Hotkey + L3 switches during the game."
+msgstr "Manette : la manette et le clavier déplacent le pointeur CD-i. Souris : la souris du PC déplace le pointeur (jeux pointer-cliquer et jeux de tir), la manette ne garde que ses boutons. Hotkey + L3 bascule pendant le jeu."
 
 msgctxt "game_options"
 msgid "Disable the in-game menu opened with HOTKEY + EAST or CTRL + F12. HOTKEY + EAST can then be used for other hotkeys."
@@ -28527,3 +28527,31 @@ msgstr "PHOSPHORE"
 msgctxt "game_options"
 msgid "OPENGL 4.6"
 msgstr "OPENGL 4.6"
+
+msgctxt "game_options"
+msgid "VIDEO LEVELS"
+msgstr "NIVEAUX VIDÉO"
+
+msgctxt "game_options"
+msgid "Studio: TV levels of a real player, black looks dark grey on a PC screen. Full range: deep black."
+msgstr "Studio : niveaux TV d'un vrai lecteur, le noir paraît gris foncé sur un écran de PC. Plage complète : noir profond."
+
+msgctxt "game_options"
+msgid "STUDIO (AUTHENTIC)"
+msgstr "STUDIO (AUTHENTIQUE)"
+
+msgctxt "game_options"
+msgid "A500 (v1.3, 0.5M Chip)"
+msgstr "A500 (v1.3, 0.5M Chip)"
+
+msgctxt "game_options"
+msgid "A500 (v1.3, 1.0M Chip)"
+msgstr "A500 (v1.3, 1.0M Chip)"
+
+msgctxt "game_options"
+msgid "A600 (v3.1, 2M Chip)"
+msgstr "A600 (v3.1, 2M Chip)"
+
+msgctxt "game_options"
+msgid "A2000 (v1.3, 0.5M Chip + 0.5M Slow)"
+msgstr "A2000 (v1.3, 0.5M Chip + 0.5M Lent)"
