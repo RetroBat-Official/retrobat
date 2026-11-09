@@ -28463,3 +28463,59 @@ msgstr "A600 (v3.1, 2M Chip)"
 msgctxt "game_options"
 msgid "A2000 (v1.3, 0.5M Chip + 0.5M Slow)"
 msgstr "A2000 (v1.3, 0.5M Chip + 0.5M Lent)"
+
+msgctxt "game_options"
+msgid "CHASE CAMERA STABILIZER"
+msgstr "STABILISATEUR DE CAMÉRA DE POURSUITE"
+
+msgctxt "game_options"
+msgid "Damps the camera swing when steering with a gamepad. Strong by default."
+msgstr "Atténue le balancement de la caméra quand on tourne avec une manette. Fort par défaut."
+
+msgctxt "game_options"
+msgid "STEERING SENSITIVITY"
+msgstr "SENSIBILITÉ DE LA DIRECTION"
+
+msgctxt "game_options"
+msgid "Gamepad steering travel in driving games. 66% by default, no effect on a wheel."
+msgstr "Amplitude de la direction à la manette dans les jeux de course. 66% par défaut, sans effet sur un volant."
+
+msgctxt "game_options"
+msgid "Softens the gamepad steering in driving games. Strong by default, no effect on a wheel."
+msgstr "Adoucit la direction à la manette dans les jeux de course. Fort par défaut, sans effet sur un volant."
+
+msgctxt "game_options"
+msgid "PowerPC recompiler, on by default and much faster. Turn off for the interpreter."
+msgstr "Recompilateur PowerPC, activé par défaut et beaucoup plus rapide. Désactiver pour utiliser l'interpréteur."
+
+msgctxt "game_options"
+msgid "MUSIC VOLUME"
+msgstr "VOLUME DE LA MUSIQUE"
+
+msgctxt "game_options"
+msgid "Volume of the music board in the games that have one (Daytona USA, Sega Rally). 100% by default."
+msgstr "Volume de la carte musicale dans les jeux qui en ont une (Daytona USA, Sega Rally). 100% par défaut."
+
+msgctxt "game_options"
+msgid "Strength of the controller's rumble. 60% by default."
+msgstr "Puissance des vibrations de la manette. 60% par défaut."
+
+msgctxt "game_options"
+msgid "ENABLE GUN RECOIL"
+msgstr "ACTIVER LE RECUL DU PISTOLET"
+
+msgctxt "game_options"
+msgid "Fire the gun's recoil motor on each shot, for guns that have one. On by default."
+msgstr "Déclenche le moteur de recul du pistolet à chaque tir, pour les pistolets qui en ont un. Activé par défaut."
+
+msgctxt "game_options"
+msgid "RECOIL STRENGTH"
+msgstr "PUISSANCE DU RECUL"
+
+msgctxt "game_options"
+msgid "Strength of the gun's recoil motor. 60% by default."
+msgstr "Puissance du moteur de recul du pistolet. 60% par défaut."
+
+msgctxt "game_options"
+msgid "Gain on the drive board's forces. 30% by default, 200% doubles them."
+msgstr "Gain appliqué aux forces de la drive board. 30% par défaut, 200% les double."
