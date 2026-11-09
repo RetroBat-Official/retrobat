@@ -28519,3 +28519,11 @@ msgstr "Puissance du moteur de recul du pistolet. 60% par défaut."
 msgctxt "game_options"
 msgid "Gain on the drive board's forces. 30% by default, 200% doubles them."
 msgstr "Gain appliqué aux forces de la drive board. 30% par défaut, 200% les double."
+
+msgctxt "game_options"
+msgid "D-PAD MODE"
+msgstr "MODE DE LA CROIX DIRECTIONNELLE"
+
+msgctxt "game_options"
+msgid "Floating Point Unit, needed by some 3D games. On by default with the 68040 (built in), off with the 68030."
+msgstr "Coprocesseur mathématique (FPU), demandé par certains jeux 3D. Activé par défaut avec le 68040 (intégré), désactivé avec le 68030."
