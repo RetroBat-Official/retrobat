@@ -28527,3 +28527,7 @@ msgstr "MODE DE LA CROIX DIRECTIONNELLE"
 msgctxt "game_options"
 msgid "Floating Point Unit, needed by some 3D games. On by default with the 68040 (built in), off with the 68030."
 msgstr "Coprocesseur mathématique (FPU), demandé par certains jeux 3D. Activé par défaut avec le 68040 (intégré), désactivé avec le 68030."
+
+msgctxt "game_options"
+msgid "Specifies which add-on to use for audio CD playback with patched MD games."
+msgstr "Indique quelle extension utiliser pour la lecture audio CD des jeux MD patchés."
