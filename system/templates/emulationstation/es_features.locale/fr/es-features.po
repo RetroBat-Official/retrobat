@@ -4362,6 +4362,10 @@ msgid "LIGHTGUN MODE"
 msgstr "MODE PISTOLET"
 
 msgctxt "game_options"
+msgid "WEST PHASER"
+msgstr "WEST PHASER"
+
+msgctxt "game_options"
 msgid "4-WAYS JOYSTICK MODE"
 msgstr "MODE 4-DIRECTIONS"
 
@@ -28555,3 +28559,7 @@ msgstr "Affiche le jeu en 16:9. Idéalement avec RAPPORT D'ASPECT réglé sur 16
 msgctxt "game_options"
 msgid "Skip the boot check that prevents the game from starting."
 msgstr "Ignore la vérification de démarrage qui empêche le jeu de se lancer."
+
+msgctxt "game_options"
+msgid "Load mods (.dusk files) from a folder named like the game, next to it, or from dusklight\data\mods when there is none."
+msgstr "Charger les mods (fichiers .dusk) depuis un dossier portant le nom du jeu, placé à côté de lui, ou depuis dusklight\data\mods s'il n'existe pas."
