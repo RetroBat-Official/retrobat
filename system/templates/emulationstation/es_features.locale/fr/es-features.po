@@ -5595,7 +5595,7 @@ msgstr "Permet de gérer plusieurs souris indépendantes."
 
 msgctxt "game_options"
 msgid "DO NOT MAP LEFT STICK"
-msgstr "DÉSACTIVER LE STICK DROIT"
+msgstr "NE PAS MAPPER LE STICK GAUCHE"
 
 msgctxt "game_options"
 msgid "MOUSE DEVICE"
@@ -5654,8 +5654,8 @@ msgid "Define the connected device that emulates a Dial device."
 msgstr "Définir le périphérique permettant d'émuler le 'Dial device'."
 
 msgctxt "game_options"
-msgid "Turn this off to map only the D-PAD for directions."
-msgstr "Activer uniquement le D-PAD pour les directions."
+msgid "Turn this on to map only the D-PAD for directions."
+msgstr "Activer pour n'utiliser que le D-PAD pour les directions."
 
 msgctxt "game_options"
 msgid "Define the mapping of the D-PAD."
@@ -28563,3 +28563,7 @@ msgstr "Ignore la vérification de démarrage qui empêche le jeu de se lancer."
 msgctxt "game_options"
 msgid "Load mods (.dusk files) from a folder named like the game, next to it, or from dusklight\data\mods when there is none."
 msgstr "Charger les mods (fichiers .dusk) depuis un dossier portant le nom du jeu, placé à côté de lui, ou depuis dusklight\data\mods s'il n'existe pas."
+
+msgctxt "game_options"
+msgid "Button layout of the core, the same for all games. Leave on AUTO to use RetroBat per-game mapping and CONTROLLER LAYOUT."
+msgstr "Disposition des boutons du core, identique pour tous les jeux. Laisser sur AUTO pour utiliser le mapping par jeu de RetroBat et DISPOSITION DES BOUTONS."

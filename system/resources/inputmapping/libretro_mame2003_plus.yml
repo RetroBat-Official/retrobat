@@ -1,0 +1,1752 @@
+# mame2003_plus : exceptions to libretro_mame.yml (generated from claude/Mame2003Plus-Yml-Audit)
+# Games not listed here use the lr-mame entries of libretro_mame.yml.
+# Values are RetroPad ids as read by mame2003_plus with the RETROPAD type :
+# 0, 8, 1, 9, 10, 11, 12, 13 = buttons 1 to 8.
+# "use: default" : buttons differ from current MAME, the default entry of libretro_mame.yml is used.
+
+1on1gov:
+  use: default
+280zzzap:
+  use: default
+40love:
+  use: default
+88games:
+  use: default
+8ball:
+  use: default
+8bpm:
+  use: default
+abcop:
+  use: default
+aburner:
+  use: default
+aburner2:
+  use: default
+acedrive:
+  use: default
+aerofgts:
+  use: default
+airco22b:
+  use: default
+aircombj:
+  use: default
+alexkidd:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+alexkidd_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+alexkidd_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+alexkidd_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+anpanman:
+  use: default
+apb:
+  use: default
+aquajet:
+  use: default
+assault:
+  use: default
+assaultp:
+  use: default
+astrob:
+  use: default
+asurabusjr:
+  use: default
+backfire:
+  use: default
+bakubaku:
+  use: default
+ballbros:
+  use: default
+batmanfr:
+  use: default
+beastf:
+  use: default
+beastrzr:
+  use: default
+bigrun:
+  use: default
+bishi:
+  use: default
+bldyror2:
+  use: default
+blitz:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blitz2k:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blitz99:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+blmbycar:
+  use: default
+bluehawk:
+  use: default
+bm1stmix:
+  use: default
+bm2ndmix:
+  use: default
+bm4thmix:
+  use: default
+bmcompmx:
+  use: default
+bmcorerm:
+  use: default
+bmdct:
+  use: default
+brvblade:
+  use: default
+bsharkjjs:
+  use: default
+buckrog:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 9
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 1
+buckrog_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: 0
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+buckrog_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+buckrog_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: 0
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+buggyboy:
+  use: default
+buggychl:
+  use: default
+bzone:
+  use: default
+calspeed:
+  use: default
+canyon:
+  use: default
+cbaj:
+  use: default
+cencourt:
+  use: default
+champbas:
+  use: default
+champbb2:
+  use: default
+chaoshea:
+  use: default
+chokchok:
+  use: default
+chqflag:
+  use: default
+cischeat:
+  use: default
+cloak:
+  use: default
+colmns97:
+  use: default
+contcirc:
+  use: default
+cotton2:
+  use: default
+cottonbm:
+  use: default
+crusnusa:
+  use: default
+crusnwld:
+  use: default
+csprint:
+  use: default
+cybrcycc:
+  use: default
+cybsled:
+  use: default
+cyvern:
+  use: default
+darius2:
+  use: default
+darkplnt:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+darkwar:
+  use: default
+daytona:
+  use: default
+dazzler:
+  use: default
+dblaxle:
+  use: default
+dbzvrvs:
+  use: default
+dcclub:
+  use: default
+ddayc:
+  use: default
+ddenlovr:
+  use: default
+ddp3:
+  use: default
+decathlt:
+  use: default
+diehard:
+  use: default
+diggerc:
+  use: default
+dirtdash:
+  use: default
+dirtdasha:
+  use: default
+dirtfoxj:
+  use: default
+dleague:
+  use: default
+dmnfrnt:
+  use: default
+doapp:
+  use: default
+dogpatch:
+  use: default
+drifto94:
+  use: default
+drivedge:
+  use: default
+ejihon:
+  use: default
+elandore:
+  use: default
+enduror:
+  use: default
+exerion:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+exerion_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+exerion_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+exerion_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+f1en:
+  use: default
+f1gpstar:
+  use: default
+f1gpstr2:
+  use: default
+f1lap:
+  use: default
+f1superb:
+  use: default
+fhboxers:
+  use: default
+finalap2:
+  use: default
+finalap3:
+  use: default
+finalb:
+  use: default
+finallap:
+  use: default
+findlove:
+  use: default
+fixeight:
+  use: default
+flamegun:
+  use: default
+flipmaze:
+  use: default
+fourtrax:
+  use: default
+fpoint:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+fpoint_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+fpoint_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+fpoint_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ftimpcta:
+  use: default
+galpani4:
+  use: default
+galpanis:
+  use: default
+galpans2:
+  use: default
+gdarius2:
+  use: default
+gigandes:
+  use: default
+glfgreat:
+  use: default
+glpracr:
+  use: default
+glpracr2:
+  use: default
+glpracr3:
+  use: default
+goal92:
+  use: default
+gobyrc:
+  use: default
+goldbug:
+  use: default
+goldmedl:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+goldmedl_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: 0
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+goldmedl_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+goldmedl_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 1
+  btn_y: 0
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gradius3:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gradius3_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+gradius3_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+gradius3_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+grchamp:
+  use: default
+grdforce:
+  use: default
+grudge:
+  use: default
+gtmr:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+gtmr_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gtmr_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gtmr_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gtmr2:
+  analog_dpad_mode: 0
+  btn_a: -1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+gulfstrm:
+  use: default
+gundl94:
+  use: default
+gutsn:
+  use: default
+gwarrior:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: 1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+gwarrior_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+gwarrior_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 0
+  btn_l2: -1
+  btn_r2: -1
+gwarrior_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 8
+  btn_y: 1
+  btn_l: 0
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+hanagumi:
+  use: default
+harddriv:
+  use: default
+hcrash:
+  use: default
+hero:
+  use: default
+hmcompm2:
+  use: default
+horekid:
+  use: default
+hotchase:
+  use: default
+hotrod:
+  use: default
+hunchbak:
+  use: default
+huncholy:
+  use: default
+hvnsgate:
+  use: default
+hvysmsh:
+  use: default
+hwchamp:
+  use: default
+hydra:
+  use: default
+hyperspt:
+  use: default
+indyheat:
+  use: default
+jjparad2:
+  use: default
+jjparads:
+  use: default
+jojo:
+  use: default
+jojoba:
+  use: default
+kengo:
+  use: default
+ket:
+  use: default
+klaxp1:
+  use: default
+klaxp2:
+  use: default
+lagunar:
+  use: default
+logger:
+  use: default
+lpadv:
+  use: default
+lunarba1:
+  use: default
+lvgirl94:
+  use: default
+m79amb:
+  use: default
+magmax:
+  use: default
+mainevt:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mainevt_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mainevt_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+mainevt_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+maruchan:
+  use: default
+mausuke:
+  use: default
+maxrpm:
+  use: default
+medlanes:
+  use: default
+megazone:
+  use: default
+mfjump:
+  use: default
+mgcldtex:
+  use: default
+micrombc:
+  use: default
+mk:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: 11
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+mk_modern8:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 12
+  btn_x: 1
+  btn_y: -1
+  btn_l: 9
+  btn_r: 10
+  btn_r2: 11
+  btn_l2: 8
+mk_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: -1
+  btn_r: 9
+  btn_l2: -1
+  btn_r2: 8
+mk_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 9
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+mk2:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: 11
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+mk2_modern8:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 12
+  btn_x: 1
+  btn_y: -1
+  btn_l: 9
+  btn_r: 10
+  btn_r2: 11
+  btn_l2: 8
+mk2_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: -1
+  btn_r: 9
+  btn_l2: -1
+  btn_r2: 8
+mk2_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 9
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+mk3:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 9
+  btn_y: 1
+  btn_l: 10
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+mk3_modern8:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 11
+  btn_x: 1
+  btn_y: 11
+  btn_l: 9
+  btn_r: 10
+  btn_r2: 10
+  btn_l2: 8
+mk3_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 11
+  btn_r: 9
+  btn_l2: 11
+  btn_r2: 8
+mk3_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 9
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+motofren:
+  use: default
+myfairld:
+  use: default
+nbajamex:
+  use: default
+nemesis:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+nemesis_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+nemesis_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+nemesis_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+ninjaw:
+  use: default
+nspirit:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: 9
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+nspirit_modern8:
+  analog_dpad_mode: 0
+  btn_a: 11
+  btn_b: 10
+  btn_x: 0
+  btn_y: 1
+  btn_l: 9
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+nspirit_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: 9
+nspirit_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 1
+  btn_x: 8
+  btn_y: 0
+  btn_l: 9
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+nss_actr:
+  use: default
+nss_adam:
+  use: default
+nss_aten:
+  use: default
+nss_fzer:
+  use: default
+nss_skin:
+  use: default
+offroad:
+  use: default
+offroadc:
+  use: default
+offroadt:
+  use: default
+opengolf:
+  use: default
+orunners:
+  use: default
+outrun:
+  use: default
+pacapp:
+  use: default
+pacapp2:
+  use: default
+pacappsp:
+  use: default
+pang3:
+  use: default
+panicstr:
+  use: default
+parodius:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+parodius_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+parodius_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+parodius_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+passht4b:
+  use: default
+passshtjd:
+  use: default
+patocar:
+  use: default
+pbillian:
+  use: default
+pblbeach:
+  use: default
+penbros:
+  use: default
+piratpet:
+  use: default
+pitnrun:
+  use: default
+pleiads:
+  use: default
+plsmaswd:
+  use: default
+plumppop:
+  use: default
+plygonet:
+  use: default
+pocketrc:
+  use: default
+polepos:
+  use: default
+polepos2:
+  use: default
+pollux:
+  use: default
+portrait:
+  use: default
+prikura:
+  use: default
+propcycl:
+  use: default
+psyforce:
+  use: default
+psyvaria:
+  use: default
+psyvarrv:
+  use: default
+puyosun:
+  use: default
+puzzloop:
+  use: default
+pzloop2:
+  use: default
+quartet:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quartet_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quartet_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quartet_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quartet2:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+quartet2_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+quartet2_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+quartet2_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+racedriv:
+  use: default
+rachero:
+  use: default
+racinfrc:
+  use: default
+racingb:
+  use: default
+radarzon:
+  use: default
+radm:
+  use: default
+radr:
+  use: default
+raverace:
+  use: default
+raycris:
+  use: default
+raystorm:
+  use: default
+recordbr:
+  use: default
+redlin2p:
+  use: default
+ridgera2:
+  use: default
+ridgerac:
+  use: default
+ringohja:
+  use: default
+roadblst:
+  use: default
+roadriot:
+  use: default
+roadrunn:
+  use: default
+robotbwl:
+  use: default
+roldfrog:
+  use: default
+rsgun:
+  use: default
+rvschool:
+  use: default
+ryouran:
+  use: default
+s1945ii:
+  use: default
+sandor:
+  use: default
+sasissu:
+  use: default
+sbishi:
+  use: default
+sbrkout:
+  use: default
+sci:
+  use: default
+scramblb:
+  use: default
+scross:
+  use: default
+scrossa:
+  use: default
+seabass:
+  use: default
+sengekis:
+  use: default
+senknow:
+  use: default
+sfchamp:
+  use: default
+sfrush:
+  use: default
+sfrushrk:
+  use: default
+sftm:
+  use: default
+sgladiat:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sgladiat_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sgladiat_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+sgladiat_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shadoww:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shadoww_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+shadoww_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 8
+  btn_l2: -1
+  btn_r2: -1
+shadoww_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 1
+  btn_l: 8
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shangkid:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shangkid_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shangkid_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shangkid_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+shangon:
+  use: default
+shangonle:
+  use: default
+shangtou:
+  use: default
+shanhigw:
+  use: default
+sharrier:
+  use: default
+shienryu:
+  use: default
+shikigam:
+  use: default
+shngmtkb:
+  use: default
+skychal:
+  use: default
+skydiver:
+  use: default
+skyraid:
+  use: default
+slipstrm:
+  use: default
+smgp:
+  use: default
+smleague:
+  use: default
+sncwgltd:
+  use: default
+soccer:
+  use: default
+sokyugrt:
+  use: default
+sonicpop:
+  use: default
+sonicwi2:
+  use: default
+sonicwi3:
+  use: default
+spacfury:
+  use: default
+spcinvdj:
+  use: default
+spclords:
+  use: default
+sprint2a:
+  use: default
+spuzbobl:
+  use: default
+spyhunt:
+  use: default
+spyhunt2:
+  use: default
+sspeedr:
+  use: default
+ssprint:
+  use: default
+ssrj:
+  use: default
+sss:
+  use: default
+starglad:
+  use: default
+strider2:
+  use: default
+strtheat:
+  use: default
+superbon:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+superbon_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+superbon_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+superbon_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+superbug:
+  use: default
+superchs:
+  use: default
+supgoal:
+  use: default
+suzuk8h2:
+  use: default
+suzuka8h:
+  use: default
+swa:
+  use: default
+tail2nos:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: 8
+  btn_r2: 0
+tail2nos_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tail2nos_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tail2nos_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+tblkkuzu:
+  use: default
+tceptor:
+  use: default
+tceptor2:
+  use: default
+techbowl:
+  use: default
+techromn:
+  use: default
+teljan:
+  use: default
+tgmj:
+  use: default
+thndrbld:
+  use: default
+tokyowar:
+  use: default
+tondemo:
+  use: default
+topland:
+  use: default
+topspeed:
+  use: default
+toutrun:
+  use: default
+tp2m32:
+  use: default
+trackfld:
+  use: default
+truxton2:
+  use: default
+turbo:
+  use: default
+tutankhm:
+  use: default
+twcup98:
+  use: default
+twcupmil:
+  use: default
+twinhawk:
+  use: default
+twotiger:
+  use: default
+tx1:
+  use: default
+umk3:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 8
+  btn_x: 1
+  btn_y: 0
+  btn_l: 11
+  btn_r: 10
+  btn_l2: -1
+  btn_r2: -1
+umk3_modern8:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: -1
+  btn_r: 9
+  btn_l2: -1
+  btn_r2: 11
+umk3_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 9
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+umk3_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 8
+  btn_b: 0
+  btn_x: 10
+  btn_y: 1
+  btn_l: 9
+  btn_r: 11
+  btn_l2: -1
+  btn_r2: -1
+vblokbrk:
+  use: default
+vfkids:
+  use: default
+vformula:
+  use: default
+vfremix:
+  use: default
+victlap:
+  use: default
+vigilant:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 0
+  btn_x: -1
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vigilant_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vigilant_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vigilant_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+vimana:
+  use: default
+vr:
+  use: default
+wallst:
+  use: default
+wardner:
+  use: default
+warriorb:
+  use: default
+wcvol95:
+  use: default
+wecleman:
+  use: default
+wildfang:
+  analog_dpad_mode: 0
+  btn_a: 1
+  btn_b: 8
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wildfang_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+wildfang_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: 1
+  btn_l2: -1
+  btn_r2: -1
+wildfang_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: 1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wingwar:
+  use: default
+winrun91:
+  use: default
+winterht:
+  use: default
+wndrplnt:
+  use: default
+wpksocv2:
+  use: default
+wrally:
+  analog_dpad_mode: 0
+  btn_a: 9
+  btn_b: 1
+  btn_x: -1
+  btn_y: 0
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: 8
+wrally_modern8:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wrally_8alternative:
+  analog_dpad_mode: 0
+  btn_a: 0
+  btn_b: 8
+  btn_x: -1
+  btn_y: -1
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+wrally_6alternative:
+  analog_dpad_mode: 0
+  btn_a: 10
+  btn_b: 9
+  btn_x: 0
+  btn_y: 8
+  btn_l: -1
+  btn_r: -1
+  btn_l2: -1
+  btn_r2: -1
+xiistag:
+  use: default
+zerozone:
+  use: default
+znpwfv:
+  use: default

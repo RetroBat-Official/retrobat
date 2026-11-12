@@ -1,2 +1,2 @@
 \zesarux\zesarux.exe
---configfile ".zesaruxrc"
+--configfile ".zesaruxrc" --stats-disable-check-updates
