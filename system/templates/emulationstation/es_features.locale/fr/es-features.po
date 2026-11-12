@@ -4138,10 +4138,6 @@ msgid "CD ADD-ON"
 msgstr "PÉRIPHÉRIQUE CD"
 
 msgctxt "game_options"
-msgid "Specifies wich add-on to use for audio CD playback with patched MD games."
-msgstr "Définir le type de périphérique à utiliser pour la lecture CD des jeux patchés."
-
-msgctxt "game_options"
 msgid "Mega CD"
 msgstr "Mega CD"
 
@@ -4338,10 +4334,6 @@ msgid "Define model type and region."
 msgstr "Definir le modèle et la région de la machine émulée."
 
 msgctxt "game_options"
-msgid "Define model, default to Spectrum 6128+ for GX4000."
-msgstr "Definir le modèle de la machine émulée (par défaut Spectrum 6128+ pour le GX4000)."
-
-msgctxt "game_options"
 msgid "Type of BBC micro to emulate, default to MODEL B."
 msgstr "Modèle de BBC micro à émuler, par défaut MODEL B."
 
@@ -4368,6 +4360,10 @@ msgstr "Définir le joystick à émuler (incompatible avec le modèle BBC MASTER
 msgctxt "game_options"
 msgid "LIGHTGUN MODE"
 msgstr "MODE PISTOLET"
+
+msgctxt "game_options"
+msgid "WEST PHASER"
+msgstr "WEST PHASER"
 
 msgctxt "game_options"
 msgid "4-WAYS JOYSTICK MODE"
@@ -5599,7 +5595,7 @@ msgstr "Permet de gérer plusieurs souris indépendantes."
 
 msgctxt "game_options"
 msgid "DO NOT MAP LEFT STICK"
-msgstr "DÉSACTIVER LE STICK DROIT"
+msgstr "NE PAS MAPPER LE STICK GAUCHE"
 
 msgctxt "game_options"
 msgid "MOUSE DEVICE"
@@ -5658,8 +5654,8 @@ msgid "Define the connected device that emulates a Dial device."
 msgstr "Définir le périphérique permettant d'émuler le 'Dial device'."
 
 msgctxt "game_options"
-msgid "Turn this off to map only the D-PAD for directions."
-msgstr "Activer uniquement le D-PAD pour les directions."
+msgid "Turn this on to map only the D-PAD for directions."
+msgstr "Activer pour n'utiliser que le D-PAD pour les directions."
 
 msgctxt "game_options"
 msgid "Define the mapping of the D-PAD."
@@ -10891,10 +10887,6 @@ msgid "FORCE TRUE COLOR"
 msgstr "FORCER LES COULEURS 24 BITS"
 
 msgctxt "game_options"
-msgid "FACE BUTTONS LAYOUT"
-msgstr "DISPOSITION DES BOUTONS DE FAÇADE"
-
-msgctxt "game_options"
 msgid "BOOT DISC GAMES TO WII MENU"
 msgstr "DÉMARRER LES DISQUES SUR LE MENU WII"
 
@@ -10921,14 +10913,6 @@ msgstr "BLUETOOTH PASSTHROUGH"
 msgctxt "game_options"
 msgid "ALTERNATE GAMECUBE PORTS"
 msgstr "PORTS GAMECUBE ALTERNATIFS"
-
-msgctxt "game_options"
-msgid "F-ZERO DISABLE MOTOR SETUP (rev d)"
-msgstr "F-ZERO DÉSACTIVER L'INIT. DU MOTEUR (rev d)"
-
-msgctxt "game_options"
-msgid "F-ZERO DISABLE MOTOR SETUP (rev e)"
-msgstr "F-ZERO DÉSACTIVER L'INIT. DU MOTEUR (rev e)"
 
 msgctxt "game_options"
 msgid "F-ZERO MONSTER RIDE DISABLE MOTOR SETUP"
@@ -10967,44 +10951,12 @@ msgid "MKGP-2 LOOP FIX"
 msgstr "MKGP-2 CORRECTION DE LA BOUCLE"
 
 msgctxt "game_options"
-msgid "MKGP-2 LOOP FIX (JAP)"
-msgstr "MKGP-2 CORRECTION DE LA BOUCLE (JAP)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SLOWDOWN FIX (US)"
-msgstr "MKGP-2 CORRECTION DES RALENTISSEMENTS (US)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SLOWDOWN FIX (JAP)"
-msgstr "MKGP-2 CORRECTION DES RALENTISSEMENTS (JAP)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SKIP LINK CHECK (US)"
-msgstr "MKGP-2 IGNORER LA VÉRIF. DE LIAISON (US)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SKIP LINK CHECK (JAP)"
-msgstr "MKGP-2 IGNORER LA VÉRIF. DE LIAISON (JAP)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SKIP BOOT CHECKS (US)"
-msgstr "MKGP-2 IGNORER LES VÉRIF. AU DÉMARRAGE (US)"
-
-msgctxt "game_options"
-msgid "MKGP-2 SKIP BOOT CHECKS (JAP)"
-msgstr "MKGP-2 IGNORER LES VÉRIF. AU DÉMARRAGE (JAP)"
-
-msgctxt "game_options"
 msgid "VS4 BYPASS BOOT"
 msgstr "VS4 IGNORER LE DÉMARRAGE"
 
 msgctxt "game_options"
 msgid "VS4 2006 BYPASS BOOT"
 msgstr "VS4 2006 IGNORER LE DÉMARRAGE"
-
-msgctxt "game_options"
-msgid "VS4 2006 BYPASS BOOT (JAP)"
-msgstr "VS4 2006 IGNORER LE DÉMARRAGE (JAP)"
 
 msgctxt "game_options"
 msgid "KEMPSTON"
@@ -16840,10 +16792,6 @@ msgid "INVERT MOUSE"
 msgstr "INVERSER LA SOURIS"
 
 msgctxt "game_options"
-msgid "EMULATED MODEL"
-msgstr "MODÈLE ÉMULÉ"
-
-msgctxt "game_options"
 msgid "USE MY OWN"
 msgstr "UTILISER LE MIEN"
 
@@ -18522,10 +18470,6 @@ msgstr "Mémoire Zorro III. Utile pour les configurations Workbench et quelques 
 msgctxt "game_options"
 msgid "CD32 configuration. Needs both the CD32 Kickstart and its extended ROM in the bios folder."
 msgstr "Configuration CD32. Nécessite le Kickstart CD32 et sa ROM étendue dans le dossier bios."
-
-msgctxt "game_options"
-msgid "CDTV configuration. Needs the KS 1.3 Kickstart and the CDTV extended ROM in the bios folder."
-msgstr "Configuration CDTV. Nécessite le Kickstart KS 1.3 et la ROM étendue CDTV dans le dossier bios."
 
 msgctxt "game_options"
 msgid "Enter touch profile to load."
@@ -20398,6 +20342,10 @@ msgstr "VRAIE WIIMOTE"
 msgctxt "game_options"
 msgid "GAMECUBE CONTROLLER"
 msgstr "MANETTE GAMECUBE"
+
+msgctxt "game_options"
+msgid "Use real GameCube controllers through a GameCube adapter. Only with real Wiimotes."
+msgstr "Utilise de vraies manettes GameCube branchées sur un adaptateur. Seulement avec de vraies Wiimotes."
 
 msgctxt "game_options"
 msgid "RIGHT STICK (ABSOLUTE)"
@@ -28463,3 +28411,159 @@ msgstr "A600 (v3.1, 2M Chip)"
 msgctxt "game_options"
 msgid "A2000 (v1.3, 0.5M Chip + 0.5M Slow)"
 msgstr "A2000 (v1.3, 0.5M Chip + 0.5M Lent)"
+
+msgctxt "game_options"
+msgid "CHASE CAMERA STABILIZER"
+msgstr "STABILISATEUR DE CAMÉRA DE POURSUITE"
+
+msgctxt "game_options"
+msgid "Damps the camera swing when steering with a gamepad. Strong by default."
+msgstr "Atténue le balancement de la caméra quand on tourne avec une manette. Fort par défaut."
+
+msgctxt "game_options"
+msgid "STEERING SENSITIVITY"
+msgstr "SENSIBILITÉ DE LA DIRECTION"
+
+msgctxt "game_options"
+msgid "Gamepad steering travel in driving games. 66% by default, no effect on a wheel."
+msgstr "Amplitude de la direction à la manette dans les jeux de course. 66% par défaut, sans effet sur un volant."
+
+msgctxt "game_options"
+msgid "Softens the gamepad steering in driving games. Strong by default, no effect on a wheel."
+msgstr "Adoucit la direction à la manette dans les jeux de course. Fort par défaut, sans effet sur un volant."
+
+msgctxt "game_options"
+msgid "PowerPC recompiler, on by default and much faster. Turn off for the interpreter."
+msgstr "Recompilateur PowerPC, activé par défaut et beaucoup plus rapide. Désactiver pour utiliser l'interpréteur."
+
+msgctxt "game_options"
+msgid "MUSIC VOLUME"
+msgstr "VOLUME DE LA MUSIQUE"
+
+msgctxt "game_options"
+msgid "Volume of the music board in the games that have one (Daytona USA, Sega Rally). 100% by default."
+msgstr "Volume de la carte musicale dans les jeux qui en ont une (Daytona USA, Sega Rally). 100% par défaut."
+
+msgctxt "game_options"
+msgid "Strength of the controller's rumble. 60% by default."
+msgstr "Puissance des vibrations de la manette. 60% par défaut."
+
+msgctxt "game_options"
+msgid "ENABLE GUN RECOIL"
+msgstr "ACTIVER LE RECUL DU PISTOLET"
+
+msgctxt "game_options"
+msgid "Fire the gun's recoil motor on each shot, for guns that have one. On by default."
+msgstr "Déclenche le moteur de recul du pistolet à chaque tir, pour les pistolets qui en ont un. Activé par défaut."
+
+msgctxt "game_options"
+msgid "RECOIL STRENGTH"
+msgstr "PUISSANCE DU RECUL"
+
+msgctxt "game_options"
+msgid "Strength of the gun's recoil motor. 60% by default."
+msgstr "Puissance du moteur de recul du pistolet. 60% par défaut."
+
+msgctxt "game_options"
+msgid "Gain on the drive board's forces. 30% by default, 200% doubles them."
+msgstr "Gain appliqué aux forces de la drive board. 30% par défaut, 200% les double."
+
+msgctxt "game_options"
+msgid "D-PAD MODE"
+msgstr "MODE DE LA CROIX DIRECTIONNELLE"
+
+msgctxt "game_options"
+msgid "Floating Point Unit, needed by some 3D games. On by default with the 68040 (built in), off with the 68030."
+msgstr "Coprocesseur mathématique (FPU), demandé par certains jeux 3D. Activé par défaut avec le 68040 (intégré), désactivé avec le 68030."
+
+msgctxt "game_options"
+msgid "Specifies which add-on to use for audio CD playback with patched MD games."
+msgstr "Indique quelle extension utiliser pour la lecture audio CD des jeux MD patchés."
+
+msgctxt "game_options"
+msgid "CLASSIC CONTROLLER"
+msgstr "MANETTE CLASSIQUE"
+
+msgctxt "game_options"
+msgid "Define model, default to CPC 6128+ for GX4000."
+msgstr "Définir le modèle de la machine émulée (par défaut CPC 6128+ pour la GX4000)."
+
+msgctxt "game_options"
+msgid "CUSTOM"
+msgstr "PERSONNALISÉ"
+
+msgctxt "game_options"
+msgid "F-ZERO AX SKIP MOTOR SETUP"
+msgstr "F-ZERO AX IGNORER L'INIT. DU MOTEUR"
+
+msgctxt "game_options"
+msgid "Skip the long steering motor initialization at boot. Select the revision of your game."
+msgstr "Ignore la longue initialisation du moteur du volant au démarrage. Sélectionnez la révision de votre jeu."
+
+msgctxt "game_options"
+msgid "REV. D"
+msgstr "RÉV. D"
+
+msgctxt "game_options"
+msgid "REV. E"
+msgstr "RÉV. E"
+
+msgctxt "game_options"
+msgid "Skip the steering motor initialization at boot."
+msgstr "Ignore l'initialisation du moteur du volant au démarrage."
+
+msgctxt "game_options"
+msgid "Required to boot the game without a Cycraft motion cabinet."
+msgstr "Nécessaire pour démarrer le jeu sans borne à mouvement Cycraft."
+
+msgctxt "game_options"
+msgid "Fix slowdowns with this emulator."
+msgstr "Corrige les ralentissements avec cet émulateur."
+
+msgctxt "game_options"
+msgid "Fix the game getting stuck in a loop at boot."
+msgstr "Corrige le blocage du jeu dans une boucle au démarrage."
+
+msgctxt "game_options"
+msgid "Skip the 60 seconds wait for other cabinets at boot. Disable it for multi-cabinet play."
+msgstr "Ignore l'attente de 60 secondes des autres bornes au démarrage. À désactiver pour jouer à plusieurs bornes."
+
+msgctxt "game_options"
+msgid "Skip the hardware checks at boot (camera, steering wheel, card reader)."
+msgstr "Ignore les vérifications matérielles au démarrage (caméra, volant, lecteur de cartes)."
+
+msgctxt "game_options"
+msgid "Disable the cabinet camera check."
+msgstr "Désactive la vérification de la caméra de la borne."
+
+msgctxt "game_options"
+msgid "MKGP-2 SLOWDOWN FIX"
+msgstr "MKGP-2 CORRECTION DES RALENTISSEMENTS"
+
+msgctxt "game_options"
+msgid "MKGP-2 SKIP LINK CHECK"
+msgstr "MKGP-2 IGNORER LA VÉRIF. DE LIAISON"
+
+msgctxt "game_options"
+msgid "MKGP-2 SKIP BOOT CHECKS"
+msgstr "MKGP-2 IGNORER LES VÉRIF. AU DÉMARRAGE"
+
+msgctxt "game_options"
+msgid "MKGP-2 WIDESCREEN"
+msgstr "MKGP-2 ÉCRAN LARGE"
+
+msgctxt "game_options"
+msgid "Display the game in 16:9. Best with GAME ASPECT RATIO set to 16/9."
+msgstr "Affiche le jeu en 16:9. Idéalement avec RAPPORT D'ASPECT réglé sur 16/9."
+
+msgctxt "game_options"
+msgid "Skip the boot check that prevents the game from starting."
+msgstr "Ignore la vérification de démarrage qui empêche le jeu de se lancer."
+
+msgctxt "game_options"
+msgid "Load mods (.dusk files) from a folder named like the game, next to it, or from dusklight\data\mods when there is none."
+msgstr "Charger les mods (fichiers .dusk) depuis un dossier portant le nom du jeu, placé à côté de lui, ou depuis dusklight\data\mods s'il n'existe pas."
+
+msgctxt "game_options"
+msgid "Button layout of the core, the same for all games. Leave on AUTO to use RetroBat per-game mapping and CONTROLLER LAYOUT."
+msgstr "Disposition des boutons du core, identique pour tous les jeux. Laisser sur AUTO pour utiliser le mapping par jeu de RetroBat et DISPOSITION DES BOUTONS."

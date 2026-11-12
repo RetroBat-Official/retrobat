@@ -5,18 +5,22 @@
     "GameIdCrediar": "SBGG",
     "Patches": [
       {
-        "PatchFeature": "fzeroax_motor_revd",
+        "PatchFeature": "fzeroax_motor",
+        "FeatureValue": "revd",
         "PatchName": "$Disable Motor Setup (Rev. D)",
         "isGecko": false,
+        "CrediarOnly": true,
         "Lines": [
           "0x8024E034:dword:0x80180D5C",
           "0x8024E038:dword:0x80180BC0"
         ]
       },
       {
-        "PatchFeature": "fzeroax_motor_reve",
+        "PatchFeature": "fzeroax_motor",
+        "FeatureValue": "reve",
         "PatchName": "$Disable Motor Setup (Rev. E)",
         "isGecko": false,
+        "CrediarOnly": true,
         "Lines": [
           "0x8024E4B4:dword:0x801812E8",
           "0x8024E4B8:dword:0x8018114C"
@@ -33,6 +37,8 @@
         "PatchFeature": "fzeroaxmr_motor",
         "PatchName": "$Disable Motor Setup",
         "isGecko": false,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0x8023A0F4:dword:0x8016B4EC",
           "0x8023A0F8:dword:0x8016B350"
@@ -42,6 +48,7 @@
         "PatchFeature": "fzeroaxmr_cycraft",
         "PatchName": "$Bypass cycraft",
         "isGecko": true,
+        "Default": "all",
         "Lines": [
           "0043137B 00000086"
         ]
@@ -50,6 +57,8 @@
         "PatchFeature": "fzeroaxmr_slowdown",
         "PatchName": "$Slowdown fix",
         "isGecko": true,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0043137E 00000000"
         ]
@@ -65,6 +74,7 @@
         "PatchFeature": "mkgp_loopfix",
         "PatchName": "$Loop Fix",
         "isGecko": false,
+        "CrediarOnly": true,
         "Lines": [
           "0x800790A0:dword:0x98650025",
           "0x8024F95C:dword:0x60000000",
@@ -79,14 +89,17 @@
         "PatchFeature": "mkgp_linkcheck",
         "PatchName": "$Link Check Skip (Optional)",
         "isGecko": true,
+        "Default": "all",
         "Lines": [
           "04032410 60000000"
         ]
       },
       {
         "PatchFeature": "mkgp_bootcheck",
-        "PatchName": "$Boot Check Skip (Optional)",
+        "PatchName": "$Skip Boot Checks",
+        "Aliases": ["$Boot Check Skip (Optional)"],
         "isGecko": true,
+        "Default": "all",
         "Lines": [
           "040320fc 60000000"
         ]
@@ -95,6 +108,8 @@
         "PatchFeature": "mkgp_slowfix",
         "PatchName": "$Slowdowns Fix (Required)",
         "isGecko": true,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "041b2238 60000000"
         ]
@@ -110,7 +125,11 @@
         "PatchFeature": "mkgp2_namcam",
         "PatchName": "$Disable NAMCAM",
         "isGecko": false,
+        "Region": "E",
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
+          "0x805986E5:byte:0x00000000",
           "0x80073BD8:dword:0x98650025"
         ]
       },
@@ -118,66 +137,124 @@
         "PatchFeature": "mkgp2_loopfix",
         "PatchName": "$Loop Fix",
         "isGecko": false,
+        "Region": "E",
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0x8002E9C8:dword:0x60000000",
           "0x8002E9D4:dword:0x41820158"
         ]
       },
       {
-        "PatchFeature": "mkgp2_loopfix_jpn",
+        "PatchFeature": "mkgp2_loopfix",
         "PatchName": "$Loop Fix (JPN)",
         "isGecko": false,
+        "Region": "J",
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0x8002EA28:dword:0x60000000",
           "0x8002EA34:dword:0x41820158"
         ]
       },
       {
-        "PatchFeature": "mkgp2_slowdownfix_us",
+        "PatchFeature": "mkgp2_slowdownfix",
         "PatchName": "$Slowdowns Fix (US - Required)",
         "isGecko": true,
+        "Region": "E",
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "04086150 60000000"
         ]
       },
       {
-        "PatchFeature": "mkgp2_slowdownfix_jp",
+        "PatchFeature": "mkgp2_slowdownfix",
         "PatchName": "$Slowdowns Fix (JPN - Required)",
         "isGecko": true,
+        "Region": "J",
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "04086768 60000000"
         ]
       },
       {
-        "PatchFeature": "mkgp2_linkcheck_us",
+        "PatchFeature": "mkgp2_linkcheck",
         "PatchName": "$Link Check Skip (US - Optional)",
         "isGecko": true,
+        "Region": "E",
+        "Default": "all",
         "Lines": [
           "0402eb6c 60000000"
         ]
       },
       {
-        "PatchFeature": "mkgp2_linkcheck_jp",
+        "PatchFeature": "mkgp2_linkcheck",
         "PatchName": "$Link Check Skip (JPN - Optional)",
         "isGecko": true,
+        "Region": "J",
+        "Default": "all",
         "Lines": [
           "0402ebcc 60000000"
         ]
       },
       {
-        "PatchFeature": "mkgp2_bootcheck_us",
+        "PatchFeature": "mkgp2_bootcheck",
         "PatchName": "$Skip boot checks (US - Optional)",
         "isGecko": true,
+        "Region": "E",
+        "Default": "all",
         "Lines": [
           "0402e858 60000000"
         ]
       },
       {
-        "PatchFeature": "mkgp2_bootcheck_jp",
+        "PatchFeature": "mkgp2_bootcheck",
         "PatchName": "$Skip boot checks (JPN - Optional)",
         "isGecko": true,
+        "Region": "J",
+        "Default": "all",
         "Lines": [
           "0402e8b8 60000000"
+        ]
+      },
+      {
+        "PatchFeature": "mkgp2_widescreen",
+        "PatchName": "$WIDESCREEN",
+        "isGecko": true,
+        "Region": "E",
+        "Default": "crediar",
+        "Lines": [
+          "C22C80D4 00000009",
+          "C03F0034 9421FFE0",
+          "93C10004 93E10008",
+          "DBE1000C 7FC802A6",
+          "48000009 3FAAAAAB",
+          "7FE802A6 C3FF0000",
+          "EC3F0072 7FC803A6",
+          "83C10004 83E10008",
+          "CBE1000C 38210020",
+          "60000000 00000000"
+        ]
+      },
+      {
+        "PatchFeature": "mkgp2_widescreen",
+        "PatchName": "$WIDESCREEN (JPN)",
+        "isGecko": true,
+        "Region": "J",
+        "Default": "crediar",
+        "Lines": [
+          "C22C86EC 00000009",
+          "C03F0034 9421FFE0",
+          "93C10004 93E10008",
+          "DBE1000C 7FC802A6",
+          "48000009 3FAAAAAB",
+          "7FE802A6 C3FF0000",
+          "EC3F0072 7FC803A6",
+          "83C10004 83E10008",
+          "CBE1000C 38210020",
+          "60000000 00000000"
         ]
       }
     ]
@@ -191,6 +268,8 @@
         "PatchFeature": "vs4_bypass_code",
         "PatchName": "$bypass code",
         "isGecko": true,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0405214c 60000000"
         ]
@@ -203,9 +282,11 @@
     "GameIdCrediar": "SBLK",
     "Patches": [
       {
-        "PatchFeature": "vs42006jap_bypass_boot",
+        "PatchFeature": "vs42006_bypass_code",
         "PatchName": "$Bypass boot",
         "isGecko": true,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "040568D8 60000000"
         ]
@@ -221,6 +302,8 @@
         "PatchFeature": "vs42006_bypass_code",
         "PatchName": "$bypass code",
         "isGecko": false,
+        "CrediarOnly": true,
+        "Default": "crediar",
         "Lines": [
           "0x80414CE8:byte:0x00000005"
         ]
