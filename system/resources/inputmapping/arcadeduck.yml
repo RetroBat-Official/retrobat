@@ -130,6 +130,20 @@ tekken:
   north: Button2
   south: Button3
   east: Button4
+
+# Tekken 3 / Tekken Tag Tournament (System 12) : same 2 x 2 panel, kicks on Button4 / Button5, Tag on Button3
+tekken3:
+  west: Button1
+  north: Button2
+  south: Button4
+  east: Button5
+tektagt:
+  west: Button1
+  north: Button2
+  south: Button4
+  east: Button5
+  r1: Button3
+
 souledge:
   west: Button1
   north: Button2

@@ -28563,3 +28563,51 @@ msgstr "COULEUR DU VISEUR J1"
 msgctxt "game_options"
 msgid "P2 CROSSHAIR COLOR"
 msgstr "COULEUR DU VISEUR J2"
+
+msgctxt "game_options"
+msgid "Run at maximum speed while a disk or a tape is loading, when no sound is played. TRUE DRIVE EMULATION is required for disks."
+msgstr "Fait tourner l'émulation à vitesse maximale pendant le chargement d'une disquette ou d'une cassette, quand aucun son n'est joué. ÉMULATION FIDÈLE DU LECTEUR est nécessaire pour les disquettes."
+
+msgctxt "game_options"
+msgid "AUTOMATIC selects the expansion from the program size. Can be forced with file name tags such as (8k) or [16k]."
+msgstr "AUTOMATIQUE choisit l'extension d'après la taille du programme. Peut être forcée par une indication dans le nom du fichier, par exemple (8k) ou [16k]."
+
+msgctxt "game_options"
+msgid "C64 MODE"
+msgstr "MODE C64"
+
+msgctxt "game_options"
+msgid "Start directly in Commodore 64 mode."
+msgstr "Démarre directement en mode Commodore 64."
+
+msgctxt "game_options"
+msgid "VIDEO OUTPUT"
+msgstr "SORTIE VIDÉO"
+
+msgctxt "game_options"
+msgid "Display used at startup. Can be switched in game with the F7 key (40/80 DISPLAY)."
+msgstr "Affichage utilisé au démarrage. Se change en jeu avec la touche F7 (40/80 DISPLAY)."
+
+msgctxt "game_options"
+msgid "VIC-II (40 COLUMNS)"
+msgstr "VIC-II (40 COLONNES)"
+
+msgctxt "game_options"
+msgid "VDC (80 COLUMNS)"
+msgstr "VDC (80 COLONNES)"
+
+msgctxt "game_options"
+msgid "CONTROLLER MAPPING"
+msgstr "CONFIGURATION DES TOUCHES"
+
+msgctxt "game_options"
+msgid "GAME OPTIONS"
+msgstr "OPTIONS DU JEU"
+
+msgctxt "game_options"
+msgid "NETPLAY"
+msgstr "JEU EN RÉSEAU"
+
+msgctxt "game_options"
+msgid "SCREENS"
+msgstr "ÉCRANS"
