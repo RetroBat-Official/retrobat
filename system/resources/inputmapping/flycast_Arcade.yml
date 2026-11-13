@@ -437,21 +437,21 @@ doa2_modern8:
   down: btn_dpad1_down
   left: btn_dpad1_left
   right: btn_dpad1_right
-doa2_8variation:
+doa2_8alternative:
   leftanalogleft: btn_dpad1_left
   leftanalogright: btn_dpad1_right
   leftanalogup: btn_dpad1_up
   leftanalogdown: btn_dpad1_down
-  r1: btn_c
-  west: btn_a
-  north: btn_b
+  north: btn_c
+  south: btn_a
+  west: btn_b
   select: btn_d
   start: btn_start
   up: btn_dpad1_up
   down: btn_dpad1_down
   left: btn_dpad1_left
   right: btn_dpad1_right
-doa2_6variation:
+doa2_6alternative:
   leftanalogleft: btn_dpad1_left
   leftanalogright: btn_dpad1_right
   leftanalogup: btn_dpad1_up

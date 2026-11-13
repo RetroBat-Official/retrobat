@@ -1,6 +1,6 @@
 # This file is provided with RetroBat
 # It can be used to overwrite keyboard hotkeys for emulators allowing hotkeys:
-# Arcadeduck, Ares, BigPEmu, Bizhawk, DesMume, Dolphin, Duckstation, FBNeo, Flycast, JGenesis, Mednafen, MelonDS, Mesen, PCSX2, PPSSPP, Project64, Raine, Snes9x and RetroArch
+# Arcadeduck, Ares, Azahar, BigPEmu, Bizhawk, DesMume, Dolphin, Duckstation, FBNeo, Flycast, JGenesis, Mednafen, MelonDS, Mesen, PCSX2, PPSSPP, Project64, Raine, Snes9x and RetroArch
 # 
 # Each container must be named by the core name to perform the overwrite only for specified core(s).
 # If no core container exists, the "default" container will be used.

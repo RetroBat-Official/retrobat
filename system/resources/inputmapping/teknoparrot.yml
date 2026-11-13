@@ -15048,12 +15048,12 @@ centipede_gun:
   P1Button3: kb_left  # P1 Left
   P1Button4: kb_right  # P1 Right
   Coin2: select  # Coin2
-  mouseleft_1: P2ButtonStart  # Start/Shoot P2
+  mouseleft_2: P2ButtonStart  # Start/Shoot P2
   P2Button1: kb_up  # P2 Up
   P2Button2: kb_down  # P2 Down
   P2Button3: kb_left  # P2 Left
   P2Button4: kb_right  # P2 Right
-  mouseleft_1: JvsTwoP1ButtonStart  # Start/Shoot P3
+  mouseleft_3: JvsTwoP1ButtonStart  # Start/Shoot P3
   JvsTwoP1Button1: kb_up  # P3 Up
   JvsTwoP1Button2: kb_down  # P3 Down
   JvsTwoP1Button3: kb_left  # P3 Left

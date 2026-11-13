@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<game name="	San Francisco Rush 2049" rom="sf2049">
+<game name="sf2049" rom="sf2049">
   <layouts>
     <layout type="default" joystickcolor="Black">
       <button type="P1_PEDAL" tag=":AN.2" mask="255" defvalue="0" x="30" y="60" color="Blue" function="Accelerate">
@@ -49,4 +49,4 @@
       </button>
     </layout>
   </layouts>
-</game>
+</game>

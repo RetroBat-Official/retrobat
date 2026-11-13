@@ -77,10 +77,10 @@ sfex_modern8:
 sfex_8alternative:
   west: Button1
   north: Button2
-  r1: Button3
+  l1: Button3
   south: Button4
   east: Button5
-  r2: Button6
+  r1: Button6
 ts2:
   west: Button1
   north: Button2

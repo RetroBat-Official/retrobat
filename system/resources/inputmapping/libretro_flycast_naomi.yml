@@ -321,14 +321,13 @@ doa2_modern8:
   btn_b: 0
   btn_x: 1
   btn_y: 8
-doa2_8variation:
+doa2_8alternative:
   analog_dpad_mode: 3
-  btn_a: -1
-  btn_b: -1
-  btn_x: 8
-  btn_y: 0
-  btn_r: 1
-doa2_6variation:
+  btn_a: 1
+  btn_b: 0
+  btn_x: 1
+  btn_y: 8
+doa2_6alternative:
   analog_dpad_mode: 3
   btn_a: 1
   btn_b: 0
