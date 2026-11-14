@@ -21,6 +21,7 @@
 - Bump pdark to build from 13/08/2026
 - Bump Raze to 1.11.0
 - Bump scummvm to 2026.4.1 (libretro also)
+- Bump shadPS4 to 0.21 and last version of launcher
 - Bump supermodel to v0.4-20261108
 - Bump vita3k to release from november 6th
 - Bump vkquake to 1.37.0
