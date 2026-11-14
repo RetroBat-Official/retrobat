@@ -25808,10 +25808,6 @@ msgid "USE SGB2"
 msgstr "UTILISER LE SGB2"
 
 msgctxt "game_options"
-msgid "USE SUPERSCOPE"
-msgstr "UTILISER LE SUPER SCOPE"
-
-msgctxt "game_options"
 msgid "MACHINE"
 msgstr "MACHINE"
 
@@ -28619,3 +28615,15 @@ msgstr "Désactive les réglages par jeu de Xenia Edge pour appliquer les régla
 msgctxt "game_options"
 msgid "Force Rawinput, there should be no need to force this to ON."
 msgstr "Forcer le pilote raw input, il n'y a pas de raison d'activer cette option."
+
+msgctxt "game_options"
+msgid "Port of the Zapper. Port 2 by default."
+msgstr "Port du Zapper. Port 2 par défaut."
+
+msgctxt "game_options"
+msgid "Port of the Light Phaser. Port 1 by default."
+msgstr "Port du Light Phaser. Port 1 par défaut."
+
+msgctxt "game_options"
+msgid "Port of the Super Scope. Port 2 by default."
+msgstr "Port du Super Scope. Port 2 par défaut."
