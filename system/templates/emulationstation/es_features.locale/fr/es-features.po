@@ -8223,10 +8223,6 @@ msgid "Enables Direct3D Automipmap generation."
 msgstr "Activer le mipmapping Direct3D automatique."
 
 msgctxt "game_options"
-msgid "Enable R3 as Service button to enter settings."
-msgstr "Active l'accès au menu service avec le bouton R3."
-
-msgctxt "game_options"
 msgid "TYPE OF AUTOCONFIGURATION"
 msgstr "MÉTHODE DE CONFIGURATION DES CONTRÔLES"
 
@@ -9785,10 +9781,6 @@ msgstr "Forcer l'index du clavier si plusieurs claviers sont connectés."
 msgctxt "game_options"
 msgid "ENABLE RAWINPUT"
 msgstr "ACTIVER RAWINPUT"
-
-msgctxt "game_options"
-msgid "Force Rawinput, there should be ne need to force this to ON."
-msgstr "Forcer le pilote raw input, il n'y a pas de raison d'activer cette option."
 
 msgctxt "game_options"
 msgid "Enable crosshairs in shooting games, options (DS) are only compatible with DemulShooter."

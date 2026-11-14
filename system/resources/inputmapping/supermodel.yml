@@ -210,6 +210,24 @@ daytona2:
   InputVR4: JOY_dpright
   InputServiceA: JOY_leftstick,KEY_9
   InputTestA: JOY_rightstick,KEY_0
+dayto2pe:
+  InputStart1: JOY_start
+  InputCoin1: JOY_select
+  InputSteering: JOY_leftx
+  InputAccelerator: JOY_righttrigger
+  InputBrake: JOY_lefttrigger
+  InputGearShiftUp: JOY_rightshoulder
+  InputGearShiftDown: JOY_leftshoulder
+  InputGearShift1: JOY_north
+  InputGearShift2: JOY_south
+  InputGearShift3: JOY_west
+  InputGearShift4: JOY_east
+  InputVR1: JOY_dpup
+  InputVR2: JOY_dpdown
+  InputVR3: JOY_dpleft
+  InputVR4: JOY_dpright
+  InputServiceA: JOY_leftstick,KEY_9
+  InputTestA: JOY_rightstick,KEY_0
 scud:
   InputStart1: JOY_start
   InputCoin1: JOY_select
