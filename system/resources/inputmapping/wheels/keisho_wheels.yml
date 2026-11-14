@@ -1,17 +1,17 @@
 # This file is provided with RetroBat
-# Copy it to retrobat\user\inputmapping\sm2emu_wheels.yml to customize it (the user file has priority)
+# Copy it to retrobat\user\inputmapping\keisho_wheels.yml to customize it (the user file has priority)
 #
-# It maps the wheel buttons to the Model 2 cabinet controls in the sm2-emu standalone emulator (ENABLE WHEEL option).
+# It maps the wheel buttons to the Model 1, Model 2 and Model 3 cabinet controls in the Keisho standalone emulator (ENABLE WHEEL option).
 # Each container must be named with the wheel type internal to RetroBat (see our wiki for the list).
-# A wheel without container keeps the buttons set in the sm2-emu menu (Controls > Wheel).
+# A wheel without container keeps the buttons set in the Keisho menu (Controls > Wheel).
 #
-# The key represents the sm2-emu control : Start, Coin, Button1 to Button4, GearUp, GearDown, Test, Service, Menu, Gear1 to Gear4
+# The key represents the Keisho control : Start, Coin, Button1 to Button4, GearUp, GearDown, Test, Service, Menu, Gear1 to Gear4
 # The value represents the wheel button number (DirectInput order, first button = 0), -1 leaves the control unbound
 # Gear1 to Gear4 are the H shifter positions (not written with the DISABLE GEAR STICK option)
 # Button1 to Button4 are also the VR / view buttons of the driving cabinets (VR1 to VR4)
 #
-# Steering and pedals are always detected by sm2-emu (steering = first axis, pedals = axes resting at one end),
-# use the sm2-emu menu to calibrate them if needed.
+# Steering and pedals are always detected by Keisho (steering = first axis, pedals = axes resting at one end),
+# use the Keisho menu to calibrate them if needed.
 #
 LogitechG29:
   Start: 9

@@ -732,6 +732,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./keisho.menu</path>
+		<name>Keisho (SEGA MODEL 1, 2 AND 3)</name>
+		<desc>Run Keisho emulator (Sega Model 1, 2 and 3).</desc>
+		<image>./media/keisho-logo.png</image>
+		<marquee>./media/keisho-logo.png</marquee>
+		<rating>0</rating>
+		<developer>Dmanlfc</developer>
+		<publisher>Dmanlfc</publisher>
+		<genre>Emulator</genre>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./kronos.menu</path>
 		<name>Kronos (Saturn)</name>
 		<desc>Run Kronos (Saturn).</desc>
@@ -1346,23 +1363,6 @@
 		<developer>Logan McNaughton</developer>
 		<publisher />
 		<genre>Emulator</genre>
-		<playcount />
-		<lastplayed />
-		<gametime />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
-		<path>./sm2emu.menu</path>
-		<name>SM2-emu (SEGA MODEL 1 AND 2)</name>
-		<desc>Run sm2-emu emulator (Sega Model 1 and 2).</desc>
-		<image>./media/sm2emu-logo.png</image>
-		<marquee>./media/sm2emu-logo.png</marquee>
-		<rating>0</rating>
-		<developer>Dmanlfc</developer>
-		<publisher>Dmanlfc</publisher>
-		<genre>Emulator</genre>
-		<releasedate />
 		<playcount />
 		<lastplayed />
 		<gametime />

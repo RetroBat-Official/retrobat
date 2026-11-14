@@ -26561,8 +26561,8 @@ msgid "Off by default: the emulator runs at the arcade speed (57.5 Hz) by itself
 msgstr "Désactivée par défaut : l'émulateur tourne seul à la vitesse de la borne (57,5 Hz). À activer si l'image se déchire."
 
 msgctxt "game_options"
-msgid "Use this option if sm2-emu is not displayed on the correct monitor."
-msgstr "Utiliser cette option si sm2-emu ne s'affiche pas sur le bon écran."
+msgid "Use this option if Keisho is not displayed on the correct monitor."
+msgstr "Utiliser cette option si Keisho ne s'affiche pas sur le bon écran."
 
 msgctxt "game_options"
 msgid "TRANSLUCENCY"
@@ -26573,12 +26573,12 @@ msgid "BLENDED"
 msgstr "MÉLANGÉE"
 
 msgctxt "game_options"
-msgid "Blended draws the transparent polygons as a smooth blend instead of the arcade checkerboard. Vulkan and OpenGL renderers only."
-msgstr "Mélangée affiche les polygones transparents en fondu au lieu du damier de la borne. Rendus Vulkan et OpenGL uniquement."
+msgid "Blended draws the transparent polygons as a smooth blend instead of the arcade checkerboard. Model 1 and Model 2 only, Vulkan and OpenGL renderers."
+msgstr "Mélangée affiche les polygones transparents en fondu au lieu du damier de la borne. Model 1 et Model 2 uniquement, rendus Vulkan et OpenGL."
 
 msgctxt "game_options"
-msgid "Draw the scenery up to the end of the course in the games that support it (Daytona USA)."
-msgstr "Affiche le décor jusqu'au bout du circuit dans les jeux compatibles (Daytona USA)."
+msgid "Draw the scenery up to the end of the course in the games that support it (Daytona USA). Model 1 and Model 2 only."
+msgstr "Affiche le décor jusqu'au bout du circuit dans les jeux compatibles (Daytona USA). Model 1 et Model 2 uniquement."
 
 msgctxt "game_options"
 msgid "Arcade monitor look: scanlines, shadow mask and glow."
@@ -27653,8 +27653,8 @@ msgid "Default is ON, setting to OFF might fix compatibility for older GPU (Mode
 msgstr "Activé par défaut, le désactiver peut corriger la compatibilité avec les anciens GPU (Model 3 uniquement)."
 
 msgctxt "game_options"
-msgid "Black level of the Model 2 picture. 50% by default, matched to an arcade capture: lower is darker, higher is brighter."
-msgstr "Niveau du noir de l'image Model 2. 50 % par défaut, calé sur une capture de borne : plus bas est plus sombre, plus haut est plus clair."
+msgid "Black level of the picture. 50% by default, matched to an arcade capture: lower is darker, higher is brighter."
+msgstr "Niveau du noir de l'image. 50 % par défaut, calé sur une capture de borne : plus bas est plus sombre, plus haut est plus clair."
 
 msgctxt "game_options"
 msgid "Adapt the game view to widescreen screens."
@@ -28611,3 +28611,19 @@ msgstr "JEU EN RÉSEAU"
 msgctxt "game_options"
 msgid "SCREENS"
 msgstr "ÉCRANS"
+
+msgctxt "game_options"
+msgid "JIFFYDOS"
+msgstr "JIFFYDOS"
+
+msgctxt "game_options"
+msgid "Fast disk loading ROM. Needs TRUE DRIVE EMULATION and the JiffyDOS ROMs in 'bios\vice'. Not used with tapes and cartridges."
+msgstr "ROM de chargement rapide des disquettes. Nécessite l'ÉMULATION FIDÈLE DU LECTEUR et les ROM JiffyDOS dans 'bios\vice'. Non utilisée avec les cassettes et les cartouches."
+
+msgctxt "game_options"
+msgid "Disable Xenia Edge per-game settings so that RetroBat settings apply."
+msgstr "Désactive les réglages par jeu de Xenia Edge pour appliquer les réglages de RetroBat."
+
+msgctxt "game_options"
+msgid "Force Rawinput, there should be no need to force this to ON."
+msgstr "Forcer le pilote raw input, il n'y a pas de raison d'activer cette option."
