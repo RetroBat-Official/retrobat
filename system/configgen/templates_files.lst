@@ -174,10 +174,7 @@
 \system\templates\xemu\xemu.toml|\emulators\xemu\xemu.toml
 \system\templates\xemu-chihiro\xemu.toml|\emulators\xemu-chihiro\xemu.toml
 \system\templates\xenia-canary\gamecontrollerdb.txt|\emulators\xenia-canary\gamecontrollerdb.txt
-\system\templates\xenia-canary\xenia-canary.config.toml|\emulators\xenia-canary\xenia-canary.config.toml
-\system\templates\xenia-edge\xenia-edge.config.toml|\emulators\xenia-edge\xenia-edge.config.toml
 \system\templates\xenia\gamecontrollerdb.txt|\emulators\xenia\gamecontrollerdb.txt
-\system\templates\xenia\xenia.config.toml|\emulators\xenia\xenia.config.toml
 \system\templates\xroar\gamecontrollerdb.txt|\emulators\xroar\gamecontrollerdb.txt
 \system\templates\ymir\Ymir.toml|\emulators\ymir\Ymir.toml
 \system\templates\yuzu\user\config\qt-config.ini|\emulators\yuzu\user\config\qt-config.ini
