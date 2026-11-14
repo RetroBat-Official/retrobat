@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<game name="	Street Fighter II': Hyper Fighting (World 921209)" rom="sf2hf">
+<game name="sf2hf" rom="sf2hf">
   <layouts>
     <layout type="default" joystickcolor="Black">
       <button type="P1_JOYSTICK_RIGHT" tag=":IN1" mask="1" defvalue="1" x="30" y="60" color="Blue" function="P1_JOYSTICK_RIGHT">
@@ -250,4 +250,4 @@
       </button>
     </layout>
   </layouts>
-</game>
+</game>

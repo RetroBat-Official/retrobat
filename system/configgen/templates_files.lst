@@ -35,10 +35,6 @@
 \system\templates\dolphin-triforce\User\Triforce\triforce_dimm.zip|\emulators\dolphin-triforce\User\Triforce
 \system\templates\dolphin-triforce\User\Config\GCPadNew.ini|\emulators\dolphin-triforce\User\Config\GCPadNew.ini
 \system\templates\dolphin-triforce\User\Config\GFX.ini|\emulators\dolphin-triforce\User\Config\GFX.ini
-\system\templates\dolphin-emu\User\Config\Dolphin.ini|\emulators\dolphin-emu\User\Config\Dolphin.ini
-\system\templates\dolphin-emu\User\Config\GCPadNew.ini|\emulators\dolphin-emu\User\Config\GCPadNew.ini
-\system\templates\dolphin-emu\User\Config\GFX.ini|\emulators\dolphin-emu\User\Config\GFX.ini
-\system\templates\dolphin-emu\User\Config\Hotkeys.ini|\emulators\dolphin-emu\User\Config\Hotkeys.ini
 \system\templates\dolphin-emu\User\Triforce\triforce_dimm.zip|\emulators\dolphin-emu\User\Triforce
 \system\templates\dolphin-emu\User\Triforce\triforce_dimm.zip|\saves\triforce\dolphin-emu\User\Triforce
 \system\templates\dosbox\run.dosbox|\emulators\dosbox\run.dosbox

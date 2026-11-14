@@ -175,7 +175,7 @@
         <mapping type="standard" name="JOY_r2trigger" />
       </button>
       <button type="P1_BUTTON6" tag=":IN2" mask="4" defvalue="4" x="30" y="60" color="Blue" function="P1_BUTTON6">
-        <mapping type="standard" name="JOY_south" />
+        <mapping type="standard" name="JOY_l1 OR JOY_l2trigger" />
       </button>
       <button type="P2_BUTTON5" tag=":IN2" mask="16" defvalue="16" x="30" y="60" color="Blue" function="Low Punch">
         <mapping type="standard" name="JOY_south" />
@@ -250,4 +250,4 @@
       </button>
     </layout>
   </layouts>
-</game>
+</game>

@@ -73279,7 +73279,6 @@ hotdebut:
   Button 3: b
   Button 4: y
   Service: rightstick
-  Service: rightstick
 hotdebut_modern8:
   players: 4
   Coin: back
@@ -73288,7 +73287,6 @@ hotdebut_modern8:
   Button 2: y
   Button 3: rightshoulder
   Button 4: leftshoulder
-  Service: rightstick
   Service: rightstick
 hotdebut_8alternative:
   players: 4
@@ -73299,7 +73297,6 @@ hotdebut_8alternative:
   Button 3: rightshoulder
   Button 4: righttrigger
   Service: rightstick
-  Service: rightstick
 hotdebut_6alternative:
   players: 4
   Coin: back
@@ -73308,7 +73305,6 @@ hotdebut_6alternative:
   Button 2: x
   Button 3: y
   Button 4: leftshoulder
-  Service: rightstick
   Service: rightstick
 loderndf:
   players: 4
@@ -73322,7 +73318,6 @@ loderndf:
   Button 2: a
   Button 3: b
   Service: rightstick
-  Service: rightstick
 loderndf_modern8:
   players: 4
   Coin: back
@@ -73334,7 +73329,6 @@ loderndf_modern8:
   Button 1: x
   Button 2: y
   Button 3: rightshoulder
-  Service: rightstick
   Service: rightstick
 loderndf_8alternative:
   players: 4
@@ -73348,7 +73342,6 @@ loderndf_8alternative:
   Button 2: b
   Button 3: rightshoulder
   Service: rightstick
-  Service: rightstick
 loderndf_6alternative:
   players: 4
   Coin: back
@@ -73360,7 +73353,6 @@ loderndf_6alternative:
   Button 1: x
   Button 2: y
   Button 3: leftshoulder
-  Service: rightstick
   Service: rightstick
 mjgtaste:
   players: 2
@@ -78264,8 +78256,6 @@ drgnwrld:
   Button 2: a
   Button 3: b
   Service: rightstick
-  Service: rightstick
-  Service: rightstick
 drgnwrld_modern8:
   players: 2
   Coin: back
@@ -78277,8 +78267,6 @@ drgnwrld_modern8:
   Button 1: x
   Button 2: y
   Button 3: rightshoulder
-  Service: rightstick
-  Service: rightstick
   Service: rightstick
 drgnwrld_8alternative:
   players: 2
@@ -78292,8 +78280,6 @@ drgnwrld_8alternative:
   Button 2: b
   Button 3: rightshoulder
   Service: rightstick
-  Service: rightstick
-  Service: rightstick
 drgnwrld_6alternative:
   players: 2
   Coin: back
@@ -78305,8 +78291,6 @@ drgnwrld_6alternative:
   Button 1: x
   Button 2: y
   Button 3: leftshoulder
-  Service: rightstick
-  Service: rightstick
   Service: rightstick
 drifto94:
   players: 2
@@ -80891,7 +80875,6 @@ gstrik2:
   Button 2: a
   Button 3: b
   Service: rightstick
-  Service: rightstick
 gstrik2_modern8:
   players: 2
   Coin: back
@@ -80903,7 +80886,6 @@ gstrik2_modern8:
   Button 1: x
   Button 2: y
   Button 3: rightshoulder
-  Service: rightstick
   Service: rightstick
 gstrik2_8alternative:
   players: 2
@@ -80917,7 +80899,6 @@ gstrik2_8alternative:
   Button 2: b
   Button 3: rightshoulder
   Service: rightstick
-  Service: rightstick
 gstrik2_6alternative:
   players: 2
   Coin: back
@@ -80929,7 +80910,6 @@ gstrik2_6alternative:
   Button 1: x
   Button 2: y
   Button 3: leftshoulder
-  Service: rightstick
   Service: rightstick
 gt2k:
   players: 2
@@ -83105,7 +83085,6 @@ karatblz:
   Button 3: b
   Button 4: y
   Service: rightstick
-  Service: rightstick
 karatblz_modern8:
   players: 4
   Coin: back
@@ -83118,7 +83097,6 @@ karatblz_modern8:
   Button 2: y
   Button 3: rightshoulder
   Button 4: leftshoulder
-  Service: rightstick
   Service: rightstick
 karatblz_8alternative:
   players: 4
@@ -83133,7 +83111,6 @@ karatblz_8alternative:
   Button 3: rightshoulder
   Button 4: righttrigger
   Service: rightstick
-  Service: rightstick
 karatblz_6alternative:
   players: 4
   Coin: back
@@ -83146,7 +83123,6 @@ karatblz_6alternative:
   Button 2: x
   Button 3: y
   Button 4: leftshoulder
-  Service: rightstick
   Service: rightstick
 karatour:
   players: 2
@@ -86727,7 +86703,6 @@ nndmseal:
   P1 OK: b
   P1 Cancel: y
   Service: rightstick
-  Service: rightstick
 nndmseal_modern8:
   players: 1
   noplayer: 1
@@ -86737,7 +86712,6 @@ nndmseal_modern8:
   P1 +: y
   P1 OK: rightshoulder
   P1 Cancel: leftshoulder
-  Service: rightstick
   Service: rightstick
 nndmseal_8alternative:
   players: 1
@@ -86749,7 +86723,6 @@ nndmseal_8alternative:
   P1 OK: rightshoulder
   P1 Cancel: righttrigger
   Service: rightstick
-  Service: rightstick
 nndmseal_6alternative:
   players: 1
   noplayer: 1
@@ -86759,7 +86732,6 @@ nndmseal_6alternative:
   P1 +: x
   P1 OK: y
   P1 Cancel: leftshoulder
-  Service: rightstick
   Service: rightstick
 nost:
   players: 2
@@ -86927,7 +86899,6 @@ oisipuzl:
   Button 1: x
   Button 2: a
   Service: rightstick
-  Service: rightstick
 oisipuzl_modern8:
   players: 2
   Coin: back
@@ -86938,7 +86909,6 @@ oisipuzl_modern8:
   Right: dpright
   Button 1: x
   Button 2: y
-  Service: rightstick
   Service: rightstick
 oisipuzl_8alternative:
   players: 2
@@ -86951,7 +86921,6 @@ oisipuzl_8alternative:
   Button 1: a
   Button 2: b
   Service: rightstick
-  Service: rightstick
 oisipuzl_6alternative:
   players: 2
   Coin: back
@@ -86962,7 +86931,6 @@ oisipuzl_6alternative:
   Right: dpright
   Button 1: x
   Button 2: y
-  Service: rightstick
   Service: rightstick
 onetwo:
   players: 2

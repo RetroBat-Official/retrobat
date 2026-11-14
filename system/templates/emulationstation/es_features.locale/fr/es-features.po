@@ -5546,10 +5546,6 @@ msgid "MACHINE TYPE"
 msgstr "MACHINE ÉMULÉE"
 
 msgctxt "game_options"
-msgid "DEINTERLACE MODE"
-msgstr "MÉTHODE DE DÉSENTRELACEMENT"
-
-msgctxt "game_options"
 msgid "HORIZONTAL BLEND"
 msgstr "FILTRAGE HORIZONTAL(FLOU)"
 
@@ -6309,10 +6305,6 @@ msgstr "BOUTON POUR CONFIRMER"
 msgctxt "game_options"
 msgid "Use patch"
 msgstr "Utiliser un patch"
-
-msgctxt "game_options"
-msgid "Can remove blur on some games."
-msgstr "Permet de supprimer le brouillard dans certains jeux."
 
 msgctxt "game_options"
 msgid "Disabling dithering can remove some noise and pixelate effects."
@@ -8007,10 +7999,6 @@ msgid "Use this option if duckstation is not displaying on the correct monitor."
 msgstr "Utiliser cette option si Duckstation ne s'affiche pas sur le bon écran."
 
 msgctxt "game_options"
-msgid "DEINTERLACING MODE"
-msgstr "MÉTHODE DE DÉSENTRELACEMENT"
-
-msgctxt "game_options"
 msgid "DEINTERLACING ADAPTATIVE"
 msgstr "DÉSENTRELACEMENT ADAPTATIF"
 
@@ -8021,10 +8009,6 @@ msgstr "DÉSENTRELACEMENT DEBUG"
 msgctxt "game_options"
 msgid "BOB DEINTERLACING"
 msgstr "DÉSENTRELACEMENT BOB"
-
-msgctxt "game_options"
-msgid "Some game might require interlaced rendering."
-msgstr "Certains jeux nécessitent de désactiver le désentrelacement."
 
 msgctxt "game_options"
 msgid "Enable this to use Duckstation's provided shaders."
@@ -18552,10 +18536,6 @@ msgid "Can improve accuracy at a small performance cost."
 msgstr "Peut améliorer la précision pour un léger coût en performances."
 
 msgctxt "game_options"
-msgid "May cause artifcats in some games."
-msgstr "Peut provoquer des artefacts dans certains jeux."
-
-msgctxt "game_options"
 msgid "Soundfont used for MIDI music. Custom soundfonts must be placed in bios\zc210\sf2 (falls back to default.sf2 if missing)."
 msgstr "Soundfont utilisée pour la musique MIDI. Les soundfonts personnalisées doivent être placées dans bios\zc210\sf2 (default.sf2 est utilisée si elle est absente)."
 
@@ -28567,3 +28547,67 @@ msgstr "Charger les mods (fichiers .dusk) depuis un dossier portant le nom du je
 msgctxt "game_options"
 msgid "Button layout of the core, the same for all games. Leave on AUTO to use RetroBat per-game mapping and CONTROLLER LAYOUT."
 msgstr "Disposition des boutons du core, identique pour tous les jeux. Laisser sur AUTO pour utiliser le mapping par jeu de RetroBat et DISPOSITION DES BOUTONS."
+
+msgctxt "game_options"
+msgid "Method used for interlaced video modes."
+msgstr "Méthode utilisée pour les modes vidéo entrelacés."
+
+msgctxt "game_options"
+msgid "May cause artifacts in some games."
+msgstr "Peut provoquer des artefacts dans certains jeux."
+
+msgctxt "game_options"
+msgid "P1 CROSSHAIR COLOR"
+msgstr "COULEUR DU VISEUR J1"
+
+msgctxt "game_options"
+msgid "P2 CROSSHAIR COLOR"
+msgstr "COULEUR DU VISEUR J2"
+
+msgctxt "game_options"
+msgid "Run at maximum speed while a disk or a tape is loading, when no sound is played. TRUE DRIVE EMULATION is required for disks."
+msgstr "Fait tourner l'émulation à vitesse maximale pendant le chargement d'une disquette ou d'une cassette, quand aucun son n'est joué. ÉMULATION FIDÈLE DU LECTEUR est nécessaire pour les disquettes."
+
+msgctxt "game_options"
+msgid "AUTOMATIC selects the expansion from the program size. Can be forced with file name tags such as (8k) or [16k]."
+msgstr "AUTOMATIQUE choisit l'extension d'après la taille du programme. Peut être forcée par une indication dans le nom du fichier, par exemple (8k) ou [16k]."
+
+msgctxt "game_options"
+msgid "C64 MODE"
+msgstr "MODE C64"
+
+msgctxt "game_options"
+msgid "Start directly in Commodore 64 mode."
+msgstr "Démarre directement en mode Commodore 64."
+
+msgctxt "game_options"
+msgid "VIDEO OUTPUT"
+msgstr "SORTIE VIDÉO"
+
+msgctxt "game_options"
+msgid "Display used at startup. Can be switched in game with the F7 key (40/80 DISPLAY)."
+msgstr "Affichage utilisé au démarrage. Se change en jeu avec la touche F7 (40/80 DISPLAY)."
+
+msgctxt "game_options"
+msgid "VIC-II (40 COLUMNS)"
+msgstr "VIC-II (40 COLONNES)"
+
+msgctxt "game_options"
+msgid "VDC (80 COLUMNS)"
+msgstr "VDC (80 COLONNES)"
+
+msgctxt "game_options"
+msgid "CONTROLLER MAPPING"
+msgstr "CONFIGURATION DES TOUCHES"
+
+msgctxt "game_options"
+msgid "GAME OPTIONS"
+msgstr "OPTIONS DU JEU"
+
+msgctxt "game_options"
+msgid "NETPLAY"
+msgstr "JEU EN RÉSEAU"
+
+msgctxt "game_options"
+msgid "SCREENS"
+msgstr "ÉCRANS"
