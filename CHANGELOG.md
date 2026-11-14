@@ -4,13 +4,14 @@
 <details>
 
 ### Emulators\cores:
-- Bump ArcadeDuck to 0.6.5-dev (with support of ZN-2 games)
+- Bump ArcadeDuck to 0.7.0-dev
 - Bump Ares to nightly from november (do not use stable 148)
 - Bump bstone to 1.3.4
 - Bump cdogs to 2.5.0
 - Bump CGenius to 3.6.4
 - Bump devilutionx to 1.5.5 and add features
 - Bump dhewm3 to 1.5.5
+- Bump dolphin to 2609b
 - Bump eduke32 and add controller configuration
 - Bump fbneo and libretro-fbneo to nov.3,2026 build
 - Bump gemrb to 0.9.5
@@ -20,11 +21,14 @@
 - Bump pdark to build from 13/08/2026
 - Bump Raze to 1.11.0
 - Bump scummvm to 2026.4.1 (libretro also)
+- Bump supermodel to v0.4-20261108
 - Bump vita3k to release from november 6th
 - Bump vkquake to 1.37.0
 - Bump vkquake2 to 1.5.10
-- Bump Xemu 0.137
+- Bump Xemu 0.139
+- Bump xenia-canary, xenia-edge and xenia-manager (5.0.0.0)
 - Bump libretro-atari800
+- Bump libretro-cap32
 - Bump libretro-flycast
 - Bump libretro-geargrafx and add it for pcengine/pcenginecd/laseractive (NEC only)
 - Bump libretro-gearsystem
@@ -34,6 +38,7 @@
 - Bump libretro-melondsds
 - Bump libretro-nestopia
 - Bump libretro-parallel_n64
+- Bump libretro-puae
 - Bump libretro-virtualjaguar
 - Add Azahar-plus for 3ds
 - Add fbneo (standalone) to cave,cps1,cps2,cps3 and neogeo
@@ -42,20 +47,22 @@
 - Add openCDI as alternative emulator for Philips CDI
 - Add pom2 for appleII
 - Add raze as an emulator for eduke32 system
-- Add sm2emu and libretro-sm2 for model2 (and model1 for the standalone)
+- Add keisho and libretro-sm2 for model2 (and model1/model3 for the standalone)
 - Add libretro-anybor for openbor
 - Add libretro-gearboy to sgb, gbc2players, gbc and gb/gb2players
 - Add libretro-gearlynx for atari Lynx
 - Add libretro-geartowns for fmtowns (new bios required) as main emulator
+- Add libretro-genesis_plus_gx_expanded also to megadrive (not only to MSU)
 - Add libretro-mgba_splitscreen for gba2players
 - Add libretro-zcdi for cdi
 - Renamed "zinc" system to "psxarcade"
-- Add model1 system (sm2-emu, supermodel, mame)
+- Add model1 system (keisho, supermodel, mame)
 - Add supermodel as model2 emulator
 - Add libretro-atari800 for XEGS
 - recomp: add .m3u, .bat, .game and .decomp extensions
 - Add .decomp extensions to model1, nds, 3ds, ps4, psvita, psp, wiiu
 - Add .m3u extension to Philips cdi system
+- Add .gcm and .tgc extensions for gamecube
 - Bump demulshooter to 17.10 (you can update from download store)
 
 ### Fixes:
@@ -65,17 +72,25 @@
 - MESEN: fix assignment to superscope to port 2
 - RAINE: fix automatic controller configuration for some cases
 - SNES9X and MEDNAFEN: fix gun option
+- SOFTPATCH: fix multi-patches and add xdelta
+- STEAM: fix executable/process finding
 - TEKNOPARROT: Keep default window mode from Teknoparrot default profile instead of forcing fullscreen
+- TRIFORCE: better management of game patches
 
 ### Features:
 - ARES: add controlleyr layouts for the systems that manage it
 - AZAHAR: add async shader compilation option
+- AZAHAR: add savestates in ES for azahar (with autoloading on start through sendkeys once emulator has started)
+- AZAHAR: add configurable hotkeys
+- C64 and C128: add jiffydos option
 - DUCKSTATION: add SPRITE TEXTURE FILTERING option
+- DUSKLIGHT: add option to disable/enable mods
 - FBNEO: add to list of emulators with configurable hotkeys (padtokey)
 - FBNEO: use xinput when only xinput controllers are connected
 - HYPSEUS: add search engine to select the best bezel
 - LINUXLOADER: add controls mapping with yml file and wheels
 - MAME, GROOVYMAME and HBMAME: add -nowindow command line when running fullscreen
+- MAME2003_PLUS now also uses the yml file for mapping
 - MODEL2: add yml mapping possibility
 - MUPEN64 (RMG and libretro): add crop overscan presets
 - QUIVERLAUNCHER: a link pointing to another executable will be treated as a standard windows game, same for new extensions
@@ -93,18 +108,21 @@
 ### Other stuff:
 - APPLE2: harmonize way of emulators to manage saves (disk copy protection alignment)
 - ARCADE: try and align test and service buttons as much as possible
+- BIOS CHECK: add optional bioses and bios groups
+- FBNEO: finalized per game mapping for fbneo standalone
 - FEATURES: start of alignment of features names and descriptions between all emulators
 - GUNS: deprioritize known "non-guns" devices such as integrated touchpads, 8BitDo Receivers...
 - HOTKEYS: when disabling Game Control Center, the hotkey+EAST combination is available for custom configuration again
-- MAME: finalized mapping per game for mame and libretro-mame
+- MAME: finalized mapping per game for mame and libretro-mame/mame2003_plus
 - MEDNAFEN & GSPLUS: use standard bezel display instead of reshade
 - PADTOKEY: Try to fix padtokey not working after a while in game
 - RETROBAT: Improve logging for the update mechanism (log failure to reach FTP)
 - RETROBAT: Try to sanitize STEAM environment by avoiding Steam SDL overrides
+- RVZ CHEEVOS INDEXER: add a progression bar
 - EMULATORLAUNCHER: Bump SDL3 to 3.4 and fix GUID on some emulators
 - EMULATORLAUNCHER: Add option to follow ES screen for opening emulators
 - EMULATORLAUNCHER: Add option to move arcade sticks after gamepads for each emulator (the detection of arcadesticks is based on a .txt file in \system\tools folder)
-- WIKI: general review of the EN and FR wiki pages (ongoing)
+- WIKI: general review of the EN and FR wiki pages (ongoing) - with a few fixes here and there upon reviewing the wiki
 
 </details>
 

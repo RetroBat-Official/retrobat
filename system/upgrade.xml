@@ -70,6 +70,7 @@
   <neveroverwrite path="emulators\jgenesis\jgenesis-config.toml"/>
   <neveroverwrite path="emulators\jynx\settings.txt"/>
   <neveroverwrite path="emulators\kega-fusion\Fusion.ini"/>
+  <neveroverwrite path="emulators\keisho\keisho.ini"/>
   <neveroverwrite path="emulators\kronos\kronos.ini"/>
   <neveroverwrite path="emulators\lime3ds\user\config\qt-config.ini"/>
   <neveroverwrite path="emulators\linuxloader\controls.ini"/>
@@ -136,7 +137,6 @@
   <neveroverwrite path="emulators\simple64\mupen64plus.cfg"/>
   <neveroverwrite path="emulators\simple64\simple64-gui.ini"/>
   <neveroverwrite path="emulators\singe2\Singe\controls.cfg"/>
-  <neveroverwrite path="emulators\sm2-emu\sm2-emu.ini"/>
   <neveroverwrite path="emulators\snes9x\snes9x.conf"/>
   <neveroverwrite path="emulators\soh\shipofharkinian.json"/>
   <neveroverwrite path="emulators\sonic3air\savedata\settings.json"/>

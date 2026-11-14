@@ -1,0 +1,344 @@
+# KEISHO BUTTON MAPPING
+#
+# This file is provided with RetroBat
+# Copy it to retrobat\user\inputmapping\keisho.yml to customize it (the user file has priority)
+#
+# It maps the controller buttons to the Model 1, Model 2 and Model 3 cabinet controls in the Keisho standalone emulator (formerly sm2-emu).
+# Containers are searched in this order (the first one found is used) :
+#   with the CONTROLLER LAYOUT option : <set>_<layout>, <family>_<layout>, default_<layout>
+#   then : <set>, <family>, default
+#   <family> is the parent set of the game (e.g. vf2 for vf2a), <layout> is modern8, 8alternative or 6alternative (classic8 uses 6alternative)
+#
+# The key represents the controller button, by position : south, east, west, north, l1, r1, l2, r2, l3, r3, select, start, up, down, left, right
+# (south / east / west / north are positions : south = A on Xbox, Cross on PlayStation)
+# The value represents the Keisho control : Button1 to Button4, Up, Down, Left, Right, Start, Coin, GearUp, GearDown
+# Several controls can be separated with a comma. A control can only be driven by one button.
+#
+# Always mapped unless changed here : d-pad (and left stick) = directions, select = Coin, start = Start, L1 = GearDown, R1 = GearUp
+# Steering, pedals and gun aiming are analog : left stick, right trigger (accelerator), left trigger (brake)
+# Test / Service : R3 / L3 (sent as keys by RetroBat), Guide + R3 / Guide + L3 (Keisho shortcut), or keys 0 / 9
+#
+# Keisho limits (not configurable) :
+# - the VR / view buttons of the driving games are always south, east, west, north (VR1 to VR4)
+# - Virtual On, Virtual On 2, Desert Tank, Sky Target, Ski Super G, Water Ski and Ski Champ use their own controller layout
+# - Star Wars Trilogy fires with the triggers (Up / Down are moved there by Keisho), Sega Bass Fishing reels and sets the line tension with the triggers
+#
+# Default layout (GAMEPAD), same as the m2emulator fighting games :
+# L1 | R1
+#      N
+#    W   E
+#      S
+# B1 = W, B2 = N, B3 = S, B4 = E
+#
+# Default layout for modern8 :
+# W | N | R1
+# S | E | R2
+#
+# Default layout for 6alternative & 8alternative :
+# W | N | L1
+# S | E | R1
+#
+default:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+default_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  south: Button4
+default_8alternative:
+  west: Button1
+  north: Button2
+  l1: Button3
+  south: Button4
+default_6alternative:
+  west: Button1
+  north: Button2
+  l1: Button3
+  south: Button4
+
+# Fighting games (vf, vf2, lastbrnx, schamp use the default layout)
+doa:
+  east: Button1
+  west: Button2
+  south: Button3
+  north: Button4
+fvipers:
+  west: Button1
+  north: Button2
+  east: Button3
+  south: Button4
+
+# Sports and shoot'em up
+vstriker:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+pltkids:
+  west: Button1
+  south: Button2
+  north: Button3
+  east: Button4
+zerogun:
+  west: Button1
+  south: Button2
+  east: Button3
+  north: Button4
+zeroguna:
+  west: Button1
+  south: Button2
+  east: Button3
+  north: Button4
+
+# Light gun games played with a gamepad : left stick = aim, Button1 = shoot (also right trigger), Button2 = reload / missile (also left trigger)
+bel:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+gunblade:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+hotd:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+rchase2:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+vcop:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+vcop2:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+
+# Driving games : face buttons in the same positions as the VR buttons, gears on L1 / R1
+daytona:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+srallyc:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+indy500:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+overrev:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+sgt24h:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+stcc:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+manxtt:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+motoraid:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+
+# Model 1 flight games : left stick = flight stick, right stick pulled back or left trigger = slow down, d-pad = views (Wing War)
+# Star Wars Arcade : laser also on the left trigger, torpedo also on the right trigger, the gunner is player 2
+swa:
+  west: Button1
+  east: Button2
+  south: Button3
+wingwar:
+  west: Button1
+  east: Button2
+  south: Button3
+
+# Model 3 fighting games, same layouts as Supermodel (supermodel.yml) : Button1 = Punch, Button2 = Kick, Button3 = Guard, Button4 = Escape
+vf3:
+  west: Button1
+  south: Button2
+  east: Button3
+  north: Button4
+vf3_modern8:
+  west: Button1
+  north: Button2
+  south: Button3
+  r1: Button4
+vf3_8alternative:
+  north: Button1
+  r1: Button2
+  west: Button3
+  l1: Button4
+vf3_6alternative:
+  west: Button1
+  north: Button2
+  south: Button3
+  r1: Button4
+fvipers2:
+  west: Button1
+  south: Button2
+  east: Button3
+  north: Button4
+fvipers2_modern8:
+  west: Button1
+  north: Button2
+  south: Button3
+  r1: Button4
+fvipers2_8alternative:
+  north: Button1
+  r1: Button2
+  west: Button3
+  l1: Button4
+fvipers2_6alternative:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+
+# Spikeout, same layouts as Supermodel : Button1 = Beat, Button2 = Charge, Button3 = Shift, Button4 = Jump
+spikeout:
+  south: Button1
+  west: Button2
+  east: Button3
+  north: Button4
+spikeout_modern8:
+  north: Button1
+  r1: Button2
+  south: Button3
+  l1: Button4
+spikeout_8alternative:
+  north: Button1
+  r1: Button2
+  west: Button3
+  l1: Button4
+spikeout_6alternative:
+  west: Button1
+  north: Button2
+  south: Button3
+  r1: Button4
+spikeofe:
+  south: Button1
+  west: Button2
+  east: Button3
+  north: Button4
+spikeofe_modern8:
+  north: Button1
+  r1: Button2
+  south: Button3
+  l1: Button4
+spikeofe_8alternative:
+  north: Button1
+  r1: Button2
+  west: Button3
+  l1: Button4
+spikeofe_6alternative:
+  west: Button1
+  north: Button2
+  south: Button3
+  r1: Button4
+
+# Virtua Striker 2 series, same as Virtua Striker : Button1 = Long Pass, Button2 = Shoot, Button3 = Short Pass
+vs2:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+vs298:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+vs2v991:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+
+# Model 3 light gun games, same as the Model 2 ones
+lamachin:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+lostwsga:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+oceanhun:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+
+# Model 3 driving games, same as the Model 2 ones (Harley-Davidson : Button1 = Music Select, Button2 = View)
+daytona2:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+scud:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+srally2:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+dirtdvls:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+eca:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+lemans24:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+harley:
+  south: Button1
+  east: Button2
+  west: Button3
+  north: Button4
+
+# Star Wars Trilogy (Button1 / Button2 = Event 1 / 2), Sega Bass Fishing (Button1 = Cast, Button2 = Select), Magical Truck Adventure (Button1 = Pedal)
+swtrilgy:
+  south: Button1
+  east: Button2
+bassdx:
+  south: Button1
+  east: Button2
+magtruck:
+  south: Button1
