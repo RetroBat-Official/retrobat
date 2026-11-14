@@ -478,7 +478,7 @@ msgid "HARD SYNC"
 msgstr "SYNCHRONISATION MATÉRIELLE"
 
 msgctxt "game_options"
-msgid "Only compatible with OpenGL, hard-sync GPU and CPU. Reduce latency at the cost of inscreased performance requirements."
+msgid "Only compatible with OpenGL, hard-sync GPU and CPU. Reduce latency at the cost of increased performance requirements."
 msgstr "Uniquement compatible avec OpenGL, réduit la latence mais affecte les performances."
 
 msgctxt "game_options"
@@ -3758,7 +3758,7 @@ msgid "RENDER-TO-TEXTURE BUFFER"
 msgstr "RENDU VERS TEXTURE"
 
 msgctxt "game_options"
-msgid "Enhance graphics accuracy at the cost of inscreased performance requirements."
+msgid "Enhance graphics accuracy at the cost of increased performance requirements."
 msgstr "Améliore la précision du rendu mais augmente la consommation de ressources."
 
 msgctxt "game_options"
@@ -3790,7 +3790,7 @@ msgid "DSP EMULATION"
 msgstr "ÉMULATION DSP"
 
 msgctxt "game_options"
-msgid "Enable Digital Sound Processor. Enhance sound accuracy at the cost of inscreased performance requirements."
+msgid "Enable Digital Sound Processor. Enhance sound accuracy at the cost of increased performance requirements."
 msgstr "Activer le processeur numérique DSP. Améliore la qualité sonore mais nécessite plus de ressources système."
 
 msgctxt "game_options"
@@ -4818,7 +4818,7 @@ msgid "PRELOAD CD IMAGE IN MEMORY"
 msgstr "CHARGEMENT DE L'IMAGE DISQUE EN MÉMOIRE"
 
 msgctxt "game_options"
-msgid "Potentially decrease loading time at the cost of inscreased startup time."
+msgid "Potentially decrease loading time at the cost of increased startup time."
 msgstr "Permet de diminuer les temps de chargement en jeu, mais augmente la durée de chargement initiale."
 
 msgctxt "game_options"
@@ -5392,10 +5392,6 @@ msgstr "FILTRE ANTI-PIXELS PARASITES (DIVOT)"
 msgctxt "game_options"
 msgid "SHADER CACHE"
 msgstr "METTRE EN CACHE LES SHADERS"
-
-msgctxt "game_options"
-msgid "Pre-coompile shader cache at game startup, leave ON for less stuttering in game."
-msgstr "Permet de réduire les lags en pré-compilant les shaders au lancement du jeu."
 
 msgctxt "game_options"
 msgid "TEXTURE CACHE"
@@ -18010,10 +18006,6 @@ msgstr "0 donne la qualité, la latence et l'utilisation CPU les plus faibles, 1
 msgctxt "game_options"
 msgid "Some games require the controller in the second port to throw grenades."
 msgstr "Certains jeux nécessitent la manette sur le second port pour lancer des grenades."
-
-msgctxt "game_options"
-msgid "Mutitap must be set if more than 2 players intend to play."
-msgstr "Le multitap doit être activé pour jouer à plus de 2 joueurs."
 
 msgctxt "game_options"
 msgid "Skips the BIOS boot animation when loading content."
