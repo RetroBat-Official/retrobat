@@ -113,8 +113,6 @@
 \system\templates\pcsx2x6\inis\PCSX2.ini|\emulators\pcsx2x6\inis\PCSX2.ini
 \system\templates\pcsx2x6\portable.ini|\emulators\pcsx2x6\portable.ini
 \system\templates\phoenix\phoenix.config.xml|\emulators\phoenix\phoenix.config.xml
-\system\templates\play\Play Data Files\config.xml|\emulators\play\Play Data Files\config.xml
-\system\templates\play\Play Data Files\inputprofiles\Retrobat.xml|\emulators\play\Play Data Files\inputprofiles\Retrobat.xml
 \system\templates\pom2\Configure POM2.bat|\emulators\pom2\Configure POM2.bat
 \system\templates\ppsspp\installed.txt|\emulators\ppsspp\installed.txt
 \system\templates\ppsspp\assets\shaders\ppsspp_shaders.zip|\emulators\ppsspp\assets\shaders
