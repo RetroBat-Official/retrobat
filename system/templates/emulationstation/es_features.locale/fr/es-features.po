@@ -23488,6 +23488,10 @@ msgid "Wii VC"
 msgstr "Wii VC"
 
 msgctxt "game_options"
+msgid "Opera Boot (built-in)"
+msgstr "Opera Boot (intégré)"
+
+msgctxt "game_options"
 msgid "Panasonic FZ-1 (U)"
 msgstr "Panasonic FZ-1 (U)"
 
