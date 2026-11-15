@@ -23488,6 +23488,50 @@ msgid "Wii VC"
 msgstr "Wii VC"
 
 msgctxt "game_options"
+msgid "Opera Boot (built-in)"
+msgstr "Opera Boot (intégré)"
+
+msgctxt "game_options"
+msgid "PAL 384x288 50HZ"
+msgstr "PAL 384x288 50HZ"
+
+msgctxt "game_options"
+msgid "Panasonic FZ-10 (E) ANVIL NORSA"
+msgstr "Panasonic FZ-10 (E) ANVIL NORSA"
+
+msgctxt "game_options"
+msgid "Sanyo TRY IMP-21J"
+msgstr "Sanyo TRY IMP-21J"
+
+msgctxt "game_options"
+msgid "KANJI FONT ROM"
+msgstr "ROM DE POLICE KANJI"
+
+msgctxt "game_options"
+msgid "Font ROM required by some Japanese games."
+msgstr "ROM de police nécessaire à certains jeux japonais."
+
+msgctxt "game_options"
+msgid "Panasonic FZ-1 Kanji"
+msgstr "Panasonic FZ-1 Kanji"
+
+msgctxt "game_options"
+msgid "Panasonic FZ-1 (J) Kanji"
+msgstr "Panasonic FZ-1 (J) Kanji"
+
+msgctxt "game_options"
+msgid "Panasonic FZ-10 (JA) ANVIL Kanji"
+msgstr "Panasonic FZ-10 (JA) ANVIL Kanji"
+
+msgctxt "game_options"
+msgid "OS HLE"
+msgstr "HLE DE L'OS"
+
+msgctxt "game_options"
+msgid "High level emulation of some Portfolio OS functions. May improve performance in some games."
+msgstr "Émulation haut niveau de certaines fonctions de Portfolio OS. Peut améliorer les performances de certains jeux."
+
+msgctxt "game_options"
 msgid "Panasonic FZ-1 (U)"
 msgstr "Panasonic FZ-1 (U)"
 
