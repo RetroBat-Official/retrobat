@@ -28663,3 +28663,11 @@ msgstr "Port du Light Phaser. Port 1 par défaut."
 msgctxt "game_options"
 msgid "Port of the Super Scope. Port 2 by default."
 msgstr "Port du Super Scope. Port 2 par défaut."
+
+msgctxt "game_options"
+msgid "GS RAM READS"
+msgstr "LECTURES DE LA RAM GS"
+
+msgctxt "game_options"
+msgid "Lets the emulator read back the GS memory. On by default. Turning it off is faster but can break some graphic effects."
+msgstr "Permet à l'émulateur de relire la mémoire du GS. Activé par défaut. Le désactiver est plus rapide mais peut casser certains effets graphiques."
