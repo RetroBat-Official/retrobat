@@ -37,6 +37,7 @@
 - Bump libretro-jollycv
 - Bump libretro-mednafen_saturn and add sega-stv
 - Bump libretro-melondsds
+- Bump libretro-opera
 - Bump libretro-nestopia
 - Bump libretro-parallel_n64
 - Bump libretro-puae
