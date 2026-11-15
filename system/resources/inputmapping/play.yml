@@ -1,0 +1,443 @@
+# PLAY! ARCADE BUTTON MAPPING (Namco System 246 / 256)
+#
+# This file is provided with RetroBat
+# Copy it to retrobat\user\inputmapping\play.yml to customize it (the user file has priority)
+#
+# Containers are searched in this order (the first one found is used) :
+#   <game>_<layout>, <game>, <parent>_<layout>, <parent>, default_<layout>, default
+#   <game> is the arcade id (rom name), <parent> comes from emulators\play\arcadedefs\<game>.arcadedef
+#   <layout> is the CONTROLLER LAYOUT option (modern8, 8alternative, 6alternative - classic8 uses 6alternative)
+#
+# The key is the controller button : south, east, west, north, l1, r1, l2, r2, l3, r3, select, start, up, down, left, right
+# (south / east / west / north are positions : south = A on Xbox, Cross on PlayStation)
+#
+# The value is the arcade control (several controls can be separated with a comma) :
+#   Button1 to Button10 : JVS buttons of the cabinet (Button1 = Push 1...)
+#   cross, circle, triangle, square, l1, l2, l3, r1, r2, r3, select, start, dpad_up, dpad_down, dpad_left, dpad_right : PS2 button of Play!
+#   (use the PS2 button for games that Play! remaps in their arcadedef, like the light gun games)
+#   gas, brake : pedals of the driving games
+#
+# In a game container, the face buttons, shoulders and triggers are cleared first : only the listed ones are mapped
+# Directions (d-pad and left stick), Coin (select) and Start always keep their mapping
+# Test (L3 + R3 in Play!) is on R3 when the game does not use the l3 / r3 PS2 buttons
+#
+# Light guns (USE LIGHT GUNS option) : <game>_gun, <parent>_gun, lightgun_gun
+#   keys : mouseleft, mouseright, kb_0 to kb_9 (keyboard keys sent by the gun), values : PS2 buttons
+#   The gun aims with the mouse cursor in Play! (player 1 only)
+#
+# Default Layout for default (GAMEPAD), PS2 buttons at their position:
+# L1 | R1
+#      N (Triangle)
+#    W   E
+#      S (Cross)
+#
+# Arcade sticks :
+# modern8 :               W | N | R1 | L1
+#                         S | E | R2 | L2
+# 6alternative / 8alternative : W | N | L1
+#                               S | E | R1
+
+default:
+  south: cross
+  east: circle
+  west: square
+  north: triangle
+  l1: l1
+  r1: r1
+  l2: l2
+  r2: r2
+
+lightgun_gun:
+  mouseleft: circle      # Trigger
+  mouseright: triangle   # Pedal
+  kb_1: start
+  kb_5: select
+
+############### FIGHTING ###############
+
+# Tekken 4 / 5 : 2 x 2 panel, Left Punch / Right Punch on top, Left Kick / Right Kick at the bottom (same on all layouts)
+# Right Kick is on Push 5 (r3) : Test = R3 + EAST
+tekken4:
+  west: Button1   # Left Punch
+  north: Button2  # Right Punch
+  south: Button4  # Left Kick
+  east: Button5   # Right Kick
+tekken51:
+  west: Button1   # Left Punch
+  north: Button2  # Right Punch
+  south: Button4  # Left Kick
+  east: Button5   # Right Kick
+tekken5d:
+  west: Button1   # Left Punch
+  north: Button2  # Right Punch
+  south: Button4  # Left Kick
+  east: Button5   # Right Kick
+prdgp03:
+  west: Button1   # Left Punch
+  north: Button2  # Right Punch
+  south: Button4  # Left Kick
+  east: Button5   # Right Kick
+
+# Soul Calibur II / III : 2 x 2 like the console (A = Square, B = Triangle, G = Cross, K = Circle)
+soulclb2:
+  west: Button1   # Horizontal Attack
+  north: Button2  # Vertical Attack
+  south: Button3  # Guard
+  east: Button4   # Kick
+soulclb3:
+  west: Button1   # Horizontal Attack
+  north: Button2  # Vertical Attack
+  south: Button3  # Guard
+  east: Button4   # Kick
+
+# Capcom Fighting Jam : 6 buttons, punches on top, kicks at the bottom
+fghtjam:
+  west: Button1   # Light Punch
+  north: Button2  # Medium Punch
+  l1: Button3     # Heavy Punch
+  south: Button4  # Light Kick
+  east: Button5   # Medium Kick
+  r1: Button6     # Heavy Kick
+fghtjam_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  south: Button4
+  east: Button5
+  r2: Button6
+
+# 4 buttons in a row
+fateulc:
+  west: Button1   # Light
+  north: Button2  # Medium
+  south: Button3  # Heavy
+  east: Button4   # Parry / Evasion
+fateulc_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+fateulc_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+fateulc_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+
+sbxc:
+  west: Button1   # Attack
+  north: Button2  # Special
+  south: Button3  # Launcher
+  east: Button4   # Basara Arts
+sbxc_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+sbxc_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+sbxc_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+
+kinniku:
+  west: Button1   # Straight Punch
+  south: Button2  # Boxing Grip
+  east: Button3   # Uppercut
+  north: Button4  # Boxing Stance
+kinniku_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+kinniku_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+kinniku_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+
+# Super Dragon Ball Z : buttons 1, 2, 4, 5 (Guard on Push 4, Jump on Push 5 = r3 : Test = R3 + SOUTH)
+superdbz:
+  west: Button1   # Light Attack
+  north: Button2  # Heavy Attack
+  east: Button4   # Guard
+  south: Button5  # Jump
+superdbz_modern8:
+  west: Button1
+  north: Button2
+  r1: Button4
+  l1: Button5
+superdbz_6alternative:
+  south: Button1
+  west: Button2
+  north: Button4
+  l1: Button5
+superdbz_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button4
+  r2: Button5
+
+# 3 buttons
+yuyuhaku:
+  west: Button1
+  south: Button2
+  east: Button3
+yuyuhaku_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+yuyuhaku_6alternative:
+  west: Button1
+  north: Button2
+  l1: Button3
+yuyuhaku_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+
+############### ACTION ###############
+
+# Gundam versus series : Shoot, Sword, Jump (boost), Target change
+gdvsgd:
+  west: Button1   # Shoot
+  north: Button2  # Sword
+  south: Button3  # Jump
+  east: Button4   # Target Change
+gdvsgd_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+gdvsgd_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+gdvsgd_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+gdvsgdnx:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+gdvsgdnx_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+gdvsgdnx_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+gdvsgdnx_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+gundzaft:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+gundzaft_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+gundzaft_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+gundzaft_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+zgundm:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+zgundm_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+zgundm_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+zgundm_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+zgundmdx:
+  west: Button1
+  north: Button2
+  south: Button3
+  east: Button4
+zgundmdx_modern8:
+  west: Button1
+  north: Button2
+  r1: Button3
+  l1: Button4
+zgundmdx_6alternative:
+  south: Button1
+  west: Button2
+  north: Button3
+  l1: Button4
+zgundmdx_8alternative:
+  south: Button1
+  east: Button2
+  r1: Button3
+  r2: Button4
+
+############### DRIVING ###############
+# Wheel : left stick, gas : right trigger, brake : left trigger
+
+acedriv3:
+  r2: gas
+  l2: brake
+  south: Button1  # Enter
+  north: Button2  # View Change
+  r1: Button3     # Gear Shift Up
+  l1: Button4     # Gear Shift Down
+wanganmd:
+  r2: gas
+  l2: brake
+  south: Button1  # Enter
+  north: Button2  # View Change
+  r1: Button3     # Gear Shift Up
+  l1: Button4     # Gear Shift Down
+wanganmr:
+  r2: gas
+  l2: brake
+  south: Button1  # Enter
+  north: Button2  # View Change
+  r1: Button3     # Gear Shift Up
+  l1: Button4     # Gear Shift Down
+
+# Battle Gear 3 : gear up, view, sidebrake and hazard are on the cabinet directions
+batlgr3:
+  r2: gas
+  l2: brake
+  l1: Button1       # Gear Shift Down
+  r1: dpad_right    # Gear Shift Up
+  north: dpad_down  # View Change
+  west: dpad_left   # Sidebrake
+  east: dpad_up     # Hazard
+batlgr37:
+  r2: gas
+  l2: brake
+  l1: Button1
+  r1: dpad_right
+  north: dpad_down
+  west: dpad_left
+  east: dpad_up
+batlgr38:
+  r2: gas
+  l2: brake
+  l1: Button1
+  r1: dpad_right
+  north: dpad_down
+  west: dpad_left
+  east: dpad_up
+batlgr3j:
+  r2: gas
+  l2: brake
+  l1: Button1
+  r1: dpad_right
+  north: dpad_down
+  west: dpad_left
+  east: dpad_up
+batlgr3t:
+  r2: gas
+  l2: brake
+  l1: Button1
+  r1: dpad_right
+  north: dpad_down
+  west: dpad_left
+  east: dpad_up
+
+motogp:
+  r2: gas
+  l2: brake
+  south: Button1  # Start
+rrvac:
+  r2: gas
+  l2: brake
+  south: Button1  # Enter
+
+############### LIGHT GUN ###############
+# The gun aims with the mouse cursor : with a controller, the trigger and the pedal are on the triggers
+
+# Time Crisis 3 : Play! moves the pedal to R2
+timecrs3:
+  r2: circle      # Trigger
+  l2: r2          # Pedal
+  start: cross    # Enter
+timecrs3_gun:
+  mouseleft: circle
+  mouseright: r2
+  kb_1: cross, start
+  kb_5: select
+
+timecrs4:
+  r2: circle      # Trigger
+  l2: triangle    # Pedal
+  start: cross    # Enter
+timecrs4j:
+  r2: circle
+  l2: triangle
+  start: cross
+timecrs4j_gun:
+  mouseleft: circle
+  mouseright: triangle
+  kb_1: cross, start
+  kb_5: select
+timecrs4_gun:
+  mouseleft: circle
+  mouseright: triangle
+  kb_1: cross, start
+  kb_5: select
+cobrata:
+  r2: circle
+  l2: triangle
+  start: cross
+cobrata_gun:
+  mouseleft: circle
+  mouseright: triangle
+  kb_1: cross, start
+  kb_5: select
+
+# Vampire Night : no pedal, Start on Push 3
+vnight:
+  r2: circle      # Trigger
+  start: triangle # Start
+  south: cross    # Enter
+vnight_gun:
+  mouseleft: circle
+  kb_1: triangle
+  kb_5: select

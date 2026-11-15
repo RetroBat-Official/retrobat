@@ -1573,6 +1573,23 @@
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./xbased.menu</path>
+		<name>xbased (Xbox)</name>
+		<desc>Run xbased (Xbox).</desc>
+		<image>./media/xbased-logo.png</image>
+		<marquee>./media/xbased-logo.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>crazyriddler</developer>
+		<publisher>crazyriddler</publisher>
+		<genre>Emulator</genre>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
 		<path>./xemu.menu</path>
 		<name>Xemu (Xbox)</name>
 		<desc>Run Xemu (Xbox).</desc>

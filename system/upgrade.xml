@@ -161,6 +161,7 @@
   <neveroverwrite path="emulators\vpinball\VPinMAME\DmdDevice.ini"/>
   <neveroverwrite path="emulators\winarcadia\Configs\WinArcadia.ini"/>
   <neveroverwrite path="emulators\winuae\winuae.ini"/>
+  <neveroverwrite path="emulators\xbased\xbased.ini"/>
   <neveroverwrite path="emulators\xemu\xemu.toml"/>
   <neveroverwrite path="emulators\xemu-chihiro\xemu.toml"/>
   <neveroverwrite path="emulators\xenia-canary\xenia-canary.config.toml"/>
