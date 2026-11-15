@@ -466,6 +466,10 @@ msgid "no"
 msgstr "non"
 
 msgctxt "game_options"
+msgid "No"
+msgstr "Non"
+
+msgctxt "game_options"
 msgid "yes"
 msgstr "oui"
 
@@ -787,7 +791,7 @@ msgstr "Activer le saut d'images pour diminuer la latence, impacte les performan
 
 msgctxt "game_options"
 msgid "RUN-AHEAD USE SECOND INSTANCE"
-msgstr "INSTANCE SECONDAIRE POUR L'ÉXECUTION EN AVANCE"
+msgstr "INSTANCE SECONDAIRE POUR L'EXÉCUTION EN AVANCE"
 
 msgctxt "game_options"
 msgid "USE PREEMPTIVE FRAMES"
@@ -5439,11 +5443,11 @@ msgstr "MODE PERFORMANCE"
 
 msgctxt "game_options"
 msgid "CPU MODE"
-msgstr "MODE D'ÉXECUTION CPU"
+msgstr "MODE D'EXÉCUTION CPU"
 
 msgctxt "game_options"
 msgid "CPU EXECUTION MODE"
-msgstr "MODE D'ÉXECUTION CPU"
+msgstr "MODE D'EXÉCUTION CPU"
 
 msgctxt "game_options"
 msgid "MEMORY CARD 1 TYPE"
@@ -8576,7 +8580,7 @@ msgstr "THREAD SÉPARÉ POUR LE RENDU"
 
 msgctxt "game_options"
 msgid "Executes Graphics backend on second thread, improves performance, reduces stutter and speeds up shader compilation."
-msgstr "Éxécute le rendu visuel sur un thread séparé, améliore les performances, réduit le stuttering et accélère la compilation des shaders."
+msgstr "Exécute le rendu visuel sur un thread séparé, améliore les performances, réduit le stuttering et accélère la compilation des shaders."
 
 msgctxt "game_options"
 msgid "TEXTURE RECOMPRESSION"
@@ -28671,3 +28675,211 @@ msgstr "LECTURES DE LA RAM GS"
 msgctxt "game_options"
 msgid "Lets the emulator read back the GS memory. On by default. Turning it off is faster but can break some graphic effects."
 msgstr "Permet à l'émulateur de relire la mémoire du GS. Activé par défaut. Le désactiver est plus rapide mais peut casser certains effets graphiques."
+
+msgctxt "game_options"
+msgid "FRAME RATE"
+msgstr "FRÉQUENCE D'IMAGES"
+
+msgctxt "game_options"
+msgid "Lift the game's frame rate cap where the game allows it. Anything but original can break a game."
+msgstr "Lève la limite d'images par seconde quand le jeu le permet. Tout autre réglage qu'original peut casser un jeu."
+
+msgctxt "game_options"
+msgid "UP TO 60 FPS"
+msgstr "JUSQU'À 60 IPS"
+
+msgctxt "game_options"
+msgid "UP TO 120 FPS"
+msgstr "JUSQU'À 120 IPS"
+
+msgctxt "game_options"
+msgid "FAST DISC LOADING"
+msgstr "LECTURE RAPIDE DU DISQUE"
+
+msgctxt "game_options"
+msgid "Read the disc faster than the console's drive. Some games may not expect it."
+msgstr "Lit le disque plus vite que le lecteur de la console. Certains jeux peuvent ne pas le supporter."
+
+msgctxt "game_options"
+msgid "FULLSCREEN REFRESH RATE"
+msgstr "FRÉQUENCE DE RAFRAÎCHISSEMENT PLEIN ÉCRAN"
+
+msgctxt "game_options"
+msgid "On a 120Hz or faster monitor without G-Sync or FreeSync, use its highest refresh rate that is a multiple of 60Hz."
+msgstr "Sur un écran de 120 Hz ou plus sans G-Sync ni FreeSync, utilise sa plus haute fréquence multiple de 60 Hz."
+
+msgctxt "game_options"
+msgid "MULTIPLE OF 60HZ"
+msgstr "MULTIPLE DE 60 HZ"
+
+msgctxt "game_options"
+msgid "Set the console to widescreen, for the games that support it."
+msgstr "Règle la console en écran large, pour les jeux qui le gèrent."
+
+msgctxt "game_options"
+msgid "HD VIDEO MODES"
+msgstr "MODES VIDÉO HD"
+
+msgctxt "game_options"
+msgid "Video modes the console offers to the games. HD modes need the HDTV video signal."
+msgstr "Modes vidéo que la console propose aux jeux. Les modes HD nécessitent le signal vidéo HDTV."
+
+msgctxt "game_options"
+msgid "NONE (480I)"
+msgstr "AUCUN (480I)"
+
+msgctxt "game_options"
+msgid "PAL GAMES REFRESH RATE"
+msgstr "FRÉQUENCE DES JEUX PAL"
+
+msgctxt "game_options"
+msgid "Filter used to scale the picture to the screen."
+msgstr "Filtre utilisé pour adapter l'image à l'écran."
+
+msgctxt "game_options"
+msgid "SOFT SCANLINES"
+msgstr "SCANLINES DOUCES"
+
+msgctxt "game_options"
+msgid "CLASSIC TV"
+msgstr "TÉLÉVISEUR CLASSIQUE"
+
+msgctxt "game_options"
+msgid "ARCADE MONITOR"
+msgstr "MONITEUR D'ARCADE"
+
+msgctxt "game_options"
+msgid "Hide the edges of the picture as a TV does, or add a border (negative values)."
+msgstr "Masque les bords de l'image comme un téléviseur, ou ajoute une bordure (valeurs négatives)."
+
+msgctxt "game_options"
+msgid "ASYNCHRONOUS SHADERS"
+msgstr "SHADERS ASYNCHRONES"
+
+msgctxt "game_options"
+msgid "Build shaders in the background: less stutter, but objects can be missing for a moment."
+msgstr "Compile les shaders en arrière-plan : moins de saccades, mais des objets peuvent manquer un instant."
+
+msgctxt "game_options"
+msgid "PREBUILD SHADER CACHE"
+msgstr "PRÉCOMPILER LE CACHE DE SHADERS"
+
+msgctxt "game_options"
+msgid "Build the cached shaders before the game starts."
+msgstr "Compile les shaders du cache avant le démarrage du jeu."
+
+msgctxt "game_options"
+msgid "3X"
+msgstr "3X"
+
+msgctxt "game_options"
+msgid "5X"
+msgstr "5X"
+
+msgctxt "game_options"
+msgid "6X"
+msgstr "6X"
+
+msgctxt "game_options"
+msgid "7X"
+msgstr "7X"
+
+msgctxt "game_options"
+msgid "AUTO"
+msgstr "AUTO"
+
+msgctxt "game_options"
+msgid "4:3"
+msgstr "4:3"
+
+msgctxt "game_options"
+msgid "16:9"
+msgstr "16:9"
+
+msgctxt "game_options"
+msgid "480P"
+msgstr "480P"
+
+msgctxt "game_options"
+msgid "480P + 720P"
+msgstr "480P + 720P"
+
+msgctxt "game_options"
+msgid "480P + 720P + 1080I"
+msgstr "480P + 720P + 1080I"
+
+msgctxt "game_options"
+msgid "VGA"
+msgstr "VGA"
+
+msgctxt "game_options"
+msgid "60HZ"
+msgstr "60 HZ"
+
+msgctxt "game_options"
+msgid "50HZ"
+msgstr "50 HZ"
+
+msgctxt "game_options"
+msgid "AMD FSR 1"
+msgstr "AMD FSR 1"
+
+msgctxt "game_options"
+msgid "-10%"
+msgstr "-10%"
+
+msgctxt "game_options"
+msgid "-5%"
+msgstr "-5%"
+
+msgctxt "game_options"
+msgid "-3%"
+msgstr "-3%"
+
+msgctxt "game_options"
+msgid "3%"
+msgstr "3%"
+
+msgctxt "game_options"
+msgid "5%"
+msgstr "5%"
+
+msgctxt "game_options"
+msgid "7%"
+msgstr "7%"
+
+msgctxt "game_options"
+msgid "10%"
+msgstr "10%"
+
+msgctxt "game_options"
+msgid "15%"
+msgstr "15%"
+
+msgctxt "game_options"
+msgid "20%"
+msgstr "20%"
+
+msgctxt "game_options"
+msgid "25%"
+msgstr "25%"
+
+msgctxt "game_options"
+msgid "30%"
+msgstr "30%"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE IDEALIZED (DEFAULT)"
+msgstr "COULEUR - COMPOSITE IDÉALISÉ (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "COLOR - RGB CARD/MONITOR"
+msgstr "COULEUR - CARTE/MONITEUR RGB"
+
+msgctxt "game_options"
+msgid "MONOCHROME - CUSTOM"
+msgstr "MONOCHROME - PERSONNALISÉ"
+
+msgctxt "game_options"
+msgid "JOYSTICK 1 - RIGHT STICK"
+msgstr "JOYSTICK 1 - STICK DROIT"
