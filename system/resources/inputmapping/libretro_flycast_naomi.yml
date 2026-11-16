@@ -1346,7 +1346,7 @@ vtennis2:
   stk_r_x-: -1
   stk_r_y+: -1
   stk_r_y-: -1
-vtennis2c:
+vtenis2c:
   analog_dpad_mode: 3
   btn_a: -1
   btn_b: 8

@@ -135,7 +135,7 @@ rumblef2:
   btn_r: 1
   btn_x: 8
   btn_y: 0
-rumblef2p:
+rumblf2p:
   analog_dpad_mode: 3
   btn_a: 11
   btn_b: 9
