@@ -28457,10 +28457,6 @@ msgid "CHASE CAMERA STABILIZER"
 msgstr "STABILISATEUR DE CAMÉRA DE POURSUITE"
 
 msgctxt "game_options"
-msgid "Damps the camera swing when steering with a gamepad. Strong by default."
-msgstr "Atténue le balancement de la caméra quand on tourne avec une manette. Fort par défaut."
-
-msgctxt "game_options"
 msgid "STEERING SENSITIVITY"
 msgstr "SENSIBILITÉ DE LA DIRECTION"
 
@@ -28785,10 +28781,6 @@ msgid "Hide the edges of the picture as a TV does, or add a border (negative val
 msgstr "Masque les bords de l'image comme un téléviseur, ou ajoute une bordure (valeurs négatives)."
 
 msgctxt "game_options"
-msgid "ASYNCHRONOUS SHADERS"
-msgstr "SHADERS ASYNCHRONES"
-
-msgctxt "game_options"
 msgid "Build shaders in the background: less stutter, but objects can be missing for a moment."
 msgstr "Compile les shaders en arrière-plan : moins de saccades, mais des objets peuvent manquer un instant."
 
@@ -28951,3 +28943,47 @@ msgstr "Change l'affichage des pistolets dans Rambo."
 msgctxt "game_options"
 msgid "Emulate a New 3DS or an original 3DS."
 msgstr "Émule une New 3DS ou une 3DS d'origine."
+
+msgctxt "game_options"
+msgid "SHADER COMPILATION"
+msgstr "COMPILATION DES SHADERS"
+
+msgctxt "game_options"
+msgid "Hybrid draws new shaders at once while they build. Asynchronous can leave objects missing for a moment. Synchronous makes the game wait for each shader."
+msgstr "Hybride affiche tout de suite les nouveaux shaders pendant leur compilation. Asynchrone peut faire manquer des objets un instant. Synchrone fait attendre le jeu pour chaque shader."
+
+msgctxt "game_options"
+msgid "GPU PRECISION"
+msgstr "PRÉCISION DU GPU"
+
+msgctxt "game_options"
+msgid "Exact is the closest to the console and the heaviest on the GPU. Fast is much lighter. Auto picks fast on weak or unstable GPUs."
+msgstr "Exacte est la plus proche de la console et la plus lourde pour le GPU. Rapide est bien plus légère. Auto choisit rapide sur les GPU faibles ou instables."
+
+msgctxt "game_options"
+msgid "EXACT"
+msgstr "EXACTE"
+
+msgctxt "game_options"
+msgid "SURROUND 4.0"
+msgstr "SURROUND 4.0"
+
+msgctxt "game_options"
+msgid "Surround plays the rear speakers of the four-speaker Model 3 cabinets (Scud Race, Daytona USA 2, Sega Rally 2, The Lost World) on rear speakers. Other games stay in stereo."
+msgstr "Surround envoie les haut-parleurs arrière des bornes Model 3 à quatre haut-parleurs (Scud Race, Daytona USA 2, Sega Rally 2, The Lost World) sur des enceintes arrière. Les autres jeux restent en stéréo."
+
+msgctxt "game_options"
+msgid "Damps the chase camera swing in the driving games. Strong by default."
+msgstr "Atténue le balancement de la caméra extérieure dans les jeux de course. Fort par défaut."
+
+msgctxt "game_options"
+msgid "1920x1080 (DEFAULT)"
+msgstr "1920x1080 (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "Graphics quality preset (textures, filtering). AUTO selects it from the amount of memory."
+msgstr "Préréglage de qualité graphique (textures, filtrage). AUTO le choisit selon la mémoire disponible."
+
+msgctxt "game_options"
+msgid "Above 60 fps, frames are interpolated between game updates. AUTO follows the display refresh rate."
+msgstr "Au-delà de 60 ips, les images sont interpolées entre deux mises à jour du jeu. AUTO suit la fréquence de l'écran."
