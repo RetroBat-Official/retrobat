@@ -3870,6 +3870,30 @@ msgid "Use the emulator built-in BIOS instead of the files in the bios folder. D
 msgstr "Utilise le BIOS interne de l'émulateur au lieu des fichiers du dossier bios. Le mode Téléchargement DS a besoin du BIOS et du firmware d'origine."
 
 msgctxt "game_options"
+msgid "Player count preselected on the player selection screen shown at launch."
+msgstr "Nombre de joueurs présélectionné dans l'écran de sélection affiché au lancement."
+
+msgctxt "game_options"
+msgid "LOCAL MULTIPLAYER MODE"
+msgstr "MODE MULTIJOUEUR LOCAL"
+
+msgctxt "game_options"
+msgid "Mode preselected on the player selection screen. Download Play needs the original BIOS and firmware."
+msgstr "Mode présélectionné dans l'écran de sélection des joueurs. Le mode Téléchargement DS a besoin du BIOS et du firmware d'origine."
+
+msgctxt "game_options"
+msgid "MULTI-CARD"
+msgstr "MULTI-CARTE"
+
+msgctxt "game_options"
+msgid "DOWNLOAD PLAY"
+msgstr "TÉLÉCHARGEMENT DS"
+
+msgctxt "game_options"
+msgid "Improves performance. Experimental with several consoles."
+msgstr "Améliore les performances. Expérimental avec plusieurs consoles."
+
+msgctxt "game_options"
 msgid "JIT RECOMPILER"
 msgstr "RECOMPILATEUR JIT"
 
@@ -8939,8 +8963,8 @@ msgid "Use the BIOS located in RetroBat 'bios' folder, Required to boot to BIOS.
 msgstr "Utiliser le BIOS du dossier \bios de RetroBat, nécessaire si l'option 'Démarrer dans le bios' est activée."
 
 msgctxt "game_options"
-msgid "DesMumME has an internal BIOS, select this option to use the firmware from the RetroBat folder."
-msgstr "DesMuME utilise un bios interne, cette option permet d'utiliser le firmware placé dans le dossier \bios de RetroBat."
+msgid "DeSmuME has an internal BIOS, select this option to use the BIOS and firmware from the RetroBat bios folder."
+msgstr "DeSmuME a un BIOS interne, cette option utilise le BIOS et le firmware du dossier bios de RetroBat."
 
 msgctxt "game_options"
 msgid "Interpreter has better compatibility than JIT Dynamic Recompiler, JIT is faster."
@@ -28283,6 +28307,10 @@ msgstr "RÉGION LASERACTIVE"
 msgctxt "game_options"
 msgid "Region of the NEC PAC firmware. Japan: pac-n1.bin or pce-lp1.bin. US: pac-n10.bin."
 msgstr "Région du firmware NEC PAC. Japon : pac-n1.bin ou pce-lp1.bin. US : pac-n10.bin."
+
+msgctxt "game_options"
+msgid "System Card used by the LD-ROM2 games that need one. Default: SYSTEM CARD 1 if syscard1.pce is in the bios folder."
+msgstr "System Card utilisée par les jeux LD-ROM2 qui en demandent une. Par défaut : SYSTEM CARD 1 si syscard1.pce est dans le dossier bios."
 
 msgctxt "game_options"
 msgid "2 PLAYERS (LINK CABLE)"
