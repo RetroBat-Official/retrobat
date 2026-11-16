@@ -3866,6 +3866,10 @@ msgid "Enable MelonDS emulated bios instead of firmwares available in bios folde
 msgstr "Utiliser le bios interne de l'émulateur au lieu du firmware placé dans le dossier \bios de RetroBat."
 
 msgctxt "game_options"
+msgid "Use the emulator built-in BIOS instead of the files in the bios folder. DS Download Play needs the original BIOS and firmware."
+msgstr "Utilise le BIOS interne de l'émulateur au lieu des fichiers du dossier bios. Le mode Téléchargement DS a besoin du BIOS et du firmware d'origine."
+
+msgctxt "game_options"
 msgid "JIT RECOMPILER"
 msgstr "RECOMPILATEUR JIT"
 
@@ -28915,3 +28919,7 @@ msgstr "Démarre Outrun 2 SP SDX sans les vérifications de la borne (carte de p
 msgctxt "game_options"
 msgid "Changes how the guns are shown in Rambo."
 msgstr "Change l'affichage des pistolets dans Rambo."
+
+msgctxt "game_options"
+msgid "Emulate a New 3DS or an original 3DS."
+msgstr "Émule une New 3DS ou une 3DS d'origine."
