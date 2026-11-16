@@ -3866,6 +3866,34 @@ msgid "Enable MelonDS emulated bios instead of firmwares available in bios folde
 msgstr "Utiliser le bios interne de l'émulateur au lieu du firmware placé dans le dossier \bios de RetroBat."
 
 msgctxt "game_options"
+msgid "Use the emulator built-in BIOS instead of the files in the bios folder. DS Download Play needs the original BIOS and firmware."
+msgstr "Utilise le BIOS interne de l'émulateur au lieu des fichiers du dossier bios. Le mode Téléchargement DS a besoin du BIOS et du firmware d'origine."
+
+msgctxt "game_options"
+msgid "Player count preselected on the player selection screen shown at launch."
+msgstr "Nombre de joueurs présélectionné dans l'écran de sélection affiché au lancement."
+
+msgctxt "game_options"
+msgid "LOCAL MULTIPLAYER MODE"
+msgstr "MODE MULTIJOUEUR LOCAL"
+
+msgctxt "game_options"
+msgid "Mode preselected on the player selection screen. Download Play needs the original BIOS and firmware."
+msgstr "Mode présélectionné dans l'écran de sélection des joueurs. Le mode Téléchargement DS a besoin du BIOS et du firmware d'origine."
+
+msgctxt "game_options"
+msgid "MULTI-CARD"
+msgstr "MULTI-CARTE"
+
+msgctxt "game_options"
+msgid "DOWNLOAD PLAY"
+msgstr "TÉLÉCHARGEMENT DS"
+
+msgctxt "game_options"
+msgid "Improves performance. Experimental with several consoles."
+msgstr "Améliore les performances. Expérimental avec plusieurs consoles."
+
+msgctxt "game_options"
 msgid "JIT RECOMPILER"
 msgstr "RECOMPILATEUR JIT"
 
@@ -8935,8 +8963,8 @@ msgid "Use the BIOS located in RetroBat 'bios' folder, Required to boot to BIOS.
 msgstr "Utiliser le BIOS du dossier \bios de RetroBat, nécessaire si l'option 'Démarrer dans le bios' est activée."
 
 msgctxt "game_options"
-msgid "DesMumME has an internal BIOS, select this option to use the firmware from the RetroBat folder."
-msgstr "DesMuME utilise un bios interne, cette option permet d'utiliser le firmware placé dans le dossier \bios de RetroBat."
+msgid "DeSmuME has an internal BIOS, select this option to use the BIOS and firmware from the RetroBat bios folder."
+msgstr "DeSmuME a un BIOS interne, cette option utilise le BIOS et le firmware du dossier bios de RetroBat."
 
 msgctxt "game_options"
 msgid "Interpreter has better compatibility than JIT Dynamic Recompiler, JIT is faster."
@@ -28281,6 +28309,10 @@ msgid "Region of the NEC PAC firmware. Japan: pac-n1.bin or pce-lp1.bin. US: pac
 msgstr "Région du firmware NEC PAC. Japon : pac-n1.bin ou pce-lp1.bin. US : pac-n10.bin."
 
 msgctxt "game_options"
+msgid "System Card used by the LD-ROM2 games that need one. Default: SYSTEM CARD 1 if syscard1.pce is in the bios folder."
+msgstr "System Card utilisée par les jeux LD-ROM2 qui en demandent une. Par défaut : SYSTEM CARD 1 si syscard1.pce est dans le dossier bios."
+
+msgctxt "game_options"
 msgid "2 PLAYERS (LINK CABLE)"
 msgstr "2 JOUEURS (CÂBLE LINK)"
 
@@ -28423,10 +28455,6 @@ msgstr "A2000 (v1.3, 0.5M Chip + 0.5M Lent)"
 msgctxt "game_options"
 msgid "CHASE CAMERA STABILIZER"
 msgstr "STABILISATEUR DE CAMÉRA DE POURSUITE"
-
-msgctxt "game_options"
-msgid "Damps the camera swing when steering with a gamepad. Strong by default."
-msgstr "Atténue le balancement de la caméra quand on tourne avec une manette. Fort par défaut."
 
 msgctxt "game_options"
 msgid "STEERING SENSITIVITY"
@@ -28753,10 +28781,6 @@ msgid "Hide the edges of the picture as a TV does, or add a border (negative val
 msgstr "Masque les bords de l'image comme un téléviseur, ou ajoute une bordure (valeurs négatives)."
 
 msgctxt "game_options"
-msgid "ASYNCHRONOUS SHADERS"
-msgstr "SHADERS ASYNCHRONES"
-
-msgctxt "game_options"
 msgid "Build shaders in the background: less stutter, but objects can be missing for a moment."
 msgstr "Compile les shaders en arrière-plan : moins de saccades, mais des objets peuvent manquer un instant."
 
@@ -28883,3 +28907,83 @@ msgstr "MONOCHROME - PERSONNALISÉ"
 msgctxt "game_options"
 msgid "JOYSTICK 1 - RIGHT STICK"
 msgstr "JOYSTICK 1 - STICK DROIT"
+
+msgctxt "game_options"
+msgid "SWAP A/B BUTTONS"
+msgstr "INVERSER LES BOUTONS A/B"
+
+msgctxt "game_options"
+msgid "Swap the A and B buttons of the controller."
+msgstr "Inverse les boutons A et B de la manette."
+
+msgctxt "game_options"
+msgid "Removes the picture flickering in Hummer."
+msgstr "Supprime le scintillement de l'image dans Hummer."
+
+msgctxt "game_options"
+msgid "Display of the second screen (touch screen) of Primeval Hunt."
+msgstr "Affichage du second écran (écran tactile) de Primeval Hunt."
+
+msgctxt "game_options"
+msgid "SIDE BY SIDE (DEFAULT)"
+msgstr "CÔTE À CÔTE (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "LOADER DEFAULT"
+msgstr "RÉGLAGE DU LOADER"
+
+msgctxt "game_options"
+msgid "Starts Outrun 2 SP SDX without the cabinet checks (drive board and tower)."
+msgstr "Démarre Outrun 2 SP SDX sans les vérifications de la borne (carte de pilotage et tour)."
+
+msgctxt "game_options"
+msgid "Changes how the guns are shown in Rambo."
+msgstr "Change l'affichage des pistolets dans Rambo."
+
+msgctxt "game_options"
+msgid "Emulate a New 3DS or an original 3DS."
+msgstr "Émule une New 3DS ou une 3DS d'origine."
+
+msgctxt "game_options"
+msgid "SHADER COMPILATION"
+msgstr "COMPILATION DES SHADERS"
+
+msgctxt "game_options"
+msgid "Hybrid draws new shaders at once while they build. Asynchronous can leave objects missing for a moment. Synchronous makes the game wait for each shader."
+msgstr "Hybride affiche tout de suite les nouveaux shaders pendant leur compilation. Asynchrone peut faire manquer des objets un instant. Synchrone fait attendre le jeu pour chaque shader."
+
+msgctxt "game_options"
+msgid "GPU PRECISION"
+msgstr "PRÉCISION DU GPU"
+
+msgctxt "game_options"
+msgid "Exact is the closest to the console and the heaviest on the GPU. Fast is much lighter. Auto picks fast on weak or unstable GPUs."
+msgstr "Exacte est la plus proche de la console et la plus lourde pour le GPU. Rapide est bien plus légère. Auto choisit rapide sur les GPU faibles ou instables."
+
+msgctxt "game_options"
+msgid "EXACT"
+msgstr "EXACTE"
+
+msgctxt "game_options"
+msgid "SURROUND 4.0"
+msgstr "SURROUND 4.0"
+
+msgctxt "game_options"
+msgid "Surround plays the rear speakers of the four-speaker Model 3 cabinets (Scud Race, Daytona USA 2, Sega Rally 2, The Lost World) on rear speakers. Other games stay in stereo."
+msgstr "Surround envoie les haut-parleurs arrière des bornes Model 3 à quatre haut-parleurs (Scud Race, Daytona USA 2, Sega Rally 2, The Lost World) sur des enceintes arrière. Les autres jeux restent en stéréo."
+
+msgctxt "game_options"
+msgid "Damps the chase camera swing in the driving games. Strong by default."
+msgstr "Atténue le balancement de la caméra extérieure dans les jeux de course. Fort par défaut."
+
+msgctxt "game_options"
+msgid "1920x1080 (DEFAULT)"
+msgstr "1920x1080 (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "Graphics quality preset (textures, filtering). AUTO selects it from the amount of memory."
+msgstr "Préréglage de qualité graphique (textures, filtrage). AUTO le choisit selon la mémoire disponible."
+
+msgctxt "game_options"
+msgid "Above 60 fps, frames are interpolated between game updates. AUTO follows the display refresh rate."
+msgstr "Au-delà de 60 ips, les images sont interpolées entre deux mises à jour du jeu. AUTO suit la fréquence de l'écran."

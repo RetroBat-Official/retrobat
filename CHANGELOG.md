@@ -19,6 +19,7 @@
 - Bump hypseus to 3.0.2
 - Bump Openjazz to 20260301
 - Bump pdark to build from 13/08/2026
+- Bump Play! (and add lightguns and better management of controls)
 - Bump Raze to 1.11.0
 - Bump scummvm to 2026.4.1 (libretro also)
 - Bump shadPS4 to 0.21 and last version of launcher
@@ -37,8 +38,8 @@
 - Bump libretro-jollycv
 - Bump libretro-mednafen_saturn and add sega-stv
 - Bump libretro-melondsds
-- Bump libretro-opera
 - Bump libretro-nestopia
+- Bump libretro-opera
 - Bump libretro-parallel_n64
 - Bump libretro-puae
 - Bump libretro-virtualjaguar
@@ -50,6 +51,7 @@
 - Add pom2 for appleII
 - Add raze as an emulator for eduke32 system
 - Add keisho and libretro-sm2 for model2 (and model1/model3 for the standalone)
+- Add xbased as xbox emulator
 - Add libretro-anybor for openbor
 - Add libretro-gearboy to sgb, gbc2players, gbc and gb/gb2players
 - Add libretro-gearlynx for atari Lynx
@@ -59,7 +61,9 @@
 - Add libretro-zcdi for cdi
 - Renamed "zinc" system to "psxarcade"
 - Add model1 system (keisho, supermodel, mame)
+- Add ndsmultiplayer system with melondsds_splitscreen
 - Add supermodel as model2 emulator
+- Add playdia system (Bandai Playdia) with lr-playdiaemu
 - Add libretro-atari800 for XEGS
 - recomp: add .m3u, .bat, .game and .decomp extensions
 - Add .decomp extensions to model1, nds, 3ds, ps4, psvita, psp, wiiu
@@ -71,6 +75,7 @@
 - AMIBERRY: fix devices mapping in ports 1 and 2, especially when mouse is set
 - EMULATIONSTATION: Fix screen placement when exiting games (was causing issues with Teknoparrot)
 - HBMAME: fix path for savestates and nvram to not be mixed with MAME
+- LIBRETRO-MUPEN64PLUS_NEXT: disable Threaded Renderer by default (caused RetroArch menu to crash in some cases)
 - MESEN: fix assignment to superscope to port 2
 - RAINE: fix automatic controller configuration for some cases
 - SNES9X and MEDNAFEN: fix gun option
