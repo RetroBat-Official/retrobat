@@ -28883,3 +28883,35 @@ msgstr "MONOCHROME - PERSONNALISÉ"
 msgctxt "game_options"
 msgid "JOYSTICK 1 - RIGHT STICK"
 msgstr "JOYSTICK 1 - STICK DROIT"
+
+msgctxt "game_options"
+msgid "SWAP A/B BUTTONS"
+msgstr "INVERSER LES BOUTONS A/B"
+
+msgctxt "game_options"
+msgid "Swap the A and B buttons of the controller."
+msgstr "Inverse les boutons A et B de la manette."
+
+msgctxt "game_options"
+msgid "Removes the picture flickering in Hummer."
+msgstr "Supprime le scintillement de l'image dans Hummer."
+
+msgctxt "game_options"
+msgid "Display of the second screen (touch screen) of Primeval Hunt."
+msgstr "Affichage du second écran (écran tactile) de Primeval Hunt."
+
+msgctxt "game_options"
+msgid "SIDE BY SIDE (DEFAULT)"
+msgstr "CÔTE À CÔTE (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "LOADER DEFAULT"
+msgstr "RÉGLAGE DU LOADER"
+
+msgctxt "game_options"
+msgid "Starts Outrun 2 SP SDX without the cabinet checks (drive board and tower)."
+msgstr "Démarre Outrun 2 SP SDX sans les vérifications de la borne (carte de pilotage et tour)."
+
+msgctxt "game_options"
+msgid "Changes how the guns are shown in Rambo."
+msgstr "Change l'affichage des pistolets dans Rambo."
