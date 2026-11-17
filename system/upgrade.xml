@@ -182,5 +182,6 @@
     <merge path="saves\zinc" to="saves\psxarcade"/>
     <delete path="system\padtokey\zinc.keys"/>
     <delete path="emulators\retroarch\cores\boom3_xp_libretro.dll"/>
+    <delete path="emulators\soh\assets"/>
   </actions>
 </upgradeinfo>

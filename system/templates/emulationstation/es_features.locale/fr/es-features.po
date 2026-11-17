@@ -779,15 +779,15 @@ msgstr "Permet de réduire l'input lag."
 
 msgctxt "game_options"
 msgid "ENABLE RUN-AHEAD"
-msgstr "ACTIVER LE SAUT D'IMAGE"
+msgstr "ACTIVER L'EXÉCUTION EN AVANCE"
 
 msgctxt "game_options"
 msgid "Removes one frame of input lag, but doubles system requirements."
-msgstr "Saute une image pour diminuer la latence, impacte les performances."
+msgstr "Retire une image de latence, mais demande deux fois plus de ressources."
 
 msgctxt "game_options"
 msgid "Enable run-ahead mode for the reduction of input lag."
-msgstr "Activer le saut d'images pour diminuer la latence, impacte les performances."
+msgstr "Active l'exécution en avance pour diminuer la latence des commandes, impacte les performances."
 
 msgctxt "game_options"
 msgid "RUN-AHEAD USE SECOND INSTANCE"
@@ -799,7 +799,7 @@ msgstr "EXÉCUTER DES IMAGES PRÉEMPTIVES"
 
 msgctxt "game_options"
 msgid "Use preemptive frames instead of run-ahead, the run-ahead frame number applies."
-msgstr "Utiliser les images préemptives, le nombre d'image sélectionné pour le saut d'image est appliqué."
+msgstr "Utilise les images préemptives à la place de l'exécution en avance, avec le même nombre d'images en avance."
 
 msgctxt "game_options"
 msgid "AUTOMATIC FRAME DELAY"
@@ -5731,10 +5731,6 @@ msgid "SYNC"
 msgstr "SYNC"
 
 msgctxt "game_options"
-msgid "LINEAR"
-msgstr "LINÉAIRE"
-
-msgctxt "game_options"
 msgid "QUADRATIC"
 msgstr "QUADRATIQUE"
 
@@ -6723,7 +6719,7 @@ msgid "CD MUSIC VOLUME"
 msgstr "VOLUME MUSIQUE CD"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the music track."
+msgid "Adjusts the volume of the music track."
 msgstr "Ajuster le volume des pistes audio."
 
 msgctxt "game_options"
@@ -6735,7 +6731,7 @@ msgid "CD SFX VOLUME"
 msgstr "VOLUME EFFETS SONORES"
 
 msgctxt "game_options"
-msgid "Ajusts the volume of the sound effects."
+msgid "Adjusts the volume of the sound effects."
 msgstr "Ajuster le volume des effets sonores."
 
 msgctxt "game_options"
@@ -11331,8 +11327,8 @@ msgid "TEXTURE"
 msgstr "TEXTURE"
 
 msgctxt "game_options"
-msgid "DRAWPIXELS°"
-msgstr "DRAWPIXELS°"
+msgid "DRAWPIXELS"
+msgstr "DRAWPIXELS"
 
 msgctxt "game_options"
 msgid "US MVS V1"
@@ -21504,8 +21500,8 @@ msgid "ALWAYS ROUND TO 4:3"
 msgstr "TOUJOURS ARRONDIR À 4:3"
 
 msgctxt "game_options"
-msgid "LINEAR°"
-msgstr "LINÉAIRE°"
+msgid "LINEAR"
+msgstr "LINÉAIRE"
 
 msgctxt "game_options"
 msgid "FORCED"
@@ -28987,3 +28983,19 @@ msgstr "Préréglage de qualité graphique (textures, filtrage). AUTO le choisit
 msgctxt "game_options"
 msgid "Above 60 fps, frames are interpolated between game updates. AUTO follows the display refresh rate."
 msgstr "Au-delà de 60 ips, les images sont interpolées entre deux mises à jour du jeu. AUTO suit la fréquence de l'écran."
+
+msgctxt "game_options"
+msgid "German and French need a PAL version of the game, Japanese an NTSC version."
+msgstr "L'allemand et le français demandent une version PAL du jeu, le japonais une version NTSC."
+
+msgctxt "game_options"
+msgid "Inverts the vertical axis when flying."
+msgstr "Inverse l'axe vertical pendant le pilotage."
+
+msgctxt "game_options"
+msgid "IPS PATCH FILE"
+msgstr "FICHIER DU PATCH IPS"
+
+msgctxt "game_options"
+msgid "DirectInput only: use it if the controllers do not control the right players."
+msgstr "DirectInput seulement : à activer si les manettes ne commandent pas les bons joueurs."
