@@ -3530,7 +3530,7 @@ msgid "AUTO ROTATE"
 msgstr "ROTATION AUTOMATIQUE"
 
 msgctxt "game_options"
-msgid "Automaticaly rotate display for vertical games."
+msgid "Automatically rotate display for vertical games."
 msgstr "Pivoter automatiquement l'affichage pour les jeux verticaux."
 
 msgctxt "game_options"
@@ -3614,7 +3614,7 @@ msgid "CONTROLS TYPE"
 msgstr "TYPES DE CONTRÔLES"
 
 msgctxt "game_options"
-msgid "Set default controler mapping."
+msgid "Set default controller mapping."
 msgstr "Définir le schéma de mapping du contrôleur."
 
 msgctxt "game_options"
@@ -3630,7 +3630,7 @@ msgid "PLAYER 1 CONTROLS"
 msgstr "TYPE DE CONTRÔLES JOUEUR 1"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 1."
+msgid "Set default controller mapping for player 1."
 msgstr "Définir le schéma de mapping du contrôleur pour le joueur 1."
 
 msgctxt "game_options"
@@ -3646,15 +3646,15 @@ msgid "L1/R1"
 msgstr "L1/R1"
 
 msgctxt "game_options"
-msgid "L2/R2"
-msgstr "L2/R2"
+msgid "R1/R2"
+msgstr "R1/R2"
 
 msgctxt "game_options"
 msgid "PLAYER 2 CONTROLS"
 msgstr "TYPE DE CONTRÔLES JOUEUR 2"
 
 msgctxt "game_options"
-msgid "Set default controler mapping for player 2."
+msgid "Set default controller mapping for player 2."
 msgstr "Définir le schéma de mapping du contrôleur pour le joueur 2."
 
 msgctxt "game_options"
@@ -11495,10 +11495,6 @@ msgid "ENABLE RESOLUTION CHANGE"
 msgstr "AUTORISER LE CHANGEMENT DE RÉSOLUTION"
 
 msgctxt "game_options"
-msgid "ENABLE DIAGNOSTIC"
-msgstr "ACTIVER LE MODE DIAGNOSTIC"
-
-msgctxt "game_options"
 msgid "DISK CONTROL DRIVE"
 msgstr "LECTEUR CIBLE DU CHANGEMENT DE DISQUE"
 
@@ -17380,7 +17376,7 @@ msgid "IGNORE PER-GAME SETTINGS"
 msgstr "IGNORER LES RÉGLAGES PAR JEU"
 
 msgctxt "game_options"
-msgid "SCANLINES ON NTESC FILTERS"
+msgid "SCANLINES ON NTSC FILTERS"
 msgstr "SCANLINES SUR LES FILTRES NTSC"
 
 msgctxt "game_options"
@@ -18820,7 +18816,7 @@ msgid "Type of FM-7 to emulate, default to FM-7."
 msgstr "Type de FM-7 à émuler, FM-7 par défaut."
 
 msgctxt "game_options"
-msgid "Type of FM Towns to emulate, default to FM TOWMS (MODEL 1/2)."
+msgid "Type of FM Towns to emulate, default to FM TOWNS (MODEL 1/2)."
 msgstr "Type de FM Towns à émuler, FM TOWNS (MODEL 1/2) par défaut."
 
 msgctxt "game_options"
@@ -18926,10 +18922,6 @@ msgstr "Définit la palette de couleurs. Old NTSC reproduit les couleurs ternes 
 msgctxt "game_options"
 msgid "Enable intelligent zoom function."
 msgstr "Active la fonction de zoom intelligent."
-
-msgctxt "game_options"
-msgid "Enable this option to access diagnostic menu with specific button combo."
-msgstr "Activer cette option pour accéder au menu de diagnostic avec une combinaison de boutons spécifique."
 
 msgctxt "game_options"
 msgid "Choose which drive the Disk Control menu operates. The other drives stay mounted. Loaded media uses the drive the game was loaded into."
@@ -28999,3 +28991,19 @@ msgstr "FICHIER DU PATCH IPS"
 msgctxt "game_options"
 msgid "DirectInput only: use it if the controllers do not control the right players."
 msgstr "DirectInput seulement : à activer si les manettes ne commandent pas les bons joueurs."
+
+msgctxt "game_options"
+msgid "The right analog stick of player 1 controls the second joystick, for dual stick games (Robotron: 2084, T:ME Salvo)."
+msgstr "Le stick analogique droit du joueur 1 contrôle le second joystick, pour les jeux à deux sticks (Robotron: 2084, T:ME Salvo)."
+
+msgctxt "game_options"
+msgid "Required by BASIC programs. Uses ATARIBAS.ROM when present, the built-in Altirra BASIC otherwise."
+msgstr "Requis par les programmes BASIC. Utilise ATARIBAS.ROM s'il est présent, sinon l'Altirra BASIC intégré."
+
+msgctxt "game_options"
+msgid "Colors of WonderSwan (mono) games. WS palettes mimic the original screens."
+msgstr "Couleurs des jeux WonderSwan (monochromes). Les palettes WS imitent les écrans d'origine."
+
+msgctxt "game_options"
+msgid "TurboTap needed to play with more than one player. Enabled automatically when a second controller is connected."
+msgstr "Le TurboTap est nécessaire pour jouer à plusieurs. Activé automatiquement quand une deuxième manette est branchée."
