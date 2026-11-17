@@ -22748,7 +22748,7 @@ msgid "L2 + R2 + START"
 msgstr "L2 + R2 + START"
 
 msgctxt "game_options"
-msgid "Auto Detect (DMG/GCB)"
+msgid "Auto Detect (DMG/CGB)"
 msgstr "Détection auto (DMG/CGB)"
 
 msgctxt "game_options"
