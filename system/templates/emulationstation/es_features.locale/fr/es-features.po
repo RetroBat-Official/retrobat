@@ -18604,8 +18604,8 @@ msgid "Rotate display, this can be useful for specific games that need vertical 
 msgstr "Pivote l'affichage, utile pour certains jeux qui nécessitent un affichage vertical."
 
 msgctxt "game_options"
-msgid "Automatically insert disk A side 1 when starting FDS game."
-msgstr "Insère automatiquement la face 1 du disque A au démarrage d'un jeu FDS."
+msgid "Automatically switch the disk side when the game asks for it."
+msgstr "Change automatiquement de face de disque quand le jeu le demande."
 
 msgctxt "game_options"
 msgid "Automatically fast forward FDS game when disk is loading."
@@ -29007,3 +29007,47 @@ msgstr "Couleurs des jeux WonderSwan (monochromes). Les palettes WS imitent les 
 msgctxt "game_options"
 msgid "TurboTap needed to play with more than one player. Enabled automatically when a second controller is connected."
 msgstr "Le TurboTap est nécessaire pour jouer à plusieurs. Activé automatiquement quand une deuxième manette est branchée."
+
+msgctxt "game_options"
+msgid "SIDE BY SIDE (2x1)"
+msgstr "CÔTE À CÔTE (2x1)"
+
+msgctxt "game_options"
+msgid "STACKED (1x2)"
+msgstr "EMPILÉ (1x2)"
+
+msgctxt "game_options"
+msgid "QUADRANTS (2x2)"
+msgstr "QUADRANTS (2x2)"
+
+msgctxt "game_options"
+msgid "SPEAKER (BIG+STRIP)"
+msgstr "PRINCIPAL (GRAND + BANDEAU)"
+
+msgctxt "game_options"
+msgid "FOCUS (SINGLE SCREEN)"
+msgstr "JOUEUR ACTIF (UN SEUL ÉCRAN)"
+
+msgctxt "game_options"
+msgid "OVERLAY (BIG+THUMBNAILS)"
+msgstr "INCRUSTATION (GRAND + VIGNETTES)"
+
+msgctxt "game_options"
+msgid "PLAYER 3"
+msgstr "JOUEUR 3"
+
+msgctxt "game_options"
+msgid "PLAYER 4"
+msgstr "JOUEUR 4"
+
+msgctxt "game_options"
+msgid "MIXED"
+msgstr "MIXAGE"
+
+msgctxt "game_options"
+msgid "AUDIO LIMITER"
+msgstr "LIMITEUR AUDIO"
+
+msgctxt "game_options"
+msgid "Prevents the mixed sound of several players from saturating."
+msgstr "Évite la saturation du son quand celui de plusieurs joueurs est mélangé."
