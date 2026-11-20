@@ -12,6 +12,7 @@
 - Bump devilutionx to 1.5.5 and add features
 - Bump dhewm3 to 1.5.5
 - Bump dolphin to 2609b
+- Bump DosBOX-pure to preview 8
 - Bump eduke32 and add controller configuration
 - Bump fbneo and libretro-fbneo to nov.3,2026 build
 - Bump gemrb to 0.9.5
@@ -23,6 +24,8 @@
 - Bump Raze to 1.11.0
 - Bump scummvm to 2026.4.1 (libretro also)
 - Bump shadPS4 to 0.21 and last version of launcher
+- Bump soh to 9.3.1
+- Bump sonic3air to latest stable
 - Bump supermodel to v0.4-20261108
 - Bump vita3k to release from november 6th
 - Bump vkquake to 1.37.0
@@ -31,12 +34,15 @@
 - Bump xenia-canary, xenia-edge and xenia-manager (5.0.0.0)
 - Bump libretro-atari800
 - Bump libretro-cap32
+- Bump libretro-dosbox_pure
+- Bump libretro-ecwolf
 - Bump libretro-flycast
 - Bump libretro-geargrafx and add it for pcengine/pcenginecd/laseractive (NEC only)
 - Bump libretro-gearsystem
 - Bump libretro-geolith (and add for negeocd)
 - Bump libretro-jollycv
 - Bump libretro-mednafen_saturn and add sega-stv
+- Bump libretro-mednafen_wswan (old savestates are not compatible anymore with new core version)
 - Bump libretro-melondsds
 - Bump libretro-nestopia
 - Bump libretro-opera
@@ -58,6 +64,7 @@
 - Add libretro-geartowns for fmtowns (new bios required) as main emulator
 - Add libretro-genesis_plus_gx_expanded also to megadrive (not only to MSU)
 - Add libretro-mgba_splitscreen for gba2players
+- Add libretro_v_bear for supracan
 - Add libretro-zcdi for cdi
 - Renamed "zinc" system to "psxarcade"
 - Add model1 system (keisho, supermodel, mame)
@@ -70,19 +77,26 @@
 - Add .m3u extension to Philips cdi system
 - Add .gcm and .tgc extensions for gamecube
 - Bump demulshooter to 17.10 (you can update from download store)
+- Remove libretro-boom3_xp core
 
 ### Fixes:
+- 2SHIP: fix menu window setting and enable controller navigation of the menu (SELECT)
+- 2SHIP and SOH: add .v64 extension
 - AMIBERRY: fix devices mapping in ports 1 and 2, especially when mouse is set
 - EMULATIONSTATION: Fix screen placement when exiting games (was causing issues with Teknoparrot)
+- GHOSTSHIP: fix settings not applied with Ghostship 3 (resolution, aspect ratio, controllers, MSAA, filtering, vsync) and show bezels only in native 4:3
 - HBMAME: fix path for savestates and nvram to not be mixed with MAME
 - LIBRETRO-MUPEN64PLUS_NEXT: disable Threaded Renderer by default (caused RetroArch menu to crash in some cases)
 - MESEN: fix assignment to superscope to port 2
 - RAINE: fix automatic controller configuration for some cases
 - SNES9X and MEDNAFEN: fix gun option
+- SOH: extract a Master Quest ROM added after the vanilla one
+- STARSHIP: show bezels only in native 4:3 and remove controller options without effect 
 - SOFTPATCH: fix multi-patches and add xdelta
 - STEAM: fix executable/process finding
 - TEKNOPARROT: Keep default window mode from Teknoparrot default profile instead of forcing fullscreen
 - TRIFORCE: better management of game patches
+- VPINBALL: fix registration of dmd
 
 ### Features:
 - ARES: add controlleyr layouts for the systems that manage it
@@ -100,6 +114,7 @@
 - MAME2003_PLUS now also uses the yml file for mapping
 - MODEL2: add yml mapping possibility
 - MUPEN64 (RMG and libretro): add crop overscan presets
+- PDARK: store the game save in saves\pdark (existing save copied on first launch)
 - QUIVERLAUNCHER: a link pointing to another executable will be treated as a standard windows game, same for new extensions
 - QUIVERLAUNCHER: a link to a port installed through quiverlauncher will launch the port even if quiverlauncher is not installed
 - QUIVERLAUNCHER: RetroBat will also pass the arguments of the link if any
@@ -108,6 +123,7 @@
 - QUIVERLAUNCHER: Close to tray forced to false, else QuiverLauncher will never exit
 - RETROARCH: add feature for netplay "request device"
 - RPCS3: Add .psn as an accepted extension (the .psn file must contain the gameID)
+- SONIC RETRO & MANIA: add procedure to be able to launch mods from RetroBat
 - TEKNOPARROT: add feature to show Teknoparrot console
 - VPINBALL: add option to rotate desktop when running a table
 - VPINBALL: add option to manage screens for playfield, backglass and DMD
@@ -123,12 +139,16 @@
 - MAME: finalized mapping per game for mame and libretro-mame/mame2003_plus
 - MEDNAFEN & GSPLUS: use standard bezel display instead of reshade
 - PADTOKEY: Try to fix padtokey not working after a while in game
+- RESHADE now will also work with vulkan
 - RETROBAT: Improve logging for the update mechanism (log failure to reach FTP)
 - RETROBAT: Try to sanitize STEAM environment by avoiding Steam SDL overrides
+- RETROBAT: Installer will only install missing VC++ components, not the full list
+- RETROBAT: add retrobat.ini option to disable some windows interface features (repeated keys, xbox guide button, notifications, taskbar...)
 - RVZ CHEEVOS INDEXER: add a progression bar
 - EMULATORLAUNCHER: Bump SDL3 to 3.4 and fix GUID on some emulators
 - EMULATORLAUNCHER: Add option to follow ES screen for opening emulators
 - EMULATORLAUNCHER: Add option to move arcade sticks after gamepads for each emulator (the detection of arcadesticks is based on a .txt file in \system\tools folder)
+- VPINBALL: reduce size of download by remove all unecessary baller stuff and unecessary executables
 - WIKI: general review of the EN and FR wiki pages (ongoing) - with a few fixes here and there upon reviewing the wiki
 
 </details>
