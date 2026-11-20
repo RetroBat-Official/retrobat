@@ -12,7 +12,7 @@
         { "trigger": "right", "type": "key", "target": "KEY_RIGHT" },
         { "trigger": "pageup", "type": "key", "target": "KEY_KPMINUS" },
         { "trigger": "pagedown", "type": "key", "target": "KEY_KPPLUS" },
-        { "trigger": "l2", "type": "key", "target": "KEY_KP3" },
-        { "trigger": "r2", "type": "key", "target": "KEY_KP4" }
+        { "trigger": "l2", "type": "key", "target": "KEY_KPSLASH" },
+        { "trigger": "r2", "type": "key", "target": "KEY_KPASTERISK" }
     ]
 }
