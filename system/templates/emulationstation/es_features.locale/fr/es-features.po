@@ -7583,8 +7583,8 @@ msgid "SHOW CONSOLE"
 msgstr "AFFICHER LA CONSOLE"
 
 msgctxt "game_options"
-msgid "Hidden by default, for few games can cause problem."
-msgstr "La fenêtre Teknoparrot est masquée par défaut, à désactiver si cela pose problème."
+msgid "Hidden by default, disable it if a game does not start correctly."
+msgstr "La fenêtre TeknoParrot est masquée par défaut, à désactiver si un jeu ne démarre pas correctement."
 
 msgctxt "game_options"
 msgid "GPU RENDERING PLUGIN"
@@ -9763,7 +9763,7 @@ msgid "EXCLUSIVE FULLSCREEN"
 msgstr "PLEIN ÉCRAN EXCLUSIF"
 
 msgctxt "game_options"
-msgid "Force P1 pad index, can be useful if XInput devices or not odered right."
+msgid "Force P1 pad index, can be useful if XInput devices are not ordered right."
 msgstr "Forcer l'index de la manette, peut être utile avec Xinput si les manettes sont inversées."
 
 msgctxt "game_options"
@@ -9771,7 +9771,7 @@ msgid "COIN\START BUTTONS"
 msgstr "BOUTONS CRÉDIT/START"
 
 msgctxt "game_options"
-msgid "Define where the the coin and start buttons are located."
+msgid "Define where the coin and start buttons are located."
 msgstr "Définir quel périphérique utiliser pour les boutons crédit et start."
 
 msgctxt "game_options"
@@ -9944,7 +9944,7 @@ msgstr "TYPE DE PLEIN ÉCRAN"
 
 msgctxt "game_options"
 msgid "FULLSCREEN WINDOW"
-msgstr "PLEIN ÉCRAN FENÉTRÉ"
+msgstr "PLEIN ÉCRAN FENÊTRÉ"
 
 msgctxt "game_options"
 msgid "USER NAME"
@@ -14988,6 +14988,10 @@ msgid "32X-SSAA"
 msgstr "32X-SSAA"
 
 msgctxt "game_options"
+msgid "32X"
+msgstr "32X"
+
+msgctxt "game_options"
 msgid "JINC2"
 msgstr "JINC2"
 
@@ -18604,8 +18608,8 @@ msgid "Rotate display, this can be useful for specific games that need vertical 
 msgstr "Pivote l'affichage, utile pour certains jeux qui nécessitent un affichage vertical."
 
 msgctxt "game_options"
-msgid "Automatically insert disk A side 1 when starting FDS game."
-msgstr "Insère automatiquement la face 1 du disque A au démarrage d'un jeu FDS."
+msgid "Automatically switch the disk side when the game asks for it."
+msgstr "Change automatiquement de face de disque quand le jeu le demande."
 
 msgctxt "game_options"
 msgid "Automatically fast forward FDS game when disk is loading."
@@ -29007,3 +29011,99 @@ msgstr "Couleurs des jeux WonderSwan (monochromes). Les palettes WS imitent les 
 msgctxt "game_options"
 msgid "TurboTap needed to play with more than one player. Enabled automatically when a second controller is connected."
 msgstr "Le TurboTap est nécessaire pour jouer à plusieurs. Activé automatiquement quand une deuxième manette est branchée."
+
+msgctxt "game_options"
+msgid "SIDE BY SIDE (2x1)"
+msgstr "CÔTE À CÔTE (2x1)"
+
+msgctxt "game_options"
+msgid "STACKED (1x2)"
+msgstr "EMPILÉ (1x2)"
+
+msgctxt "game_options"
+msgid "QUADRANTS (2x2)"
+msgstr "QUADRANTS (2x2)"
+
+msgctxt "game_options"
+msgid "SPEAKER (BIG+STRIP)"
+msgstr "PRINCIPAL (GRAND + BANDEAU)"
+
+msgctxt "game_options"
+msgid "FOCUS (SINGLE SCREEN)"
+msgstr "JOUEUR ACTIF (UN SEUL ÉCRAN)"
+
+msgctxt "game_options"
+msgid "OVERLAY (BIG+THUMBNAILS)"
+msgstr "INCRUSTATION (GRAND + VIGNETTES)"
+
+msgctxt "game_options"
+msgid "PLAYER 3"
+msgstr "JOUEUR 3"
+
+msgctxt "game_options"
+msgid "PLAYER 4"
+msgstr "JOUEUR 4"
+
+msgctxt "game_options"
+msgid "MIXED"
+msgstr "MIXAGE"
+
+msgctxt "game_options"
+msgid "AUDIO LIMITER"
+msgstr "LIMITEUR AUDIO"
+
+msgctxt "game_options"
+msgid "Prevents the mixed sound of several players from saturating."
+msgstr "Évite la saturation du son quand celui de plusieurs joueurs est mélangé."
+
+msgctxt "game_options"
+msgid "RETROPAD AS KEYBOARD"
+msgstr "RETROPAD EN CLAVIER"
+
+msgctxt "game_options"
+msgid "RETROPAD AS KEYBOARD: the d-pad sends the arrow keys and the buttons SPACE / RETURN, for games without joystick support."
+msgstr "RETROPAD EN CLAVIER : la croix envoie les flèches du clavier et les boutons ESPACE / ENTRÉE, pour les jeux qui ne gèrent pas le joystick."
+
+msgctxt "game_options"
+msgid "Load the mods placed in the mods folder of the game (one folder with a mod.ini per mod). On by default."
+msgstr "Charge les mods placés dans le dossier mods du jeu (un dossier avec un mod.ini par mod). Activé par défaut."
+
+msgctxt "game_options"
+msgid "RIGHT"
+msgstr "DROITE"
+
+msgctxt "game_options"
+msgid "LEFT"
+msgstr "GAUCHE"
+
+msgctxt "game_options"
+msgid "HIDDEN"
+msgstr "MASQUÉE"
+
+msgctxt "game_options"
+msgid "Camera speed with the right analog stick or the mouse."
+msgstr "Vitesse de la caméra au stick analogique droit ou à la souris."
+
+msgctxt "game_options"
+msgid "Turn speed with the mouse. Default: 10."
+msgstr "Vitesse de rotation à la souris. Par défaut : 10."
+
+msgctxt "game_options"
+msgid "Give the whole keyboard to the game (Scroll Lock gives it back to the hotkeys) and grab the mouse. The gamepad still works."
+msgstr "Donne tout le clavier au jeu (Arrêt défil le rend aux raccourcis) et capture la souris. La manette reste active."
+
+msgctxt "game_options"
+msgid "ON-SCREEN KEYBOARD ONLY (IN GAME)"
+msgstr "CLAVIER VIRTUEL SEUL (EN JEU)"
+
+msgctxt "game_options"
+msgid "OpenGL is required for shaders and internal resolution."
+msgstr "OpenGL est requis pour les shaders et la résolution interne."
+
+msgctxt "game_options"
+msgid "Only for recent Ikemen GO versions. Vulkan is experimental."
+msgstr "Uniquement pour les versions récentes d'Ikemen GO. Vulkan est expérimental."
+
+msgctxt "game_options"
+msgid "Native resolution of the game. By default, the one set in the game."
+msgstr "Résolution native du jeu. Par défaut, celle réglée dans le jeu."
