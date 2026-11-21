@@ -1011,7 +1011,7 @@ msgstr "KONSOLTYPE"
 
 msgctxt "game_options"
 msgid "CONTRACTORS"
-msgstr "ENTREPRENØRER"
+msgstr "KONTAKTORER"
 
 msgctxt "game_options"
 msgid "CONTRAST ADAPTATIVE SHARPENING"
