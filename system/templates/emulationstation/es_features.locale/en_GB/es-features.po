@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: emulationstation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-16 12:57+0100\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2026-11-21\n"
 "Language-Team: Retrobat\n"
-"Language: en\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0\n"
 
 # . TRANSLATION: libretro/81, libretro/gambatte
@@ -25,7 +25,7 @@ msgstr "Can be used to simulate colours of particular displays."
 # . TRANSLATION: libretro/fceumm, libretro/genesisplusgx, libretro/genesisplusgx, libretro/nestopia
 msgctxt "game_options"
 msgid "Composite (color bleeding + artifacts)"
-msgstr "Composite (colour bleeding + artifacts)"
+msgstr "Composite (colour bleeding + artefacts)"
 
 # . TRANSLATION: libretro/fceumm, libretro/genesisplusgx, libretro/genesisplusgx, libretro/nestopia
 msgctxt "game_options"
@@ -218,7 +218,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Hide in-game crosshair (game dependant)."
-msgstr "."
+msgstr ""
 
 msgctxt "game_options"
 msgid "VERBOSE MODE"
@@ -226,7 +226,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Enable verbose mode for debugging."
-msgstr "."
+msgstr ""
 
 msgctxt "game_options"
 msgid "TO WINDOW"
@@ -650,7 +650,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Remove odd composite green/blue artifacting that appears on real hardware."
-msgstr ""
+msgstr "Remove odd composite green/blue artefacting that appears on real hardware."
 
 msgctxt "game_options"
 msgid "EMULATED SYSTEM"
@@ -794,7 +794,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "SPECIALIZED"
-msgstr ""
+msgstr "SPECIALISED"
 
 msgctxt "game_options"
 msgid "HYBRID"
@@ -974,11 +974,11 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "HERCULES COLOR MODE"
-msgstr ""
+msgstr "HERCULES COLOUR MODE"
 
 msgctxt "game_options"
 msgid "The color scheme for Hercules emulation."
-msgstr ""
+msgstr "The colour scheme for Hercules emulation."
 
 msgctxt "game_options"
 msgid "BLACK AND WHITE"
@@ -1014,7 +1014,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Tweak the behavior of the 3Dfx Voodoo emulation."
-msgstr ""
+msgstr "Tweak the behaviour of the 3Dfx Voodoo emulation."
 
 msgctxt "game_options"
 msgid "Multi-Threading"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Set the behavior of the start menu when autostarted game exit."
-msgstr ""
+msgstr "Set the behaviour of the start menu when autostarted game exit."
 
 msgctxt "game_options"
 msgid "SIMPLE"
@@ -2238,7 +2238,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Enabling this will downsampling to native color depth. Disabling enable output at higher color depth."
-msgstr ""
+msgstr "Enabling this will downsampling to native colour depth. Disabling enable output at higher colour depth."
 
 msgctxt "game_options"
 msgid "PERSPECTIVE CORRECTION"
@@ -2258,7 +2258,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "FORCE ANALOG STICKS"
-msgstr ""
+msgstr "FORCE ANALOGUE STICKS"
 
 msgctxt "game_options"
 msgid "If disabled, DualShock can be toggled between DIGITAL/ANALOG with START+SELECT+L1+L2+R1+R2."
@@ -2594,7 +2594,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Recover significant color depth."
-msgstr ""
+msgstr "Recover significant colour depth."
 
 msgctxt "game_options"
 msgid "GAMMA DITHER"
@@ -2858,7 +2858,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Select palette for colorizing GB games when COLORIZATION is set to 'internal'."
-msgstr ""
+msgstr "Select palette for colourising GB games when COLOURISATION is set to 'internal'."
 
 msgctxt "game_options"
 msgid "GB - DMG"
@@ -2894,7 +2894,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "GBC - Grayscale"
-msgstr ""
+msgstr "GBC - Greyscale"
 
 msgctxt "game_options"
 msgid "GBC - Green"
@@ -2922,7 +2922,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Enable colorization of Game Boy games."
-msgstr ""
+msgstr "Enable colourisation of Game Boy games."
 
 msgctxt "game_options"
 msgid "GAMEBOY COLOR"
@@ -3098,7 +3098,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Choose which color palette is going to be used"
-msgstr ""
+msgstr "Choose which colour palette is going to be used"
 
 msgctxt "game_options"
 msgid "Famicom"
@@ -3886,7 +3886,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "A shadows and colors fix needed for some games such as Tony Hawk Proving Ground."
-msgstr ""
+msgstr "A shadows and colours fix needed for some games such as Tony Hawk Proving Ground."
 
 msgctxt "game_options"
 msgid "CRC LEVEL"
@@ -4066,7 +4066,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "Nearest Neighbor"
-msgstr ""
+msgstr "Nearest Neighbour"
 
 msgctxt "game_options"
 msgid "Bilinear (No Edge Blending)"
@@ -4094,7 +4094,7 @@ msgstr ""
 
 msgctxt "game_options"
 msgid "TRUE COLORS - 24 BITS"
-msgstr ""
+msgstr "TRUE COLOURS - 24 BITS"
 
 msgctxt "game_options"
 msgid "Forces the precision of colours output to the console's framebuffer."
@@ -4232,3 +4232,869 @@ msgctxt "game_options"
 msgid "TV"
 msgstr ""
 
+# FEATURES - LABELS (added 2026-11)
+msgctxt "game_options"
+msgid "ACCURATE COLOR EMULATION"
+msgstr "ACCURATE COLOUR EMULATION"
+
+msgctxt "game_options"
+msgid "ANALOG CONTROLS"
+msgstr "ANALOGUE CONTROLS"
+
+msgctxt "game_options"
+msgid "ANALOG CURSOR RESPONSE"
+msgstr "ANALOGUE CURSOR RESPONSE"
+
+msgctxt "game_options"
+msgid "ANALOG DEADZONE"
+msgstr "ANALOGUE DEADZONE"
+
+msgctxt "game_options"
+msgid "ANALOG DEADZONE (CORE)"
+msgstr "ANALOGUE DEADZONE (CORE)"
+
+msgctxt "game_options"
+msgid "ANALOG DEADZONE(CORE)"
+msgstr "ANALOGUE DEADZONE(CORE)"
+
+msgctxt "game_options"
+msgid "ANALOG MOUSE DEADZONE"
+msgstr "ANALOGUE MOUSE DEADZONE"
+
+msgctxt "game_options"
+msgid "ANALOG MOUSE SPEED"
+msgstr "ANALOGUE MOUSE SPEED"
+
+msgctxt "game_options"
+msgid "ANALOG RANGE"
+msgstr "ANALOGUE RANGE"
+
+msgctxt "game_options"
+msgid "ANALOG SATURATION"
+msgstr "ANALOGUE SATURATION"
+
+msgctxt "game_options"
+msgid "ANALOG SENSITIVITY"
+msgstr "ANALOGUE SENSITIVITY"
+
+msgctxt "game_options"
+msgid "ANALOG SENSITIVITY (CORE)"
+msgstr "ANALOGUE SENSITIVITY (CORE)"
+
+msgctxt "game_options"
+msgid "ANALOG SENSITIVITY(CORE)"
+msgstr "ANALOGUE SENSITIVITY(CORE)"
+
+msgctxt "game_options"
+msgid "ANALOG SPEED"
+msgstr "ANALOGUE SPEED"
+
+msgctxt "game_options"
+msgid "ANALOG STICK"
+msgstr "ANALOGUE STICK"
+
+msgctxt "game_options"
+msgid "ANALOG STICK DEVICE"
+msgstr "ANALOGUE STICK DEVICE"
+
+msgctxt "game_options"
+msgid "ANALOG STICK MOUSE"
+msgstr "ANALOGUE STICK MOUSE"
+
+msgctxt "game_options"
+msgid "ANALOG STICK SENSITIVITY"
+msgstr "ANALOGUE STICK SENSITIVITY"
+
+msgctxt "game_options"
+msgid "ANALOG TO D-PAD"
+msgstr "ANALOGUE TO D-PAD"
+
+msgctxt "game_options"
+msgid "ANALOG TO DIGITAL SENSITIVITY"
+msgstr "ANALOGUE TO DIGITAL SENSITIVITY"
+
+msgctxt "game_options"
+msgid "ANALOG TO DPAD MODE"
+msgstr "ANALOGUE TO DPAD MODE"
+
+msgctxt "game_options"
+msgid "ANALOG TOGGLE COMBO"
+msgstr "ANALOGUE TOGGLE COMBO"
+
+msgctxt "game_options"
+msgid "ANALOG TRIGGER DEADZONE"
+msgstr "ANALOGUE TRIGGER DEADZONE"
+
+msgctxt "game_options"
+msgid "ANALOG TRIGGER DEADZONE(CORE)"
+msgstr "ANALOGUE TRIGGER DEADZONE(CORE)"
+
+msgctxt "game_options"
+msgid "ANALOG/DIGITAL TOGGLE COMBO"
+msgstr "ANALOGUE/DIGITAL TOGGLE COMBO"
+
+msgctxt "game_options"
+msgid "ARTIFACTING MODE"
+msgstr "ARTEFACTING MODE"
+
+msgctxt "game_options"
+msgid "AUTO-CENTER STRENGTH"
+msgstr "AUTO-CENTRE STRENGTH"
+
+msgctxt "game_options"
+msgid "CHASE CAMERA STABILIZER"
+msgstr "CHASE CAMERA STABILISER"
+
+msgctxt "game_options"
+msgid "COLOR BLEED"
+msgstr "COLOUR BLEED"
+
+msgctxt "game_options"
+msgid "COLOR BUFFER TO RDRAM"
+msgstr "COLOUR BUFFER TO RDRAM"
+
+msgctxt "game_options"
+msgid "COLOR CORRECTION"
+msgstr "COLOUR CORRECTION"
+
+msgctxt "game_options"
+msgid "COLOR CORRECTION MODE"
+msgstr "COLOUR CORRECTION MODE"
+
+msgctxt "game_options"
+msgid "COLOR DEPTH"
+msgstr "COLOUR DEPTH"
+
+msgctxt "game_options"
+msgid "COLOR DISPLAY"
+msgstr "COLOUR DISPLAY"
+
+msgctxt "game_options"
+msgid "COLOR MODE"
+msgstr "COLOUR MODE"
+
+msgctxt "game_options"
+msgid "COLOR PALETTE"
+msgstr "COLOUR PALETTE"
+
+msgctxt "game_options"
+msgid "COLOR SET"
+msgstr "COLOUR SET"
+
+msgctxt "game_options"
+msgid "COLORIZE DMD"
+msgstr "COLOURISE DMD"
+
+msgctxt "game_options"
+msgid "CPU OPTIMIZATIONS"
+msgstr "CPU OPTIMISATIONS"
+
+msgctxt "game_options"
+msgid "CROSSHAIR COLOR"
+msgstr "CROSSHAIR COLOUR"
+
+msgctxt "game_options"
+msgid "CRT COLORS"
+msgstr "CRT COLOURS"
+
+msgctxt "game_options"
+msgid "DPAD AS ANALOG"
+msgstr "DPAD AS ANALOGUE"
+
+msgctxt "game_options"
+msgid "ENABLE ANALOG NUDGE"
+msgstr "ENABLE ANALOGUE NUDGE"
+
+msgctxt "game_options"
+msgid "FAST FORWARD BEHAVIOR"
+msgstr "FAST FORWARD BEHAVIOUR"
+
+msgctxt "game_options"
+msgid "FORCE TRUE COLOR"
+msgstr "FORCE TRUE COLOUR"
+
+msgctxt "game_options"
+msgid "GL-COLOR MODE"
+msgstr "GL-COLOUR MODE"
+
+msgctxt "game_options"
+msgid "GUN AXIS AUTO-CENTERING"
+msgstr "GUN AXIS AUTO-CENTRING"
+
+msgctxt "game_options"
+msgid "IGNORE OPTIMIZED SETTINGS"
+msgstr "IGNORE OPTIMISED SETTINGS"
+
+msgctxt "game_options"
+msgid "P1 CROSSHAIR COLOR"
+msgstr "P1 CROSSHAIR COLOUR"
+
+msgctxt "game_options"
+msgid "P2 CROSSHAIR COLOR"
+msgstr "P2 CROSSHAIR COLOUR"
+
+msgctxt "game_options"
+msgid "READ COLOR BUFFERS"
+msgstr "READ COLOUR BUFFERS"
+
+msgctxt "game_options"
+msgid "SIMPLE DOUBLE HI-RES COLORS"
+msgstr "SIMPLE DOUBLE HI-RES COLOURS"
+
+msgctxt "game_options"
+msgid "SLOW MOTION BEHAVIOR"
+msgstr "SLOW MOTION BEHAVIOUR"
+
+msgctxt "game_options"
+msgid "SPEECH SYNTHESIZER"
+msgstr "SPEECH SYNTHESISER"
+
+msgctxt "game_options"
+msgid "START IN ANALOG MODE"
+msgstr "START IN ANALOGUE MODE"
+
+msgctxt "game_options"
+msgid "TRUE COLOR"
+msgstr "TRUE COLOUR"
+
+msgctxt "game_options"
+msgid "TRUE COLORS (24 BITS)"
+msgstr "TRUE COLOURS (24 BITS)"
+
+msgctxt "game_options"
+msgid "USE ANALOG AS ENTIRE KEYPAD"
+msgstr "USE ANALOGUE AS ENTIRE KEYPAD"
+
+msgctxt "game_options"
+msgid "USE ANALOG STICK"
+msgstr "USE ANALOGUE STICK"
+
+msgctxt "game_options"
+msgid "USE ANALOG TRIGGERS"
+msgstr "USE ANALOGUE TRIGGERS"
+
+msgctxt "game_options"
+msgid "WHEEL AUTO-CENTER"
+msgstr "WHEEL AUTO-CENTRE"
+
+msgctxt "game_options"
+msgid "WRITE COLOR BUFFERS"
+msgstr "WRITE COLOUR BUFFERS"
+
+# FEATURES - CHOICES (added 2026-11)
+msgctxt "game_options"
+msgid "15 BIT COLOR"
+msgstr "15 BIT COLOUR"
+
+msgctxt "game_options"
+msgid "24 BIT COLOR"
+msgstr "24 BIT COLOUR"
+
+msgctxt "game_options"
+msgid "ANALOG ARCADE GUN"
+msgstr "ANALOGUE ARCADE GUN"
+
+msgctxt "game_options"
+msgid "ANALOG GAMEPAD"
+msgstr "ANALOGUE GAMEPAD"
+
+msgctxt "game_options"
+msgid "ANALOG JOYSTICK"
+msgstr "ANALOGUE JOYSTICK"
+
+msgctxt "game_options"
+msgid "Analog Joystick"
+msgstr "Analogue Joystick"
+
+msgctxt "game_options"
+msgid "Apple (2x 2-button Analog)"
+msgstr "Apple (2x 2-button Analogue)"
+
+msgctxt "game_options"
+msgid "BOTTOM CENTER"
+msgstr "BOTTOM CENTRE"
+
+msgctxt "game_options"
+msgid "CENTER"
+msgstr "CENTRE"
+
+msgctxt "game_options"
+msgid "CENTER LEFT"
+msgstr "CENTRE LEFT"
+
+msgctxt "game_options"
+msgid "CENTER RIGHT"
+msgstr "CENTRE RIGHT"
+
+msgctxt "game_options"
+msgid "COLOR"
+msgstr "COLOUR"
+
+msgctxt "game_options"
+msgid "COLOR (RGB)"
+msgstr "COLOUR (RGB)"
+
+msgctxt "game_options"
+msgid "COLOR - APPLEWIN NTSC"
+msgstr "COLOUR - APPLEWIN NTSC"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE 4-BIT"
+msgstr "COLOUR - COMPOSITE 4-BIT"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE IDEALIZED"
+msgstr "COLOUR - COMPOSITE IDEALISED"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE IDEALIZED (DEFAULT)"
+msgstr "COLOUR - COMPOSITE IDEALISED (DEFAULT)"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE MEDIUM"
+msgstr "COLOUR - COMPOSITE MEDIUM"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE MONITOR"
+msgstr "COLOUR - COMPOSITE MONITOR"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE, CPU"
+msgstr "COLOUR - COMPOSITE, CPU"
+
+msgctxt "game_options"
+msgid "COLOR - COMPOSITE, GPU (DEFAULT)"
+msgstr "COLOUR - COMPOSITE, GPU (DEFAULT)"
+
+msgctxt "game_options"
+msgid "COLOR - NTSC"
+msgstr "COLOUR - NTSC"
+
+msgctxt "game_options"
+msgid "COLOR - RGB CARD/MONITOR"
+msgstr "COLOUR - RGB CARD/MONITOR"
+
+msgctxt "game_options"
+msgid "COLOR - RGB CARD/MONITOR (DEFAULT)"
+msgstr "COLOUR - RGB CARD/MONITOR (DEFAULT)"
+
+msgctxt "game_options"
+msgid "COLOR - RGB LE CHAT MAUVE"
+msgstr "COLOUR - RGB LE CHAT MAUVE"
+
+msgctxt "game_options"
+msgid "COLOR ANTIALIASING"
+msgstr "COLOUR ANTIALIASING"
+
+msgctxt "game_options"
+msgid "COLOR CORRECT CURVES"
+msgstr "COLOUR CORRECT CURVES"
+
+msgctxt "game_options"
+msgid "COLOR TV"
+msgstr "COLOUR TV"
+
+msgctxt "game_options"
+msgid "Center"
+msgstr "Centre"
+
+msgctxt "game_options"
+msgid "EMPHASIZE BOTTOM"
+msgstr "EMPHASISE BOTTOM"
+
+msgctxt "game_options"
+msgid "EMPHASIZE TOP"
+msgstr "EMPHASISE TOP"
+
+msgctxt "game_options"
+msgid "ENABLE (OPTIMIZED)"
+msgstr "ENABLE (OPTIMISED)"
+
+msgctxt "game_options"
+msgid "ENABLE (UNOPTIMIZED)"
+msgstr "ENABLE (UNOPTIMISED)"
+
+msgctxt "game_options"
+msgid "FOR ANALOG DEVICES ONLY"
+msgstr "FOR ANALOGUE DEVICES ONLY"
+
+msgctxt "game_options"
+msgid "GAMEPAD - ANALOG STICK"
+msgstr "GAMEPAD - ANALOGUE STICK"
+
+msgctxt "game_options"
+msgid "GBA COLOR"
+msgstr "GBA COLOUR"
+
+msgctxt "game_options"
+msgid "GRAY"
+msgstr "GREY"
+
+msgctxt "game_options"
+msgid "GRAYSCALE"
+msgstr "GREYSCALE"
+
+msgctxt "game_options"
+msgid "GRAYSCALE 2"
+msgstr "GREYSCALE 2"
+
+msgctxt "game_options"
+msgid "Grayscale"
+msgstr "Greyscale"
+
+msgctxt "game_options"
+msgid "LEFT ANALOG"
+msgstr "LEFT ANALOGUE"
+
+msgctxt "game_options"
+msgid "LEFT ANALOG (FORCED)"
+msgstr "LEFT ANALOGUE (FORCED)"
+
+msgctxt "game_options"
+msgid "Lunar Ignore Brightness Color Fix"
+msgstr "Lunar Ignore Brightness Colour Fix"
+
+msgctxt "game_options"
+msgid "NATURAL COLORS"
+msgstr "NATURAL COLOURS"
+
+msgctxt "game_options"
+msgid "NATURAL COLORS (NO BLUR)"
+msgstr "NATURAL COLOURS (NO BLUR)"
+
+msgctxt "game_options"
+msgid "NEAREST NEIGHBOR"
+msgstr "NEAREST NEIGHBOUR"
+
+msgctxt "game_options"
+msgid "NEAREST NEIGHBOR 2X"
+msgstr "NEAREST NEIGHBOUR 2X"
+
+msgctxt "game_options"
+msgid "NEAREST NEIGHBOR 3X"
+msgstr "NEAREST NEIGHBOUR 3X"
+
+msgctxt "game_options"
+msgid "NEAREST NEIGHBOR 4X"
+msgstr "NEAREST NEIGHBOUR 4X"
+
+msgctxt "game_options"
+msgid "NEAREST NEIGHBOR SAMPLED OUTPUT"
+msgstr "NEAREST NEIGHBOUR SAMPLED OUTPUT"
+
+msgctxt "game_options"
+msgid "OPTIMIZED"
+msgstr "OPTIMISED"
+
+msgctxt "game_options"
+msgid "PC-9801 (16 colors)"
+msgstr "PC-9801 (16 colours)"
+
+msgctxt "game_options"
+msgid "PC-9801 (8 colors)"
+msgstr "PC-9801 (8 colours)"
+
+msgctxt "game_options"
+msgid "PC-9821 (256 colors)"
+msgstr "PC-9821 (256 colours)"
+
+msgctxt "game_options"
+msgid "PREFER COLOR"
+msgstr "PREFER COLOUR"
+
+msgctxt "game_options"
+msgid "PRIMARY COLORS"
+msgstr "PRIMARY COLOURS"
+
+msgctxt "game_options"
+msgid "RGB COLOR (low/medium resolution)"
+msgstr "RGB COLOUR (low/medium resolution)"
+
+msgctxt "game_options"
+msgid "RIGHT ANALOG"
+msgstr "RIGHT ANALOGUE"
+
+msgctxt "game_options"
+msgid "RIGHT ANALOG (FORCED)"
+msgstr "RIGHT ANALOGUE (FORCED)"
+
+msgctxt "game_options"
+msgid "TOP CENTER"
+msgstr "TOP CENTRE"
+
+msgctxt "game_options"
+msgid "TRUE COLOR (FULL)"
+msgstr "TRUE COLOUR (FULL)"
+
+msgctxt "game_options"
+msgid "TRUE COLOR SOFTWARE"
+msgstr "TRUE COLOUR SOFTWARE"
+
+msgctxt "game_options"
+msgid "UNOPTIMIZED"
+msgstr "UNOPTIMISED"
+
+msgctxt "game_options"
+msgid "UNSYNCHRONIZED"
+msgstr "UNSYNCHRONISED"
+
+msgctxt "game_options"
+msgid "WINDOWS 16 COLORS"
+msgstr "WINDOWS 16 COLOURS"
+
+msgctxt "game_options"
+msgid "WINDOWS 256 COLORS"
+msgstr "WINDOWS 256 COLOURS"
+
+msgctxt "game_options"
+msgid "YES(ANALOG)"
+msgstr "YES(ANALOGUE)"
+
+# FEATURES - DESCRIPTIONS (added 2026-11)
+msgctxt "game_options"
+msgid "'Dual Stick' maps Player 2 joystick to the right analog stick of Player 1, 'Swap Ports' fixes port inversion for 'Wizard of Wor'."
+msgstr "'Dual Stick' maps Player 2 joystick to the right analogue stick of Player 1, 'Swap Ports' fixes port inversion for 'Wizard of Wor'."
+
+msgctxt "game_options"
+msgid "24 bits removes the color banding in dark areas and gradients. HDR requires an HDR display with HDR enabled in RetroArch, otherwise the core falls back to 24 bits."
+msgstr "24 bits removes the colour banding in dark areas and gradients. HDR requires an HDR display with HDR enabled in RetroArch, otherwise the core falls back to 24 bits."
+
+msgctxt "game_options"
+msgid "Adjust mouse pointer speed based on the analog stick sensitivity."
+msgstr "Adjust mouse pointer speed based on the analogue stick sensitivity."
+
+msgctxt "game_options"
+msgid "Adjust output colors to mimic original console screen."
+msgstr "Adjust output colours to mimic original console screen."
+
+msgctxt "game_options"
+msgid "Adjust the vertical center of the Wiimote pointer."
+msgstr "Adjust the vertical centre of the Wiimote pointer."
+
+msgctxt "game_options"
+msgid "Approximates the analog output stage of the console: removes the DC offset and softens high frequencies."
+msgstr "Approximates the analogue output stage of the console: removes the DC offset and softens high frequencies."
+
+msgctxt "game_options"
+msgid "Auto-center the aiming axis. Useful when playing gun games with a gamepad instead of a lightgun."
+msgstr "Auto-centre the aiming axis. Useful when playing gun games with a gamepad instead of a lightgun."
+
+msgctxt "game_options"
+msgid "Camera speed with the right analog stick or the mouse."
+msgstr "Camera speed with the right analogue stick or the mouse."
+
+msgctxt "game_options"
+msgid "Can be useful for Gran Turismo, triggers will be mapped to right analog stick."
+msgstr "Can be useful for Gran Turismo, triggers will be mapped to right analogue stick."
+
+msgctxt "game_options"
+msgid "Can reduce lags when compiling shaders but also can create artifacts."
+msgstr "Can reduce lags when compiling shaders but also can create artefacts."
+
+msgctxt "game_options"
+msgid "Change the sensitivity of the analog stick."
+msgstr "Change the sensitivity of the analogue stick."
+
+msgctxt "game_options"
+msgid "Choose the color palette."
+msgstr "Choose the colour palette."
+
+msgctxt "game_options"
+msgid "Choose which color palette is going to be used."
+msgstr "Choose which colour palette is going to be used."
+
+msgctxt "game_options"
+msgid "Color palette for original Game Boy games."
+msgstr "Colour palette for original Game Boy games."
+
+msgctxt "game_options"
+msgid "Color temperature of the arcade monitor."
+msgstr "Colour temperature of the arcade monitor."
+
+msgctxt "game_options"
+msgid "Colors of WonderSwan (mono) games. WS palettes mimic the original screens."
+msgstr "Colours of WonderSwan (mono) games. WS palettes mimic the original screens."
+
+msgctxt "game_options"
+msgid "Copy the color buffer to N64 memory. Needed for some effects (e.g. pause screens, camera photos). OFF is fastest but may break them. AUTO follows the performance mode."
+msgstr "Copy the colour buffer to N64 memory. Needed for some effects (e.g. pause screens, camera photos). OFF is fastest but may break them. AUTO follows the performance mode."
+
+msgctxt "game_options"
+msgid "Define the button combo to hold to toggle dualshock controller between analog and digital mode."
+msgstr "Define the button combo to hold to toggle dualshock controller between analogue and digital mode."
+
+msgctxt "game_options"
+msgid "Define the color palette, Old NTSC reproduces the old ugly japanese TV colors."
+msgstr "Define the colour palette, Old NTSC reproduces the old ugly japanese TV colours."
+
+msgctxt "game_options"
+msgid "Define the connected device that emulates an Analog Directional Stick."
+msgstr "Define the connected device that emulates an Analogue Directional Stick."
+
+msgctxt "game_options"
+msgid "Define the type of monitor, will change colors."
+msgstr "Define the type of monitor, will change colours."
+
+msgctxt "game_options"
+msgid "Define which analog stick controls the mouse pointer."
+msgstr "Define which analogue stick controls the mouse pointer."
+
+msgctxt "game_options"
+msgid "Device plugged into the Apple II game port. The analog stick gives progressive paddle movement, the d-pad only goes fully left or right."
+msgstr "Device plugged into the Apple II game port. The analogue stick gives progressive paddle movement, the d-pad only goes fully left or right."
+
+msgctxt "game_options"
+msgid "Disable dithering and use the full 8 bits per channel color information."
+msgstr "Disable dithering and use the full 8 bits per channel colour information."
+
+msgctxt "game_options"
+msgid "Disable the analog plunger (right stick) and the analog nudge (left stick)."
+msgstr "Disable the analogue plunger (right stick) and the analogue nudge (left stick)."
+
+msgctxt "game_options"
+msgid "Disable this option to center the IR pointer when the stick is released."
+msgstr "Disable this option to centre the IR pointer when the stick is released."
+
+msgctxt "game_options"
+msgid "Disabling this feature will reduce color depth."
+msgstr "Disabling this feature will reduce colour depth."
+
+msgctxt "game_options"
+msgid "Emulate the behavior of older engines, required by some older mods and demos."
+msgstr "Emulate the behaviour of older engines, required by some older mods and demos."
+
+msgctxt "game_options"
+msgid "Emulates PS3 multisampling layout. Can fix some visual artifacts in some games."
+msgstr "Emulates PS3 multisampling layout. Can fix some visual artefacts in some games."
+
+msgctxt "game_options"
+msgid "Enable if the wheel is pushed away from center instead of toward it."
+msgstr "Enable if the wheel is pushed away from centre instead of toward it."
+
+msgctxt "game_options"
+msgid "Enable this if the controller does not have analog triggers."
+msgstr "Enable this if the controller does not have analogue triggers."
+
+msgctxt "game_options"
+msgid "Enabled by default. Disables dithering and forces 24-bit color output."
+msgstr "Enabled by default. Disables dithering and forces 24-bit colour output."
+
+msgctxt "game_options"
+msgid "Fixes shadow and depth artifacts in some games."
+msgstr "Fixes shadow and depth artefacts in some games."
+
+msgctxt "game_options"
+msgid "Force GBC software that alters behavior when run on GBA."
+msgstr "Force GBC software that alters behaviour when run on GBA."
+
+msgctxt "game_options"
+msgid "Force how textures are sampled. Nearest neighbor keeps pixels sharp, linear smooths them."
+msgstr "Force how textures are sampled. Nearest neighbour keeps pixels sharp, linear smooths them."
+
+msgctxt "game_options"
+msgid "Gun games played with a controller (no lightgun). Relative: the stick moves the cursor. Absolute: the stick position is the screen position, back to the center when released."
+msgstr "Gun games played with a controller (no lightgun). Relative: the stick moves the cursor. Absolute: the stick position is the screen position, back to the centre when released."
+
+msgctxt "game_options"
+msgid "If Off, disables the dithering pattern the PSX applies to combat color banding."
+msgstr "If Off, disables the dithering pattern the PSX applies to combat colour banding."
+
+msgctxt "game_options"
+msgid "Ignore analog stick movement below this threshold."
+msgstr "Ignore analogue stick movement below this threshold."
+
+msgctxt "game_options"
+msgid "Improves color depth."
+msgstr "Improves colour depth."
+
+msgctxt "game_options"
+msgid "Initializes color render targets from emulated memory. Needed by some games to render correctly, can reduce performance. Default off."
+msgstr "Initialises colour render targets from emulated memory. Needed by some games to render correctly, can reduce performance. Default off."
+
+msgctxt "game_options"
+msgid "Initializes depth render targets from emulated memory. Needed by some games to render correctly, can reduce performance. Default off."
+msgstr "Initialises depth render targets from emulated memory. Needed by some games to render correctly, can reduce performance. Default off."
+
+msgctxt "game_options"
+msgid "Invert the gamepad right analog stick's vertical axis."
+msgstr "Invert the gamepad right analogue stick's vertical axis."
+
+msgctxt "game_options"
+msgid "Leave this ON by default to enable CPU JIT Optimizations."
+msgstr "Leave this ON by default to enable CPU JIT Optimisations."
+
+msgctxt "game_options"
+msgid "Maps the triggers to the analog stick vertical axis. Useful for Gran Turismo and other racing games."
+msgstr "Maps the triggers to the analogue stick vertical axis. Useful for Gran Turismo and other racing games."
+
+msgctxt "game_options"
+msgid "Matches colors to how they look on real hardware."
+msgstr "Matches colours to how they look on real hardware."
+
+msgctxt "game_options"
+msgid "May cause artifacts in some games."
+msgstr "May cause artefacts in some games."
+
+msgctxt "game_options"
+msgid "More accurate behavior but may cause lower performance. ON by default."
+msgstr "More accurate behaviour but may cause lower performance. ON by default."
+
+msgctxt "game_options"
+msgid "Mouse: games such as Elansar or Defender of the Crown. Analog stick: BattleSphere, also select it in the game options."
+msgstr "Mouse: games such as Elansar or Defender of the Crown. Analogue stick: BattleSphere, also select it in the game options."
+
+msgctxt "game_options"
+msgid "Move the mouse with an analog stick of controller 1 (L2/R2 = buttons). A port must be set to Mouse."
+msgstr "Move the mouse with an analogue stick of controller 1 (L2/R2 = buttons). A port must be set to Mouse."
+
+msgctxt "game_options"
+msgid "Move with the left analog stick as well as the D-pad. On by default."
+msgstr "Move with the left analogue stick as well as the D-pad. On by default."
+
+msgctxt "game_options"
+msgid "NO shows the left eye image only. Anaglyph needs 3D glasses of the same colors, side by side is for VR headsets and 3D displays."
+msgstr "NO shows the left eye image only. Anaglyph needs 3D glasses of the same colours, side by side is for VR headsets and 3D displays."
+
+msgctxt "game_options"
+msgid "Overclock or underclock the emulated main CPU. Can help stabilize the framerate, but breaks some games."
+msgstr "Overclock or underclock the emulated main CPU. Can help stabilise the framerate, but breaks some games."
+
+msgctxt "game_options"
+msgid "Prevents some artifacts but can result in hard edges."
+msgstr "Prevents some artefacts but can result in hard edges."
+
+msgctxt "game_options"
+msgid "Read render-to-texture results on the CPU. This may be needed in some games but causes mid-frame synchronization, so it has a huge performance impact."
+msgstr "Read render-to-texture results on the CPU. This may be needed in some games but causes mid-frame synchronisation, so it has a huge performance impact."
+
+msgctxt "game_options"
+msgid "Reduce analog controls speed, some games require low values to be playable."
+msgstr "Reduce analogue controls speed, some games require low values to be playable."
+
+msgctxt "game_options"
+msgid "Render gouraud shading at full precision to reduce color banding in 3D games."
+msgstr "Render gouraud shading at full precision to reduce colour banding in 3D games."
+
+msgctxt "game_options"
+msgid "Renders in 24-bit colors and removes dithering."
+msgstr "Renders in 24-bit colours and removes dithering."
+
+msgctxt "game_options"
+msgid "Scales X coordinates relative to the center of the screen. Lower this if shots land too far from the crosshair on the edges."
+msgstr "Scales X coordinates relative to the centre of the screen. Lower this if shots land too far from the crosshair on the edges."
+
+msgctxt "game_options"
+msgid "Select which color filter to apply."
+msgstr "Select which colour filter to apply."
+
+msgctxt "game_options"
+msgid "Set license mask for activated content (ALL LICENCES is Generally a bad idea, could lead to undefined behavior)."
+msgstr "Set licence mask for activated content (ALL LICENCES is Generally a bad idea, could lead to undefined behaviour)."
+
+msgctxt "game_options"
+msgid "Sets the deadzone of the Gamepad analog sticks when the input device type is set to 'Gamepad Classic' or 'Gamepad Modern'."
+msgstr "Sets the deadzone of the Gamepad analogue sticks when the input device type is set to 'Gamepad Classic' or 'Gamepad Modern'."
+
+msgctxt "game_options"
+msgid "Sets the deadzone of the Gamepad analog sticks."
+msgstr "Sets the deadzone of the Gamepad analogue sticks."
+
+msgctxt "game_options"
+msgid "Sets the deadzone of the Gamepad analog triggers."
+msgstr "Sets the deadzone of the Gamepad analogue triggers."
+
+msgctxt "game_options"
+msgid "Sets the deadzone of the analog sticks. Only used with the 'Gamepad Modern' controller type."
+msgstr "Sets the deadzone of the analogue sticks. Only used with the 'Gamepad Modern' controller type."
+
+msgctxt "game_options"
+msgid "Sets the sensitivity of the analog sticks."
+msgstr "Sets the sensitivity of the analogue sticks."
+
+msgctxt "game_options"
+msgid "Simulate effects specific to the PowerVR2 GPU and analog video signals."
+msgstr "Simulate effects specific to the PowerVR2 GPU and analogue video signals."
+
+msgctxt "game_options"
+msgid "Simulate the colors of the Game Boy Color LCD screen."
+msgstr "Simulate the colours of the Game Boy Color LCD screen."
+
+msgctxt "game_options"
+msgid "Skip the long steering motor initialization at boot. Select the revision of your game."
+msgstr "Skip the long steering motor initialisation at boot. Select the revision of your game."
+
+msgctxt "game_options"
+msgid "Skip the steering motor initialization at boot."
+msgstr "Skip the steering motor initialisation at boot."
+
+msgctxt "game_options"
+msgid "Speed of the analog-stick mouse."
+msgstr "Speed of the analogue-stick mouse."
+
+msgctxt "game_options"
+msgid "Spring the wheel back to center while the game is not driving force feedback, like the mechanical spring of an arcade cabinet."
+msgstr "Spring the wheel back to centre while the game is not driving force feedback, like the mechanical spring of an arcade cabinet."
+
+msgctxt "game_options"
+msgid "Steering axis deadzone, for pads or non self-centering wheels."
+msgstr "Steering axis deadzone, for pads or non self-centring wheels."
+
+msgctxt "game_options"
+msgid "Supersample framebuffer effects, can introduce artifacts."
+msgstr "Supersample framebuffer effects, can introduce artefacts."
+
+msgctxt "game_options"
+msgid "Switch this on to use dpad instead of left analog stick."
+msgstr "Switch this on to use dpad instead of left analogue stick."
+
+msgctxt "game_options"
+msgid "The game region must match the Wii Menu region, otherwise the game will not be recognized."
+msgstr "The game region must match the Wii Menu region, otherwise the game will not be recognised."
+
+msgctxt "game_options"
+msgid "The right analog stick of player 1 controls the second joystick, for dual stick games (Robotron: 2084, T:ME Salvo)."
+msgstr "The right analogue stick of player 1 controls the second joystick, for dual stick games (Robotron: 2084, T:ME Salvo)."
+
+msgctxt "game_options"
+msgid "Threshold at which analog stick movement counts as a digital direction."
+msgstr "Threshold at which analogue stick movement counts as a digital direction."
+
+msgctxt "game_options"
+msgid "Tilt input for Kirby Tilt 'n' Tumble and other MBC7 games. Analog stick by default."
+msgstr "Tilt input for Kirby Tilt 'n' Tumble and other MBC7 games. Analogue stick by default."
+
+msgctxt "game_options"
+msgid "Use Analog stick as D-PAD."
+msgstr "Use Analogue stick as D-PAD."
+
+msgctxt "game_options"
+msgid "Use Left analog stick instead of D-PAD for controls."
+msgstr "Use Left analogue stick instead of D-PAD for controls."
+
+msgctxt "game_options"
+msgid "Use a predefined color palette instead of the one computed by the emulator."
+msgstr "Use a predefined colour palette instead of the one computed by the emulator."
+
+msgctxt "game_options"
+msgid "Use analog stick instead of dpad."
+msgstr "Use analogue stick instead of dpad."
+
+msgctxt "game_options"
+msgid "Use buttons instead of an analog axis for the wheel."
+msgstr "Use buttons instead of an analogue axis for the wheel."
+
+msgctxt "game_options"
+msgid "Use left analog stick in addition to dpad."
+msgstr "Use left analogue stick in addition to dpad."
+
+msgctxt "game_options"
+msgid "Use left analog stick instead of D-PAD."
+msgstr "Use left analogue stick instead of D-PAD."
+
+msgctxt "game_options"
+msgid "Use this only if the analog stick is drifting."
+msgstr "Use this only if the analogue stick is drifting."
+
+msgctxt "game_options"
+msgid "Use this option when using a pad recognized as keyboard (ipac, etc.)."
+msgstr "Use this option when using a pad recognised as keyboard (ipac, etc.)."
