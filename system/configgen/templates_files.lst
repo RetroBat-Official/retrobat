@@ -61,7 +61,7 @@
 \system\templates\gopher64\portable_data\config\config.json|\emulators\gopher64\portable_data\config\config.json
 \system\templates\gzdoom\gzdoom_portable.ini|\emulators\gzdoom\gzdoom_portable.ini
 \system\templates\hatari\hatari.cfg|\emulators\hatari\hatari.cfg
-\system\templates\hbmame\ctrlr\X-Arcade.cfg\saves\hbmame\ctrlr\X-Arcade.cfg
+\system\templates\hbmame\ctrlr\X-Arcade.cfg|\saves\hbmame\ctrlr\X-Arcade.cfg
 \system\templates\hbmame\ctrlr\ipac2.cfg|\saves\hbmame\ctrlr\ipac2.cfg
 \system\templates\hypseus\hypinput.ini|\emulators\hypseus\hypinput.ini
 \system\templates\infos\portable.txt|\emulators\azahar\portable.txt

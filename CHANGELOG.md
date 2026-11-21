@@ -149,6 +149,7 @@
 - EMULATORLAUNCHER: Add option to follow ES screen for opening emulators
 - EMULATORLAUNCHER: Add option to move arcade sticks after gamepads for each emulator (the detection of arcadesticks is based on a .txt file in \system\tools folder)
 - VPINBALL: reduce size of download by remove all unecessary baller stuff and unecessary executables
+- VPINBALL: prepare generator for v10.9
 - WIKI: general review of the EN and FR wiki pages (ongoing) - with a few fixes here and there upon reviewing the wiki
 
 </details>

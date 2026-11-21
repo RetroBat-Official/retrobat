@@ -2379,7 +2379,7 @@ msgstr "LARGE / PETIT"
 
 msgctxt "game_options"
 msgid "SIDE BY SIDE"
-msgstr "COTE À COTE"
+msgstr "CÔTE À CÔTE"
 
 msgctxt "game_options"
 msgid "SWAP SCREEN"
@@ -4207,7 +4207,7 @@ msgstr "Définir le nombre de colonnes additionnelles à afficher pour l'option 
 
 msgctxt "game_options"
 msgid "10 (DEFAULT)"
-msgstr "10 (Défaut)"
+msgstr "10 (PAR DÉFAUT)"
 
 msgctxt "game_options"
 msgid "BOOT FROM CLI"
@@ -4295,27 +4295,27 @@ msgstr "INTENSITÉ DU MONITEUR"
 
 msgctxt "game_options"
 msgid "8 (DEFAULT)"
-msgstr "8 (défaut)"
+msgstr "8 (PAR DÉFAUT)"
 
 msgctxt "game_options"
 msgid "5 (DARKEST)"
-msgstr "5 (très sombre)"
+msgstr "5 (TRÈS SOMBRE)"
 
 msgctxt "game_options"
 msgid "7 (SLIGHTLY DARKER)"
-msgstr "7 (légèrement assombri)"
+msgstr "7 (LÉGÈREMENT PLUS SOMBRE)"
 
 msgctxt "game_options"
 msgid "10 (SLIGHTLY BRIGHTER)"
-msgstr "10 (légèrement plus lumineux)"
+msgstr "10 (LÉGÈREMENT PLUS LUMINEUX)"
 
 msgctxt "game_options"
 msgid "12 (BRIGHTER)"
-msgstr "12 (lumineux)"
+msgstr "12 (PLUS LUMINEUX)"
 
 msgctxt "game_options"
 msgid "15 (BRIGHTEST)"
-msgstr "15 (très lumineux)"
+msgstr "15 (TRÈS LUMINEUX)"
 
 msgctxt "game_options"
 msgid "Define the type of monitor, will change colors."
@@ -4431,7 +4431,7 @@ msgstr "FORCER 60HZ"
 
 msgctxt "game_options"
 msgid "Forces 60Hz refresh rate."
-msgstr "Forcé le taux de rafraîchissement à 60hz."
+msgstr "Force le taux de rafraîchissement à 60 Hz."
 
 msgctxt "game_options"
 msgid "ENABLE PER GAME AUTO MAPPING"
@@ -17726,7 +17726,6 @@ msgctxt "game_options"
 msgid "What the second port receives when a second pad is connected."
 msgstr "Ce que reçoit le second port quand une seconde manette est connectée."
 
-#. emulator:xenia/render_target_path (+1 other uses)
 msgctxt "game_options"
 msgid "Render target emulation path to use. rtv/fbo offers better performance, rov/fsi highest accuracy."
 msgstr "Méthode d'émulation des render targets. rtv/fbo offre de meilleures performances, rov/fsi la plus grande précision."
@@ -17742,10 +17741,6 @@ msgstr "Utilise des boutons au lieu d'un axe analogique pour le volant."
 msgctxt "game_options"
 msgid "Scanlines are not compatible with HQ or xBRZ shaders."
 msgstr "Les scanlines ne sont pas compatibles avec les shaders HQ ou xBRZ."
-
-msgctxt "game_options"
-msgid "Force X key to close VPinball and set select+start to send X."
-msgstr "Force la touche X pour fermer VPinball et associe select+start à l'envoi de X."
 
 msgctxt "game_options"
 msgid "Override table default lighting."
@@ -29107,3 +29102,259 @@ msgstr "Uniquement pour les versions récentes d'Ikemen GO. Vulkan est expérime
 msgctxt "game_options"
 msgid "Native resolution of the game. By default, the one set in the game."
 msgstr "Résolution native du jeu. Par défaut, celle réglée dans le jeu."
+
+msgctxt "game_options"
+msgid "Disable the Visual Pinball menu: the exit key (X) quits the table directly."
+msgstr "Désactive le menu de Visual Pinball : la touche de sortie (X) quitte directement la table."
+
+msgctxt "game_options"
+msgid "HOTKEY + START sends the exit key (X) to Visual Pinball instead of closing its window: its menu opens (the table quits with DISABLE MENU)."
+msgstr "HOTKEY + START envoie la touche de sortie (X) à Visual Pinball au lieu de fermer sa fenêtre : son menu s'ouvre (la table se ferme avec DÉSACTIVER LE MENU)."
+
+msgctxt "game_options"
+msgid "Rotate display and controls. By default, known games are rotated automatically. MANUAL: SELECT changes the rotation."
+msgstr "Fait pivoter l'affichage et les commandes. Par défaut, les jeux connus sont pivotés automatiquement. MANUEL : SELECT change la rotation."
+
+msgctxt "game_options"
+msgid "HOTKEY + START sends the exit key (X) to Visual Pinball instead of closing its window."
+msgstr "HOTKEY + START envoie la touche de sortie (X) à Visual Pinball au lieu de fermer sa fenêtre."
+
+msgctxt "game_options"
+msgid "Screens used by the pinball. Backglass and DMD positions are then computed automatically. Not set: 1 screen."
+msgstr "Écrans utilisés par le flipper. Les positions du backglass et du DMD sont alors calculées automatiquement. Si cette option n'est pas définie : 1 écran."
+
+msgctxt "game_options"
+msgid "Disable the analog plunger (right stick) and the analog nudge (left stick)."
+msgstr "Désactive le lanceur analogique (stick droit) et le nudge analogique (stick gauche)."
+
+msgctxt "game_options"
+msgid "RED (ORIGINAL)"
+msgstr "ROUGE (ORIGINAL)"
+
+msgctxt "game_options"
+msgid "WHITE"
+msgstr "BLANC"
+
+msgctxt "game_options"
+msgid "BLUE"
+msgstr "BLEU"
+
+msgctxt "game_options"
+msgid "CYAN"
+msgstr "CYAN"
+
+msgctxt "game_options"
+msgid "GREEN"
+msgstr "VERT"
+
+msgctxt "game_options"
+msgid "MAGENTA"
+msgstr "MAGENTA"
+
+msgctxt "game_options"
+msgid "NO shows the left eye image only. Anaglyph needs 3D glasses of the same colors, side by side is for VR headsets and 3D displays."
+msgstr "NON affiche seulement l'image de l'œil gauche. L'anaglyphe demande des lunettes 3D des mêmes couleurs, le côte à côte sert aux casques de réalité virtuelle et aux écrans 3D."
+
+msgctxt "game_options"
+msgid "RIGHT STICK AS RIGHT D-PAD"
+msgstr "STICK DROIT COMME CROIX DROITE"
+
+msgctxt "game_options"
+msgid "The right stick is used as the right D-pad (also on L2, R2, L3 and R3)."
+msgstr "Le stick droit sert de croix droite (aussi sur L2, R2, L3 et R3)."
+
+msgctxt "game_options"
+msgid "DEFAULT (SEQUENTIAL)"
+msgstr "PAR DÉFAUT (SÉQUENTIEL)"
+
+msgctxt "game_options"
+msgid "SLOTS 1 AND 2"
+msgstr "SLOTS 1 ET 2"
+
+msgctxt "game_options"
+msgid "SLOTS 1 AND 3"
+msgstr "SLOTS 1 ET 3"
+
+msgctxt "game_options"
+msgid "SLOTS 1 AND 4"
+msgstr "SLOTS 1 ET 4"
+
+msgctxt "game_options"
+msgid "SLOTS 1 AND 5"
+msgstr "SLOTS 1 ET 5"
+
+msgctxt "game_options"
+msgid "SLOTS 1 AND 6"
+msgstr "SLOTS 1 ET 6"
+
+msgctxt "game_options"
+msgid "SLOTS 2 AND 3"
+msgstr "SLOTS 2 ET 3"
+
+msgctxt "game_options"
+msgid "SLOTS 2 AND 4"
+msgstr "SLOTS 2 ET 4"
+
+msgctxt "game_options"
+msgid "SLOTS 2 AND 5"
+msgstr "SLOTS 2 ET 5"
+
+msgctxt "game_options"
+msgid "SLOTS 2 AND 6"
+msgstr "SLOTS 2 ET 6"
+
+msgctxt "game_options"
+msgid "SLOTS 3 AND 4"
+msgstr "SLOTS 3 ET 4"
+
+msgctxt "game_options"
+msgid "SLOTS 3 AND 5"
+msgstr "SLOTS 3 ET 5"
+
+msgctxt "game_options"
+msgid "SLOTS 3 AND 6"
+msgstr "SLOTS 3 ET 6"
+
+msgctxt "game_options"
+msgid "SLOTS 4 AND 5"
+msgstr "SLOTS 4 ET 5"
+
+msgctxt "game_options"
+msgid "SLOTS 4 AND 6"
+msgstr "SLOTS 4 ET 6"
+
+msgctxt "game_options"
+msgid "SINGLE CORE RECOMPILER"
+msgstr "RECOMPILATEUR MONOCŒUR"
+
+msgctxt "game_options"
+msgid "MULTICORE INTERPRETER"
+msgstr "INTERPRÉTEUR MULTICŒUR"
+
+msgctxt "game_options"
+msgid "SINGLE CORE INTERPRETER"
+msgstr "INTERPRÉTEUR MONOCŒUR"
+
+msgctxt "game_options"
+msgid "45000 (DEFAULT)"
+msgstr "45000 (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "TV ONLY"
+msgstr "TV SEULEMENT"
+
+msgctxt "game_options"
+msgid "GAMEPAD ONLY"
+msgstr "GAMEPAD SEULEMENT"
+
+msgctxt "game_options"
+msgid "PICTURE IN PICTURE"
+msgstr "IMAGE DANS L'IMAGE"
+
+msgctxt "game_options"
+msgid "TV + GAMEPAD (SWITCHABLE)"
+msgstr "TV + GAMEPAD (INTERCHANGEABLES)"
+
+msgctxt "game_options"
+msgid "TAB (KEYBOARD)"
+msgstr "TAB (CLAVIER)"
+
+msgctxt "game_options"
+msgid "1 (LOWEST)"
+msgstr "1 (LE PLUS BAS)"
+
+msgctxt "game_options"
+msgid "2 (DEFAULT)"
+msgstr "2 (PAR DÉFAUT)"
+
+msgctxt "game_options"
+msgid "4 (SAFEST)"
+msgstr "4 (LE PLUS SÛR)"
+
+msgctxt "game_options"
+msgid "WII REMOTE"
+msgstr "WIIMOTE"
+
+msgctxt "game_options"
+msgid "WII REMOTE (SIDEWAYS)"
+msgstr "WIIMOTE (À L'HORIZONTALE)"
+
+msgctxt "game_options"
+msgid "GAMEPAD + WII REMOTE"
+msgstr "GAMEPAD + WIIMOTE"
+
+msgctxt "game_options"
+msgid "GAMEPAD + WII REMOTE (SIDEWAYS)"
+msgstr "GAMEPAD + WIIMOTE (À L'HORIZONTALE)"
+
+msgctxt "game_options"
+msgid "WII U PRO CONTROLLER"
+msgstr "MANETTE WII U PRO"
+
+msgctxt "game_options"
+msgid "SMALL (4:3 KEPT) - TOP/BOTTOM 6 - LEFT/RIGHT 8"
+msgstr "PETIT (4:3 CONSERVÉ) - HAUT/BAS 6 - GAUCHE/DROITE 8"
+
+msgctxt "game_options"
+msgid "MEDIUM (4:3 KEPT) - TOP/BOTTOM 12 - LEFT/RIGHT 16"
+msgstr "MOYEN (4:3 CONSERVÉ) - HAUT/BAS 12 - GAUCHE/DROITE 16"
+
+msgctxt "game_options"
+msgid "4 ALL SIDES"
+msgstr "4 SUR TOUS LES CÔTÉS"
+
+msgctxt "game_options"
+msgid "TOP/BOTTOM 12 - LEFT/RIGHT 8"
+msgstr "HAUT/BAS 12 - GAUCHE/DROITE 8"
+
+msgctxt "game_options"
+msgid "TOP/BOTTOM 8"
+msgstr "HAUT/BAS 8"
+
+msgctxt "game_options"
+msgid "TOP/BOTTOM 16"
+msgstr "HAUT/BAS 16"
+
+msgctxt "game_options"
+msgid "PAL - TOP/BOTTOM 24"
+msgstr "PAL - HAUT/BAS 24"
+
+msgctxt "game_options"
+msgid "PAL - TOP/BOTTOM 24 - LEFT/RIGHT 8"
+msgstr "PAL - HAUT/BAS 24 - GAUCHE/DROITE 8"
+
+msgctxt "game_options"
+msgid "LEFT/RIGHT 8"
+msgstr "GAUCHE/DROITE 8"
+
+msgctxt "game_options"
+msgid "LEFT/RIGHT 16"
+msgstr "GAUCHE/DROITE 16"
+
+msgctxt "game_options"
+msgid "TOP 12 - BOTTOM 15 - LEFT 18 - RIGHT 13"
+msgstr "HAUT 12 - BAS 15 - GAUCHE 18 - DROITE 13"
+
+msgctxt "game_options"
+msgid "ARROW KEYS + LEFT CTRL"
+msgstr "FLÈCHES + CTRL GAUCHE"
+
+msgctxt "game_options"
+msgid "Keyboard 1/5 (Wiimote4Guns)"
+msgstr "Clavier 1/5 (Wiimote4Guns)"
+
+msgctxt "game_options"
+msgid "3.5 INCH DRIVE (SLOT 5)"
+msgstr "LECTEUR 3,5 POUCES (SLOT 5)"
+
+msgctxt "game_options"
+msgid "CGA BLACK AND WHITE"
+msgstr "CGA NOIR ET BLANC"
+
+msgctxt "game_options"
+msgid "How translucent polygons are drawn: original is a pixel checkerboard, moire scales it with the resolution, blend mixes the colors (Model 1, Model 2 only)."
+msgstr "Rendu des polygones translucides : original affiche un damier de pixels, moiré l'agrandit avec la résolution, fusion mélange les couleurs (Model 1, Model 2 uniquement)."
+
+msgctxt "game_options"
+msgid "MOIRE"
+msgstr "MOIRÉ"
