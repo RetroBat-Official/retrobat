@@ -1027,7 +1027,7 @@ msgstr "主机类型"
 
 msgctxt "game_options"
 msgid "CONTRACTORS"
-msgstr "承包商"
+msgstr "接触器"
 
 msgctxt "game_options"
 msgid "CONTRAST ADAPTATIVE SHARPENING"
